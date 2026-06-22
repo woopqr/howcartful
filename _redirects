@@ -1,0 +1,3 @@
+# Cloudflare Pages redirects
+# (www→apex, http→https 는 Cloudflare 대시보드 Redirect Rules에서 처리 권장)
+# 필요 시 여기에 경로 리다이렉트 추가
