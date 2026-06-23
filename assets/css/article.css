@@ -1,0 +1,101 @@
+/* howcartful 글 공유 스타일 (templates/article.template.html이 참조) */
+:root{
+  --bg:#f6f8fb; --ink:#1f2733; --muted:#5b6776; --line:#e6ebf2;
+  --brand:#0e9f8e; --brand2:#1186d4; --accent:#7c5cff; --card:#fff;
+  --grad:linear-gradient(135deg,#0e9f8e,#1186d4 60%,#7c5cff);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Noto Sans KR',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:var(--ink);line-height:1.8}
+.post{max-width:880px;margin:0 auto;padding:20px}
+
+/* ===== 사진 오버레이 공통 ===== */
+.ph{position:relative;overflow:hidden;background:#dfe5ee}
+.ph img{width:100%;height:100%;object-fit:cover;display:block}
+.ph::after{content:"";position:absolute;inset:0;
+  background:linear-gradient(to bottom,rgba(8,12,22,.28) 0%,rgba(8,12,22,0) 32%,rgba(8,12,22,.55) 72%,rgba(8,12,22,.88) 100%)}
+.ph .cap{position:absolute;left:0;right:0;bottom:0;z-index:2;padding:18px 18px 16px;display:flex;align-items:flex-end;gap:10px}
+.ph .cap .nm{color:#fff;font-weight:900;text-shadow:0 2px 12px rgba(0,0,0,.55)}
+
+/* ===== 히어로(사진형) ===== */
+.hero{border-radius:22px;aspect-ratio:16/8;margin:8px 0 20px;box-shadow:0 12px 34px rgba(20,40,80,.16)}
+.hero .cap{flex-direction:column;align-items:center;text-align:center;padding:26px 22px 30px;justify-content:center;inset:0;bottom:auto;top:0;height:100%}
+.hero .badge{display:inline-flex;gap:7px;align-items:center;background:rgba(255,255,255,.18);backdrop-filter:blur(4px);border:1px solid rgba(255,255,255,.3);border-radius:50px;padding:6px 16px;font-size:.8rem;font-weight:800;color:#fff;margin-bottom:14px}
+.hero h1{color:#fff;font-size:1.7rem;font-weight:900;line-height:1.35;text-shadow:0 2px 16px rgba(0,0,0,.5);margin-bottom:10px}
+.hero .sub{color:rgba(255,255,255,.94);font-size:.98rem;text-shadow:0 1px 8px rgba(0,0,0,.5)}
+.hero .ref{display:inline-flex;gap:8px;align-items:center;margin-top:16px;background:rgba(8,12,22,.42);border:1px solid rgba(255,255,255,.28);border-radius:12px;padding:8px 15px;font-size:.88rem;font-weight:800;color:#fff}
+
+.notice{background:#fff6e5;border:1px solid #f6d488;color:#7a5b12;border-radius:12px;padding:12px 16px;font-size:.86rem;margin-bottom:22px}
+
+/* ===== 제목: 짧은 그라데이션 세로 바 ===== */
+h2{position:relative;font-size:1.32rem;font-weight:800;padding-left:16px;margin:36px 0 14px}
+h2::before{content:"";position:absolute;left:0;top:.18em;width:5px;height:1.05em;border-radius:5px;background:var(--grad)}
+h2 .sub{display:block;font-size:.84rem;font-weight:600;color:var(--muted);margin-top:4px}
+
+/* ===== 콜아웃: 짧은 그라데이션 가로선 ===== */
+.callout{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin:18px 0;box-shadow:0 4px 18px rgba(20,40,80,.05)}
+.callout::before{content:"";display:block;width:44px;height:4px;border-radius:4px;background:var(--grad);margin-bottom:11px}
+.callout.verdict b{color:var(--accent);font-weight:800}
+.callout.basis{background:#f3f8f7}
+.callout.basis code{background:#fff;border:1px solid var(--line);border-radius:6px;padding:2px 7px;font-size:.85rem}
+
+/* ===== 비교표 ===== */
+.table-wrap{overflow-x:auto;margin:14px 0;border-radius:14px;border:1px solid var(--line);box-shadow:0 6px 24px rgba(20,40,80,.06)}
+table{width:100%;border-collapse:collapse;font-size:.9rem;background:#fff;min-width:640px}
+thead tr{background:var(--grad);color:#fff}
+thead th{padding:13px 10px;font-weight:700;white-space:nowrap;text-align:center}
+tbody td{padding:12px 10px;text-align:center;border-bottom:1px solid var(--line);vertical-align:middle}
+tbody tr:nth-child(even){background:#f8fbff}
+td.name{text-align:left;font-weight:800;min-width:130px}
+.rank{display:inline-block;width:24px;height:24px;line-height:24px;border-radius:50%;background:#eef2f7;font-weight:800;font-size:.8rem}
+.rank.top{background:#ffd54a;color:#5a4500}
+.vi{font-weight:900;color:var(--brand)}
+.vbar{display:block;height:6px;border-radius:6px;background:#e6ebf2;margin-top:5px;overflow:hidden}
+.vbar i{display:block;height:100%;background:linear-gradient(90deg,#0e9f8e,#1186d4)}
+.book{display:inline-block;background:linear-gradient(135deg,#7c5cff,#1186d4);color:#fff!important;text-decoration:none;padding:7px 14px;border-radius:20px;font-size:.78rem;font-weight:700;white-space:nowrap}
+.legend{font-size:.8rem;color:var(--muted);margin:8px 2px 0}
+
+/* ===== 가성비 막대 ===== */
+.vrow{display:flex;align-items:center;gap:12px;margin:10px 0}
+.vrow .nm{flex:0 0 150px;font-weight:700;font-size:.92rem}
+.vrow .track{flex:1;background:#e9eef5;border-radius:8px;height:22px;overflow:hidden}
+.vrow .fill{height:100%;border-radius:8px;background:linear-gradient(90deg,#16a34a,#0e9f8e);display:flex;align-items:center;justify-content:flex-end;color:#fff;font-size:.78rem;font-weight:800;padding-right:8px}
+
+/* ===== 거리 리스트 ===== */
+.dist{list-style:none;margin:12px 0;padding:0}
+.dist li{display:flex;align-items:center;gap:12px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px 16px;margin:8px 0}
+.dist .walk{flex:0 0 auto;background:#e8f6f3;color:#0e9f8e;font-weight:800;border-radius:10px;padding:6px 12px;font-size:.9rem;min-width:92px;text-align:center}
+.dist .nm{font-weight:700}
+.dist .m{color:var(--muted);font-size:.85rem}
+
+/* ===== 계절 ===== */
+.seasons{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin:14px 0}
+.season{background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px}
+.season h3{font-size:1.02rem;margin-bottom:8px}
+.season .pro{color:#15803d;font-size:.9rem;margin:6px 0}
+.season .con{color:#475569;font-size:.9rem;margin:6px 0}
+.season .con b{color:#b45309}
+
+/* ===== 호텔 카드(사진형) ===== */
+.hotel{background:#fff;border:1px solid var(--line);border-radius:18px;margin:18px 0;overflow:hidden;box-shadow:0 6px 22px rgba(20,40,80,.06)}
+.hotel .ph{aspect-ratio:16/9}
+.hotel .ph .rankbadge{position:absolute;top:14px;left:14px;z-index:2;background:rgba(8,12,22,.55);border:1px solid rgba(255,255,255,.3);color:#fff;font-weight:800;font-size:.78rem;padding:5px 12px;border-radius:20px}
+.hotel .ph .score{position:absolute;top:14px;right:14px;z-index:2;background:#ffd54a;color:#5a4500;font-weight:900;font-size:.82rem;padding:5px 12px;border-radius:20px;box-shadow:0 3px 10px rgba(0,0,0,.25)}
+.hotel .ph .cap .nm{font-size:1.3rem}
+.hotel .ph .cap .walk{margin-left:auto;background:rgba(255,255,255,.92);color:#0e9f8e;font-weight:800;font-size:.8rem;padding:5px 11px;border-radius:20px;align-self:flex-end}
+.hotel .bd{padding:16px 18px}
+.meta{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px}
+.meta span{background:#f1f5fa;border-radius:8px;padding:4px 10px;font-size:.8rem;font-weight:700;color:#42505f}
+.kw{font-size:.9rem;color:#39434f;margin:8px 0}
+.kw b{color:var(--brand)}
+.cta{text-align:center;margin-top:12px}
+.cta a{display:inline-block;background:linear-gradient(135deg,#7c5cff,#1186d4);color:#fff!important;text-decoration:none;padding:12px 26px;border-radius:50px;font-weight:800;font-size:.95rem}
+
+/* ===== 아웃트로 ===== */
+.outro{position:relative;border-radius:20px;overflow:hidden;margin:28px 0 14px;aspect-ratio:16/7}
+.outro .cap{flex-direction:column;align-items:center;text-align:center;inset:0;justify-content:center;padding:24px}
+.outro h2{color:#fff;padding:0;margin:0 0 10px;text-shadow:0 2px 14px rgba(0,0,0,.5)}
+.outro h2::before{display:none}
+.outro p{color:rgba(255,255,255,.92);margin-bottom:14px;text-shadow:0 1px 8px rgba(0,0,0,.5);font-size:.95rem}
+.outro a{display:inline-block;background:#fff;color:#0e9f8e!important;text-decoration:none;padding:13px 28px;border-radius:50px;font-weight:900}
+.disc{font-size:.8rem;color:#8a96a4;text-align:center;margin:14px 0}
+@media(max-width:600px){.hero h1{font-size:1.3rem}.seasons{grid-template-columns:1fr}.vrow .nm{flex-basis:110px;font-size:.84rem}.hero{aspect-ratio:16/12}}

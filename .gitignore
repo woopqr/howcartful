@@ -20,6 +20,24 @@ sftp.json.disabled
 affiliate.secret.json
 data/affiliate.secret.json
 
+# API 키·계정·개인보안 파일 (TTJ 등에서 실수로 복사돼도 차단)
+apikey.txt
+*apikey*
+*api_key*
+*api-key*
+*.secret
+*.secret.*
+*token*
+*password*
+*credentials*
+user_info*.txt
+env.dabao
+env.dabao.*
+!env.dabao.example
+*.cookies
+*.session
+captcha_layer_*.png
+
 # ─────────────────────────────────────────────
 #  WordPress 스택 — 전량 폐기 (PHP 미지원, $0의 핵심)
 # ─────────────────────────────────────────────

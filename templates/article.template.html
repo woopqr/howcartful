@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{title}} | howcartful</title>
+<meta name="description" content="{{metaDescription}}">
+<link rel="stylesheet" href="/assets/css/article.css">
+</head>
+<body>
+<article class="post">
+
+  <!-- 히어로: 지역 대표 사진 + 오버레이 -->
+  <div class="hero ph">
+    <img src="{{heroImg}}" alt="{{heroAlt}}">
+    <div class="cap">
+      <span class="badge">🤖 AI 리뷰분석 · 근거기반 비교</span>
+      <h1>{{{heroTitleHtml}}}</h1>
+      <span class="sub">{{heroSub}}</span>
+      <span class="ref">📍 기준점: {{refName}} · 도보 거리 기준</span>
+    </div>
+  </div>
+
+  <div class="callout verdict">
+    한 줄 결론: {{{verdictHtml}}}
+  </div>
+
+  <!-- ===== 비교 분석 표 ===== -->
+  <h2>📊 비교 분석 표
+    <span class="sub">{{refLabel}}까지 도보 거리 순 · 평점/리뷰수/가격대/가성비지수 동시 비교</span>
+  </h2>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr><th>순위</th><th>호텔</th><th>{{refShort}}</th><th>평점</th><th>리뷰수</th><th>가격대(1박)</th><th>가성비지수</th><th>예약</th></tr>
+      </thead>
+      <tbody>
+      {{#hotels}}
+        <tr>
+          <td><span class="rank {{rankClass}}">{{rank}}</span></td>
+          <td class="name">{{name}}</td>
+          <td>🚶 {{walkMin}}분</td><td>⭐ {{score}}</td><td>{{reviewCount}}</td><td>{{priceText}}</td>
+          <td><span class="vi">{{valueIndex}}</span><span class="vbar"><i style="width:{{valuePct}}%"></i></span></td>
+          <td><a class="book" href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">예약</a></td>
+        </tr>
+      {{/hotels}}
+      </tbody>
+    </table>
+  </div>
+  <p class="legend">가격대: ₩(저가)·₩₩(중가)·₩₩₩(고가). 1박 금액은 수집 시점 기준, 실시간 가격은 예약창에서 확인하세요.</p>
+
+  <!-- ===== 가성비 비교 ===== -->
+  <h2>💰 가성비 비교
+    <span class="sub">평점을 가격으로 나눈 가성비지수 — 높을수록 가격 대비 만족도 우수</span>
+  </h2>
+  <div>
+  {{#hotelsByValue}}
+    <div class="vrow"><span class="nm">{{name}}</span><div class="track"><div class="fill" style="width:{{valuePct}}%">{{valueIndex}}</div></div></div>
+  {{/hotelsByValue}}
+  </div>
+
+  <!-- ===== 거리 기준 근거리 순위 ===== -->
+  <h2>📍 {{refName}}에서 가까운 순
+    <span class="sub">역세권 우선 — 짐 많은 여행, 늦은 도착에 유리</span>
+  </h2>
+  <ul class="dist">
+  {{#hotelsByDistance}}
+    <li><span class="walk">도보 {{walkMin}}분</span><div><div class="nm">{{name}}</div><div class="m">{{distanceNote}}</div></div></li>
+  {{/hotelsByDistance}}
+  </ul>
+
+  <!-- ===== 계절별 장단점 (단점은 보완책으로 마무리) ===== -->
+  <h2>🗓️ 계절별 장단점
+    <span class="sub">{{areaName}} 여행 시 시즌별 참고</span>
+  </h2>
+  <div class="seasons">
+  {{#seasons}}
+    <div class="season">
+      <h3>{{emoji}} {{label}}</h3>
+      <p class="pro">+ {{pro}}</p>
+      <p class="con"><b>참고:</b> {{{conHtml}}}</p>
+    </div>
+  {{/seasons}}
+  </div>
+
+  <!-- ===== 호텔별 상세 + 리뷰 근거 ===== -->
+  <h2>🏨 호텔별 상세 + 리뷰 근거</h2>
+  {{#hotelCards}}
+  <div class="hotel">
+    <div class="ph">
+      <img src="{{img}}" alt="{{name}}">
+      <span class="rankbadge">{{rankBadge}}</span>
+      <span class="score">★ {{score}}</span>
+      <div class="cap"><span class="nm">{{name}}</span><span class="walk">🚶 {{refShort}} {{walkMin}}분</span></div>
+    </div>
+    <div class="bd">
+      <div class="meta">{{#metaTags}}<span>{{.}}</span>{{/metaTags}}</div>
+      <p class="kw">리뷰 키워드: {{{reviewKeywordsHtml}}}</p>
+      <div class="cta"><a href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">{{ctaText}} →</a></div>
+    </div>
+  </div>
+  {{/hotelCards}}
+
+  <!-- ===== 계산 근거 ===== -->
+  <div class="callout basis">
+    <p style="font-weight:800;font-size:1.05rem;margin-bottom:6px">🔎 평점·가성비지수는 어떻게 계산했나</p>
+    <p>평점은 <b>아고다 실제 투숙객 리뷰</b> 기준이며, 리뷰 수가 적은 호텔은 과대평가를 막기 위해 <b>베이지안 보정</b>(전체 평균으로 살짝 끌어당김)을 적용합니다. 가성비지수는 <code>정규화 평점 ÷ 가격밴드</code>로 0~10 표준화 — 평점이 높아도 가격이 비싸면 지수는 내려갑니다. 모든 수치는 수집 시점 기준이며, 실시간 가격은 예약창에서 확인하세요.</p>
+  </div>
+
+  <!-- ===== 아웃트로 ===== -->
+  <div class="outro ph">
+    <img src="{{outroImg}}" alt="{{areaName}}">
+    <div class="cap">
+      <h2>{{outroTitle}}</h2>
+      <p>{{outroText}}</p>
+      <a href="{{cityUrl}}" target="_blank" rel="noopener sponsored nofollow">🏨 {{cityName}} 전체 숙소 최저가 검색</a>
+    </div>
+  </div>
+
+  <p class="disc">📌 본 글의 예약 링크는 아고다 어필리에이트 제휴 링크이며, 예약 시 수수료를 받을 수 있습니다. 평점·리뷰는 실제 데이터에 근거합니다.</p>
+
+</article>
+</body>
+</html>
