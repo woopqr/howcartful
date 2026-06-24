@@ -27,7 +27,7 @@
 
   <!-- ===== 비교 분석 표 ===== -->
   <h2>📊 비교 분석 표
-    <span class="sub">{{refLabel}}까지 도보 거리 순 · 평점/리뷰수/가격대/가성비지수 동시 비교</span>
+    <span class="sub">가성비 순위 · 평점/리뷰수/가격대/가성비지수 동시 비교</span>
   </h2>
   <div class="table-wrap">
     <table>
@@ -39,7 +39,7 @@
         <tr>
           <td><span class="rank {{rankClass}}">{{rank}}</span></td>
           <td class="name">{{name}}</td>
-          <td>🚶 {{walkMin}}분</td><td>⭐ {{score}}</td><td>{{reviewCount}}</td><td>{{priceText}}</td>
+          <td>🚶 {{walkMin}}분</td><td>⭐ {{score}}</td><td>{{reviewCountFmt}}</td><td>{{priceText}}</td>
           <td><span class="vi">{{valueIndex}}</span><span class="vbar"><i style="width:{{valuePct}}%"></i></span></td>
           <td><a class="book" href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">예약</a></td>
         </tr>
