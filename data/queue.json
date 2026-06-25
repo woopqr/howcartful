@@ -4,6 +4,8 @@
   "intervalCursor": 0,
   "postedToday": 0,
   "postedDate": null,
-  "queue": [],
+  "queue": [
+    "osaka-namba"
+  ],
   "publishedSlugs": []
 }

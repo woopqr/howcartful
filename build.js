@@ -92,11 +92,15 @@ function buildOne(slug) {
   console.log('✓ built articles/' + slug + '.html  (' + data.hotels.length + ' hotels, cid=' + agoda.CID + ')');
 }
 
-// ── 실행 ────────────────────────────────────────────────────────
-const arg = process.argv[2];
-if (arg) {
-  buildOne(arg);
-} else {
-  const dir = path.join(ROOT, 'data', 'articles');
-  fs.readdirSync(dir).filter(f => f.endsWith('.json')).forEach(f => buildOne(f.replace(/\.json$/, '')));
+// ── 실행(CLI일 때만) ────────────────────────────────────────────
+if (require.main === module) {
+  const arg = process.argv[2];
+  if (arg) {
+    buildOne(arg);
+  } else {
+    const dir = path.join(ROOT, 'data', 'articles');
+    fs.readdirSync(dir).filter(f => f.endsWith('.json')).forEach(f => buildOne(f.replace(/\.json$/, '')));
+  }
 }
+
+module.exports = { buildOne, buildContext, render };
