@@ -1,0 +1,441 @@
+{
+  "slug": "bangkok",
+  "title": "방콕 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 방콕 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "bangkok-th",
+  "cityName": "방콕",
+  "cityId": 9395,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "방콕",
+  "heroImg": "https://pix8.agoda.net/hotelImages/77648547/0/46eae5b1d930d107c0f93418c6c16157.png?ce=3",
+  "heroAlt": "방콕",
+  "heroTitleHtml": "방콕 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>파악 호텔 수완나품</b>(평점 9·리뷰 2,380건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>나나역 도보 3분</b>의 <b>마이애미 호텔 방콕</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/77648547/0/46eae5b1d930d107c0f93418c6c16157.png?ce=3",
+  "outroTitle": "🌙 방콕, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 방콕 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 방콕 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "파악 호텔 수완나품 (PAAK Hotel Suvarnabhumi)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/paak-hotel-bangkok/hotel/bangkok-th.html?cid=1925461",
+      "walkMin": 20,
+      "score": 9,
+      "reviewCount": 2380,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/77648547/0/46eae5b1d930d107c0f93418c6c16157.png?ce=3",
+      "distanceNote": "약 1612.27m · 랏끄라방역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 2,380건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,380건 기반.",
+      "reviews": [
+        {
+          "text": "나는 경유하는 모든 사람에게 이 호텔을 강력히 추천합니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "이른 아침 비행기로 1박을 하기에 안성맞춤!",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "배낭을 위한 공간이 많은 매우 크고 넓은 방입니다!",
+          "score": "8.8",
+          "country": "United Kingdom",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 수영장, 객실, 레스토랑을 즐겼습니다.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "레스토랑의 음식과 아침 식사는 훌륭합니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "돈므앙 호텔 근처 (Near Don Mueang Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/near-don-mueang-hotel/hotel/bangkok-th.html?cid=1925461",
+      "walkMin": 9,
+      "score": 9,
+      "reviewCount": 1809,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/68793035/0/bb90c3cc02c1c6963d3019c636797cb8.jpg?ce=2",
+      "distanceNote": "약 700.94m · 돈므앙 기차역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 1,809건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,809건 기반.",
+      "reviews": [
+        {
+          "text": "질문하지 말고 예약하세요. 실망하지 않을 것입니다.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "3주 동안 머물렀던 숙소 중 최고예요",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "공항에서 빠르게 이동, 매우 깨끗한 방, 편안한 침대!!",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "모든 현대식 시설로 깨끗하고 우리 방은 완벽했습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "하룻밤 또는 며칠 동안 머물기에 훌륭한 호텔입니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "랄프 포스텔 수쿰빗 (Ralph Poshtel Sukhumvit )",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ralph-poshtel-sukhumvit/hotel/bangkok-th.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.9,
+      "reviewCount": 756,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/79401593/0/ec001ec58a4dd248fdc018a422f22e98.jpg?ce=2",
+      "distanceNote": "약 327.13m · 나나역 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 756건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 756건 기반.",
+      "reviews": [
+        {
+          "text": "방은 편안하고 깨끗하며, 무엇보다 조용합니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "오랜 시간이 지난 후, 장소는 모든 상자를 확인합니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "직원, 위치, 침대, 청결도 모두 완벽해요!",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 직원들은 매우 친절하고 정중합니다.",
+          "score": "9.2",
+          "country": "Poland",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "단순하지만 편안하고, 매우 깨끗하고, 룸서비스가 좋습니다.",
+          "score": "9.2",
+          "country": "Belgique",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "카날리스 수완나품 에어포트 호텔 – 호텔에서 수완나품 에어포트까지 무료 셔틀 운행 (Canalis Suvarnabhumi Airport Hotel – Free Scheduled Shuttle from Hotel to Suvarnabhumi Airport)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/canalis-suvarnabhumi-airport-hotel/hotel/bangkok-th.html?cid=1925461",
+      "walkMin": 9,
+      "score": 8.7,
+      "reviewCount": 14398,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/10561361/-1/ffc51f8b22884d7fa110b67979a043d4.jpg?ce=0",
+      "distanceNote": "약 694.36m · Phra Chom Klao 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 14,398건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 14,398건 기반.",
+      "reviews": [
+        {
+          "text": "위치, 서비스, 특히 숙박 시설이 좋습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 편안하며 잘 관리되어 있습니다.",
+          "score": "9.6",
+          "country": "ישראל",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "지금까지 최고의 BKK 공항 호텔(우리는 몇 가지 경험을 겪었습니다!)",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "장소는 깨끗하고 단순했으며 랩 풀과 체육관이 있었습니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "새로 지어진 호텔이라 시설도 좋고 방도 깨끗합니다.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "마이애미 호텔 방콕 (Miami Hotel Bangkok)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/miami-hotel_2/hotel/bangkok-th.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.6,
+      "reviewCount": 10328,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/31640518/-1/6150dddb607e1c00a5141d79d98d01d0.jpg?ce=0",
+      "distanceNote": "약 231.53m · 나나역 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 10,328건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 10,328건 기반.",
+      "reviews": [
+        {
+          "text": "저는 올해 이곳에 두 번 머물렀고, 앞으로도 그럴 것입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "저는 그들의 유연성과 전문성에 정말 감사했습니다.",
+          "score": "10",
+          "country": "Polska",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "그리고 인테리어 디자인은 ✨이 호텔의 모든 것을 좋아합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "나는 이 지역을 방문하는 모든 사람에게 이 호텔을 강력히 추천합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "위치는 이상적이어서 쇼핑몰에 쉽게 접근할 수 있었습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "토게이더 호스텔 방콕 (실롬) (Togayther Hostel Bangkok (Silom))",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-marble-hostel-h33865829/hotel/bangkok-th.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.5,
+      "reviewCount": 1647,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8.5,
+      "img": "//pix8.agoda.net/hotelImages/67519131/0/8c2fc29c86911bf378d21f97d717020b.jpg?ce=2",
+      "distanceNote": "약 244.91m · 살라댕역 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 1,647건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 1,647건 기반.",
+      "reviews": [
+        {
+          "text": "프런트 데스크부터 주인까지 모든 직원이 매우 친절합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "10개 사우나 내부와 인근 매니아 사우나 내부의 좋은 위치",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "내가 머물렀던 매우 흥미진진한 호스텔.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "그들은 나의 전체 방콕 여행을 완전하게 만들었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "두 호스텔의 디자인은 아름답게 완성되었습니다.",
+          "score": "9.2",
+          "country": "Nederland",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "수완나품 빌 에어포트 호텔 (Suvarnabhumi Ville Airport Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/suvarnabhumi-ville-airport-hotel_2/hotel/bangkok-th.html?cid=1925461",
+      "walkMin": 24,
+      "score": 8.4,
+      "reviewCount": 21623,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.4,
+      "img": "//pix8.agoda.net/hotelImages/1269836/-1/96d8db89fb519d21501bb1385108da3e.jpg?ca=28&ce=0",
+      "distanceNote": "약 1887.22m · 랏끄라방역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 21,623건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 21,623건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 훌륭한 직원, 합리적인 가격의 멋진 레스토랑.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "다음 휴가가 끝날 때마다 이 호텔을 이용할 것입니다.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "수영장은 전 세계 호텔의 수영장만큼 훌륭합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "레스토랑, 카페, 수영장, 헬스장, 마사지.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "마지막으로 우리가 묵었던 방은 크고 침대도 푹신했어요.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-25T18:21:46.468Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
