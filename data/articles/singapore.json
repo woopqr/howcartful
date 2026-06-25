@@ -1,0 +1,441 @@
+{
+  "slug": "singapore",
+  "title": "싱가포르 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 싱가포르 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "singapore-sg",
+  "cityName": "싱가포르",
+  "cityId": 4064,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "싱가포르",
+  "heroImg": "https://pix8.agoda.net/hotelImages/28877161/0/4b7697c529af0bf4f868f9f426d14a72.jpeg?ce=2",
+  "heroAlt": "싱가포르",
+  "heroTitleHtml": "싱가포르 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>킨 캡슐: HER 스페이스</b>(평점 8.9·리뷰 3,111건·1박 약 6만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>MRT 클락키역 도보 2분</b>의 <b>킨 해비탯</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/28877161/0/4b7697c529af0bf4f868f9f426d14a72.jpeg?ce=2",
+  "outroTitle": "🌙 싱가포르, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 싱가포르 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 싱가포르 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "킨 캡슐: HER 스페이스 (여성 전용) (KINN Capsule: HER Space (Female Only))",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kinn/hotel/singapore-sg.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.9,
+      "reviewCount": 3111,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/28877161/0/4b7697c529af0bf4f868f9f426d14a72.jpeg?ce=2",
+      "distanceNote": "약 255.25m · MRT 클락키역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 3,111건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 3,111건 기반.",
+      "reviews": [
+        {
+          "text": "다음 여행에도 꼭 다시 이곳에 묵고 싶습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "위치는 10/10이며 근처에 좋은 음식과 레스토랑이 많습니다.",
+          "score": "9.2",
+          "country": "台灣",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "위치는 정말 훌륭합니다. mrt 정류장이 한 곳도 아니고 두 곳과 매우 가깝습니다.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "단기 체류를 위한 개인 여행자에게 훌륭한 숙소입니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "아마도 싱가포르 최고의 캡슐 호텔일 것입니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "킨 해비탯 (KINN Habitat)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kinn-habitat/hotel/singapore-sg.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.9,
+      "reviewCount": 2311,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/62161593/0/8747c7f1ee4b090e2ca9430f2561a951.jpeg?ce=2",
+      "distanceNote": "약 195.19m · MRT 클락키역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 2,311건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 2,311건 기반.",
+      "reviews": [
+        {
+          "text": "확실히 내가 머물렀던 최고의 캡슐 호텔 중 하나입니다!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "호텔의 전반적인 분위기는 정말 인상적입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "잘 관리된 방과 화장실, 완벽하게 깨끗합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절했고 방문하는 내내 도움을 주었습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "그리고 위치가 좋아서 주변을 둘러보기에도 편리했습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "캡슐@하이브 부기스 (Capsule@Hive Bugis)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bond-boutique-capsule-hotel/hotel/singapore-sg.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.8,
+      "reviewCount": 5134,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/5486265/0/05e50420762513b7654351dc5d6a98fb.jpeg?ce=2",
+      "distanceNote": "약 362.68m · MRT 부기스역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 5,134건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 5,134건 기반.",
+      "reviews": [
+        {
+          "text": "1인 여행자에게 전반적으로 좋은 장소이며 비용 대비 가치가 높습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "이 가격에? 위치 그 이상의 가치가 있습니다. 저를 믿으세요.",
+          "score": "9.6",
+          "country": "Brunei Darussalam",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "비용을 지불하려면 위치에 대한 비용을 지불하십시오.",
+          "score": "9.6",
+          "country": "Brunei Darussalam",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "청결함, 편안함, 안전이 보장됩니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "이곳을 정말 좋아하고 위치는 매우 전략적입니다.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Wink 앳 잘란 브사르 (Wink @ Jalan Besar)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wink-jalan-besar/hotel/singapore-sg.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.7,
+      "reviewCount": 224,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/85989250/0/f6e6da68cf57ed7898bf9a321835d9c4.png?ce=3",
+      "distanceNote": "약 171.26m · Jalan Besar MRT Station 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 224건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 224건 기반.",
+      "reviews": [
+        {
+          "text": "싱가포르에 오면 다시 여기에 머무를 것입니다",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 직원, 깨끗한 객실 및 욕실 시설.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "매우 좋은 위치, 대중 버스 및 MRT 역에 쉽게 접근 가능.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "나는 Jelan Basar에서 이 호스텔을 꼭 추천할 것입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "장소는 깨끗하고 편안하며 정리되어 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "스페이스팟@라벤더 (Spacepod@lavender)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/spacepod-lavender_2/hotel/singapore-sg.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.6,
+      "reviewCount": 5829,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/444270/-1/910cdbb134043470f0f5272f23262c66.jpg?ca=0&ce=1",
+      "distanceNote": "약 332.35m · MRT 라벤더역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 5,829건",
+        "⭐ 1성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 5,829건 기반.",
+      "reviews": [
+        {
+          "text": "청결도가 우수하고 직원들이 매우 친절합니다.",
+          "score": "10",
+          "country": "China",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "방도 조용하고 직원도 친절하고 조식도 무료로 제공됩니다!",
+          "score": "8.8",
+          "country": "中国",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "MRT 노선과 가까워서 중앙까지 매우 빠르게 이동할 수 있습니다.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "매일 무료 아침 식사, 온수, 깨끗한 객실을 제공합니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절하며 우리의 필요를 돕기 위해 최선을 다합니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "스트레이츠 헤리티지 호스텔 (Straits Heritage Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/straits-heritage-hostel/hotel/singapore-sg.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.7,
+      "reviewCount": 125,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.5,
+      "img": "//pix8.agoda.net/hotelImages/86627949/0/4fa58a07a3760920b65b9de192780422.jpg?ce=3",
+      "distanceNote": "약 251.69m · MRT 클락키역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 125건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 125건 기반.",
+      "reviews": [
+        {
+          "text": "나는 확실히 돌아와서 여기에 다시 머물 것이라고 생각합니다.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "다시 여행을 다녀온 후 꼭 이 호텔에 다시 묵을 예정입니다",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "하룻밤 묵었는데 모든 것이 깨끗하고 깔끔했습니다.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "나는 사람들을 사랑합니다. 특히 접수원이 O e를 돕는 것을 좋아합니다.",
+          "score": "8",
+          "country": "Pakistan",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "확실히 다시 머물러 돌아올 것입니다.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "비어리 베스트! 차이나타운 (Beary Best! Chinatown)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beary-best-hostel-by-a-beary-good-hostel_2/hotel/singapore-sg.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8,
+      "reviewCount": 2922,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8,
+      "img": "//pix8.agoda.net/hotelImages/291764/0/9cf47845058581bf008db2402b08f76a.jpeg?ce=2",
+      "distanceNote": "약 197.64m · MRT 차이나타운역 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 2,922건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 2,922건 기반.",
+      "reviews": [
+        {
+          "text": "내가 SG에 머물렀던 최고의 호스텔 중 하나입니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "기숙사 방과 욕실은 깨끗하고 잘 관리되어 있었습니다.",
+          "score": "8",
+          "country": "Indonesia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절했고 체크인하는 동안 도움을 주었습니다.",
+          "score": "8",
+          "country": "Indonesia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "숙박이 필요한 여행자에게 적극 권장됩니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "객실은 매우 깨끗하고 공용 화장실도 깨끗합니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-25T22:02:00.134Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
