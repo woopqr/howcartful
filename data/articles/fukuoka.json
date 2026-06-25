@@ -1,0 +1,182 @@
+{
+  "slug": "fukuoka",
+  "title": "후쿠오카 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 후쿠오카 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "fukuoka-jp",
+  "cityName": "후쿠오카",
+  "cityId": 16527,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "후쿠오카",
+  "heroImg": "https://pix8.agoda.net/hotelImages/65747029/0/5109d17d1558a5e826ef93ac69fdf1fd.jpg?ce=3",
+  "heroAlt": "후쿠오카",
+  "heroTitleHtml": "후쿠오카 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>후쿠오카 게스트하우스 짓카</b>(평점 8.6·리뷰 815건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>나카스카와바타역 도보 1분</b>의 <b>9h 나인아워즈 나카스카와바타 스테이션</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/65747029/0/5109d17d1558a5e826ef93ac69fdf1fd.jpg?ce=3",
+  "outroTitle": "🌙 후쿠오카, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 후쿠오카 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 후쿠오카 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "후쿠오카 게스트하우스 짓카 (Fukuoka Guest House Jikka)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/fukuoka-guest-house-jikka-h16344768/hotel/fukuoka-jp.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.6,
+      "reviewCount": 815,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/65747029/0/5109d17d1558a5e826ef93ac69fdf1fd.jpg?ce=3",
+      "distanceNote": "약 343.08m · 와타나베도리역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 815건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 리뷰 815건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "하츠 캡슐 호텔 앤 스파 나카스 -남성 전용- (HEARTS Capsule Hotel & Spa Nakasu -Male only-)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/resort-capsule-hotel-well-cabin-fukuoka-nakasu-male-only/hotel/fukuoka-jp.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8,
+      "reviewCount": 5563,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8,
+      "img": "//pix8.agoda.net/hotelImages/409710/0/67d7e65f870c466b5511eaf962aac02d.jpeg?ce=3",
+      "distanceNote": "약 156.76m · 나카스카와바타역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 5,563건",
+        "⭐ 1.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 리뷰 5,563건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "위베이스 하카타 호스텔 (WeBase HAKATA Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/webase-hakata/hotel/fukuoka-jp.html?cid=1925461",
+      "walkMin": 2,
+      "score": 9.1,
+      "reviewCount": 5574,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.7,
+      "img": "//pix8.agoda.net/hotelImages/2429693/0/c8f90415f4eecac155fe9333b3b12ccb.jpeg?ce=2",
+      "distanceNote": "약 195.7m · 나카스카와바타역 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 5,574건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 리뷰 5,574건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "더 밀레니얼스 후쿠오카 (The Millennials Fukuoka)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-millennials-fukuoka_3/hotel/fukuoka-jp.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.8,
+      "reviewCount": 8168,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/7616486/0/b439ddda74586c3a21062a4fcab0e3a9.jpeg?ce=2",
+      "distanceNote": "약 184.17m · 나카스카와바타역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 8,168건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 리뷰 8,168건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "9h 나인아워즈 나카스카와바타 스테이션 (9h nine hours Nakasukawabata Station)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nine-hours-nakasukawabata-station/hotel/fukuoka-jp.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.6,
+      "reviewCount": 7141,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 8만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/6947589/0/6b4479ceceb8a3800fd0b931be4d4a14.jpeg?ce=2",
+      "distanceNote": "약 59.83m · 나카스카와바타역 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 7,141건",
+        "⭐ 1.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 리뷰 7,141건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "퀸테사 호텔 후쿠오카와타나베도오리 코믹 앤 북스 (Quintessa Hotel Fukuokawatanabedouri Comic&Books)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/comic-cabin/hotel/fukuoka-jp.html?cid=1925461",
+      "walkMin": 7,
+      "score": 8.5,
+      "reviewCount": 1210,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/72126314/0/b1eee7daa03be4a2ad207b3d9ed9e9a7.jpg?ce=2",
+      "distanceNote": "약 563.68m · 와타나베도리역 인근",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 1,210건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 리뷰 1,210건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "9h 나인아워즈 하카타 스테이션 (9h nine hours Hakata station)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nine-hours-hakata-station/hotel/fukuoka-jp.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.4,
+      "reviewCount": 14980,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/16143404/0/d2b7a0da27478607d4d95aa60b0b88a9.jpeg?ce=2",
+      "distanceNote": "약 79.69m · JR Kyushu 인근",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 14,980건",
+        "⭐ 1.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 리뷰 14,980건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-25T11:02:00.558Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

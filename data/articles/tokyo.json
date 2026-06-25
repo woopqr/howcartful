@@ -1,7 +1,7 @@
 {
   "slug": "tokyo",
-  "title": "도쿄 / 동경 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
-  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 도쿄 / 동경 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "title": "도쿄 / 동경 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 도쿄 / 동경 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
   "lang": "ko-kr",
   "citySlug": "taito-ku-jp",
   "cityName": "도쿄 / 동경",
@@ -11,12 +11,12 @@
   "areaName": "도쿄 / 동경",
   "heroImg": "https://pix8.agoda.net/hotelImages/83534561/0/eefbaf0ccf2eac257cfbc05176128418.jpg?ce=3",
   "heroAlt": "도쿄 / 동경",
-  "heroTitleHtml": "도쿄 / 동경 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroTitleHtml": "도쿄 / 동경 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
   "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
   "verdictHtml": "가성비 1위는 <b>와 호스텔</b>(평점 9.1·리뷰 305건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>스에히로초역 도보 2분</b>의 <b>글랜시트 아키하바라 컴포트 캡슐 호텔</b>를 추천합니다.",
   "outroImg": "https://pix8.agoda.net/hotelImages/83534561/0/eefbaf0ccf2eac257cfbc05176128418.jpg?ce=3",
   "outroTitle": "🌙 도쿄 / 동경, 어디에 묵어도 후회없이",
-  "outroText": "위 5곳은 모두 도쿄 / 동경 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 도쿄 / 동경 전체 숙소를 한 번에 비교해보세요.",
+  "outroText": "위 7곳은 모두 도쿄 / 동경 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 도쿄 / 동경 전체 숙소를 한 번에 비교해보세요.",
   "seasons": [],
   "hotels": [
     {
@@ -30,7 +30,7 @@
       "priceBand": 1,
       "priceText": "₩ · 약 5만원",
       "valueIndex": 9,
-      "img": "//pix8.agoda.net/hotelImages/83534561/0/eefbaf0ccf2eac257cfbc05176128418.jpg?ce=3",
+      "img": "//pix8.agoda.net/hotelImages/83534561/0/eefbaf0ccf2eac257cfbc05176128418.jpg?va=1&ce=3",
       "distanceNote": "약 251.98m · 구라마에역 인근",
       "metaTags": [
         "💰 약 5만원",
@@ -52,7 +52,7 @@
       "priceBand": 1,
       "priceText": "₩ · 약 6만원",
       "valueIndex": 8.8,
-      "img": "//pix8.agoda.net/hotelImages/2891306/0/219cc389bcffd7c58afde84fc0b261ef.jpeg?ce=2",
+      "img": "//pix8.agoda.net/hotelImages/2891306/0/f1d65365c8ef8ed33e2cdd569d9869eb.jpg?va=1&ce=2",
       "distanceNote": "약 181.26m · 스에히로초역 인근",
       "metaTags": [
         "💰 약 6만원",
@@ -74,7 +74,7 @@
       "priceBand": 1,
       "priceText": "₩ · 약 4만원",
       "valueIndex": 8.7,
-      "img": "//pix8.agoda.net/hotelImages/55140165/0/220243d78ad58c6c24b366468af70dfe.jpeg?ce=2",
+      "img": "//pix8.agoda.net/hotelImages/55140165/-1/867bbed5ffe030ce21adcbdf8b1b20e8.jpg?va=1&ce=0",
       "distanceNote": "약 303.9m · 신센역 인근",
       "metaTags": [
         "💰 약 4만원",
@@ -87,28 +87,6 @@
     },
     {
       "rank": 4,
-      "name": "퍼스트 캐빈 이치가야 (FIRST CABIN Ichigaya)",
-      "hotelSlug": "",
-      "agodaUrl": "https://www.agoda.com/first-cabin-tkp-ichigaya_3/hotel/tokyo-jp.html?cid=1925461",
-      "walkMin": 2,
-      "score": 8.7,
-      "reviewCount": 5956,
-      "priceBand": 1,
-      "priceText": "₩ · 약 5만원",
-      "valueIndex": 8.7,
-      "img": "//pix8.agoda.net/hotelImages/6173573/-1/3b33fe6b0d2321495acf683261215581.jpg?ca=28&ce=0",
-      "distanceNote": "약 164.12m · 이치가야역 인근",
-      "metaTags": [
-        "💰 약 5만원",
-        "📝 리뷰 5,956건",
-        "⭐ 1.5성급",
-        "📶 무료 Wi-Fi"
-      ],
-      "reviewKeywordsHtml": "평점 <b>8.7</b> · 리뷰 5,956건 기반. (리뷰 키워드 분석은 보강 예정)",
-      "ctaText": "🏨 최저가·예약창 가격 확인"
-    },
-    {
-      "rank": 5,
       "name": "9h 나인아워즈 하마마츠초 (9h nine hours Hamamatsucho )",
       "hotelSlug": "",
       "agodaUrl": "https://www.agoda.com/nine-hours-hamamatsucho/hotel/tokyo-jp.html?cid=1925461",
@@ -118,7 +96,7 @@
       "priceBand": 1,
       "priceText": "₩ · 약 6만원",
       "valueIndex": 8.4,
-      "img": "//pix8.agoda.net/hotelImages/9775328/0/cae50d519da4b9d4877048920c900dc4.jpeg?ce=2",
+      "img": "//pix8.agoda.net/hotelImages/9775328/-1/419fe349ab26c74b284587b3ee6d0106.jpg?va=1&ca=10&ce=1",
       "distanceNote": "약 123.25m · 다이몬역 인근",
       "metaTags": [
         "💰 약 6만원",
@@ -128,11 +106,77 @@
       ],
       "reviewKeywordsHtml": "평점 <b>8.4</b> · 리뷰 12,375건 기반. (리뷰 키워드 분석은 보강 예정)",
       "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "호텔 토마리야 우에노 (Hotel Tomariya Ueno)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-tomariya-ueno/hotel/hatoyama-machi-jp.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.4,
+      "reviewCount": 5215,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.4,
+      "img": "//pix8.agoda.net/hotelImages/42391416/0/0dbeaaec13490ebc6f255599ca631a93.jpeg?va=1&ce=0",
+      "distanceNote": "약 317.37m · 우에노역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 5,215건",
+        "⭐ 1성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 리뷰 5,215건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "신주쿠 쿠야쿠쇼마에 캡슐 호텔 (Shinjuku Kuyakusho-mae Capsule Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/shinjuku-kuyakusho-mae-capsule-hotel/hotel/tokyo-jp.html?cid=1925461",
+      "walkMin": 4,
+      "score": 7.5,
+      "reviewCount": 19195,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/280/280818/280818_15072112510032680592.jpg?va=1&ca=11&ce=1",
+      "distanceNote": "약 330.77m · 신주쿠산초메 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 19,195건",
+        "⭐ 1성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 리뷰 19,195건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "APA 호텔 앤 리조트 롯폰기 에키히가시 (APA Hotel & Resort Roppongi Ekihigashi)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/apa-hotel-resort-roppongi-ekihigashi/hotel/tokyo-jp.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.7,
+      "reviewCount": 16589,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.4,
+      "img": "//pix8.agoda.net/hotelImages/33576877/-1/479952a97ac5b44d0fdbea8a08c2d5f6.jpg?va=1&ce=0",
+      "distanceNote": "약 386.74m · 롯폰기 1초메역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 16,589건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 리뷰 16,589건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
     }
   ],
   "_meta": {
-    "fetchedAt": "2026-06-25T08:09:27.759Z",
+    "fetchedAt": "2026-06-25T11:01:58.282Z",
     "source": "agoda citySearch",
-    "count": 5
+    "count": 7
   }
 }

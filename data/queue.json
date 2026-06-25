@@ -1,11 +1,15 @@
 {
-  "lastPostedAt": "2026-06-25T00:38:39.416Z",
-  "nextIntervalMin": 29,
-  "intervalCursor": 1,
-  "postedToday": 1,
+  "lastPostedAt": "2026-06-25T11:12:32.159Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 2,
   "postedDate": "2026-06-25",
-  "queue": [],
+  "queue": [
+    "kyoto",
+    "fukuoka"
+  ],
   "publishedSlugs": [
-    "osaka-namba"
+    "osaka-namba",
+    "tokyo"
   ]
 }
