@@ -24,13 +24,10 @@ jobs:
         with:
           node-version: '20'
 
-      - name: 발행 게이트 실행
+      - name: 발행 게이트 + 큐 자동 보충 (한 번에)
         run: node publish.js
-
-      - name: 큐 자동 보충 (아고다 수집)
-        run: node auto-fetch.js
         env:
-          QUEUE_MIN: '5'
+          QUEUE_MIN: '4'
           HOTELS: '7'
 
       - name: 변경 있으면 커밋·푸시

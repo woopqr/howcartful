@@ -50,6 +50,10 @@ function main() {
   }
 
   save(q);
+  // 발행한 경우에만 큐 보충(수집) — 발행+수집을 한 푸시로 묶어 Cloudflare 빌드 횟수 절약
+  if (due) {
+    try { require('./auto-fetch').refill(); } catch (e) { console.error('refill 오류: ' + e.message); }
+  }
   rebuildAll(); // 항상 전체 재생성(self-heal)
 }
 

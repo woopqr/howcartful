@@ -1,7 +1,7 @@
 {
   "intervalsMin": [60, 58, 62, 59],
   "intervalMode": "rotate",
-  "dailyMax": 16,
+  "dailyMax": 10,
   "active": true,
   "_comment": "자동발행 간격 정책. 생성기가 lastPostedAt+nextIntervalMin 경과 시에만 1건 발행."
 }
