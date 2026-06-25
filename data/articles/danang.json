@@ -1,0 +1,440 @@
+{
+  "slug": "danang",
+  "title": "다낭 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 다낭 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "da-nang-vn",
+  "cityName": "다낭",
+  "cityId": 16440,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "다낭",
+  "heroImg": "https://pix8.agoda.net/hotelImages/23070667/0/89976abb86663555b5516e915a6ebcb1.jpeg?ce=2",
+  "heroAlt": "다낭",
+  "heroTitleHtml": "다낭 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>레전드 부티크 호텔</b>(평점 9.1·리뷰 2,769건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>다낭역 도보 18분</b>의 <b>피비텔 부티크 다낭</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/23070667/0/89976abb86663555b5516e915a6ebcb1.jpeg?ce=2",
+  "outroTitle": "🌙 다낭, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 다낭 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 다낭 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "레전드 부티크 호텔 (LEGEND Boutique Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/legend-boutique-hotel/hotel/da-nang-vn.html?cid=1925461",
+      "walkMin": 46,
+      "score": 9.1,
+      "reviewCount": 2769,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/23070667/0/89976abb86663555b5516e915a6ebcb1.jpeg?ce=2",
+      "distanceNote": "약 3651.88m · 다낭역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 2,769건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 2,769건 기반.",
+      "reviews": [
+        {
+          "text": "직원들의 노고와 친절함에 정말 감사드립니다.",
+          "score": "10",
+          "country": "美国",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "다낭에서 제가 가장 좋아하는 호텔입니다 :) 적극 추천합니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "호텔은 아름답고 깨끗하며 휴식을 취하기에 완벽합니다.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 넓고 분위기도 좋았습니다.",
+          "score": "9.6",
+          "country": "Vietnam",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고 깨끗하고 직원도 친절하고 조식도 맛있습니다.",
+          "score": "10",
+          "country": "Vietnã",
+          "date": "2024.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "피비텔 부티크 다낭 (Fivitel Boutique Da Nang)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/fivitel-boutique-da-nang/hotel/da-nang-vn.html?cid=1925461",
+      "walkMin": 18,
+      "score": 9.1,
+      "reviewCount": 9401,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/6383377/0/7360fe8fdc0bb6e6c11aecb7ffd10821.jpeg?ce=0",
+      "distanceNote": "약 1467.35m · 다낭역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 9,401건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 9,401건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 당신이 그들을 볼 때 놀랍고 정말 행복합니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "다낭을 방문한다면 이 호텔을 선택하는 것이 좋습니다",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "매우 친절한 직원 덕분에 다낭에서 즐거운 시간을 보냈습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "호텔 객실은 매우 깨끗하고 위치도 완벽합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "적극 추천하며 우리는 꼭 다시 올 것입니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "라 메종 데 델리스 호텔 아파트먼트 (La Maison Des Delices Hotel  Apartment)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/la-maison-des-delices-hotel-apartment/hotel/da-nang-vn.html?cid=1925461",
+      "walkMin": 24,
+      "score": 9,
+      "reviewCount": 1080,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/12668879/150323907/1b6878a4530fb9304084e52b0bf6a144.jpeg?ce=2",
+      "distanceNote": "약 1915.17m · 다낭역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 1,080건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,080건 기반.",
+      "reviews": [
+        {
+          "text": "TP 은행과 시장은 도보로 단 11분 거리에 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "가장 눈에 띄는 것은 직원이었지만 정말 훌륭했습니다!",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "직원과 주인은 친절하고 협조적이며 따뜻하게 맞아주었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "늦은 체크인에도 불구하고 따뜻하게 맞아주셨어요.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 필요한 모든 것을 제공합니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "윙크 호텔 다낭 센터, 언스크립티드 바이 하얏트 (Wink Danang Centre, Unscripted by Hyatt - 24 hours stay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wink-hotel-danang-centre/hotel/da-nang-vn.html?cid=1925461",
+      "walkMin": 21,
+      "score": 9,
+      "reviewCount": 10650,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/83513336/0/56ce759516e2c462491048568cab7af1.jpeg?ce=3",
+      "distanceNote": "약 1662.51m · 다낭역 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 10,650건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 10,650건 기반.",
+      "reviews": [
+        {
+          "text": "위치가 매우 좋고 24시간 체크아웃 정책도 좋습니다.",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "구내에 세탁 시설도 있으며 매우 현대적입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "객실은 사진과 똑같고, 편의시설도 훌륭했습니다.",
+          "score": "9.2",
+          "country": "Indonesia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "호텔은 훌륭하고 직원들은 매우 친절하고 협조적입니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "나는 Wink 위치와 OMG를 모두 시도했는데 그것이 얼마나 놀라운지.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "믹스테이 (Mik Stay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mik-stay/hotel/da-nang-vn.html?cid=1925461",
+      "walkMin": 23,
+      "score": 9.2,
+      "reviewCount": 252,
+      "priceBand": 1,
+      "priceText": "₩ · 약 1만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/78071005/0/a58fa3e851f2f5a720077d2b78bf97f3.jpg?ce=2",
+      "distanceNote": "약 1801.54m · 다낭역 인근",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 252건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 252건 기반.",
+      "reviews": [
+        {
+          "text": "매우 친절하고 영어를 구사하는 매우 깨끗하고 훌륭한 직원.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "나는 앞으로도 다시 이곳에 머물기로 선택할 것입니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 조용하고 직원도 친절하고 엘리베이터도 있어요!",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "시설은 엄청나게 깨끗하고 편안했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "욕실이 딸린 새롭고 매우 깨끗한 여성 기숙사입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "차밍 뷰티 호텔 (Charming beauty hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/charming-beauty-hotel/hotel/da-nang-vn.html?cid=1925461",
+      "walkMin": 60,
+      "score": 9,
+      "reviewCount": 1192,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/45083566/0/3faa607416689ca144b371db2fedea83.jpeg?ce=0",
+      "distanceNote": "약 4794.77m · 다낭역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 1,192건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,192건 기반.",
+      "reviews": [
+        {
+          "text": "직원, 위치, 객실의 편안함 및 시설에 대해 10/10.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "호텔의 위치는 우리에게 완벽했습니다.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 매우 좋습니다. 작년과 올해도 여기에 묵었습니다.",
+          "score": "9.6",
+          "country": "Latvia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "하우스키핑 서비스는 방 청소를 훌륭하게 해냈습니다.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "저렴한 가격으로 요청할 수 있는 거의 모든 것.",
+          "score": "10",
+          "country": "China",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "피비텔 호텔 (Fivitel Da Nang Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/fivitel-da-nang-hotel/hotel/da-nang-vn.html?cid=1925461",
+      "walkMin": 42,
+      "score": 9,
+      "reviewCount": 7324,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/2915722/-1/76a5daeb13863b20a9446577139d92a8.jpg?ca=28&ce=0",
+      "distanceNote": "약 3348.61m · 다낭역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 7,324건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 7,324건 기반.",
+      "reviews": [
+        {
+          "text": "내 체류를 관리하고 Fivitel에 머무는 데 필수적인 역할을 했습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "객실과 인피니티 풀에서 보이는 멋진 전망!",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "이 사려 깊은 행동은 5성급 서비스를 반영합니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 아침 식사, 친절한 직원, 이동이 편리합니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "Dragon Bridge의 아름다운 전망을 감상할 수 있는 객실이 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-25T20:26:46.102Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
