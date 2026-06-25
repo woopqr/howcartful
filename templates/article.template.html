@@ -98,7 +98,13 @@
     </div>
     <div class="bd">
       <div class="meta">{{#metaTags}}<span>{{.}}</span>{{/metaTags}}</div>
-      <p class="kw">리뷰 키워드: {{{reviewKeywordsHtml}}}</p>
+      <p class="kw">{{{reviewKeywordsHtml}}}</p>
+      {{#hasReviews}}
+      <div class="reviews">
+        {{#reviews}}<blockquote class="rv">“{{text}}”<cite>{{meta}}</cite></blockquote>{{/reviews}}
+        <a class="rv-more" href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">이 호텔 실제 리뷰 더보기 →</a>
+      </div>
+      {{/hasReviews}}
       <div class="cta"><a href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">{{ctaText}} →</a></div>
     </div>
   </div>

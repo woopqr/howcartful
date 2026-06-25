@@ -1,22 +1,22 @@
 {
   "slug": "tokyo",
-  "title": "도쿄 / 동경 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
-  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 도쿄 / 동경 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "title": "도쿄 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 도쿄 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
   "lang": "ko-kr",
   "citySlug": "taito-ku-jp",
   "cityName": "도쿄 / 동경",
   "cityId": 5085,
   "refName": "각 호텔 최단 역",
   "refShort": "최단 역",
-  "areaName": "도쿄 / 동경",
+  "areaName": "도쿄",
   "heroImg": "https://pix8.agoda.net/hotelImages/83534561/0/eefbaf0ccf2eac257cfbc05176128418.jpg?ce=3",
   "heroAlt": "도쿄 / 동경",
-  "heroTitleHtml": "도쿄 / 동경 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroTitleHtml": "도쿄 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
   "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
-  "verdictHtml": "가성비 1위는 <b>와 호스텔</b>(평점 9.1·리뷰 305건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>스에히로초역 도보 2분</b>의 <b>글랜시트 아키하바라 컴포트 캡슐 호텔</b>를 추천합니다.",
+  "verdictHtml": "가성비 1위는 <b>와 호스텔</b>(평점 9.1·리뷰 305건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>스에히로초역 도보 2분</b>의 <b>글랜시트 아키하바라 컴포트 캡슐 호텔</b>를 추천합니다.",
   "outroImg": "https://pix8.agoda.net/hotelImages/83534561/0/eefbaf0ccf2eac257cfbc05176128418.jpg?ce=3",
-  "outroTitle": "🌙 도쿄 / 동경, 어디에 묵어도 후회없이",
-  "outroText": "위 7곳은 모두 도쿄 / 동경 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 도쿄 / 동경 전체 숙소를 한 번에 비교해보세요.",
+  "outroTitle": "🌙 도쿄, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 도쿄 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 도쿄 전체 숙소를 한 번에 비교해보세요.",
   "seasons": [],
   "hotels": [
     {
@@ -28,17 +28,39 @@
       "score": 9.1,
       "reviewCount": 305,
       "priceBand": 1,
-      "priceText": "₩ · 약 5만원",
+      "priceText": "₩ · 약 7만원",
       "valueIndex": 9,
-      "img": "//pix8.agoda.net/hotelImages/83534561/0/eefbaf0ccf2eac257cfbc05176128418.jpg?va=1&ce=3",
+      "img": "//pix8.agoda.net/hotelImages/83534561/0/eefbaf0ccf2eac257cfbc05176128418.jpg?ce=3",
       "distanceNote": "약 251.98m · 구라마에역 인근",
       "metaTags": [
-        "💰 약 5만원",
+        "💰 약 7만원",
         "📝 리뷰 305건",
         "⭐ 3성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>9.1</b> · 리뷰 305건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 305건 기반.",
+      "reviews": [
+        {
+          "text": "Facilities were clean, 1 shower and 2 toilets per floor.",
+          "meta": "United States · ★9.6 · 2026.04"
+        },
+        {
+          "text": "Overall I'm happy I found this place while I was travelling.",
+          "meta": "Japan · ★10 · 2026.01"
+        },
+        {
+          "text": "Comfortable and Friendly",
+          "meta": "Japan · ★10 · 2026.01"
+        },
+        {
+          "text": "You can tell they’ve thought of every detail.",
+          "meta": "Australia · ★10 · 2026.06"
+        },
+        {
+          "text": "Would consider staying again for my next Tokyo trip",
+          "meta": "台灣 · ★8.8 · 2026.05"
+        }
+      ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
@@ -52,7 +74,7 @@
       "priceBand": 1,
       "priceText": "₩ · 약 6만원",
       "valueIndex": 8.8,
-      "img": "//pix8.agoda.net/hotelImages/2891306/0/f1d65365c8ef8ed33e2cdd569d9869eb.jpg?va=1&ce=2",
+      "img": "//pix8.agoda.net/hotelImages/2891306/0/219cc389bcffd7c58afde84fc0b261ef.jpeg?ce=2",
       "distanceNote": "약 181.26m · 스에히로초역 인근",
       "metaTags": [
         "💰 약 6만원",
@@ -60,7 +82,29 @@
         "⭐ 2성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>8.8</b> · 리뷰 7,272건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 7,272건 기반.",
+      "reviews": [
+        {
+          "text": "They have a lounge area with free coffee, tea, and water.",
+          "meta": "United States · ★10 · 2024.07"
+        },
+        {
+          "text": "Pretty nice service and great location",
+          "meta": "대한민국 · ★9.6 · 2025.06"
+        },
+        {
+          "text": "The hotel is very clean, and the staff is very accomodating.",
+          "meta": "Canada · ★10 · 2025.07"
+        },
+        {
+          "text": "Not a social place to stay, perfect to rest alone in peace.",
+          "meta": "France · ★9.6 · 2024.05"
+        },
+        {
+          "text": "I feel very satisfied with service and comfort in hotel.",
+          "meta": "Việt Nam · ★9.2 · 2025.08"
+        }
+      ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
@@ -74,7 +118,7 @@
       "priceBand": 1,
       "priceText": "₩ · 약 4만원",
       "valueIndex": 8.7,
-      "img": "//pix8.agoda.net/hotelImages/55140165/-1/867bbed5ffe030ce21adcbdf8b1b20e8.jpg?va=1&ce=0",
+      "img": "//pix8.agoda.net/hotelImages/55140165/0/220243d78ad58c6c24b366468af70dfe.jpeg?ce=2",
       "distanceNote": "약 303.9m · 신센역 인근",
       "metaTags": [
         "💰 약 4만원",
@@ -82,11 +126,77 @@
         "⭐ 3성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>8.7</b> · 리뷰 5,236건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 5,236건 기반.",
+      "reviews": [
+        {
+          "text": "Close to everything, shops, restaurants and metro station.",
+          "meta": "Philippines · ★10 · 2024.11"
+        },
+        {
+          "text": "And you are in the middle of the party, Shibuya city!",
+          "meta": "Romania · ★9.6 · 2024.04"
+        },
+        {
+          "text": "Clubs, bars, supermarkets. Everything is very close.",
+          "meta": "Romania · ★9.6 · 2024.04"
+        },
+        {
+          "text": "Best hostel while I was stayed in the Tokyo one of them",
+          "meta": "대한민국 · ★9.2 · 2024.06"
+        },
+        {
+          "text": "The staff cleaned everyday and you get fresh towels daily.",
+          "meta": "Canada · ★7.6 · 2026.01"
+        }
+      ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
       "rank": 4,
+      "name": "퍼스트 캐빈 이치가야 (FIRST CABIN Ichigaya)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/first-cabin-tkp-ichigaya_3/hotel/tokyo-jp.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.7,
+      "reviewCount": 5956,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/6173573/-1/3b33fe6b0d2321495acf683261215581.jpg?ca=28&ce=0",
+      "distanceNote": "약 164.12m · 이치가야역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 5,956건",
+        "⭐ 1.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 5,956건 기반.",
+      "reviews": [
+        {
+          "text": "There was free breakfast and the facilities were superb.",
+          "meta": "Philippines · ★9.6 · 2026.02"
+        },
+        {
+          "text": "Awesome stay, it's clean and staffs are very helpful",
+          "meta": "Singapore · ★9.6 · 2024.10"
+        },
+        {
+          "text": "I'm going to book this hotel again when I visit Tokyo again!",
+          "meta": "대한민국 · ★10 · 2024.12"
+        },
+        {
+          "text": "The bed is comfy, location is very convenient.",
+          "meta": "Malaysia · ★10 · 2024.11"
+        },
+        {
+          "text": "I must choose the same place if I go tokyo myself next time!",
+          "meta": "中國香港 · ★9.6 · 2025.01"
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
       "name": "9h 나인아워즈 하마마츠초 (9h nine hours Hamamatsucho )",
       "hotelSlug": "",
       "agodaUrl": "https://www.agoda.com/nine-hours-hamamatsucho/hotel/tokyo-jp.html?cid=1925461",
@@ -96,7 +206,7 @@
       "priceBand": 1,
       "priceText": "₩ · 약 6만원",
       "valueIndex": 8.4,
-      "img": "//pix8.agoda.net/hotelImages/9775328/-1/419fe349ab26c74b284587b3ee6d0106.jpg?va=1&ca=10&ce=1",
+      "img": "//pix8.agoda.net/hotelImages/9775328/0/cae50d519da4b9d4877048920c900dc4.jpeg?ce=2",
       "distanceNote": "약 123.25m · 다이몬역 인근",
       "metaTags": [
         "💰 약 6만원",
@@ -104,29 +214,29 @@
         "⭐ 1.5성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>8.4</b> · 리뷰 12,375건 기반. (리뷰 키워드 분석은 보강 예정)",
-      "ctaText": "🏨 최저가·예약창 가격 확인"
-    },
-    {
-      "rank": 5,
-      "name": "호텔 토마리야 우에노 (Hotel Tomariya Ueno)",
-      "hotelSlug": "",
-      "agodaUrl": "https://www.agoda.com/hotel-tomariya-ueno/hotel/hatoyama-machi-jp.html?cid=1925461",
-      "walkMin": 4,
-      "score": 8.4,
-      "reviewCount": 5215,
-      "priceBand": 1,
-      "priceText": "₩ · 약 4만원",
-      "valueIndex": 8.4,
-      "img": "//pix8.agoda.net/hotelImages/42391416/0/0dbeaaec13490ebc6f255599ca631a93.jpeg?va=1&ce=0",
-      "distanceNote": "약 317.37m · 우에노역 인근",
-      "metaTags": [
-        "💰 약 4만원",
-        "📝 리뷰 5,215건",
-        "⭐ 1성급",
-        "📶 무료 Wi-Fi"
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 12,375건 기반.",
+      "reviews": [
+        {
+          "text": "Perfection location if you travel through Haneda airport.",
+          "meta": "United Kingdom · ★10 · 2023.06"
+        },
+        {
+          "text": "Bed sheets and blankets are changed and washed everyday,",
+          "meta": "中国 · ★9.6 · 2026.05"
+        },
+        {
+          "text": "Parks and attractions are around within 10 minutes walk.",
+          "meta": "China · ★8.8 · 2025.08"
+        },
+        {
+          "text": "The place is clean, the staff is able to speak English.",
+          "meta": "Thailand · ★9.2 · 2026.02"
+        },
+        {
+          "text": "The environment is cozy and the staffs are willing to assist",
+          "meta": "Hong Kong · ★9.6 · 2024.08"
+        }
       ],
-      "reviewKeywordsHtml": "평점 <b>8.4</b> · 리뷰 5,215건 기반. (리뷰 키워드 분석은 보강 예정)",
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
@@ -140,7 +250,7 @@
       "priceBand": 1,
       "priceText": "₩ · 약 6만원",
       "valueIndex": 7.5,
-      "img": "//pix8.agoda.net/hotelImages/280/280818/280818_15072112510032680592.jpg?va=1&ca=11&ce=1",
+      "img": "//pix8.agoda.net/hotelImages/280/280818/280818_15072112510032680592.jpg?ca=11&ce=1",
       "distanceNote": "약 330.77m · 신주쿠산초메 인근",
       "metaTags": [
         "💰 약 6만원",
@@ -148,7 +258,29 @@
         "⭐ 1성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>7.5</b> · 리뷰 19,195건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 19,195건 기반.",
+      "reviews": [
+        {
+          "text": "The baths they have alone are worth the money to stay here.",
+          "meta": "Türkiye · ★9.2 · 2025.04"
+        },
+        {
+          "text": "What really amazed me was the Onsen and shared facilities.",
+          "meta": "Japan · ★10 · 2025.05"
+        },
+        {
+          "text": "Friendly staff, clean throughout with great facilities.",
+          "meta": "United Kingdom · ★10 · 2025.05"
+        },
+        {
+          "text": "The staff was friendly and everything I needed was close by.",
+          "meta": "Sverige · ★10 · 2026.01"
+        },
+        {
+          "text": "The most affordable in the area and your money all worth it.",
+          "meta": "Philippines · ★9.2 · 2023.12"
+        }
+      ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
@@ -162,7 +294,7 @@
       "priceBand": 2,
       "priceText": "₩₩ · 약 11만원",
       "valueIndex": 7.4,
-      "img": "//pix8.agoda.net/hotelImages/33576877/-1/479952a97ac5b44d0fdbea8a08c2d5f6.jpg?va=1&ce=0",
+      "img": "//pix8.agoda.net/hotelImages/33576877/-1/479952a97ac5b44d0fdbea8a08c2d5f6.jpg?ce=0",
       "distanceNote": "약 386.74m · 롯폰기 1초메역 인근",
       "metaTags": [
         "💰 약 11만원",
@@ -170,12 +302,34 @@
         "⭐ 3성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>8.7</b> · 리뷰 16,589건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 16,589건 기반.",
+      "reviews": [
+        {
+          "text": "It also has a free onsen, which I enjoyed every night.",
+          "meta": "Philippines · ★10 · 2025.11"
+        },
+        {
+          "text": "You have everything you need and even got some onsen.",
+          "meta": "Deutschland · ★9.6 · 2025.08"
+        },
+        {
+          "text": "If you want to be in Tokyo, here is the best place for you.",
+          "meta": "台灣 · ★10 · 2025.04"
+        },
+        {
+          "text": "This accommodation was perfectly suited to my travel needs.",
+          "meta": "대한민국 · ★10 · 2026.05"
+        },
+        {
+          "text": "They leave fresh towels everyday at the door which was nice.",
+          "meta": "United States · ★9.6 · 2025.05"
+        }
+      ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     }
   ],
   "_meta": {
-    "fetchedAt": "2026-06-25T11:01:58.282Z",
+    "fetchedAt": "2026-06-25T12:42:02.586Z",
     "source": "agoda citySearch",
     "count": 7
   }

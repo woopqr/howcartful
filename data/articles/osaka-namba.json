@@ -13,7 +13,7 @@
   "heroAlt": "오사카 야경",
   "heroTitleHtml": "오사카 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
   "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
-  "verdictHtml": "가성비 1위는 <b>캐빈 앤 캡슐 호텔 J-쉽 오사카 난바</b>(평점 9.1·리뷰 6,042건·1박 약 4만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>나가호리바시역 도보 2분</b>의 <b>그랜드 호스텔 엘디케이 오사카 신사이바시</b>를 추천합니다.",
+  "verdictHtml": "가성비 1위는 <b>캐빈 앤 캡슐 호텔 J-쉽 오사카 난바</b>(평점 9.1·리뷰 6,042건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>히고바시역 도보 1분</b>의 <b>웰리나 호텔 프리미어 나카노시마 이스트</b>를 추천합니다.",
   "outroImg": "https://picsum.photos/seed/osaka-castle/1000/440",
   "outroTitle": "🌙 오사카, 어디에 묵어도 후회없이",
   "outroText": "위 7곳은 모두 오사카 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 오사카 전체 숙소를 한 번에 비교해보세요.",
@@ -53,43 +53,43 @@
       "score": 9.1,
       "reviewCount": 6042,
       "priceBand": 1,
-      "priceText": "₩ · 약 4만원",
+      "priceText": "₩ · 약 5만원",
       "valueIndex": 9.1,
-      "img": "//pix8.agoda.net/hotelImages/5710110/-1/b651de3e1ab9cbca7494a8a43af40f64.jpg?va=1&ca=11&ce=1",
+      "img": "//pix8.agoda.net/hotelImages/5710110/0/0c32d4c7bed91af4dc2d3e15e9755856.jpeg?va=1&ce=2",
       "distanceNote": "약 223.67m · JR 난바역 인근",
       "metaTags": [
-        "💰 약 4만원",
+        "💰 약 5만원",
         "📝 리뷰 6,042건",
         "⭐ 2성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>9.1</b> · 리뷰 6,042건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 6,042건 기반.",
+      "reviews": [
+        {
+          "text": "Every nook and cranny of this place was spotlessly clean!",
+          "meta": "Malaysia · ★10 · 2025.11"
+        },
+        {
+          "text": "I would highly recommend this hotel for budget traveller.",
+          "meta": "Malaysia · ★10 · 2025.05"
+        },
+        {
+          "text": "A clean, well appointed, affordable place to stay in Osaka.",
+          "meta": "United States · ★9.6 · 2024.10"
+        },
+        {
+          "text": "It is renowned for its immaculate cleanliness and purity,",
+          "meta": "Philippines · ★10 · 2024.10"
+        },
+        {
+          "text": "It is modern and best of all it have onsen in the bathroom.",
+          "meta": "Singapore · ★9.6 · 2024.07"
+        }
+      ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
       "rank": 2,
-      "name": "그랜드 호스텔 엘디케이 오사카 신사이바시 (GRAND HOSTEL LDK OSAKA SHINSAIBASHI)",
-      "hotelSlug": "",
-      "agodaUrl": "https://www.agoda.com/the-stay-osaka-shinsaibashi/hotel/osaka-jp.html?cid=1925461",
-      "walkMin": 2,
-      "score": 9,
-      "reviewCount": 11455,
-      "priceBand": 1,
-      "priceText": "₩ · 약 3만원",
-      "valueIndex": 9,
-      "img": "//pix8.agoda.net/hotelImages/6405135/0/9aaedf3e6e75e1e9bf9ff69e6aa54e4f.jpg?va=1&ce=0",
-      "distanceNote": "약 182.28m · 나가호리바시역 인근",
-      "metaTags": [
-        "💰 약 3만원",
-        "📝 리뷰 11,455건",
-        "⭐ 2성급",
-        "📶 무료 Wi-Fi"
-      ],
-      "reviewKeywordsHtml": "평점 <b>9</b> · 리뷰 11,455건 기반. (리뷰 키워드 분석은 보강 예정)",
-      "ctaText": "🏨 최저가·예약창 가격 확인"
-    },
-    {
-      "rank": 3,
       "name": "Y's 캐빈 오사카 난바 (Y's Cabin Osaka Namba)",
       "hotelSlug": "",
       "agodaUrl": "https://www.agoda.com/y-s-cabin-osaka-namba_3/hotel/osaka-jp.html?cid=1925461",
@@ -99,7 +99,7 @@
       "priceBand": 1,
       "priceText": "₩ · 약 6만원",
       "valueIndex": 8.8,
-      "img": "//pix8.agoda.net/hotelImages/201/2011879/2011879_17083017220055857559.jpg?va=1&ca=6&ce=1",
+      "img": "//pix8.agoda.net/hotelImages/2011879/0/632eb432a93abc1faf6d4b1801742a69.jpeg?va=1&ce=2",
       "distanceNote": "약 130.6m · 난바역 인근",
       "metaTags": [
         "💰 약 6만원",
@@ -107,39 +107,39 @@
         "⭐ 2성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>8.8</b> · 리뷰 7,420건 기반. (리뷰 키워드 분석은 보강 예정)",
-      "ctaText": "🏨 최저가·예약창 가격 확인"
-    },
-    {
-      "rank": 4,
-      "name": "Bande Hotel Osaka",
-      "hotelSlug": "",
-      "agodaUrl": "https://www.agoda.com/bande-hotel-osaka/hotel/wachi-cho-jp.html?cid=1925461",
-      "walkMin": 4,
-      "score": 8.7,
-      "reviewCount": 3779,
-      "priceBand": 1,
-      "priceText": "₩ · 약 7만원",
-      "valueIndex": 8.7,
-      "img": "//pix8.agoda.net/hotelImages/90031528/0/60e436c19d3d60846fbb1385861f68aa.jpg?va=1&ce=3",
-      "distanceNote": "약 333.59m · 기시노사토타마데역 인근",
-      "metaTags": [
-        "💰 약 7만원",
-        "📝 리뷰 3,779건",
-        "⭐ 4성급",
-        "📶 무료 Wi-Fi"
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 7,420건 기반.",
+      "reviews": [
+        {
+          "text": "The staffs are very courteous and assist you want required.",
+          "meta": "Singapore · ★10 · 2025.09"
+        },
+        {
+          "text": "Safe and clean, and so so cheap for me (when I stayed).",
+          "meta": "Malaysia · ★10 · 2024.08"
+        },
+        {
+          "text": "Y's cabin was so near from Dotonbori and was so clean.",
+          "meta": "대한민국 · ★10 · 2025.09"
+        },
+        {
+          "text": "It is fully equipped, clean and hygienic.",
+          "meta": "China · ★10 · 2024.09"
+        },
+        {
+          "text": "It is very close to Dotonbori and Shinsaibashi.",
+          "meta": "China · ★10 · 2024.09"
+        }
       ],
-      "reviewKeywordsHtml": "평점 <b>8.7</b> · 리뷰 3,779건 기반. (리뷰 키워드 분석은 보강 예정)",
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "name": "퍼스트 캐빈 니시 우메다 (FIRST CABIN NISHI UMEDA)",
       "hotelSlug": "",
       "agodaUrl": "https://www.agoda.com/h32828682/hotel/osaka-jp.html?cid=1925461",
       "walkMin": 4,
       "score": 8.6,
-      "reviewCount": 2005,
+      "reviewCount": 2011,
       "priceBand": 1,
       "priceText": "₩ · 약 8만원",
       "valueIndex": 8.6,
@@ -147,11 +147,121 @@
       "distanceNote": "약 308.23m · 후쿠시마역 인근",
       "metaTags": [
         "💰 약 8만원",
-        "📝 리뷰 2,005건",
+        "📝 리뷰 2,011건",
         "⭐ 2성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>8.6</b> · 리뷰 2,005건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 2,011건 기반.",
+      "reviews": [
+        {
+          "text": "Loved the cosy pod, given comfortable pyjamas and slippers",
+          "meta": "Malaysia · ★8.8 · 2024.06"
+        },
+        {
+          "text": "There's also free food for guests (when supplies last).",
+          "meta": "Philippines · ★9.2 · 2025.07"
+        },
+        {
+          "text": "But staff service, facilities were excellent!",
+          "meta": "Singapore · ★10 · 2023.01"
+        },
+        {
+          "text": "Felt very safe and it was a great location.",
+          "meta": "United States · ★9.6 · 2026.03"
+        },
+        {
+          "text": "Great location near Umeda and Osaka's city center.",
+          "meta": "ไทย · ★10 · 2024.09"
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "캡슐 인 오사카 - 남성 전용 (Capsule Inn Osaka - Men Only)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/capsule-inn-osaka-men-only/hotel/osaka-jp.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.3,
+      "reviewCount": 3746,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.3,
+      "img": "//pix8.agoda.net/hotelImages/399186/0/87b6ea8d22f5b12ef59f181f18f08857.jpeg?va=1&ce=3",
+      "distanceNote": "약 437.46m · 히가시우메다역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 3,746건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 3,746건 기반.",
+      "reviews": [
+        {
+          "text": "Would recommend if looking for a place to stay for a night.",
+          "meta": "United States · ★8 · 2025.10"
+        },
+        {
+          "text": "The public bath situation is phenomenal if you're up for it.",
+          "meta": "Netherlands · ★9.6 · 2024.12"
+        },
+        {
+          "text": "Capsule bed was comfortable enough for one night.",
+          "meta": "United States · ★8 · 2025.10"
+        },
+        {
+          "text": "I would stay here again, especially for the price I paid.",
+          "meta": "United States · ★9.6 · 2024.05"
+        },
+        {
+          "text": "Facilities provided amenities needed for a night's stay.",
+          "meta": "United States · ★8 · 2025.10"
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "캡슐앤스파 그랜드 사우나 신사이바시 (Capsule&Spa Grand Sauna Shinsaibashi)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/capsule-spa-grand-sauna-shinsaibashi/hotel/all/osaka-jp.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.3,
+      "reviewCount": 6115,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/855060989.jpg?k=9b18c06f877702a225f50990ddbf2819f27869750cfac5ff9e5f5bab0a7a38c7&o=",
+      "distanceNote": "약 299.46m · 오사카난바역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 6,115건",
+        "⭐ 1성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 6,115건 기반.",
+      "reviews": [
+        {
+          "text": "So the front desk and the whole room are very clean.",
+          "meta": "Indonesia · ★10 · 2024.03"
+        },
+        {
+          "text": "All in all, a very great place to stay while in Osaka :)",
+          "meta": "Singapore · ★10 · 2024.12"
+        },
+        {
+          "text": "The public bath is so huge and the amenities are great.",
+          "meta": "Philippines · ★10 · 2025.10"
+        },
+        {
+          "text": "I particularly liked the upgraded capsules.",
+          "meta": "Philippines · ★10 · 2025.06"
+        },
+        {
+          "text": "24 hours Public Onsen is the best part of this hotel.",
+          "meta": "Thailand · ★8.8 · 2024.04"
+        }
+      ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
@@ -173,34 +283,78 @@
         "⭐ 3.5성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>8.2</b> · 리뷰 9,615건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 9,615건 기반.",
+      "reviews": [
+        {
+          "text": "New, clean and easy to access everything. Highly recommended",
+          "meta": "中國香港 · ★9.2 · 2024.05"
+        },
+        {
+          "text": "What really makes this hotel worth it is its prime location.",
+          "meta": "Philippines · ★10 · 2024.05"
+        },
+        {
+          "text": "Donki is also nearby that we go there almost every night.",
+          "meta": "Philippines · ★7.6 · 2025.07"
+        },
+        {
+          "text": "Would definitely recommend for families visiting Osaka.",
+          "meta": "Philippines · ★8.8 · 2026.04"
+        },
+        {
+          "text": "I love their services and the supplies provided to our room",
+          "meta": "Philippines · ★10 · 2023.10"
+        }
+      ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
       "rank": 7,
-      "name": "홈네스트 호텔 텐노지 (HomeNest Hotel Tennoji)",
+      "name": "웰리나 호텔 프리미어 나카노시마 이스트 (Welina Hotel Premier Nakanoshima EAST)",
       "hotelSlug": "",
-      "agodaUrl": "https://www.agoda.com/homenest-hotel-tennoji/hotel/osaka-jp.html?cid=1925461",
-      "walkMin": 7,
-      "score": 8.3,
-      "reviewCount": 259,
+      "agodaUrl": "https://www.agoda.com/welina-hotel-premier-nakanoshima-east/hotel/osaka-jp.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.1,
+      "reviewCount": 12464,
       "priceBand": 1,
-      "priceText": "₩ · 약 4만원",
-      "valueIndex": 8.2,
-      "img": "//pix8.agoda.net/hotelImages/80467033/0/7d5294dc9fd69fb3f2f82141dd1b663b.jpg?va=1&ce=2",
-      "distanceNote": "약 544.66m · 덴노지역 인근",
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.1,
+      "img": "//pix8.agoda.net/hotelImages/10553926/0/20de4e9e79e4da4f9cc661ce82dd9500.jpeg?va=1&ce=2",
+      "distanceNote": "약 111.81m · 히고바시역 인근",
       "metaTags": [
-        "💰 약 4만원",
-        "📝 리뷰 259건",
+        "💰 약 8만원",
+        "📝 리뷰 12,464건",
         "⭐ 3성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>8.3</b> · 리뷰 259건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 12,464건 기반.",
+      "reviews": [
+        {
+          "text": "The room was very spacious, more than enough for one person.",
+          "meta": "Thailand · ★9.6 · 2024.03"
+        },
+        {
+          "text": "I love this hotel and it suited my needs as a solo traveler.",
+          "meta": "Philippines · ★9.6 · 2024.11"
+        },
+        {
+          "text": "The room is clean and roomy compare to Japanese standards.",
+          "meta": "Australia · ★8.8 · 2024.11"
+        },
+        {
+          "text": "The location was great, room was big, price was also good.",
+          "meta": "South Korea · ★10 · 2024.10"
+        },
+        {
+          "text": "Convenient location and bigger room compared to other hotels",
+          "meta": "Singapore · ★10 · 2024.11"
+        }
+      ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     }
   ],
   "_meta": {
-    "fetchedAt": "2026-06-25T08:14:23.424Z",
+    "fetchedAt": "2026-06-25T12:42:01.013Z",
     "source": "agoda citySearch",
     "count": 7
   }

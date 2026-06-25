@@ -47,7 +47,11 @@ function defaults(h, refName) {
     img: h.img,
     distanceNote: h.distanceM != null ? `약 ${h.distanceM}m · ${h.refLandmark || refName} 인근` : '',
     metaTags: tags,
-    reviewKeywordsHtml: `평점 <b>${h.score}</b> · 리뷰 ${Number(h.reviewCount).toLocaleString('en-US')}건 기반. (리뷰 키워드 분석은 보강 예정)`,
+    reviewKeywordsHtml: `평점 <b>${h.score}</b> · 실제 투숙객 리뷰 ${Number(h.reviewCount).toLocaleString('en-US')}건 기반.`,
+    reviews: (h.reviews || []).map(r => ({
+      text: r.text,
+      meta: [r.country, r.rating != null ? '★' + r.rating : '', r.date].filter(Boolean).join(' · '),
+    })),
     ctaText: '🏨 최저가·예약창 가격 확인',
   };
 }
@@ -55,7 +59,8 @@ function defaults(h, refName) {
 (async () => {
   console.log(`▶ 아고다 수집: cityId=${cityId}, top ${N} (cid=${af.CID || ''})`);
   const cs = await af.fetchCitySearch(Number(cityId));
-  const cityName = cs?.searchResult?.searchInfo?.objectInfo?.cityName || '';
+  const rawCityName = cs?.searchResult?.searchInfo?.objectInfo?.cityName || '';
+  const cityName = rawCityName.split('/')[0].trim() || rawCityName; // "도쿄 / 동경" → "도쿄"
   const props = (cs.properties || []).map(p => af.mapProperty(p));
 
   const picked = props

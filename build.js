@@ -73,13 +73,14 @@ function buildContext(data) {
     rankBadge: (h.rank === 1 ? '🏆 ' : '') + h.rank + '위 · 가성비 ' + h.valueIndex.toFixed(1),
     refShort: data.refShort,
     agodaUrl: h.agodaUrl || agoda.hotelLink(h.hotelSlug, data.citySlug, lang),
+    hasReviews: Array.isArray(h.reviews) && h.reviews.length > 0,
   }));
   return {
     ...data,
     hotels,
     hotelsByValue: [...hotels].sort((a, b) => b.valuePct - a.valuePct),
     hotelsByDistance: [...hotels].sort((a, b) => a.walkMin - b.walkMin),
-    hotelCards: hotels.filter(h => h.rank <= 3),
+    hotelCards: hotels, // 1위~전체 호텔 카드(사진+예약+리뷰)
     cityUrl: agoda.cityLink(data.citySlug, lang),
   };
 }
