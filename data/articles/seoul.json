@@ -1,0 +1,336 @@
+{
+  "slug": "seoul",
+  "title": "서울 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 서울 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "seoul-kr",
+  "cityName": "서울",
+  "cityId": 14690,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "서울",
+  "heroImg": "https://pix8.agoda.net/hotelImages/75205622/0/4ca3f8d8b32a8a59d8f3c4ff491df355.jpg?va=1&ce=3",
+  "heroAlt": "서울",
+  "heroTitleHtml": "서울 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>고유인 앤 캐빈즈</b>(평점 9.2·리뷰 2,047건·1박 약 8만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>종각역 도보 2분</b>의 <b>스테이 오하나</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/75205622/0/4ca3f8d8b32a8a59d8f3c4ff491df355.jpg?va=1&ce=3",
+  "outroTitle": "🌙 서울, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 서울 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 서울 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "고유인 앤 캐빈즈 (GOYOO INN & CABINS)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/goyoo-inn-homes/hotel/seoul-kr.html?cid=1925461",
+      "walkMin": 6,
+      "score": 9.2,
+      "reviewCount": 2047,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 9.2,
+      "img": "//pix8.agoda.net/hotelImages/75205622/0/4ca3f8d8b32a8a59d8f3c4ff491df355.jpg?va=1&ce=3",
+      "distanceNote": "약 464.08m · 선릉역 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 2,047건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 2,047건 기반.",
+      "reviews": [
+        {
+          "text": "Will definitely stay here again when I travel solo in Seoul!",
+          "meta": "Philippines · ★8.8 · 2026.06"
+        },
+        {
+          "text": "Really recommend this place, and would come back for sure!",
+          "meta": "Indonesia · ★10 · 2026.05"
+        },
+        {
+          "text": "If I’m back in Seoul, I would choose to stay here again!",
+          "meta": "日本 · ★10 · 2026.04"
+        },
+        {
+          "text": "This place is insanely clean — like next-level spotless.",
+          "meta": "중국 · ★10 · 2026.02"
+        },
+        {
+          "text": "The best attribute of this hostel is its cleanliness.",
+          "meta": "Guam · ★9.6 · 2026.05"
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "H 호스텔 (H HOSTEL Itaewon)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/h-hostel-itaewon/hotel/seoul-kr.html?cid=1925461",
+      "walkMin": 3,
+      "score": 9.1,
+      "reviewCount": 6980,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/35655571/0/78506651301cc0ad47913e8e149a4770.jpg?va=1&ce=0",
+      "distanceNote": "약 275.91m · 이태원역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 6,980건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 6,980건 기반.",
+      "reviews": [
+        {
+          "text": "The room was very clean and the breakfast was very good.",
+          "meta": "韩国 · ★9.2 · 2023.07"
+        },
+        {
+          "text": "The room was really nice and the bed quality was superb.",
+          "meta": "Indonesia · ★10 · 2024.12"
+        },
+        {
+          "text": "It had all necessary amenities and was pristinely clean.",
+          "meta": "South Korea · ★10 · 2025.02"
+        },
+        {
+          "text": "The location is also great, 5 min walk to itaewon station.",
+          "meta": "中国 · ★10 · 2024.09"
+        },
+        {
+          "text": "Very clean room, toilets and common area.",
+          "meta": "Philippines · ★10 · 2023.08"
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "스테이 오하나 (Stay Ohana)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/stay-ohana/hotel/seoul-kr.html?cid=1925461",
+      "walkMin": 2,
+      "score": 9.2,
+      "reviewCount": 485,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/84545995/0/74d766cef33ec4112474fc0043786ce4.jpg?va=1&ce=3",
+      "distanceNote": "약 143.63m · 종각역 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 485건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 485건 기반.",
+      "reviews": [
+        {
+          "text": "I would choose this hotel again when I go to Korea.",
+          "meta": "Japan · ★10 · 2026.04"
+        },
+        {
+          "text": "Strong value and comfort balance in terms of the capsules.",
+          "meta": "United Kingdom · ★10 · 2026.06"
+        },
+        {
+          "text": "The location was excellent, just 15min walk to Myeongdong.",
+          "meta": "中國香港 · ★10 · 2026.03"
+        },
+        {
+          "text": "Great hotel, lovely stay, everything was excellent.",
+          "meta": "Philippines · ★10 · 2026.02"
+        },
+        {
+          "text": "Highly recommend!",
+          "meta": "Philippines · ★10 · 2026.02"
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "한옥 호텔 담 서울 (Hanok Hotel Daam)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/jongno-aubeson-h10577062/hotel/seoul-kr.html?cid=1925461",
+      "walkMin": 5,
+      "score": 9,
+      "reviewCount": 2150,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/51931909/-1/ed8ed8265924c6c2a361cb875763ac68.jpg?va=1&ce=0",
+      "distanceNote": "약 362.6m · 안국역 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 2,150건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,150건 기반.",
+      "reviews": [
+        {
+          "text": "Facilities are so great, staff are so helpful and friendly.",
+          "meta": "Philippines · ★10 · 2026.02"
+        },
+        {
+          "text": "The hotel was very clean, and provided excellent amenities.",
+          "meta": "Canada · ★9.6 · 2026.03"
+        },
+        {
+          "text": "It will be our only hotel to stay when we are in Seoul.",
+          "meta": "Australia · ★10 · 2025.11"
+        },
+        {
+          "text": "Staying at this hotel was truly a magical experience.",
+          "meta": "Switzerland · ★10 · 2026.02"
+        },
+        {
+          "text": "When we return to Korea, we will definitely stay here again.",
+          "meta": "Portugal · ★10 · 2026.02"
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "기와 호스텔 (Kiwa Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/h80243003/hotel/seoul-kr.html?cid=1925461",
+      "walkMin": 3,
+      "score": 9.1,
+      "reviewCount": 840,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/82158222/0/dd79a1be8678491016a69acd6ded2290.jpg?va=1&ce=3",
+      "distanceNote": "약 263.23m · 시티 공항 터미널 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 840건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 840건 기반.",
+      "reviews": [
+        {
+          "text": "The staff is very accommodating, and the facility is clean.",
+          "meta": "Philippines · ★8 · 2026.04"
+        },
+        {
+          "text": "Safe, Clean, Resonable Price, Exsit at easy to travel place",
+          "meta": "Japan · ★9.6 · 2026.03"
+        },
+        {
+          "text": "Perfect stay",
+          "meta": "Canada · ★10 · 2026.05"
+        },
+        {
+          "text": "The capsule was so comfy,",
+          "meta": "Indonesia · ★10 · 2026.06"
+        },
+        {
+          "text": "The staff was very friendly and the space was very clean.",
+          "meta": "대한민국 · ★10 · 2026.05"
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "몽헤브 캐빈즈 (강남역 5분) (Monrêve Cabins)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/monreve-cabins/hotel/seoul-kr.html?cid=1925461",
+      "walkMin": 8,
+      "score": 9.1,
+      "reviewCount": 320,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/83505859/0/368dac7c4e41042a3e239ad245bae66d.jpg?va=1&ce=3",
+      "distanceNote": "약 656.48m · 강남역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 320건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 320건 기반.",
+      "reviews": [
+        {
+          "text": "Love the bed and spacing, very comfortable.",
+          "meta": "中國香港 · ★9.2 · 2026.03"
+        },
+        {
+          "text": "Everything is very new, and the cleanliness was outstanding!",
+          "meta": "대한민국 · ★10 · 2026.01"
+        },
+        {
+          "text": "I will definitely stay here again on my next visit.",
+          "meta": "대한민국 · ★10 · 2026.01"
+        },
+        {
+          "text": "It is very clean and super comfy",
+          "meta": "Australia · ★9.6 · 2026.04"
+        },
+        {
+          "text": "And I would say this is one of the best.",
+          "meta": "Singapore · ★10 · 2026.04"
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "홍대 거리 - 마마스 앤 파파스 - 여성 전용 (Hongdae Street - Mamas n Papas - Female Only)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hongdae-mamas-n-papas/hotel/seoul-kr.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.8,
+      "reviewCount": 2545,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/73592762/0/be7827d2d73ac0bd58c9182f0692e1d2.jpg?va=1&ce=2",
+      "distanceNote": "약 246.05m · 상수역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 2,545건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 2,545건 기반.",
+      "reviews": [
+        {
+          "text": "Simple, quiet, clean, good location, reasonable price.",
+          "meta": "South Korea · ★9.2 · 2025.08"
+        },
+        {
+          "text": "It was comfortable and convenient enough.",
+          "meta": "South Korea · ★9.2 · 2026.02"
+        },
+        {
+          "text": "The room is clean, and the bathroom is convenient.",
+          "meta": "Indonesia · ★8.8 · 2026.05"
+        },
+        {
+          "text": "Stay was great comfortable and clean",
+          "meta": "United States · ★10 · 2026.04"
+        },
+        {
+          "text": "Would stay here again great location",
+          "meta": "United States · ★10 · 2026.04"
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-25T13:25:37.882Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
