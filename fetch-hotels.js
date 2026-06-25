@@ -67,35 +67,43 @@ function defaults(h, refName) {
   if (!picked.length) throw new Error('조건을 만족하는 호텔이 없습니다 (리뷰수/가격/평점 확인).');
 
   const citySlug = citySlugFrom(picked[0].propertyUrl) || '';
-  const refName = mode(picked.map(h => (h.refKind === 'station' ? h.refLandmark : null))) || (cityName + ' 중심');
+  const N = picked.length;
+  // cityId 검색은 도시 전역 결과 → 각 호텔의 "최단 역" 기준으로 표기
+  const refName = '각 호텔 최단 역';
+  const refShort = '최단 역';
   const hotels = picked.map(h => defaults(h, refName));
 
-  // 기존 JSON 있으면 편집 필드 보존, 없으면 플레이스홀더 생성
+  // 본문(제목·결론 등)은 실데이터에서 매번 재생성 — 옛 값 보존하지 않음(불일치 방지)
+  const shortName = s => String(s).split('(')[0].trim();
+  const top = picked[0];
+  const closest = [...picked].sort((a, b) => (a.walkMin || 99) - (b.walkMin || 99))[0];
+  const topPrice = (top.priceText.split('·')[1] || '').trim();
+  const verdictHtml = `가성비 1위는 <b>${shortName(top.name)}</b>(평점 ${top.score}·리뷰 ${Number(top.reviewCount).toLocaleString('en-US')}건${topPrice ? '·1박 ' + topPrice : ''})로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>${(closest.refLandmark || '주요 역')} 도보 ${closest.walkMin}분</b>의 <b>${shortName(closest.name)}</b>를 추천합니다.`;
+
   const outPath = path.join(ROOT, 'data', 'articles', slug + '.json');
   const prev = fs.existsSync(outPath) ? JSON.parse(fs.readFileSync(outPath, 'utf8')) : {};
-  const heroImg = picked[0].img || '';
+  const heroImg = picked[0].img ? ('https:' + picked[0].img.replace(/^https?:/, '')) : '';
   const data = {
     slug,
-    title: prev.title || `${cityName} ${refName} 인근 가성비 호텔 ${hotels.length}곳 비교`,
-    metaDescription: prev.metaDescription || `AI가 실제 아고다 리뷰 데이터를 분석해 ${cityName} ${refName} 인근 가성비 호텔 ${hotels.length}곳을 거리·평점·가격·가성비지수로 비교했습니다.`,
+    title: `${cityName} 가성비 호텔 ${N}곳 비교 — 실제 리뷰·역세권 기준`,
+    metaDescription: `AI가 실제 아고다 리뷰 데이터를 분석해 ${cityName} 가성비 호텔 ${N}곳을 거리·평점·가격·가성비지수로 비교했습니다.`,
     lang: prev.lang || 'ko-kr',
     citySlug: prev.citySlug || citySlug,
     cityName: prev.cityName || cityName,
     cityId: Number(cityId),
-    refName: prev.refName || refName,
-    refShort: prev.refShort || refName,
-    areaName: prev.areaName || cityName,
+    refName, refShort,
+    areaName: cityName,
     heroImg: prev.heroImg || heroImg,
-    heroAlt: prev.heroAlt || `${cityName} ${refName}`,
-    heroTitleHtml: prev.heroTitleHtml || `${cityName} ${refName} 인근<br>가성비 호텔 ${hotels.length}곳 비교`,
+    heroAlt: prev.heroAlt || cityName,
+    heroTitleHtml: `${cityName} 가성비 호텔 ${N}곳<br>실제 리뷰·역세권 비교`,
     heroSub: prev.heroSub || '실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에',
-    verdictHtml: prev.verdictHtml || `가성비 1위는 <b>${hotels[0].name}</b>(가성비지수 ${hotels[0].valueIndex})입니다. (편집 보강 권장)`,
-    outroImg: prev.outroImg || (picked[picked.length - 1].img || heroImg),
-    outroTitle: prev.outroTitle || `🌙 ${cityName} ${refName}, 어디에 묵어도 후회없이`,
-    outroText: prev.outroText || `위 ${hotels.length}곳은 모두 ${refName} 인근의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 ${cityName} 전체 숙소를 한 번에 비교해보세요.`,
+    verdictHtml,
+    outroImg: prev.outroImg || heroImg,
+    outroTitle: `🌙 ${cityName}, 어디에 묵어도 후회없이`,
+    outroText: `위 ${N}곳은 모두 ${cityName} 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 ${cityName} 전체 숙소를 한 번에 비교해보세요.`,
     seasons: prev.seasons || [],
     hotels,
-    _meta: { fetchedAt: new Date().toISOString(), source: 'agoda citySearch', count: hotels.length },
+    _meta: { fetchedAt: new Date().toISOString(), source: 'agoda citySearch', count: N },
   };
 
   fs.writeFileSync(outPath, JSON.stringify(data, null, 2));

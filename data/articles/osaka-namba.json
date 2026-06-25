@@ -1,76 +1,163 @@
 {
   "slug": "osaka-namba",
-  "title": "오사카 난바역 도보 7분 이내 가성비 호텔 5곳 비교",
-  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 오사카 난바역 인근 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "title": "오사카 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 오사카 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
   "lang": "ko-kr",
   "citySlug": "osaka-jp",
   "cityName": "오사카",
-  "refName": "난바역",
-  "refShort": "난바역",
-  "areaName": "난바",
+  "cityId": 9590,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "오사카",
   "heroImg": "https://picsum.photos/seed/osaka-namba-night/1000/520",
-  "heroAlt": "오사카 난바 야경",
-  "heroTitleHtml": "오사카 난바역 도보 7분 이내<br>가성비 호텔 5곳 비교",
+  "heroAlt": "오사카 야경",
+  "heroTitleHtml": "오사카 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
   "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
-  "verdictHtml": "가성비만 보면 <b>난바 스테이호텔</b>(가성비지수 9.2)이 1위, 역과 가장 가까운 곳을 원하면 <b>도보 2분</b>의 <b>난바역 프론트 호텔</b>입니다.",
+  "verdictHtml": "가성비 1위는 <b>그랜드 호스텔 엘디케이 오사카 신사이바시</b>(평점 9.0·리뷰 11,455건·1박 약 3만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>난바역 도보 2분</b>의 <b>Y's 캐빈 오사카 난바</b>를 추천합니다.",
   "outroImg": "https://picsum.photos/seed/osaka-castle/1000/440",
-  "outroTitle": "🌙 오사카 난바, 어디에 묵어도 후회없이",
-  "outroText": "위 5곳은 모두 난바역 도보권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 난바 전체 숙소를 한 번에 비교해보세요.",
+  "outroTitle": "🌙 오사카, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 오사카 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 오사카 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [
+    {
+      "emoji": "🌸",
+      "label": "봄 (3~5월)",
+      "pro": "벚꽃 시즌, 기온 쾌적해 도보 관광 최적",
+      "conHtml": "골든위크엔 가격이 오릅니다 — 다만 4월 초·중순을 노리면 벚꽃은 그대로 즐기면서 요금은 평시 수준으로 잡을 수 있어요."
+    },
+    {
+      "emoji": "☀️",
+      "label": "여름 (6~8월)",
+      "pro": "불꽃축제·여름 세일, 객실 요금은 비교적 저렴",
+      "conHtml": "덥고 습합니다 — 대신 위 호텔들은 모두 역·지하상가와 연결돼 더위 노출이 적고, 냉방 만족도가 높아 체감 불편은 크지 않습니다."
+    },
+    {
+      "emoji": "🍁",
+      "label": "가을 (9~11월)",
+      "pro": "단풍·맑은 날씨, 1년 중 여행 만족도가 가장 높은 시즌",
+      "conHtml": "인기 시즌이라 예약이 빨리 찹니다 — 일정이 정해졌다면 미리 잡아두면 좋은 방을 평시 요금에 확보할 수 있어요."
+    },
+    {
+      "emoji": "❄️",
+      "label": "겨울 (12~2월)",
+      "pro": "연말 일루미네이션, 비수기라 가성비 최고",
+      "conHtml": "해가 짧습니다 — 대신 도톤보리 야경과 실내 쇼핑 위주로 동선을 짜면 오히려 겨울만의 분위기를 알차게 즐길 수 있습니다."
+    }
+  ],
   "hotels": [
     {
-      "rank": 1, "name": "난바 스테이호텔", "hotelSlug": "namba-stay-hotel",
-      "walkMin": 5, "score": 8.9, "reviewCount": 4210, "priceBand": 2, "priceText": "₩₩ · 약 11만원",
-      "valueIndex": 9.2, "img": "https://picsum.photos/seed/namba-stay/900/506",
-      "distanceNote": "약 400m · 편의점·식당 밀집 골목",
-      "metaTags": ["💰 약 11만원", "📝 리뷰 4,210건", "🅿️ 무료주차", "📶 무료 Wi-Fi"],
-      "reviewKeywordsHtml": "<b>가격대비 좋음(1,120회)</b>, <b>청결(980회)</b>, 위치 좋음(870회). 4,200건 넘는 충분한 표본이라 평점 신뢰도가 높습니다.",
+      "rank": 1,
+      "name": "그랜드 호스텔 엘디케이 오사카 신사이바시 (GRAND HOSTEL LDK OSAKA SHINSAIBASHI)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-stay-osaka-shinsaibashi/hotel/osaka-jp.html?cid=1925461",
+      "walkMin": 2,
+      "score": 9,
+      "reviewCount": 11455,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/6405135/0/9aaedf3e6e75e1e9bf9ff69e6aa54e4f.jpg?ce=0",
+      "distanceNote": "약 182.28m · 나가호리바시역 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 11,455건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 리뷰 11,455건 기반. (리뷰 키워드 분석은 보강 예정)",
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
-      "rank": 2, "name": "난바역 프론트 호텔", "hotelSlug": "namba-front-hotel",
-      "walkMin": 2, "score": 8.6, "reviewCount": 3180, "priceBand": 2, "priceText": "₩₩ · 약 12만원",
-      "valueIndex": 8.8, "img": "https://picsum.photos/seed/namba-front/900/506",
-      "distanceNote": "약 150m · 역 출구 바로 앞, 비 와도 거의 안 젖음",
-      "metaTags": ["💰 약 12만원", "📝 리뷰 3,180건", "🕐 24시간 프런트", "📶 무료 Wi-Fi"],
-      "reviewKeywordsHtml": "<b>역 접근성(1,440회)</b>, 체크인 편함(610회), 조용함(520회). \"캐리어 끌고 2분\"이라는 후기가 반복적으로 등장합니다.",
-      "ctaText": "🚶 역 바로 앞 호텔 예약 확인"
+      "rank": 2,
+      "name": "Y's 캐빈 오사카 난바 (Y's Cabin Osaka Namba)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/y-s-cabin-osaka-namba_3/hotel/osaka-jp.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.8,
+      "reviewCount": 7420,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/2011879/0/632eb432a93abc1faf6d4b1801742a69.jpeg?ce=2",
+      "distanceNote": "약 130.6m · 난바역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 7,420건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 리뷰 7,420건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
-      "rank": 3, "name": "도톤보리 리버뷰", "hotelSlug": "dotonbori-riverview",
-      "walkMin": 6, "score": 9.0, "reviewCount": 2540, "priceBand": 3, "priceText": "₩₩₩ · 약 17만원",
-      "valueIndex": 8.1, "img": "https://picsum.photos/seed/dotonbori-river/900/506",
-      "distanceNote": "약 480m · 도톤보리 야경 도보권",
-      "metaTags": ["💰 약 17만원", "📝 리뷰 2,540건", "🌃 리버뷰", "📶 무료 Wi-Fi"],
-      "reviewKeywordsHtml": "<b>전망(990회)</b>, 야경(760회), 친절(540회). 평점은 9.0으로 가장 높고, 가격이 조금 높아 가성비지수는 3위입니다.",
-      "ctaText": "🌃 도톤보리 야경 호텔 보기"
+      "rank": 3,
+      "name": "Bande Hotel Osaka",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bande-hotel-osaka/hotel/wachi-cho-jp.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.7,
+      "reviewCount": 3779,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/90031528/0/60e436c19d3d60846fbb1385861f68aa.jpg?ce=3",
+      "distanceNote": "약 333.59m · 기시노사토타마데역 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 3,779건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 리뷰 3,779건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
-      "rank": 4, "name": "난카이 가든 인", "hotelSlug": "nankai-garden-inn",
-      "walkMin": 4, "score": 8.3, "reviewCount": 1870, "priceBand": 1, "priceText": "₩ · 약 8만원",
-      "valueIndex": 8.0, "img": "https://picsum.photos/seed/nankai-garden/900/506",
-      "distanceNote": "약 320m · 난카이선으로 간사이공항 직결 동선",
-      "metaTags": ["💰 약 8만원", "📝 리뷰 1,870건", "✈️ 공항 직결", "📶 무료 Wi-Fi"],
-      "reviewKeywordsHtml": "<b>가격(880회)</b>, 공항 접근(640회), 깔끔함(430회). 5곳 중 가장 저렴해 예산 여행에 강점입니다.",
-      "ctaText": "💰 최저가 객실 보기"
+      "rank": 4,
+      "name": "퍼스트 캐빈 니시 우메다 (FIRST CABIN NISHI UMEDA)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/h32828682/hotel/osaka-jp.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.6,
+      "reviewCount": 2005,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/32828682/-1/f96d0be620fee9d8d7459a854bb04126.jpg?ce=0",
+      "distanceNote": "약 308.23m · 후쿠시마역 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 2,005건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 리뷰 2,005건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
-      "rank": 5, "name": "신사이바시 코트야드", "hotelSlug": "shinsaibashi-courtyard",
-      "walkMin": 7, "score": 8.7, "reviewCount": 5020, "priceBand": 3, "priceText": "₩₩₩ · 약 19만원",
-      "valueIndex": 7.6, "img": "https://picsum.photos/seed/shinsaibashi/900/506",
-      "distanceNote": "약 550m · 쇼핑 거리 신사이바시 중심",
-      "metaTags": ["💰 약 19만원", "📝 리뷰 5,020건", "🛍️ 쇼핑 중심", "📶 무료 Wi-Fi"],
-      "reviewKeywordsHtml": "<b>쇼핑 위치(1,610회)</b>, 시설 좋음(900회), 청결(820회). 평점·리뷰 모두 우수하나 가격대가 높아 가성비지수는 5위입니다.",
-      "ctaText": "🛍️ 쇼핑 중심 호텔 보기"
+      "rank": 5,
+      "name": "APA 호텔 난바 신사이바시 (APA Hotel Namba-Shinsaibashi)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/apa-hotel-namba-shinsaibashi/hotel/osaka-jp.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.2,
+      "reviewCount": 9615,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.2,
+      "img": "//pix8.agoda.net/hotelImages/297770/-1/823daf3a27fb6d7ef62ba14d020af5b5.jpg?ce=0",
+      "distanceNote": "약 266.32m · 오사카난바역 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 9,615건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 리뷰 9,615건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
     }
   ],
-  "seasons": [
-    { "emoji": "🌸", "label": "봄 (3~5월)", "pro": "벚꽃 시즌, 기온 쾌적해 도보 관광 최적",
-      "conHtml": "골든위크엔 가격이 오릅니다 — 다만 4월 초·중순을 노리면 벚꽃은 그대로 즐기면서 요금은 평시 수준으로 잡을 수 있어요." },
-    { "emoji": "☀️", "label": "여름 (6~8월)", "pro": "불꽃축제·여름 세일, 객실 요금은 비교적 저렴",
-      "conHtml": "덥고 습합니다 — 대신 위 호텔들은 모두 역·지하상가와 연결돼 더위 노출이 적고, 냉방 만족도가 높아 체감 불편은 크지 않습니다." },
-    { "emoji": "🍁", "label": "가을 (9~11월)", "pro": "단풍·맑은 날씨, 1년 중 여행 만족도가 가장 높은 시즌",
-      "conHtml": "인기 시즌이라 예약이 빨리 찹니다 — 일정이 정해졌다면 미리 잡아두면 좋은 방을 평시 요금에 확보할 수 있어요." },
-    { "emoji": "❄️", "label": "겨울 (12~2월)", "pro": "연말 일루미네이션, 비수기라 가성비 최고",
-      "conHtml": "해가 짧습니다 — 대신 도톤보리 야경과 실내 쇼핑 위주로 동선을 짜면 오히려 겨울만의 분위기를 알차게 즐길 수 있습니다." }
-  ]
+  "_meta": {
+    "fetchedAt": "2026-06-25T07:52:14.885Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
 }
