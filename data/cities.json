@@ -1,0 +1,16 @@
+[
+  { "cityId": 9590,   "slug": "osaka-namba", "name": "오사카" },
+  { "cityId": 5085,   "slug": "tokyo",       "name": "도쿄" },
+  { "cityId": 1784,   "slug": "kyoto",       "name": "교토" },
+  { "cityId": 16527,  "slug": "fukuoka",     "name": "후쿠오카" },
+  { "cityId": 13740,  "slug": "nagoya",      "name": "나고야" },
+  { "cityId": 3435,   "slug": "sapporo",     "name": "삿포로" },
+  { "cityId": 4590,   "slug": "yokohama",    "name": "요코하마" },
+  { "cityId": 3561,   "slug": "kobe",        "name": "고베" },
+  { "cityId": 107999, "slug": "okinawa",     "name": "오키나와" },
+  { "cityId": 14690,  "slug": "seoul",       "name": "서울" },
+  { "cityId": 17172,  "slug": "busan",       "name": "부산" },
+  { "cityId": 17232,  "slug": "daegu",       "name": "대구" },
+  { "cityId": 17234,  "slug": "incheon",     "name": "인천" },
+  { "cityId": 16901,  "slug": "jeju",        "name": "제주" }
+]
