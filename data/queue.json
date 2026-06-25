@@ -1,11 +1,11 @@
 {
-  "lastPostedAt": null,
-  "nextIntervalMin": 30,
-  "intervalCursor": 0,
-  "postedToday": 0,
-  "postedDate": null,
-  "queue": [
+  "lastPostedAt": "2026-06-25T00:38:39.416Z",
+  "nextIntervalMin": 29,
+  "intervalCursor": 1,
+  "postedToday": 1,
+  "postedDate": "2026-06-25",
+  "queue": [],
+  "publishedSlugs": [
     "osaka-namba"
-  ],
-  "publishedSlugs": []
+  ]
 }
