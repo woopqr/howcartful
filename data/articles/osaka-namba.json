@@ -1,7 +1,7 @@
 {
   "slug": "osaka-namba",
-  "title": "오사카 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
-  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 오사카 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "title": "오사카 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 오사카 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
   "lang": "ko-kr",
   "citySlug": "osaka-jp",
   "cityName": "오사카",
@@ -11,12 +11,12 @@
   "areaName": "오사카",
   "heroImg": "https://picsum.photos/seed/osaka-namba-night/1000/520",
   "heroAlt": "오사카 야경",
-  "heroTitleHtml": "오사카 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroTitleHtml": "오사카 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
   "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
-  "verdictHtml": "가성비 1위는 <b>그랜드 호스텔 엘디케이 오사카 신사이바시</b>(평점 9.0·리뷰 11,455건·1박 약 3만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>난바역 도보 2분</b>의 <b>Y's 캐빈 오사카 난바</b>를 추천합니다.",
+  "verdictHtml": "가성비 1위는 <b>캐빈 앤 캡슐 호텔 J-쉽 오사카 난바</b>(평점 9.1·리뷰 6,042건·1박 약 4만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>나가호리바시역 도보 2분</b>의 <b>그랜드 호스텔 엘디케이 오사카 신사이바시</b>를 추천합니다.",
   "outroImg": "https://picsum.photos/seed/osaka-castle/1000/440",
   "outroTitle": "🌙 오사카, 어디에 묵어도 후회없이",
-  "outroText": "위 5곳은 모두 오사카 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 오사카 전체 숙소를 한 번에 비교해보세요.",
+  "outroText": "위 7곳은 모두 오사카 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 오사카 전체 숙소를 한 번에 비교해보세요.",
   "seasons": [
     {
       "emoji": "🌸",
@@ -46,6 +46,28 @@
   "hotels": [
     {
       "rank": 1,
+      "name": "캐빈 앤 캡슐 호텔 J-쉽 오사카 난바 (Cabin & Capsule Hotel J-SHIP Osaka Namba)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cabin-capsule-hotel-j-ship-osaka-namba/hotel/osaka-jp.html?cid=1925461",
+      "walkMin": 3,
+      "score": 9.1,
+      "reviewCount": 6042,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/5710110/-1/b651de3e1ab9cbca7494a8a43af40f64.jpg?va=1&ca=11&ce=1",
+      "distanceNote": "약 223.67m · JR 난바역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 6,042건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 리뷰 6,042건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
       "name": "그랜드 호스텔 엘디케이 오사카 신사이바시 (GRAND HOSTEL LDK OSAKA SHINSAIBASHI)",
       "hotelSlug": "",
       "agodaUrl": "https://www.agoda.com/the-stay-osaka-shinsaibashi/hotel/osaka-jp.html?cid=1925461",
@@ -55,7 +77,7 @@
       "priceBand": 1,
       "priceText": "₩ · 약 3만원",
       "valueIndex": 9,
-      "img": "//pix8.agoda.net/hotelImages/6405135/0/9aaedf3e6e75e1e9bf9ff69e6aa54e4f.jpg?ce=0",
+      "img": "//pix8.agoda.net/hotelImages/6405135/0/9aaedf3e6e75e1e9bf9ff69e6aa54e4f.jpg?va=1&ce=0",
       "distanceNote": "약 182.28m · 나가호리바시역 인근",
       "metaTags": [
         "💰 약 3만원",
@@ -67,7 +89,7 @@
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Y's 캐빈 오사카 난바 (Y's Cabin Osaka Namba)",
       "hotelSlug": "",
       "agodaUrl": "https://www.agoda.com/y-s-cabin-osaka-namba_3/hotel/osaka-jp.html?cid=1925461",
@@ -77,7 +99,7 @@
       "priceBand": 1,
       "priceText": "₩ · 약 6만원",
       "valueIndex": 8.8,
-      "img": "//pix8.agoda.net/hotelImages/2011879/0/632eb432a93abc1faf6d4b1801742a69.jpeg?ce=2",
+      "img": "//pix8.agoda.net/hotelImages/201/2011879/2011879_17083017220055857559.jpg?va=1&ca=6&ce=1",
       "distanceNote": "약 130.6m · 난바역 인근",
       "metaTags": [
         "💰 약 6만원",
@@ -89,7 +111,7 @@
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Bande Hotel Osaka",
       "hotelSlug": "",
       "agodaUrl": "https://www.agoda.com/bande-hotel-osaka/hotel/wachi-cho-jp.html?cid=1925461",
@@ -97,12 +119,12 @@
       "score": 8.7,
       "reviewCount": 3779,
       "priceBand": 1,
-      "priceText": "₩ · 약 8만원",
+      "priceText": "₩ · 약 7만원",
       "valueIndex": 8.7,
-      "img": "//pix8.agoda.net/hotelImages/90031528/0/60e436c19d3d60846fbb1385861f68aa.jpg?ce=3",
+      "img": "//pix8.agoda.net/hotelImages/90031528/0/60e436c19d3d60846fbb1385861f68aa.jpg?va=1&ce=3",
       "distanceNote": "약 333.59m · 기시노사토타마데역 인근",
       "metaTags": [
-        "💰 약 8만원",
+        "💰 약 7만원",
         "📝 리뷰 3,779건",
         "⭐ 4성급",
         "📶 무료 Wi-Fi"
@@ -111,7 +133,7 @@
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "퍼스트 캐빈 니시 우메다 (FIRST CABIN NISHI UMEDA)",
       "hotelSlug": "",
       "agodaUrl": "https://www.agoda.com/h32828682/hotel/osaka-jp.html?cid=1925461",
@@ -121,7 +143,7 @@
       "priceBand": 1,
       "priceText": "₩ · 약 8만원",
       "valueIndex": 8.6,
-      "img": "//pix8.agoda.net/hotelImages/32828682/-1/f96d0be620fee9d8d7459a854bb04126.jpg?ce=0",
+      "img": "//pix8.agoda.net/hotelImages/32828682/-1/f96d0be620fee9d8d7459a854bb04126.jpg?va=1&ce=0",
       "distanceNote": "약 308.23m · 후쿠시마역 인근",
       "metaTags": [
         "💰 약 8만원",
@@ -133,7 +155,7 @@
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "APA 호텔 난바 신사이바시 (APA Hotel Namba-Shinsaibashi)",
       "hotelSlug": "",
       "agodaUrl": "https://www.agoda.com/apa-hotel-namba-shinsaibashi/hotel/osaka-jp.html?cid=1925461",
@@ -143,7 +165,7 @@
       "priceBand": 1,
       "priceText": "₩ · 약 8만원",
       "valueIndex": 8.2,
-      "img": "//pix8.agoda.net/hotelImages/297770/-1/823daf3a27fb6d7ef62ba14d020af5b5.jpg?ce=0",
+      "img": "//pix8.agoda.net/hotelImages/297770/-1/823daf3a27fb6d7ef62ba14d020af5b5.jpg?va=1&ce=0",
       "distanceNote": "약 266.32m · 오사카난바역 인근",
       "metaTags": [
         "💰 약 8만원",
@@ -153,11 +175,33 @@
       ],
       "reviewKeywordsHtml": "평점 <b>8.2</b> · 리뷰 9,615건 기반. (리뷰 키워드 분석은 보강 예정)",
       "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "홈네스트 호텔 텐노지 (HomeNest Hotel Tennoji)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/homenest-hotel-tennoji/hotel/osaka-jp.html?cid=1925461",
+      "walkMin": 7,
+      "score": 8.3,
+      "reviewCount": 259,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.2,
+      "img": "//pix8.agoda.net/hotelImages/80467033/0/7d5294dc9fd69fb3f2f82141dd1b663b.jpg?va=1&ce=2",
+      "distanceNote": "약 544.66m · 덴노지역 (지하철 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 259건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 리뷰 259건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
     }
   ],
   "_meta": {
-    "fetchedAt": "2026-06-25T07:52:14.885Z",
+    "fetchedAt": "2026-06-25T08:14:23.424Z",
     "source": "agoda citySearch",
-    "count": 5
+    "count": 7
   }
 }

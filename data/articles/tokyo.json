@@ -1,0 +1,138 @@
+{
+  "slug": "tokyo",
+  "title": "도쿄 / 동경 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 도쿄 / 동경 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "taito-ku-jp",
+  "cityName": "도쿄 / 동경",
+  "cityId": 5085,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "도쿄 / 동경",
+  "heroImg": "https://pix8.agoda.net/hotelImages/83534561/0/eefbaf0ccf2eac257cfbc05176128418.jpg?ce=3",
+  "heroAlt": "도쿄 / 동경",
+  "heroTitleHtml": "도쿄 / 동경 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>와 호스텔</b>(평점 9.1·리뷰 305건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>스에히로초역 도보 2분</b>의 <b>글랜시트 아키하바라 컴포트 캡슐 호텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/83534561/0/eefbaf0ccf2eac257cfbc05176128418.jpg?ce=3",
+  "outroTitle": "🌙 도쿄 / 동경, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 도쿄 / 동경 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 도쿄 / 동경 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "와 호스텔 (Wa Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wa-hostel/hotel/taito-ku-jp.html?cid=1925461",
+      "walkMin": 3,
+      "score": 9.1,
+      "reviewCount": 305,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/83534561/0/eefbaf0ccf2eac257cfbc05176128418.jpg?ce=3",
+      "distanceNote": "약 251.98m · 구라마에역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 305건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 리뷰 305건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "글랜시트 아키하바라 컴포트 캡슐 호텔 (GLANSIT AKIHABARA COMFORT CAPUSULE HOTEL)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/glansit-akihabara-comfort-capusule-hotel/hotel/tokyo-jp.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.8,
+      "reviewCount": 7272,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/2891306/0/219cc389bcffd7c58afde84fc0b261ef.jpeg?ce=2",
+      "distanceNote": "약 181.26m · 스에히로초역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 7,272건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 리뷰 7,272건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "북 티 베드 시부야 (Book Tea Bed SHIBUYA)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bookteabed-shibuya/hotel/tokyo-jp.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.7,
+      "reviewCount": 5236,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/55140165/0/220243d78ad58c6c24b366468af70dfe.jpeg?ce=2",
+      "distanceNote": "약 303.9m · 신센역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 5,236건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 리뷰 5,236건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "퍼스트 캐빈 이치가야 (FIRST CABIN Ichigaya)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/first-cabin-tkp-ichigaya_3/hotel/tokyo-jp.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.7,
+      "reviewCount": 5956,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/6173573/-1/3b33fe6b0d2321495acf683261215581.jpg?ca=28&ce=0",
+      "distanceNote": "약 164.12m · 이치가야역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 5,956건",
+        "⭐ 1.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 리뷰 5,956건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "9h 나인아워즈 하마마츠초 (9h nine hours Hamamatsucho )",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nine-hours-hamamatsucho/hotel/tokyo-jp.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.4,
+      "reviewCount": 12375,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.4,
+      "img": "//pix8.agoda.net/hotelImages/9775328/0/cae50d519da4b9d4877048920c900dc4.jpeg?ce=2",
+      "distanceNote": "약 123.25m · 다이몬역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 12,375건",
+        "⭐ 1.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 리뷰 12,375건 기반. (리뷰 키워드 분석은 보강 예정)",
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-25T08:09:27.759Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}

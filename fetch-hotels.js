@@ -17,7 +17,7 @@ const af = require('./lib/agoda-fetch');
 
 const ROOT = __dirname;
 const [cityId, slug, nArg] = process.argv.slice(2);
-const N = Number(nArg) || 5;
+const N = Number(nArg) || 7;   // 비교 호텔 수 기본 7(홀수) — 5도 가능
 const MIN_REVIEWS = 30;
 
 if (!cityId || !slug) {
