@@ -1,0 +1,441 @@
+{
+  "slug": "hongkong",
+  "title": "홍콩 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 홍콩 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "hong-kong-hk",
+  "cityName": "홍콩",
+  "cityId": 16808,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "홍콩",
+  "heroImg": "https://pix8.agoda.net/hotelImages/7406638/-1/7b1d5ad542ef71f247dc758113a567c2.jpg?ca=9&ce=1",
+  "heroAlt": "홍콩",
+  "heroTitleHtml": "홍콩 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>하이 백패커스</b>(평점 8.9·리뷰 1,074건·1박 약 4만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>百德新街 Paterson Street 도보 1분</b>의 <b>하이 백패커스</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/7406638/-1/7b1d5ad542ef71f247dc758113a567c2.jpg?ca=9&ce=1",
+  "outroTitle": "🌙 홍콩, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 홍콩 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 홍콩 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "하이 백패커스 (홍콩 호스텔 그룹) (Hi Backpackers (Hong Kong Hostel Group))",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hi-backpackers-hong-kong-hostel-group/hotel/hong-kong-hk.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.9,
+      "reviewCount": 1074,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/7406638/-1/7b1d5ad542ef71f247dc758113a567c2.jpg?ca=9&ce=1",
+      "distanceNote": "약 36.12m · 百德新街 Paterson Street 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 1,074건",
+        "⭐ 1성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,074건 기반.",
+      "reviews": [
+        {
+          "text": "침대도 아늑했고 전체적인 분위기도 평화로웠어요.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "방도 크고 깨끗하고 특히 화장실이 넓습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 Hi Backpackers에서의 숙박은 정말 완벽했습니다.",
+          "score": "9.6",
+          "country": "中国",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "장소는 깨끗하고 깔끔하며 매우 편안했습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "직원들은 내가 환영받는다고 느낄 수 있도록 최선을 다했습니다.",
+          "score": "8.8",
+          "country": "中国",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "홉 인 (Hop Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hop-inn-on-mody/hotel/hong-kong-hk.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.7,
+      "reviewCount": 1251,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/9829023/-1/331727fd25d22eadbf71633111f00e54.jpg?ca=16&ce=1",
+      "distanceNote": "약 225.32m · East Tsim Sha Tsui MTR Station 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 1,251건",
+        "⭐ 1성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,251건 기반.",
+      "reviews": [
+        {
+          "text": "저는 5박을 머물렀는데 홍콩에서의 숙박은 그만한 가치가 있었습니다. 😊",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "홍콩을 방문한다면 꼭 다시 이곳에 묵고 싶습니다.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "시설과 매우 가깝고 호스텔 자체는 깨끗합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "위치는 훌륭했고 직원들은 매우 도움이 되었고 친절했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "나는 앞으로도 이 호스텔에 다시 머물고 싶습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "우디 하우스 (Woody House )",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/china-rich-hotel/hotel/hong-kong-hk.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.4,
+      "reviewCount": 3337,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/36820409/-1/66f9e8841b7bc7659b358feaf452443c.jpg?ce=0",
+      "distanceNote": "약 343.03m · 柯布連道 O'Brien Road 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 3,337건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 3,337건 기반.",
+      "reviews": [
+        {
+          "text": "객실은 깨끗하고 호텔은 안전하며 직원들은 친절하고 세심합니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "Woodys House 숙박을 강력히 추천합니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "가격, 위치, 가치 측면에서 이길 수 없습니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "홍콩에 여러 번 가본 적이 있으며 이것은 최고의 숙박 중 하나입니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "위치가 훌륭하고 지하철이나 트램에 쉽게 접근할 수 있습니다.",
+          "score": "8",
+          "country": "Japan",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Y 호텔 홍콩 (Y Hotel Hong Kong)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/y-hotel-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.8,
+      "reviewCount": 3720,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/35055407/0/2c51c7636800b1ebc5e458fe447e8655.jpeg?ce=0",
+      "distanceNote": "약 83.21m · 修打蘭街 Sutherland Street 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 3,720건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 3,720건 기반.",
+      "reviews": [
+        {
+          "text": "공항 A11 버스 정류장 근처에 편리하게 위치해 있습니다.",
+          "score": "9.2",
+          "country": "Mongolia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "새 호텔이라 더욱 깨끗하고 현대적입니다.",
+          "score": "8",
+          "country": "Canada",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "머무는 동안 방은 매일 꼼꼼하게 청소되었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "이 예약은 후회하지 않습니다. 예상보다 좋았습니다.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 멋진 전망, 조용한 숙박 공간, 편안한 침대.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2023.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "호미 센트럴 (Homy Central)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/homy-hotel-central/hotel/hong-kong-hk.html?cid=1925461",
+      "walkMin": 1,
+      "score": 7.7,
+      "reviewCount": 10604,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/124/1245185/1245185_16070814050044518551.jpg?ca=6&ce=1",
+      "distanceNote": "약 58.39m · 禧利街 Hillier Street 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 10,604건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 10,604건 기반.",
+      "reviews": [
+        {
+          "text": "Sheung Wan MTR 및 HK/MO 페리 항구까지 도보 거리.",
+          "score": "7.2",
+          "country": "Indonesia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "이 호텔의 가장 큰 장점 중 하나는 바로 위치입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "매우 편리하므로 환승 숙박을 적극 권장합니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "다음 번 홍콩 숙박도 이곳으로 다시 예약하고 싶습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "다음 번 홍콩 방문에도 꼭 예약하세요.",
+          "score": "8",
+          "country": "Philippines",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "미니 호텔 코즈웨이 베이 (mini hotel Causeway Bay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mini-hotel-causeway-bay/hotel/hong-kong-hk.html?cid=1925461",
+      "walkMin": 2,
+      "score": 7.7,
+      "reviewCount": 18556,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/339/339895/339895_14072813320020518458.jpg?ca=2&ce=1",
+      "distanceNote": "약 157.4m · 邊寧頓街 Pennington Street 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 18,556건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 18,556건 기반.",
+      "reviews": [
+        {
+          "text": "기차역과도 가까워 매우 편리합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "쇼핑, 음식, MTR 등 모든 것이 단 몇 걸음 거리에 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절했고 시설은 최고 수준이었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "방은 꽤 작았지만 깨끗하고 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "호텔 주변에는 다양한 상점과 레스토랑이 있습니다.",
+          "score": "8",
+          "country": "ไทย",
+          "date": "2023.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "벌링턴 호텔 (Burlington Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/burlington-hotel/hotel/hong-kong-hk.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.5,
+      "reviewCount": 11362,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/123/1239361/1239361_16091917370046623703.jpg?ca=6&ce=1",
+      "distanceNote": "약 102.49m · 機利臣街 Gresson Street 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 11,362건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 11,362건 기반.",
+      "reviews": [
+        {
+          "text": "특히 암막 블라인드가 있어 잠을 잘 잤습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "많은 7/11 테러, 상점, 레스토랑, 카페가 도보 거리에 있습니다.",
+          "score": "10",
+          "country": "Россия",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "위치가 매우 좋고 직원들도 매우 친절합니다.",
+          "score": "9.2",
+          "country": "Deutschland",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "침사추이행 스타 페리 터미널까지 도보로 10~15분.",
+          "score": "10",
+          "country": "Germany",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "하지만 트램과 MRT도 50m 정도 가깝습니다.",
+          "score": "10",
+          "country": "Germany",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-25T23:26:25.169Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
