@@ -1,0 +1,441 @@
+{
+  "slug": "taipei",
+  "title": "타이베이 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 타이베이 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "taipei-tw",
+  "cityName": "타이베이",
+  "cityId": 4951,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "타이베이",
+  "heroImg": "https://pix8.agoda.net/hotelImages/59425219/0/aef99f8ae2bc0faaeb35e6b4b88f6d48.jpg?ce=2",
+  "heroAlt": "타이베이",
+  "heroTitleHtml": "타이베이 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>원더타임 타이베이 스테이션-한커우 레이디스 호스텔</b>(평점 9.1·리뷰 3,030건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Taipei West Bus Station 도보 2분</b>의 <b>원더타임 타이베이 스테이션-카이펑 레이디스 호스텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/59425219/0/aef99f8ae2bc0faaeb35e6b4b88f6d48.jpg?ce=2",
+  "outroTitle": "🌙 타이베이, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 타이베이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 타이베이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "원더타임 타이베이 스테이션-한커우 레이디스 호스텔 (Wondertime Taipei Station-Hankou Ladies Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wondertime-taipei-station-branch-iii/hotel/taipei-tw.html?cid=1925461",
+      "walkMin": 3,
+      "score": 9.1,
+      "reviewCount": 3030,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/59425219/0/aef99f8ae2bc0faaeb35e6b4b88f6d48.jpg?ce=2",
+      "distanceNote": "약 268.05m · Taipei West Bus Station 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 3,030건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 3,030건 기반.",
+      "reviews": [
+        {
+          "text": "가격, 위치, 청결도 측면에서 적극 추천합니다",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "시먼 거리까지 걸어서 갈 수 있어 MRT를 탈 필요가 없습니다.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "나중에 대만을 방문한다면 이 호텔을 예약하겠습니다",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "아주 푹신한 매트리스와 베개에서 잠을 잘 잤습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "컴포트 룸도 매우 깨끗하고 잘 관리되어 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "타이완 유스 호스텔 (Taiwan Youth Hostel & Capsule Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/taiwan-youth-hostel-capsule-hotel/hotel/taipei-tw.html?cid=1925461",
+      "walkMin": 3,
+      "score": 9.1,
+      "reviewCount": 7799,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/1620123/-1/95993304e1b6178a77076d273f5a2ddb.jpg?ca=0&ce=1",
+      "distanceNote": "약 276.26m · Taipei Main Station 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 7,799건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 7,799건 기반.",
+      "reviews": [
+        {
+          "text": "- 입주자는 주방용품 사용 및 음식 조리가 가능합니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "내부가 매우 넓어서 짐을 넣을 수 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "숙소는 냄새가 좋고, 매우 깨끗하며, 주방이 넓습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "타이페이에서 가장 좋았던 숙소 중 하나였습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "편안하게 앉을 수 있는 넉넉한 헤드룸,",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "원더타임 타이베이 스테이션-카이펑 레이디스 호스텔 (Wondertime Taipei Station-Kaifeng Ladies Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wondertime2-ladies-inn-taipei-main-station/hotel/taipei-tw.html?cid=1925461",
+      "walkMin": 2,
+      "score": 9.1,
+      "reviewCount": 5340,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/55287011/-1/f89600950c809fada46e100423d999df.jpg?ce=0",
+      "distanceNote": "약 198.08m · Taipei West Bus Station 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 5,340건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 5,340건 기반.",
+      "reviews": [
+        {
+          "text": "게다가 깨끗하고 모든 것이 잘 정리되어 있습니다.",
+          "score": "9.6",
+          "country": "瑞典",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "좋아요...훌륭한 배낭여행 호스텔이에요...",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "가장 중요한 것은 훨씬 안전한 여성에게만 해당된다는 것입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "방금 집에 돌아와서 내년에도 이곳에서 또 숙박을 예약했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "원더타임 레이디스 호스텔은 내 기대를 크게 뛰어 넘었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "타이페이 디스커버 호스텔 (Taipei Discover Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/taipei-discover-hostel/hotel/taipei-tw.html?cid=1925461",
+      "walkMin": 3,
+      "score": 9,
+      "reviewCount": 4890,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/1023680/0/7e78f68adbdfc81ce8738b1d17587419.jpeg?ce=0",
+      "distanceNote": "약 265.6m · 중산초교역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 4,890건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 4,890건 기반.",
+      "reviews": [
+        {
+          "text": "위치는 완벽했고 모든 것에 쉽게 접근할 수 있었습니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "FD가 처음부터 모든 것을 설명하는 방식이 마음에 듭니다.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "가격도 저렴하고, 깨끗하고, 위치도 좋아요!",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 체계적이며 매우 도움이되는 직원.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "저는 타이페이에 있는 이 호스텔에서 정말 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2024.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "위 컴 호스텔 (We Come Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/we-come-hostel/hotel/taipei-tw.html?cid=1925461",
+      "walkMin": 5,
+      "score": 9,
+      "reviewCount": 10329,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/870083/0/043b146748cdaec3ff21b01d2e9ac6ee.png?ce=3",
+      "distanceNote": "약 363.58m · 베이먼역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 10,329건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 10,329건 기반.",
+      "reviews": [
+        {
+          "text": "우리 호스텔은 잘 관리된 시설을 갖춘 사랑스러운 곳이었습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "중앙역이 근처에 있어 모든 것의 중심에 있습니다.",
+          "score": "10",
+          "country": "Austria",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "공용 공간에는 다양한 편의시설이 갖춰져 있어 집처럼 느껴졌습니다.",
+          "score": "9.6",
+          "country": "Austria",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "나머지는 이 가격에 딱 맞는 셰프의 키스였어요",
+          "score": "9.2",
+          "country": "新加坡",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "유명한 디화(Dihua) 거리에서 도보로 단 5분 거리에 있습니다.",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2022.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "그레이스 호텔 둔베이 (Grace Hotel Dunbei)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/grace-hotel-dunbei/hotel/taipei-tw.html?cid=1925461",
+      "walkMin": 7,
+      "score": 9,
+      "reviewCount": 2541,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/36422239/-1/f808c2c83fa8a5d15a6ca60363281a47.jpg?ce=0",
+      "distanceNote": "약 521.84m · 중산중학교역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 2,541건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,541건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 정돈된 모든 필수품이 여러분을 위해 준비되어 있습니다.",
+          "score": "8.8",
+          "country": "台灣",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "욕실도 깨끗하고 침구도 편안해요.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "24시간 컨시어지가 있어서 새벽 4시에 체크인도 가능했어요.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안하며 호스텔 사용자를 위한 좋은 서비스",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "방 크기에 놀랐습니다. 직원들은 정말 친절하고 협조적이었습니다.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "원더월 시먼딩 (Wonderwall Ximending)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wonderwall-ximending/hotel/taipei-tw.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.8,
+      "reviewCount": 3418,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/55643364/-1/60520d9a3ae418fa3d4bab6434da72eb.jpg?ce=0",
+      "distanceNote": "약 393.95m · 시먼역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 3,418건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 3,418건 기반.",
+      "reviews": [
+        {
+          "text": "시설은 첨단 기술이며 잘 관리되어 있습니다.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 모든 것이 깨끗하고 현대적이며 잘 관리된 느낌을 받았습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "우리 방에는 심지어 셀카를 찍을 수 있는 소파와 거울도 있습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "침대는 매우 편안하고 객실은 매우 깨끗합니다.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗했고, 내내 신선한 냄새가 났습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-25T16:01:02.843Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

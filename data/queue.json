@@ -1,16 +1,17 @@
 {
-  "lastPostedAt": "2026-06-25T13:25:36.934Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 3,
+  "lastPostedAt": "2026-06-25T16:00:24.947Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 4,
   "postedDate": "2026-06-25",
   "queue": [
-    "fukuoka",
-    "seoul"
+    "seoul",
+    "taipei"
   ],
   "publishedSlugs": [
     "osaka-namba",
     "tokyo",
-    "kyoto"
+    "kyoto",
+    "fukuoka"
   ]
 }
