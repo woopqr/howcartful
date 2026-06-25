@@ -67,7 +67,7 @@ function defaults(h, refName) {
   if (!picked.length) throw new Error('조건을 만족하는 호텔이 없습니다 (리뷰수/가격/평점 확인).');
 
   const citySlug = citySlugFrom(picked[0].propertyUrl) || '';
-  const N = picked.length;
+  const count = picked.length;
   // cityId 검색은 도시 전역 결과 → 각 호텔의 "최단 역" 기준으로 표기
   const refName = '각 호텔 최단 역';
   const refShort = '최단 역';
@@ -85,8 +85,8 @@ function defaults(h, refName) {
   const heroImg = picked[0].img ? ('https:' + picked[0].img.replace(/^https?:/, '')) : '';
   const data = {
     slug,
-    title: `${cityName} 가성비 호텔 ${N}곳 비교 — 실제 리뷰·역세권 기준`,
-    metaDescription: `AI가 실제 아고다 리뷰 데이터를 분석해 ${cityName} 가성비 호텔 ${N}곳을 거리·평점·가격·가성비지수로 비교했습니다.`,
+    title: `${cityName} 가성비 호텔 ${count}곳 비교 — 실제 리뷰·역세권 기준`,
+    metaDescription: `AI가 실제 아고다 리뷰 데이터를 분석해 ${cityName} 가성비 호텔 ${count}곳을 거리·평점·가격·가성비지수로 비교했습니다.`,
     lang: prev.lang || 'ko-kr',
     citySlug: prev.citySlug || citySlug,
     cityName: prev.cityName || cityName,
@@ -95,15 +95,15 @@ function defaults(h, refName) {
     areaName: cityName,
     heroImg: prev.heroImg || heroImg,
     heroAlt: prev.heroAlt || cityName,
-    heroTitleHtml: `${cityName} 가성비 호텔 ${N}곳<br>실제 리뷰·역세권 비교`,
+    heroTitleHtml: `${cityName} 가성비 호텔 ${count}곳<br>실제 리뷰·역세권 비교`,
     heroSub: prev.heroSub || '실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에',
     verdictHtml,
     outroImg: prev.outroImg || heroImg,
     outroTitle: `🌙 ${cityName}, 어디에 묵어도 후회없이`,
-    outroText: `위 ${N}곳은 모두 ${cityName} 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 ${cityName} 전체 숙소를 한 번에 비교해보세요.`,
+    outroText: `위 ${count}곳은 모두 ${cityName} 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 ${cityName} 전체 숙소를 한 번에 비교해보세요.`,
     seasons: prev.seasons || [],
     hotels,
-    _meta: { fetchedAt: new Date().toISOString(), source: 'agoda citySearch', count: N },
+    _meta: { fetchedAt: new Date().toISOString(), source: 'agoda citySearch', count },
   };
 
   fs.writeFileSync(outPath, JSON.stringify(data, null, 2));
