@@ -6,58 +6,74 @@
   <title>howcartful — AI 리뷰분석 가성비 호텔 추천·비교</title>
   <meta name="description" content="AI가 실제 호텔 리뷰 데이터를 분석해 가성비 좋은 호텔을 근거기반으로 비교·추천하는 모음 사이트.">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <script>(function(){try{var t=localStorage.getItem('hc-theme');if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','light');}})();</script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9152627772468202" crossorigin="anonymous"></script>
   <style>
-    :root{ --bg:#0a0a12; --text:#eef0f5; --muted:#9aa3b2; --p1:#a855f7; --p2:#3b82f6; }
+    /* 라이트 기본값 */
+    :root{
+      --bg:#fbfbfe; --text:#15171c; --muted:#5b6470; --line:#e6e8ef; --p1:#a855f7; --p2:#3b82f6;
+      --glow:rgba(124,92,246,.10);
+      --card-bg:#ffffff; --card-sh:0 8px 24px rgba(30,30,60,.08); --card-sh-h:0 16px 40px rgba(124,92,246,.18);
+      --border-op:.55; --foot:#8a93a3; --input-bg:#f4f5f9; --input-bd:#e0e3ec; --ph:#9aa3b2;
+    }
+    /* 다크 값 (시스템 다크 + 수동 다크) */
+    @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+      --bg:#0a0a12; --text:#eef0f5; --muted:#9aa3b2; --line:#1c1c28; --glow:rgba(124,92,246,.18);
+      --card-bg:linear-gradient(180deg,#14141f,#101019); --card-sh:0 10px 30px rgba(0,0,0,.5); --card-sh-h:0 18px 50px rgba(124,92,246,.38);
+      --foot:#6b7280; --input-bg:#12121c; --input-bd:#262633; --ph:#6b7280;
+    }}
+    :root[data-theme="dark"]{
+      --bg:#0a0a12; --text:#eef0f5; --muted:#9aa3b2; --line:#1c1c28; --glow:rgba(124,92,246,.18);
+      --card-bg:linear-gradient(180deg,#14141f,#101019); --card-sh:0 10px 30px rgba(0,0,0,.5); --card-sh-h:0 18px 50px rgba(124,92,246,.38);
+      --foot:#6b7280; --input-bg:#12121c; --input-bd:#262633; --ph:#6b7280;
+    }
     *{ box-sizing:border-box; margin:0; padding:0; }
-    body{
-      font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans KR',sans-serif;
+    body{ font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans KR',sans-serif;
       color:var(--text); line-height:1.6; min-height:100vh;
-      background:radial-gradient(1100px 560px at 50% -220px, rgba(124,92,246,.18), transparent 70%), var(--bg);
-    }
+      background:radial-gradient(1100px 560px at 50% -220px, var(--glow), transparent 70%), var(--bg); }
     .wrap{ max-width:1080px; margin:0 auto; padding:56px 20px; }
-    header h1{
-      font-size:2rem; font-weight:900; letter-spacing:-.02em;
-      background:linear-gradient(90deg, var(--p1), var(--p2));
-      -webkit-background-clip:text; background-clip:text; color:transparent;
-    }
+    header h1{ font-size:2rem; font-weight:900; letter-spacing:-.02em;
+      background:linear-gradient(90deg, var(--p1), var(--p2)); -webkit-background-clip:text; background-clip:text; color:transparent; }
     header p{ color:var(--muted); margin-top:8px; }
-    .grid{
-      margin-top:36px; display:grid; gap:20px;
-      grid-template-columns:repeat(auto-fill, minmax(300px, 1fr));
-    }
-    /* 네온 테두리 + 입체 카드 */
-    .card{
-      position:relative; display:block; text-decoration:none; color:var(--text);
-      background:linear-gradient(180deg, #14141f, #101019);
-      border-radius:18px; padding:22px;
-      box-shadow:0 10px 30px rgba(0,0,0,.5);
-      transition:transform .22s ease, box-shadow .22s ease;
-    }
-    .card::before{
-      content:''; position:absolute; inset:0; border-radius:18px; padding:1.5px;
+    .grid{ margin-top:36px; display:grid; gap:20px; grid-template-columns:repeat(auto-fill, minmax(300px, 1fr)); }
+    .card{ position:relative; display:block; text-decoration:none; color:var(--text);
+      background:var(--card-bg); border-radius:18px; padding:22px; box-shadow:var(--card-sh);
+      transition:transform .22s ease, box-shadow .22s ease; }
+    .card::before{ content:''; position:absolute; inset:0; border-radius:18px; padding:1.5px;
       background:linear-gradient(135deg, var(--p1), var(--p2));
       -webkit-mask:linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
-      -webkit-mask-composite:xor; mask-composite:exclude;
-      opacity:.55; transition:opacity .22s ease; pointer-events:none;
-    }
-    .card:hover{
-      transform:translateY(-6px);
-      box-shadow:0 18px 50px rgba(124,92,246,.38), 0 0 0 1px rgba(168,85,247,.25);
-    }
+      -webkit-mask-composite:xor; mask-composite:exclude; opacity:var(--border-op); transition:opacity .22s ease; pointer-events:none; }
+    .card:hover{ transform:translateY(-6px); box-shadow:var(--card-sh-h), 0 0 0 1px rgba(168,85,247,.25); }
     .card:hover::before{ opacity:1; }
     .card h2{ font-size:1.12rem; font-weight:800; line-height:1.4; }
     .card p{ color:var(--muted); margin-top:8px; font-size:.92rem; }
-    footer{ margin-top:52px; color:#6b7280; font-size:.82rem; border-top:1px solid #1c1c28; padding-top:20px; }
+    footer{ margin-top:52px; color:var(--foot); font-size:.82rem; border-top:1px solid var(--line); padding-top:20px; }
     a{ color:var(--p2); text-decoration:none; }
+    .search{ position:relative; margin-top:28px; }
+    .search input{ width:100%; padding:14px 16px 14px 46px; font-size:1rem; color:var(--text);
+      background:var(--input-bg); border:1px solid var(--input-bd); border-radius:14px; outline:none; transition:border-color .2s, box-shadow .2s; }
+    .search input::placeholder{ color:var(--ph); }
+    .search input:focus{ border-color:var(--p1); box-shadow:0 0 0 3px rgba(168,85,247,.22); }
+    .search .ic{ position:absolute; left:16px; top:50%; transform:translateY(-50%); color:var(--ph); display:flex; }
+    .noresult{ display:none; color:var(--muted); margin-top:26px; text-align:center; font-size:.95rem; }
+    /* 테마 토글 버튼 */
+    .theme-toggle{ position:fixed; top:14px; right:14px; z-index:50; width:40px; height:40px; border-radius:50%;
+      border:1px solid var(--line); background:var(--card-bg); color:var(--text); cursor:pointer; display:flex; align-items:center; justify-content:center; box-shadow:var(--card-sh); }
   </style>
 </head>
 <body>
+  <button id="themeToggle" class="theme-toggle" aria-label="다크/라이트 전환" onclick="__hcToggle()">
+    <svg width="20" height="20" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3a9 9 0 010 18z" fill="currentColor"/></svg>
+  </button>
   <div class="wrap">
     <header>
       <h1>howcartful</h1>
       <p>AI가 실제 리뷰 데이터를 분석해 가성비 호텔을 근거기반으로 비교·추천합니다.</p>
     </header>
+    <div class="search">
+      <span class="ic"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="20" y1="20" x2="16.65" y2="16.65"/></svg></span>
+      <input id="q" type="search" placeholder="도시로 검색 (예: 오사카, 방콕, 다낭)" autocomplete="off" aria-label="도시 검색">
+    </div>
     <main class="grid" id="article-list">
       <!--ARTICLES_START-->
       <a class="card" href="/articles/kyoto">
@@ -74,9 +90,26 @@
       </a>
       <!--ARTICLES_END-->
     </main>
+    <p class="noresult" id="noresult">검색 결과가 없습니다.</p>
     <footer>
       <p>본 사이트의 일부 링크는 제휴(어필리에이트) 링크이며, 구매 시 수수료를 받을 수 있습니다. 평점·리뷰는 실제 데이터에 근거합니다.</p>
     </footer>
   </div>
+  <script>
+    function __hcToggle(){var r=document.documentElement;var cur=r.getAttribute('data-theme');var eff=cur||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');var next=eff==='dark'?'light':'dark';r.setAttribute('data-theme',next);try{localStorage.setItem('hc-theme',next);}catch(e){}}
+    (function(){
+      var q=document.getElementById('q'), nr=document.getElementById('noresult');
+      if(!q) return;
+      var cards=[].slice.call(document.querySelectorAll('#article-list .card'));
+      q.addEventListener('input',function(){
+        var v=q.value.trim().toLowerCase(), n=0;
+        cards.forEach(function(c){
+          var hit=!v||c.textContent.toLowerCase().indexOf(v)>=0;
+          c.style.display=hit?'':'none'; if(hit)n++;
+        });
+        if(nr) nr.style.display=(n===0&&v)?'block':'none';
+      });
+    })();
+  </script>
 </body>
 </html>

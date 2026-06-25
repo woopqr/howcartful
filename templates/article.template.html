@@ -6,10 +6,14 @@
 <title>{{title}} | howcartful</title>
 <meta name="description" content="{{metaDescription}}">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<script>(function(){try{var t=localStorage.getItem('hc-theme');if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','light');}})();</script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9152627772468202" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="/assets/css/article.css">
 </head>
 <body>
+<button id="themeToggle" class="theme-toggle" aria-label="다크/라이트 전환" onclick="__hcToggle()">
+  <svg width="20" height="20" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3a9 9 0 010 18z" fill="currentColor"/></svg>
+</button>
 <article class="post">
 
   <a class="backbar" href="/">← 호텔 목록으로</a>
@@ -102,7 +106,7 @@
       <p class="kw">{{{reviewKeywordsHtml}}}</p>
       {{#hasReviews}}
       <div class="reviews">
-        {{#reviews}}<blockquote class="rv">“{{text}}”<cite>{{meta}}{{#translated}} <span class="rv-tr">🌐 번역</span>{{/translated}}</cite></blockquote>{{/reviews}}
+        {{#reviews}}<div class="rv"><div class="sc">{{score}}</div><div class="rvc"><p class="q">“{{text}}”</p><div class="rvf">{{country}}{{#date}} · {{date}}{{/date}}{{#translated}} <span class="rv-tr">번역</span>{{/translated}}</div></div></div>{{/reviews}}
         <a class="rv-more" href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">이 호텔 실제 리뷰 더보기 →</a>
       </div>
       {{/hasReviews}}
@@ -132,5 +136,6 @@
   <a class="backbar bottom" href="/">← 다른 호텔 비교 글 보기</a>
 
 </article>
+<script>function __hcToggle(){var r=document.documentElement;var cur=r.getAttribute('data-theme');var eff=cur||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');var next=eff==='dark'?'light':'dark';r.setAttribute('data-theme',next);try{localStorage.setItem('hc-theme',next);}catch(e){}}</script>
 </body>
 </html>

@@ -13,7 +13,7 @@
   "heroAlt": "도쿄 / 동경",
   "heroTitleHtml": "도쿄 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
   "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
-  "verdictHtml": "가성비 1위는 <b>와 호스텔</b>(평점 9.1·리뷰 305건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>스에히로초역 도보 2분</b>의 <b>글랜시트 아키하바라 컴포트 캡슐 호텔</b>를 추천합니다.",
+  "verdictHtml": "가성비 1위는 <b>마이큐브 바이 마이스테이 아사쿠사 쿠라마에</b>(평점 9.1·리뷰 7,353건·1박 약 3만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>다와라마치역 도보 1분</b>의 <b>APA 호텔 아사쿠사 타와라마치 에키마에</b>를 추천합니다.",
   "outroImg": "https://pix8.agoda.net/hotelImages/83534561/0/eefbaf0ccf2eac257cfbc05176128418.jpg?ce=3",
   "outroTitle": "🌙 도쿄, 어디에 묵어도 후회없이",
   "outroText": "위 7곳은 모두 도쿄 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 도쿄 전체 숙소를 한 번에 비교해보세요.",
@@ -21,98 +21,118 @@
   "hotels": [
     {
       "rank": 1,
-      "name": "와 호스텔 (Wa Hostel)",
+      "name": "마이큐브 바이 마이스테이 아사쿠사 쿠라마에 (MyCUBE by MYSTAYS Asakusa Kuramae)",
       "hotelSlug": "",
-      "agodaUrl": "https://www.agoda.com/wa-hostel/hotel/taito-ku-jp.html?cid=1925461",
-      "walkMin": 3,
+      "agodaUrl": "https://www.agoda.com/mycube-by-mystays-asakusa-kuramae/hotel/tokyo-jp.html?cid=1925461",
+      "walkMin": 2,
       "score": 9.1,
-      "reviewCount": 305,
+      "reviewCount": 7353,
       "priceBand": 1,
-      "priceText": "₩ · 약 5만원",
-      "valueIndex": 9,
-      "img": "//pix8.agoda.net/hotelImages/83534561/0/eefbaf0ccf2eac257cfbc05176128418.jpg?ce=3",
-      "distanceNote": "약 251.98m · 구라마에역 인근",
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/115/1159829/1159829_16060308270043089680.jpg?va=1&ca=6&ce=1",
+      "distanceNote": "약 121.78m · 구라마에역 인근",
       "metaTags": [
-        "💰 약 5만원",
-        "📝 리뷰 305건",
-        "⭐ 3성급",
+        "💰 약 3만원",
+        "📝 리뷰 7,353건",
+        "⭐ 1.5성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 305건 기반.",
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 7,353건 기반.",
       "reviews": [
         {
-          "text": "시설은 깨끗했고, 층당 샤워실 1개, 화장실 2개가 있었습니다.",
-          "translated": true,
-          "meta": "United States · ★9.6 · 2026.04"
+          "text": "화장실과 화장실이 바닥에 있다는 것은 큰 장점입니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.09",
+          "translated": true
         },
         {
-          "text": "전반적으로 여행 중에 이 곳을 발견해서 기쁩니다.",
-          "translated": true,
-          "meta": "Japan · ★10 · 2026.01"
+          "text": "침대 밑 수납공간도 넓어서 좋았어요.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": true
         },
         {
-          "text": "편안하고 친절함",
-          "translated": true,
-          "meta": "Japan · ★10 · 2026.01"
+          "text": "가격대비 너무 편리한 위치입니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": true
         },
         {
-          "text": "그들이 모든 세부 사항을 고려했다는 것을 알 수 있습니다.",
-          "translated": true,
-          "meta": "Australia · ★10 · 2026.06"
+          "text": "직원들은 쾌적했고 공간이 깨끗했으며 공간이 편안했습니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.11",
+          "translated": true
         },
         {
-          "text": "다음 도쿄 여행을 위해 다시 머무르는 것을 고려할 것입니다",
-          "translated": true,
-          "meta": "台灣 · ★8.8 · 2026.05"
+          "text": "전반적으로, MYSTAYS의 MyCUBE는 가격 대비 뛰어난 가치를 제공합니다.",
+          "score": "10",
+          "country": "Ireland",
+          "date": "2026.05",
+          "translated": true
         }
       ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
       "rank": 2,
-      "name": "글랜시트 아키하바라 컴포트 캡슐 호텔 (GLANSIT AKIHABARA COMFORT CAPUSULE HOTEL)",
+      "name": "APA 호텔〈아키하바라 스에히로초에키마에〉 (APA Hotel〈Akihabara Suehirochoekimae〉)",
       "hotelSlug": "",
-      "agodaUrl": "https://www.agoda.com/glansit-akihabara-comfort-capusule-hotel/hotel/tokyo-jp.html?cid=1925461",
+      "agodaUrl": "https://www.agoda.com/h54350501/hotel/tokyo-jp.html?cid=1925461",
       "walkMin": 2,
-      "score": 8.8,
-      "reviewCount": 7278,
+      "score": 9,
+      "reviewCount": 2769,
       "priceBand": 1,
-      "priceText": "₩ · 약 6만원",
-      "valueIndex": 8.8,
-      "img": "//pix8.agoda.net/hotelImages/2891306/0/f1d65365c8ef8ed33e2cdd569d9869eb.jpg?ce=2",
-      "distanceNote": "약 181.26m · 스에히로초역 인근",
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/55055728/-1/de30da924e642c912a41de30f733a7cb.jpg?va=1&ce=0",
+      "distanceNote": "약 147.95m · 스에히로초역 인근",
       "metaTags": [
-        "💰 약 6만원",
-        "📝 리뷰 7,278건",
-        "⭐ 2성급",
+        "💰 약 5만원",
+        "📝 리뷰 2,769건",
+        "⭐ 4성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 7,278건 기반.",
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,769건 기반.",
       "reviews": [
         {
-          "text": "꽤 좋은 서비스와 좋은 위치",
-          "translated": true,
-          "meta": "대한민국 · ★9.6 · 2025.06"
+          "text": "방은 깨끗하고 필요한 모든 것을 제공합니다.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2025.12",
+          "translated": true
         },
         {
-          "text": "무료 커피, 차, 물이 제공되는 라운지 공간이 있습니다.",
-          "translated": true,
-          "meta": "United States · ★10 · 2024.07"
+          "text": "효율적인 하우스키핑으로 매일 밤 편안한 휴식을 보장합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.01",
+          "translated": true
         },
         {
-          "text": "호텔은 매우 깨끗하고, 직원들도 매우 친절합니다.",
-          "translated": true,
-          "meta": "Canada · ★10 · 2025.07"
+          "text": "매우 깨끗한 방, 잘 갖춰진 편의시설, 친절한 직원.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.07",
+          "translated": true
         },
         {
-          "text": "머물기 위한 사교적인 장소가 아니며, 혼자 조용히 휴식을 취하기에 완벽합니다.",
-          "translated": true,
-          "meta": "France · ★9.6 · 2024.05"
+          "text": "호텔은 매우 깨끗했고 직원들은 매우 정중하고 도움이 되었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": true
         },
         {
-          "text": "호텔의 서비스와 편안함에 매우 만족합니다.",
-          "translated": true,
-          "meta": "Việt Nam · ★9.2 · 2025.08"
+          "text": "호텔에서 놀라운 시간을 보냈습니다. 모든 편의 시설이 좋았습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
         }
       ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
@@ -126,12 +146,12 @@
       "score": 8.7,
       "reviewCount": 5236,
       "priceBand": 1,
-      "priceText": "₩ · 약 4만원",
+      "priceText": "₩ · 약 3만원",
       "valueIndex": 8.7,
-      "img": "//pix8.agoda.net/hotelImages/55140165/-1/867bbed5ffe030ce21adcbdf8b1b20e8.jpg?ce=0",
+      "img": "//pix8.agoda.net/hotelImages/55140165/-1/867bbed5ffe030ce21adcbdf8b1b20e8.jpg?va=1&ce=0",
       "distanceNote": "약 303.9m · 신센역 인근",
       "metaTags": [
-        "💰 약 4만원",
+        "💰 약 3만원",
         "📝 리뷰 5,236건",
         "⭐ 3성급",
         "📶 무료 Wi-Fi"
@@ -140,231 +160,281 @@
       "reviews": [
         {
           "text": "내가 도쿄에 머무는 동안 최고의 호스텔 중 하나",
-          "translated": true,
-          "meta": "대한민국 · ★9.2 · 2024.06"
+          "score": "9.2",
+          "country": "대한민국",
+          "date": "2024.06",
+          "translated": true
         },
         {
           "text": "모든 것, 상점, 레스토랑, 지하철역과 가깝습니다.",
-          "translated": true,
-          "meta": "Philippines · ★10 · 2024.11"
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": true
         },
         {
           "text": "그리고 당신은 파티의 중심에 있습니다, 시부야구!",
-          "translated": true,
-          "meta": "Romania · ★9.6 · 2024.04"
+          "score": "9.6",
+          "country": "Romania",
+          "date": "2024.04",
+          "translated": true
         },
         {
           "text": "클럽, 바, 슈퍼마켓. 모든 것이 매우 가깝습니다.",
-          "translated": true,
-          "meta": "Romania · ★9.6 · 2024.04"
+          "score": "9.6",
+          "country": "Romania",
+          "date": "2024.04",
+          "translated": true
         },
         {
           "text": "직원분들이 매일 청소해주시고, 깨끗한 수건도 매일 가져다 주십니다.",
-          "translated": true,
-          "meta": "Canada · ★7.6 · 2026.01"
+          "score": "7.6",
+          "country": "Canada",
+          "date": "2026.01",
+          "translated": true
         }
       ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
       "rank": 4,
-      "name": "9h 나인아워즈 하마마츠초 (9h nine hours Hamamatsucho )",
+      "name": "APA 호텔 우에노 에키미나미 (APA Hotel Ueno Ekiminami)",
       "hotelSlug": "",
-      "agodaUrl": "https://www.agoda.com/nine-hours-hamamatsucho/hotel/tokyo-jp.html?cid=1925461",
-      "walkMin": 2,
-      "score": 8.4,
-      "reviewCount": 12376,
+      "agodaUrl": "https://www.agoda.com/apa-hotel-ueno-ekimae-h32611058/hotel/tokyo-jp.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.7,
+      "reviewCount": 10176,
       "priceBand": 1,
       "priceText": "₩ · 약 6만원",
-      "valueIndex": 8.4,
-      "img": "//pix8.agoda.net/hotelImages/9775328/-1/419fe349ab26c74b284587b3ee6d0106.jpg?ca=10&ce=1",
-      "distanceNote": "약 123.25m · 다이몬역 인근",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/32611058/-1/630c4e182f21de8b25a064d88a5d4b49.jpg?va=1&ce=0",
+      "distanceNote": "약 218.76m · 오카치마치역 인근",
       "metaTags": [
         "💰 약 6만원",
-        "📝 리뷰 12,376건",
-        "⭐ 1.5성급",
+        "📝 리뷰 10,176건",
+        "⭐ 3성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 12,376건 기반.",
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 10,176건 기반.",
       "reviews": [
         {
-          "text": "하네다 공항을 통해 여행한다면 완벽한 위치입니다.",
-          "translated": true,
-          "meta": "United Kingdom · ★10 · 2023.06"
+          "text": "방 - 깔끔하고 깨끗하며 샤워 헤드는 매우 강력합니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2026.01",
+          "translated": true
         },
         {
-          "text": "침대 시트와 담요는 매일 교체하고 세탁하며,",
-          "translated": true,
-          "meta": "中国 · ★9.6 · 2026.05"
+          "text": "다양한 상점과 레스토랑이 호텔에서 도보 거리에 있습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
         },
         {
-          "text": "공원과 관광지는 도보로 10분 이내 거리에 있습니다.",
-          "translated": true,
-          "meta": "China · ★8.8 · 2025.08"
+          "text": "저는 이 호텔에 대해 나쁜 의견을 갖고 있지 않습니다. :) 이곳에서 즐거운 시간을 보냈습니다!",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2026.01",
+          "translated": true
         },
         {
-          "text": "장소는 깨끗하고 직원은 영어를 구사할 수 있습니다.",
-          "translated": true,
-          "meta": "Thailand · ★9.2 · 2026.02"
+          "text": "교통 접근성도 매우 편리합니다.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2024.11",
+          "translated": true
         },
         {
-          "text": "환경이 아늑하고 직원들이 기꺼이 도와줍니다.",
-          "translated": true,
-          "meta": "Hong Kong · ★9.6 · 2024.08"
+          "text": "호텔 자체는 매우 깨끗하고 현대적이며 잘 관리되어 있습니다.",
+          "score": "10",
+          "country": "Uzbekistan",
+          "date": "2025.09",
+          "translated": true
         }
       ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
       "rank": 5,
-      "name": "호텔 토마리야 우에노 (Hotel Tomariya Ueno)",
+      "name": "APA 호텔 앤 리조트 롯폰기 에키히가시 (APA Hotel & Resort Roppongi Ekihigashi)",
       "hotelSlug": "",
-      "agodaUrl": "https://www.agoda.com/hotel-tomariya-ueno/hotel/hatoyama-machi-jp.html?cid=1925461",
-      "walkMin": 4,
-      "score": 8.4,
-      "reviewCount": 5215,
+      "agodaUrl": "https://www.agoda.com/apa-hotel-resort-roppongi-ekihigashi/hotel/tokyo-jp.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.7,
+      "reviewCount": 16589,
       "priceBand": 1,
-      "priceText": "₩ · 약 4만원",
-      "valueIndex": 8.4,
-      "img": "//pix8.agoda.net/hotelImages/42391416/0/0dbeaaec13490ebc6f255599ca631a93.jpeg?ce=0",
-      "distanceNote": "약 317.37m · 우에노역 인근",
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/33576877/-1/479952a97ac5b44d0fdbea8a08c2d5f6.jpg?va=1&ce=0",
+      "distanceNote": "약 386.74m · 롯폰기 1초메역 인근",
       "metaTags": [
-        "💰 약 4만원",
-        "📝 리뷰 5,215건",
-        "⭐ 1성급",
+        "💰 약 5만원",
+        "📝 리뷰 16,589건",
+        "⭐ 3성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 5,215건 기반.",
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 16,589건 기반.",
       "reviews": [
         {
-          "text": "적극 추천합니다. 곧 다시 와 함께 머물 예정입니다 :)",
-          "translated": true,
-          "meta": "United Arab Emirates · ★10 · 2026.03"
+          "text": "이 숙소는 내 여행 요구에 완벽하게 적합했습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.05",
+          "translated": true
         },
         {
-          "text": "모든 것이 완벽하고 편안하고 접근성이 좋았습니다",
-          "translated": true,
-          "meta": "México · ★10 · 2026.03"
+          "text": "무료 온천도 있어서 매일 밤 즐겼습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": true
         },
         {
-          "text": "전반적으로 도쿄의 저렴한 호스텔 중 매우 좋은 가격입니다.",
-          "translated": true,
-          "meta": "Canada · ★9.6 · 2025.12"
+          "text": "필요한 모든 것이 갖춰져 있으며 온천도 있습니다.",
+          "score": "9.6",
+          "country": "Deutschland",
+          "date": "2025.08",
+          "translated": true
         },
         {
-          "text": "UENO 역과 유명한 공원 및 박물관이 몇 분 거리에 있습니다.",
-          "translated": true,
-          "meta": "United Kingdom · ★10 · 2024.04"
+          "text": "도쿄에 있고 싶다면 여기가 가장 좋은 곳입니다.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2025.04",
+          "translated": true
         },
         {
-          "text": "위치는 훌륭하고 조용한 곳이지만 매우 편리합니다.",
-          "translated": true,
-          "meta": "Hong Kong SAR, China · ★7.6 · 2024.11"
+          "text": "매일 신선한 수건을 문 앞에 놓아두었는데 정말 좋았습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
         }
       ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
       "rank": 6,
-      "name": "더 밀레니얼스 시부야 (The Millennials Shibuya)",
+      "name": "APA 호텔 아사쿠사 타와라마치 에키마에 (APA Hotel Asakusa Tawaramachi Ekimae)",
       "hotelSlug": "",
-      "agodaUrl": "https://www.agoda.com/the-millennials-shibuya/hotel/tokyo-jp.html?cid=1925461",
-      "walkMin": 6,
-      "score": 9,
-      "reviewCount": 5879,
-      "priceBand": 2,
-      "priceText": "₩₩ · 약 12만원",
-      "valueIndex": 7.6,
-      "img": "//pix8.agoda.net/hotelImages/4128776/-1/9831f63b3b5136f4a36a7c5df0425a11.png?ce=0",
-      "distanceNote": "약 497.49m · 시부야역 인근",
+      "agodaUrl": "https://www.agoda.com/apa-hotel-asakusa-tawaramachi-ekimae/hotel/tokyo-jp.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.6,
+      "reviewCount": 20864,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/2167356/-1/4a1dcb579cfa4e73728f17aef6bac82d.jpg?va=1&ca=13&ce=1",
+      "distanceNote": "약 72.47m · 다와라마치역 인근",
       "metaTags": [
-        "💰 약 12만원",
-        "📝 리뷰 5,879건",
-        "⭐ 2성급",
+        "💰 약 5만원",
+        "📝 리뷰 20,864건",
+        "⭐ 3성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 5,879건 기반.",
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 20,864건 기반.",
       "reviews": [
         {
-          "text": "편안하게 잠을 자고 소지품을 보관할 수 있는 충분한 공간.",
-          "translated": true,
-          "meta": "Canada · ★10 · 2022.05"
+          "text": "이 호텔에 묵는 것은 나에게 있어서 탁월한 선택이었습니다.",
+          "score": "10",
+          "country": "Südkorea",
+          "date": "2025.01",
+          "translated": true
         },
         {
-          "text": "이것은 내가 호스텔 스타일 시설에서 원하는 모든 것을 채워줍니다.",
-          "translated": true,
-          "meta": "United States · ★9.2 · 2024.11"
+          "text": "그래서 주변에 시설이 너무 많지만, 그렇게 붐비지는 않습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.12",
+          "translated": true
         },
         {
-          "text": "깨끗하고 가격도 적당하며 적당한 크기의 침대, 현대적인 시설.",
-          "translated": true,
-          "meta": "United States · ★9.2 · 2024.11"
+          "text": "호텔은 또한 일찍 도착할 때 수하물을 보관하는 데 도움을 주었습니다.",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.11",
+          "translated": true
         },
         {
-          "text": "별도의 샤워 시설을 갖춘 매우 깨끗하고 훌륭한 욕실.",
-          "translated": true,
-          "meta": "Deutschland · ★10 · 2025.07"
+          "text": "Don Quijote 및 Rox 쇼핑 단지와 매우 가깝습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.10",
+          "translated": true
         },
         {
-          "text": "확실히 돌아올 것이라고 강력히 추천합니다.",
-          "translated": true,
-          "meta": "United States · ★10 · 2023.05"
+          "text": "호텔 근처에 편의점과 레스토랑이 많습니다",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": true
         }
       ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
       "rank": 7,
-      "name": "신주쿠 쿠야쿠쇼마에 캡슐 호텔 (Shinjuku Kuyakusho-mae Capsule Hotel)",
+      "name": "APA 호텔 TKP 닛포리 에키마에 (APA Hotel TKP Nippori Ekimae)",
       "hotelSlug": "",
-      "agodaUrl": "https://www.agoda.com/shinjuku-kuyakusho-mae-capsule-hotel/hotel/tokyo-jp.html?cid=1925461",
-      "walkMin": 4,
-      "score": 7.5,
-      "reviewCount": 19197,
+      "agodaUrl": "https://www.agoda.com/apa-hotel-tkp-nippori-ekimae/hotel/tokyo-jp.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.6,
+      "reviewCount": 24114,
       "priceBand": 1,
       "priceText": "₩ · 약 6만원",
-      "valueIndex": 7.5,
-      "img": "//pix8.agoda.net/hotelImages/280/280818/280818_15072112510032680592.jpg?ca=11&ce=1",
-      "distanceNote": "약 330.77m · 신주쿠산초메 인근",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/160/1603143/1603143_17021414260051018523.jpg?va=1&ca=6&ce=1",
+      "distanceNote": "약 216.21m · 닛포리역 인근",
       "metaTags": [
         "💰 약 6만원",
-        "📝 리뷰 19,197건",
-        "⭐ 1성급",
+        "📝 리뷰 24,114건",
+        "⭐ 3.5성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 19,197건 기반.",
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 24,114건 기반.",
       "reviews": [
         {
-          "text": "그들만 가지고 있는 목욕탕은 여기에 머물기에 충분한 가치가 있습니다.",
-          "translated": true,
-          "meta": "Türkiye · ★9.2 · 2025.04"
+          "text": "방도 너무 깨끗하고 위치도 너무 맘에 들었어요.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2023.08",
+          "translated": true
         },
         {
-          "text": "정말 놀랐던 점은 온천과 공용 시설이었습니다.",
-          "translated": true,
-          "meta": "Japan · ★10 · 2025.05"
+          "text": "호텔은 나리타에서 도보로 단 5분 거리로 쉽게 접근할 수 있습니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.12",
+          "translated": true
         },
         {
-          "text": "친절한 직원, 전체적으로 깨끗하고 훌륭한 시설.",
-          "translated": true,
-          "meta": "United Kingdom · ★10 · 2025.05"
+          "text": "호텔 주변에는 많은 레스토랑과 편의점이 있습니다.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.01",
+          "translated": true
         },
         {
-          "text": "직원들은 친절했고 필요한 모든 것이 가까이에 있었습니다.",
-          "translated": true,
-          "meta": "Sverige · ★10 · 2026.01"
+          "text": "방은 깨끗하고 기본적인 요구 사항이 모두 제공됩니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.11",
+          "translated": true
         },
         {
-          "text": "이 지역에서 가장 저렴한 가격으로 모든 비용을 지불할 가치가 있습니다.",
-          "translated": true,
-          "meta": "Philippines · ★9.2 · 2023.12"
+          "text": "좋은 레스토랑과 편의점이 많이 가깝습니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.04",
+          "translated": true
         }
       ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     }
   ],
   "_meta": {
-    "fetchedAt": "2026-06-25T14:41:20.834Z",
+    "fetchedAt": "2026-06-25T15:42:57.859Z",
     "source": "agoda citySearch",
     "count": 7
   }

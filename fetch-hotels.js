@@ -50,8 +50,10 @@ function defaults(h, refName) {
     reviewKeywordsHtml: `평점 <b>${h.score}</b> · 실제 투숙객 리뷰 ${Number(h.reviewCount).toLocaleString('en-US')}건 기반.`,
     reviews: (h.reviews || []).map(r => ({
       text: r.text,
+      score: r.rating != null ? String(r.rating) : '★',
+      country: r.country || '',
+      date: r.date || '',
       translated: !!r.translated,
-      meta: [r.country, r.rating != null ? '★' + r.rating : '', r.date].filter(Boolean).join(' · '),
     })),
     ctaText: '🏨 최저가·예약창 가격 확인',
   };

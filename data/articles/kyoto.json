@@ -13,7 +13,7 @@
   "heroAlt": "교토",
   "heroTitleHtml": "교토 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
   "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
-  "verdictHtml": "가성비 1위는 <b>더 밀레니얼스 교토</b>(평점 9.2·리뷰 6,820건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>가와라마치역 도보 1분</b>의 <b>글랜짓 교토 카와라마치</b>를 추천합니다.",
+  "verdictHtml": "가성비 1위는 <b>더 밀레니얼스 교토</b>(평점 9.2·리뷰 6,820건·1박 약 3만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>가와라마치역 도보 1분</b>의 <b>글랜짓 교토 카와라마치</b>를 추천합니다.",
   "outroImg": "https://pix8.agoda.net/hotelImages/877085/0/2c84c690739923d1aa9f600c79bd3e9c.jpeg?va=1&ce=2",
   "outroTitle": "🌙 교토, 어디에 묵어도 후회없이",
   "outroText": "위 7곳은 모두 교토 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 교토 전체 숙소를 한 번에 비교해보세요.",
@@ -28,12 +28,12 @@
       "score": 9.2,
       "reviewCount": 6820,
       "priceBand": 1,
-      "priceText": "₩ · 약 5만원",
+      "priceText": "₩ · 약 3만원",
       "valueIndex": 9.2,
       "img": "//pix8.agoda.net/hotelImages/2401153/0/580c95fbdbd40f1a655053e716692da9.jpeg?va=1&ce=2",
       "distanceNote": "약 380.88m · 교토시야쿠쇼마에역 인근",
       "metaTags": [
-        "💰 약 5만원",
+        "💰 약 3만원",
         "📝 리뷰 6,820건",
         "⭐ 2.5성급",
         "📶 무료 Wi-Fi"
@@ -42,28 +42,38 @@
       "reviews": [
         {
           "text": "로비 자체는 지금까지 본 것 중 최고였습니다.",
-          "translated": true,
-          "meta": "Italia · ★10 · 2024.12"
+          "score": "10",
+          "country": "Italia",
+          "date": "2024.12",
+          "translated": true
         },
         {
           "text": "다음에 교토에 갈 때 가장 먼저 예약할 곳이기도 합니다.",
-          "translated": true,
-          "meta": "일본 · ★10 · 2025.02"
+          "score": "10",
+          "country": "일본",
+          "date": "2025.02",
+          "translated": true
         },
         {
           "text": "욕실은 냄새 하나 없이 깨끗합니다. 침대는 깔끔하고 깔끔해요.",
-          "translated": true,
-          "meta": "中國香港 · ★10 · 2025.03"
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.03",
+          "translated": true
         },
         {
           "text": "방, 시설, 위치, 깨끗함.",
-          "translated": true,
-          "meta": "Indonesia · ★9.6 · 2025.02"
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2025.02",
+          "translated": true
         },
         {
           "text": "쇼핑가에 위치해 있어 매우 편리합니다.",
-          "translated": true,
-          "meta": "Japan · ★9.2 · 2024.01"
+          "score": "9.2",
+          "country": "Japan",
+          "date": "2024.01",
+          "translated": true
         }
       ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
@@ -77,12 +87,12 @@
       "score": 9.2,
       "reviewCount": 14261,
       "priceBand": 1,
-      "priceText": "₩ · 약 6만원",
+      "priceText": "₩ · 약 2만원",
       "valueIndex": 9.2,
       "img": "//pix8.agoda.net/hotelImages/877085/0/2c84c690739923d1aa9f600c79bd3e9c.jpeg?va=1&ce=2",
       "distanceNote": "약 422.82m · 교토시야쿠쇼마에역 인근",
       "metaTags": [
-        "💰 약 6만원",
+        "💰 약 2만원",
         "📝 리뷰 14,261건",
         "⭐ 2성급",
         "📶 무료 Wi-Fi"
@@ -91,28 +101,38 @@
       "reviews": [
         {
           "text": "Piece Hostel은 나에게 완벽한 숙박 경험을 제공했습니다.",
-          "translated": true,
-          "meta": "대한민국 · ★10 · 2024.07"
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.07",
+          "translated": true
         },
         {
           "text": "놀라운 숙소, 제가 머물렀던 최고의 호스텔 중 하나",
-          "translated": true,
-          "meta": "Türkiye · ★10 · 2024.08"
+          "score": "10",
+          "country": "Türkiye",
+          "date": "2024.08",
+          "translated": true
         },
         {
           "text": "직원분들도 너무 친절하시고 시설도 너무 좋아요!",
-          "translated": true,
-          "meta": "Malaysia · ★9.2 · 2025.04"
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": true
         },
         {
           "text": "가격이나 품질면에서 정말 마음에 드는 곳이었습니다.",
-          "translated": true,
-          "meta": "España · ★10 · 2025.01"
+          "score": "10",
+          "country": "España",
+          "date": "2025.01",
+          "translated": true
         },
         {
           "text": "친절한 직원, 깨끗하고 모든 것에 가깝습니다.",
-          "translated": true,
-          "meta": "Philippines · ★10 · 2024.02"
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.02",
+          "translated": true
         }
       ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
@@ -126,12 +146,12 @@
       "score": 9.2,
       "reviewCount": 11719,
       "priceBand": 1,
-      "priceText": "₩ · 약 4만원",
+      "priceText": "₩ · 약 2만원",
       "valueIndex": 9.2,
       "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/17553908.jpg?k=6691bac96203db907492f7eff6acc9a75ec2c871ce4980337be02c13ca557bb6&o=",
       "distanceNote": "약 380.25m · 교토역 하치조구치 버스 정류장 인근",
       "metaTags": [
-        "💰 약 4만원",
+        "💰 약 2만원",
         "📝 리뷰 11,719건",
         "⭐ 2성급",
         "📶 무료 Wi-Fi"
@@ -140,28 +160,38 @@
       "reviews": [
         {
           "text": "지금까지 혼자 여행하면서 최고의 숙박 중 하나입니다.",
-          "translated": true,
-          "meta": "Canada · ★10 · 2026.05"
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.05",
+          "translated": true
         },
         {
           "text": "저는 이 호스텔을 정말 좋아했고, 위치도 이보다 더 좋을 수 없습니다!",
-          "translated": true,
-          "meta": "Suomi · ★10 · 2025.11"
+          "score": "10",
+          "country": "Suomi",
+          "date": "2025.11",
+          "translated": true
         },
         {
           "text": "그리고 직원들은 친절하고 수용적이었습니다.",
-          "translated": true,
-          "meta": "Philippines · ★10 · 2025.02"
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
         },
         {
           "text": "직원들은 매우 친절하고 모든 시설을 이용할 수 있습니다.",
-          "translated": true,
-          "meta": "India · ★10 · 2024.10"
+          "score": "10",
+          "country": "India",
+          "date": "2024.10",
+          "translated": true
         },
         {
           "text": "여행하면서 묵었던 호스텔 중 가장 좋았습니다.",
-          "translated": true,
-          "meta": "Philippines · ★10 · 2025.02"
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
         }
       ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
@@ -189,182 +219,222 @@
       "reviews": [
         {
           "text": "지금까지 일본에서 묵어본 캡슐호텔 중 최고였습니다",
-          "translated": true,
-          "meta": "United Kingdom · ★10 · 2024.08"
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.08",
+          "translated": true
         },
         {
           "text": "매우 깨끗하고 체계적이며 중앙 위치에 있습니다.",
-          "translated": true,
-          "meta": "Israel · ★9.6 · 2024.09"
+          "score": "9.6",
+          "country": "Israel",
+          "date": "2024.09",
+          "translated": true
         },
         {
           "text": "캡슐은 프라이버시를 제공하고 내부가 넓은 느낌을 줍니다.",
-          "translated": true,
-          "meta": "Canada · ★10 · 2025.10"
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.10",
+          "translated": true
         },
         {
           "text": "5성급 캡슐 호텔 같은 것이 존재한다면 바로 여기입니다.",
-          "translated": true,
-          "meta": "Israel · ★9.6 · 2024.09"
+          "score": "9.6",
+          "country": "Israel",
+          "date": "2024.09",
+          "translated": true
         },
         {
           "text": "- 쇼핑 지구 및 유흥 지구와 가깝습니다.",
-          "translated": true,
-          "meta": "France · ★10 · 2025.04"
+          "score": "10",
+          "country": "France",
+          "date": "2025.04",
+          "translated": true
         }
       ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
       "rank": 5,
-      "name": "츠키미 호텔 (TSUKIMI HOTEL)",
+      "name": "다이와 로이넷 호텔 교토 에키마에 프리미어 (Daiwa Roynet Hotel Kyoto ekimae PREMIER)",
       "hotelSlug": "",
-      "agodaUrl": "https://www.agoda.com/tsukimi-hotel_3/hotel/kyoto-jp.html?cid=1925461",
-      "walkMin": 8,
+      "agodaUrl": "https://www.agoda.com/daiwa-roynet-hotel-kyoto-ekimae/hotel/kyoto-jp.html?cid=1925461",
+      "walkMin": 4,
       "score": 9.1,
-      "reviewCount": 734,
+      "reviewCount": 15296,
       "priceBand": 1,
-      "priceText": "₩ · 약 3만원",
-      "valueIndex": 9,
-      "img": "//pix8.agoda.net/hotelImages/6853744/-1/4653252842df9d248bb120db129f7cb0.jpg?va=1&ca=12&ce=1",
-      "distanceNote": "약 678.99m · 기온시조역 인근",
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/119/1194076/1194076_17011714460050359140.jpg?va=1&ca=6&ce=1",
+      "distanceNote": "약 326.52m · 교토역 인근",
       "metaTags": [
-        "💰 약 3만원",
-        "📝 리뷰 734건",
-        "⭐ 2.5성급",
+        "💰 약 8만원",
+        "📝 리뷰 15,296건",
+        "⭐ 4성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 734건 기반.",
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 15,296건 기반.",
       "reviews": [
         {
-          "text": "Saku라는 직원은 영어를 매우 잘하고 친절합니다.",
-          "translated": true,
-          "meta": "Japan · ★9.6 · 2025.01"
+          "text": "호텔 자체는 깨끗하고 직원은 훌륭합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
         },
         {
-          "text": "솔직히 말해서 제가 원했던 최고의 캡슐 경험이었습니다!",
-          "translated": true,
-          "meta": "Singapore · ★10 · 2024.05"
+          "text": "매우 편안하고 깨끗하며 직원들은 매우 도움이 됩니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
         },
         {
-          "text": "다시 교토를 방문한다면 TSUKIMI로 돌아올 것입니다.",
-          "translated": true,
-          "meta": "中国 · ★10 · 2023.07"
+          "text": "역과 상점, 레스토랑까지 매우 좋은 위치",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.10",
+          "translated": true
         },
         {
-          "text": "전통적인 장소에 둘러싸인 현대적인 시설",
-          "translated": true,
-          "meta": "中國香港 · ★10 · 2025.01"
+          "text": "객실은 교토에 비해 넓고 시설이 잘 갖춰져 있고 편안합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
         },
         {
-          "text": "직원들은 매우 친절하고 기꺼이 도와주려고 합니다.",
-          "translated": true,
-          "meta": "中国 · ★10 · 2024.06"
+          "text": "방은 매우 넓고 3명이 지내기에 편안했습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": true
         }
       ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
       "rank": 6,
-      "name": "칸세이 교토 하치조 (KANSEI Kyoto Hachijo)",
+      "name": "호텔 포르자 교토 시조 가와라마치 (HOTEL FORZA KYOTO SHIJO KAWARAMACHI)",
       "hotelSlug": "",
-      "agodaUrl": "https://www.agoda.com/kansei/hotel/kyoto-jp.html?cid=1925461",
-      "walkMin": 7,
-      "score": 8.9,
-      "reviewCount": 963,
+      "agodaUrl": "https://www.agoda.com/hotel-forza-kyoto-shijo-kawaramachi/hotel/kyoto-jp.html?cid=1925461",
+      "walkMin": 4,
+      "score": 9.1,
+      "reviewCount": 12337,
       "priceBand": 1,
-      "priceText": "₩ · 약 6만원",
-      "valueIndex": 8.9,
-      "img": "//pix8.agoda.net/hotelImages/62160556/0/03c1477dfb3cbc4305846229838b532e.jpg?va=1&ce=0",
-      "distanceNote": "약 561m · 도후쿠지역 인근",
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/23128257/-1/32cb36ab6613300414b6835b28d72f37.jpg?va=1&ca=18&ce=1",
+      "distanceNote": "약 331.82m · 가와라마치역 인근",
       "metaTags": [
-        "💰 약 6만원",
-        "📝 리뷰 963건",
-        "⭐ 3성급",
+        "💰 약 7만원",
+        "📝 리뷰 12,337건",
+        "⭐ 4성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 963건 기반.",
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 12,337건 기반.",
       "reviews": [
         {
-          "text": "편의 시설도 제공되었고 직원들도 도움이 되었습니다.",
-          "translated": true,
-          "meta": "United States · ★10 · 2025.09"
+          "text": "방 자체는 흠잡을 데 없이 깔끔하고 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.08",
+          "translated": true
         },
         {
-          "text": "침대와 베개는 편안했고 방은 깨끗했습니다.",
-          "translated": true,
-          "meta": "United States · ★9.2 · 2025.04"
+          "text": "깨끗한 객실, 친절한 서비스, 멋진 보완 음료.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2024.03",
+          "translated": true
         },
         {
-          "text": "우리는 최고의 시간을 보냈고 잠도 잘 잤습니다.",
-          "translated": true,
-          "meta": "Australia · ★10 · 2026.05"
+          "text": "객실은 매우 깨끗하고 효율적으로 설계되었습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.03",
+          "translated": true
         },
         {
-          "text": "우리가 다시 오면 꼭 다시 여기로 예약할 거예요.",
-          "translated": true,
-          "meta": "United States · ★9.6 · 2025.09"
+          "text": "훌륭하고 즐거운 숙박이었으며 가능하다면 다시 방문하고 싶습니다.",
+          "score": "8.8",
+          "country": "中國香港",
+          "date": "2025.06",
+          "translated": true
         },
         {
-          "text": "I am so grateful to have found KANSEI Kyoto Hachijo.",
-          "translated": false,
-          "meta": "United States · ★9.6 · 2025.09"
+          "text": "음식, 상점, 교통을 즐기기에 좋은 위치입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
         }
       ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
       "rank": 7,
-      "name": "퍼스트캐빈 교토 니조조 (FIRSTCABIN Kyoto Nijojo)",
+      "name": "소테츠 프레사 인 교토-시조카라스마 (Sotetsu Fresa Inn Kyoto-Shijokarasuma)",
       "hotelSlug": "",
-      "agodaUrl": "https://www.agoda.com/firstcabin-kyoto-nijojo/hotel/kyoto-jp.html?cid=1925461",
-      "walkMin": 7,
-      "score": 8.9,
-      "reviewCount": 5815,
+      "agodaUrl": "https://www.agoda.com/sotetsu-fresa-inn-kyoto-shijokarasuma/hotel/kyoto-jp.html?cid=1925461",
+      "walkMin": 1,
+      "score": 9.1,
+      "reviewCount": 12302,
       "priceBand": 1,
-      "priceText": "₩ · 약 4만원",
-      "valueIndex": 8.9,
-      "img": "//pix8.agoda.net/hotelImages/8090510/0/af39f262c219da0c7a918d9f7197ae36.jpeg?va=1&ce=2",
-      "distanceNote": "약 596.72m · 니조조마에역 인근",
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/1618367/0/063dae2ccc3e971bed86dd4e4c13b8d2.jpeg?va=1&ce=2",
+      "distanceNote": "약 77.46m · 시조역 인근",
       "metaTags": [
-        "💰 약 4만원",
-        "📝 리뷰 5,815건",
-        "⭐ 2성급",
+        "💰 약 6만원",
+        "📝 리뷰 12,302건",
+        "⭐ 3.5성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 5,815건 기반.",
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 12,302건 기반.",
       "reviews": [
         {
-          "text": "온수 욕조, 샤워실, 화장실은 100% 깨끗했습니다.",
-          "translated": true,
-          "meta": "ไทย · ★10 · 2024.07"
+          "text": "나는 내 친구에게 이 호텔에 묵도록 꼭 추천할 것입니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.06",
+          "translated": true
         },
         {
-          "text": "위치는 훌륭하고 직원들은 매우 친절하고 친절했습니다.",
-          "translated": true,
-          "meta": "India · ★10 · 2024.12"
+          "text": "다음에 교토에 다시 오면 이 호텔을 다시 선택할 것입니다",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2023.05",
+          "translated": true
         },
         {
-          "text": "나는 일본에 있을 때 항상 퍼스트 캐빈에 머무르는 것을 좋아했습니다.",
-          "translated": true,
-          "meta": "Philippines · ★9.6 · 2024.04"
+          "text": "니시키 시장, 기차역, 버스까지 도보로 쉽게 이동할 수 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
         },
         {
-          "text": "하지만 모든 것이 완벽해요. 제가 기대했던 것보다 훨씬 더요.",
-          "translated": true,
-          "meta": "ไทย · ★10 · 2024.07"
+          "text": "우리가 머무는 동안 편안하게 지낼 수 있는 편의 시설이 많이 있었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.08",
+          "translated": true
         },
         {
-          "text": "이것은 내 인생 최고의 캡슐 호텔 경험입니다",
-          "translated": true,
-          "meta": "United States · ★10 · 2025.07"
+          "text": "지하철에서 도보 거리, 7-11 앙 패밀리마트 근처.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": true
         }
       ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
     }
   ],
   "_meta": {
-    "fetchedAt": "2026-06-25T14:41:54.903Z",
+    "fetchedAt": "2026-06-25T15:43:19.520Z",
     "source": "agoda citySearch",
     "count": 7
   }

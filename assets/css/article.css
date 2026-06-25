@@ -93,11 +93,13 @@ td.name{text-align:left;font-weight:800;min-width:130px}
 .meta span{background:#f1f5fa;border-radius:8px;padding:4px 10px;font-size:.8rem;font-weight:700;color:#42505f}
 .kw{font-size:.9rem;color:#39434f;margin:8px 0}
 .kw b{color:var(--brand)}
-.reviews{margin:10px 0 4px}
-.reviews .rv{margin:8px 0;padding:10px 14px;background:#f6f8fb;border-left:3px solid var(--brand);border-radius:0 10px 10px 0;font-size:.9rem;color:#2f3946;line-height:1.6}
-.reviews .rv cite{display:block;margin-top:4px;font-style:normal;font-size:.78rem;color:var(--muted);font-weight:700}
-.reviews .rv cite .rv-tr{color:#9aa3b2;font-weight:600}
-.reviews .rv-more{display:inline-block;margin-top:4px;font-size:.84rem;font-weight:700;color:var(--brand2);text-decoration:none}
+.reviews{display:grid;gap:10px;margin:12px 0 6px}
+.reviews .rv{display:flex;gap:13px;align-items:flex-start;background:#fff;border:1px solid var(--line);border-radius:14px;padding:13px 16px;box-shadow:0 2px 12px rgba(20,40,80,.05)}
+.reviews .rv .sc{flex:0 0 auto;width:46px;height:46px;border-radius:50%;background:linear-gradient(135deg,#a855f7,#3b82f6);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:900;font-size:.92rem;box-shadow:0 4px 12px rgba(124,92,246,.3)}
+.reviews .rv .q{font-size:.92rem;color:#2f3946;line-height:1.6}
+.reviews .rv .rvf{margin-top:7px;font-size:.76rem;color:var(--muted);font-weight:700;display:flex;align-items:center;gap:7px;flex-wrap:wrap}
+.reviews .rv .rvf .rv-tr{background:#eef2f7;color:#8a93a3;font-weight:700;font-size:.68rem;border-radius:6px;padding:1px 6px}
+.reviews .rv-more{display:inline-block;margin-top:10px;font-size:.85rem;font-weight:800;color:var(--brand2);text-decoration:none}
 .cta{text-align:center;margin-top:12px}
 .cta a{display:inline-block;background:linear-gradient(135deg,#7c5cff,#1186d4);color:#fff!important;text-decoration:none;padding:12px 26px;border-radius:50px;font-weight:800;font-size:.95rem}
 
@@ -110,3 +112,28 @@ td.name{text-align:left;font-weight:800;min-width:130px}
 .outro a{display:inline-block;background:#fff;color:#0e9f8e!important;text-decoration:none;padding:13px 28px;border-radius:50px;font-weight:900}
 .disc{font-size:.8rem;color:#8a96a4;text-align:center;margin:14px 0}
 @media(max-width:600px){.hero h1{font-size:1.3rem}.seasons{grid-template-columns:1fr}.vrow .nm{flex-basis:110px;font-size:.84rem}.hero{aspect-ratio:16/12}}
+
+/* ===== 테마 토글 버튼 ===== */
+.theme-toggle{position:fixed;top:14px;right:14px;z-index:50;width:40px;height:40px;border-radius:50%;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 14px rgba(20,40,80,.12)}
+
+/* ===== 다크 테마 (data-theme=dark, 시스템 기본 + 토글) ===== */
+[data-theme="dark"]{ --bg:#0f1117; --ink:#e8eaed; --muted:#9aa3b2; --line:#262b36; --card:#161922; }
+[data-theme="dark"] .backbar{background:#161922;color:#7cc4ff;border-color:#262b36;box-shadow:0 2px 10px rgba(0,0,0,.4)}
+[data-theme="dark"] table{background:#161922}
+[data-theme="dark"] tbody tr:nth-child(even){background:#1b1f29}
+[data-theme="dark"] .hotel,[data-theme="dark"] .season,[data-theme="dark"] .dist li,[data-theme="dark"] .reviews .rv{background:#161922}
+[data-theme="dark"] .reviews .rv .q{color:#d5dbe5}
+[data-theme="dark"] .reviews .rv .rvf .rv-tr{background:#232938;color:#9aa3b2}
+[data-theme="dark"] .meta span{background:#232938;color:#aeb6c4}
+[data-theme="dark"] .kw{color:#cdd3df}
+[data-theme="dark"] .rank{background:#232938;color:#cdd3df}
+[data-theme="dark"] .vbar,[data-theme="dark"] .vrow .track{background:#232938}
+[data-theme="dark"] .season .pro{color:#4ade80}
+[data-theme="dark"] .season .con{color:#aeb6c4}
+[data-theme="dark"] .season .con b{color:#f59e0b}
+[data-theme="dark"] .callout.basis{background:#13201d}
+[data-theme="dark"] .callout.basis code{background:#0f1622;border-color:#262b36}
+[data-theme="dark"] .disc{color:#8a96a4}
+[data-theme="dark"] .dist .walk{background:#16302a;color:#5dd0ad}
+[data-theme="dark"] .notice{background:#2a2412;border-color:#5a4a1a;color:#e0c878}
+[data-theme="dark"] .callout.verdict b,[data-theme="dark"] .hl{background-color:rgba(217,70,239,.22);color:#f0abfc}
