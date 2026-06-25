@@ -8,18 +8,48 @@
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9152627772468202" crossorigin="anonymous"></script>
   <style>
-    :root { --bg:#0f1115; --card:#171a21; --line:#262b36; --text:#e8eaed; --muted:#9aa3b2; --accent:#4f8cff; }
-    * { box-sizing:border-box; margin:0; padding:0; }
-    body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans KR',sans-serif; background:var(--bg); color:var(--text); line-height:1.6; }
-    .wrap { max-width:880px; margin:0 auto; padding:48px 20px; }
-    header h1 { font-size:1.8rem; letter-spacing:-.02em; }
-    header p { color:var(--muted); margin-top:8px; }
-    .grid { margin-top:32px; display:grid; gap:16px; }
-    .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:20px; }
-    .card h2 { font-size:1.1rem; }
-    .card p { color:var(--muted); margin-top:6px; font-size:.95rem; }
-    footer { margin-top:48px; color:var(--muted); font-size:.85rem; border-top:1px solid var(--line); padding-top:20px; }
-    a { color:var(--accent); text-decoration:none; }
+    :root{ --bg:#0a0a12; --text:#eef0f5; --muted:#9aa3b2; --p1:#a855f7; --p2:#3b82f6; }
+    *{ box-sizing:border-box; margin:0; padding:0; }
+    body{
+      font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans KR',sans-serif;
+      color:var(--text); line-height:1.6; min-height:100vh;
+      background:radial-gradient(1100px 560px at 50% -220px, rgba(124,92,246,.18), transparent 70%), var(--bg);
+    }
+    .wrap{ max-width:1080px; margin:0 auto; padding:56px 20px; }
+    header h1{
+      font-size:2rem; font-weight:900; letter-spacing:-.02em;
+      background:linear-gradient(90deg, var(--p1), var(--p2));
+      -webkit-background-clip:text; background-clip:text; color:transparent;
+    }
+    header p{ color:var(--muted); margin-top:8px; }
+    .grid{
+      margin-top:36px; display:grid; gap:20px;
+      grid-template-columns:repeat(auto-fill, minmax(300px, 1fr));
+    }
+    /* 네온 테두리 + 입체 카드 */
+    .card{
+      position:relative; display:block; text-decoration:none; color:var(--text);
+      background:linear-gradient(180deg, #14141f, #101019);
+      border-radius:18px; padding:22px;
+      box-shadow:0 10px 30px rgba(0,0,0,.5);
+      transition:transform .22s ease, box-shadow .22s ease;
+    }
+    .card::before{
+      content:''; position:absolute; inset:0; border-radius:18px; padding:1.5px;
+      background:linear-gradient(135deg, var(--p1), var(--p2));
+      -webkit-mask:linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+      -webkit-mask-composite:xor; mask-composite:exclude;
+      opacity:.55; transition:opacity .22s ease; pointer-events:none;
+    }
+    .card:hover{
+      transform:translateY(-6px);
+      box-shadow:0 18px 50px rgba(124,92,246,.38), 0 0 0 1px rgba(168,85,247,.25);
+    }
+    .card:hover::before{ opacity:1; }
+    .card h2{ font-size:1.12rem; font-weight:800; line-height:1.4; }
+    .card p{ color:var(--muted); margin-top:8px; font-size:.92rem; }
+    footer{ margin-top:52px; color:#6b7280; font-size:.82rem; border-top:1px solid #1c1c28; padding-top:20px; }
+    a{ color:var(--p2); text-decoration:none; }
   </style>
 </head>
 <body>

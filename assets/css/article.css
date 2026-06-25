@@ -95,6 +95,7 @@ td.name{text-align:left;font-weight:800;min-width:130px}
 .reviews{margin:10px 0 4px}
 .reviews .rv{margin:8px 0;padding:10px 14px;background:#f6f8fb;border-left:3px solid var(--brand);border-radius:0 10px 10px 0;font-size:.9rem;color:#2f3946;line-height:1.6}
 .reviews .rv cite{display:block;margin-top:4px;font-style:normal;font-size:.78rem;color:var(--muted);font-weight:700}
+.reviews .rv cite .rv-tr{color:#9aa3b2;font-weight:600}
 .reviews .rv-more{display:inline-block;margin-top:4px;font-size:.84rem;font-weight:700;color:var(--brand2);text-decoration:none}
 .cta{text-align:center;margin-top:12px}
 .cta a{display:inline-block;background:linear-gradient(135deg,#7c5cff,#1186d4);color:#fff!important;text-decoration:none;padding:12px 26px;border-radius:50px;font-weight:800;font-size:.95rem}

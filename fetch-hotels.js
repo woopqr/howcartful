@@ -50,6 +50,7 @@ function defaults(h, refName) {
     reviewKeywordsHtml: `평점 <b>${h.score}</b> · 실제 투숙객 리뷰 ${Number(h.reviewCount).toLocaleString('en-US')}건 기반.`,
     reviews: (h.reviews || []).map(r => ({
       text: r.text,
+      translated: !!r.translated,
       meta: [r.country, r.rating != null ? '★' + r.rating : '', r.date].filter(Boolean).join(' · '),
     })),
     ctaText: '🏨 최저가·예약창 가격 확인',
@@ -70,6 +71,18 @@ function defaults(h, refName) {
     .map((h, i) => ({ ...h, rank: i + 1 }));
 
   if (!picked.length) throw new Error('조건을 만족하는 호텔이 없습니다 (리뷰수/가격/평점 확인).');
+
+  // 비한국어 리뷰 → 한국어 번역(무료 구글, 실패 시 원문 유지)
+  let trCount = 0;
+  for (const h of picked) {
+    for (const r of (h.reviews || [])) {
+      if (/[가-힣]/.test(r.text)) continue;          // 이미 한국어
+      const ko = await af.translateToKo(r.text);
+      if (ko && /[가-힣]/.test(ko)) { r.original = r.text; r.text = ko; r.translated = true; trCount++; }
+      await new Promise(res => setTimeout(res, 120)); // 무료 엔드포인트 배려
+    }
+  }
+  if (trCount) console.log(`  ↳ 리뷰 ${trCount}건 한국어 번역`);
 
   const citySlug = citySlugFrom(picked[0].propertyUrl) || '';
   const count = picked.length;
