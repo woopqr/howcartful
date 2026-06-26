@@ -1,0 +1,439 @@
+{
+  "slug": "jeju",
+  "title": "제주 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 제주 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "jeju-kr",
+  "cityName": "제주",
+  "cityId": 16901,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "제주",
+  "heroImg": "https://pix8.agoda.net/hotelImages/36805458/-1/dfe4bc642e9539d2c44b7333538d5554.jpg?ce=0",
+  "heroAlt": "제주",
+  "heroTitleHtml": "제주 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>호텔 더 그랑 서귀포</b>(평점 9.2·리뷰 3,241건·1박 약 6만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>제주시 버스터미널 도보 2분</b>의 <b>제주 마실 게스트하우스</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/36805458/-1/dfe4bc642e9539d2c44b7333538d5554.jpg?ce=0",
+  "outroTitle": "🌙 제주, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 제주 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 제주 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "호텔 더 그랑 서귀포 (Hotel The Grang Seogwipo)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-the-grang-seogwipo-h36805458/hotel/jeju-kr.html?cid=1925461",
+      "walkMin": 4,
+      "score": 9.2,
+      "reviewCount": 3241,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 9.2,
+      "img": "//pix8.agoda.net/hotelImages/36805458/-1/dfe4bc642e9539d2c44b7333538d5554.jpg?ce=0",
+      "distanceNote": "약 308.48m · 천지연 폭포 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 3,241건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 3,241건 기반.",
+      "reviews": [
+        {
+          "text": "한국에서 3주 동안 머물렀던 최고의 호텔입니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 직원들도 모두 친절하고 협조적이었습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "호텔 직원은 매우 친절하고 따뜻하며 도움이 되었습니다!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "객실은 매우 깨끗했고 시트는 깨끗하고 바삭바삭하며 부드럽습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "어디에서나 전략적 위치와 직원의 훌륭한 서비스.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "제주 마실 게스트하우스 (Masil Guesthouse Jeju)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/masil-guesthouse-jeju/hotel/jeju-island-kr.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.9,
+      "reviewCount": 1436,
+      "priceBand": 1,
+      "priceText": "₩ · 약 1만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/6587786/-1/3e3eee5e5c1c20c149c8050cbfb53a60.jpg?ca=8&ce=1",
+      "distanceNote": "약 149.44m · 제주시 버스터미널 인근",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 1,436건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,436건 기반.",
+      "reviews": [
+        {
+          "text": "다음번 여행에도 또 여기 묵을 예정입니다",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "제주에 다시 오면 꼭 이곳에 다시 묵을 예정입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "방과 욕실은 우리에게 깨끗하고 넓었습니다.",
+          "score": "8.8",
+          "country": "United Arab Emirates",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "겨울철에는 방이 매우 아늑하고 따뜻합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "주요 버스 정류장과 매우 ​​가까워 매우 편리합니다.",
+          "score": "8.8",
+          "country": "Vietnam",
+          "date": "2022.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "농땡이 연구소 (Nonday Laboratory)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/h35138039/hotel/jeju-kr.html?cid=1925461",
+      "walkMin": 24,
+      "score": 8.7,
+      "reviewCount": 933,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/37787162/0/4b9fa1fca87cce239cf5e1778cf95808.jpeg",
+      "distanceNote": "약 1937.22m · 제주시 버스터미널 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 933건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 933건 기반.",
+      "reviews": [
+        {
+          "text": "지금까지 여행하면서 가본 기숙사 중 최고였습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "숙소는 깨끗하고 깔끔하며 모든 시설이 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "China",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "지금까지 묵어본 호스텔 중 최고 - 장기 숙박에 적합",
+          "score": "10",
+          "country": "Lithuania",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "공공 시장과 쇼핑 지구와 가깝습니다.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "너무 좋은 곳이어서 더 오래 머물기로 결정했습니다.",
+          "score": "10",
+          "country": "Poland",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "플레이스 캠프 제주 (Playce Camp Jeju)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/playce-camp-jeju_2/hotel/jeju-island-kr.html?cid=1925461",
+      "walkMin": 28,
+      "score": 8.7,
+      "reviewCount": 9633,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/2266863/-1/1c28407d6190239fac79346859f32bdd.jpg?ce=0",
+      "distanceNote": "약 2273.44m · 성산일출봉 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 9,633건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 9,633건 기반.",
+      "reviews": [
+        {
+          "text": "위생적이고 깨끗한 공간이 잘 관리되어 있다는 걸 알 수 있어요.",
+          "score": "7.6",
+          "country": "South Korea",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "나는 이곳에서 정말 즐거운 시간을 보냈습니다. 호텔은 매우 아름답습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "나는 이번 숙박을 즐겼습니다. 방은 매우 넓고 깨끗합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "침대와 베개가 너무너무 편안해요! 나는 이곳을 좋아한다!",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "숙소의 현대적인 힙스터 분위기가 마음에 듭니다!",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2023.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "더 제이드 호텔 (Jeju The Jade Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/jeju-the-jade-hotel/hotel/jeju-island-kr.html?cid=1925461",
+      "walkMin": 24,
+      "score": 8.6,
+      "reviewCount": 2780,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/18937241/-1/72290a5af2dd3f1c9514f49598a78369.jpg?ca=15&ce=1",
+      "distanceNote": "약 1924.24m · 제주시 버스터미널 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 2,780건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 2,780건 기반.",
+      "reviews": [
+        {
+          "text": "공항과 버스 정류장에서도 충분히 가깝습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "모든 시설이 완벽하게 잘 작동되고 깨끗합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 적극 추천하는 호텔이며 다시 방문할 예정입니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "동문시장과 흑돼지 거리까지 걸어서 갈 수 있는 거리입니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 최고 가치, 훌륭한 위치, 매우 깨끗함",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "베드라디오 동문 (Bed Radio Dongmoon)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bed-radio-dongmoon/hotel/jeju-island-kr.html?cid=1925461",
+      "walkMin": 29,
+      "score": 8.6,
+      "reviewCount": 2130,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/6905032/-1/2c290e00fefa172c7c34aea76becc47e.jpg?ca=10&ce=1",
+      "distanceNote": "약 2287.11m · 제주시 버스터미널 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 2,130건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 2,130건 기반.",
+      "reviews": [
+        {
+          "text": "다음번 제주여행은 베드라디오 동문이 첫 선택이에요.",
+          "score": "10",
+          "country": "中国",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "매트리스 토퍼와 베개, 침구가 편안합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "즐거운 시간을 보냈고 매우 깨끗하며 위치가 완벽합니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "또한 아늑한 침대와 완벽한 위치로 매우 깨끗합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 테라스와 개울 전망을 갖춘 트윈룸을 예약했습니다. 매우 좋습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "케니스테이 제주 모슬포 (Kenny Stay Jeju Mosulpo)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-kenny-mosulpo/hotel/seogwipo-kr.html?cid=1925461",
+      "walkMin": 115,
+      "score": 8.6,
+      "reviewCount": 4381,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/26043742/0/7c7974a62745806cd3b00885cc657376.png?ce=3",
+      "distanceNote": "약 9173.42m · 오설록 티 뮤지엄 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 4,381건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 4,381건 기반.",
+      "reviews": [
+        {
+          "text": "셀프 체크인 키오스크에서 원활하고 빠른 체크인/아웃이 가능합니다.",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "장소는 깨끗하고 편안하며 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "숙박에 관한 모든 것이 훌륭했습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치와 저렴한 가격의 좋은 호텔",
+          "score": "8.4",
+          "country": "South Korea",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "화장실, 안마의자, 유료 커피 머신이 마련되어 있습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-26T21:03:50.484Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
