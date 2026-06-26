@@ -13,7 +13,7 @@
   "heroAlt": "오사카 야경",
   "heroTitleHtml": "오사카 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
   "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
-  "verdictHtml": "가성비 1위는 <b>신사이바시 아티 인</b>(평점 9.1·리뷰 12,055건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>난바역 도보 1분</b>의 <b>퍼스트 캐빈 미도스지 난바</b>를 추천합니다.",
+  "verdictHtml": "가성비 1위는 <b>신사이바시 아티 인</b>(평점 9.1·리뷰 12,058건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>난바역 도보 1분</b>의 <b>퍼스트 캐빈 미도스지 난바</b>를 추천합니다.",
   "outroImg": "https://picsum.photos/seed/osaka-castle/1000/440",
   "outroTitle": "🌙 오사카, 어디에 묵어도 후회없이",
   "outroText": "위 7곳은 모두 오사카 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 오사카 전체 숙소를 한 번에 비교해보세요.",
@@ -51,19 +51,19 @@
       "agodaUrl": "https://www.agoda.com/h30799875/hotel/osaka-jp.html?cid=1925461",
       "walkMin": 4,
       "score": 9.1,
-      "reviewCount": 12055,
+      "reviewCount": 12058,
       "priceBand": 1,
       "priceText": "₩ · 약 5만원",
       "valueIndex": 9.1,
-      "img": "//pix8.agoda.net/hotelImages/31656492/0/80ee65955315ecbf823db6251dfaf94b.jpeg?va=1&ce=3",
+      "img": "//pix8.agoda.net/hotelImages/31656492/0/690615ac742ff04f653b6134da1659bc.jpg?ce=3",
       "distanceNote": "약 355.72m · 요쓰바시역 인근",
       "metaTags": [
         "💰 약 5만원",
-        "📝 리뷰 12,055건",
+        "📝 리뷰 12,058건",
         "⭐ 3성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 12,055건 기반.",
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 12,058건 기반.",
       "reviews": [
         {
           "text": "세탁실, 자동판매기, 정수기도 마련되어 있습니다.",
@@ -94,7 +94,7 @@
           "translated": true
         },
         {
-          "text": "이 숙소는 오사카 여행에 확실히 가치가 있습니다.",
+          "text": "이 숙소는 오사카를 여행할 가치가 있는 숙소입니다.",
           "score": "10",
           "country": "Thailand",
           "date": "2024.01",
@@ -105,58 +105,58 @@
     },
     {
       "rank": 2,
-      "name": "캐빈 앤 캡슐 호텔 J-쉽 오사카 난바 (Cabin & Capsule Hotel J-SHIP Osaka Namba)",
+      "name": "그랜드 호스텔 엘디케이 오사카 신사이바시 (GRAND HOSTEL LDK OSAKA SHINSAIBASHI)",
       "hotelSlug": "",
-      "agodaUrl": "https://www.agoda.com/cabin-capsule-hotel-j-ship-osaka-namba/hotel/osaka-jp.html?cid=1925461",
-      "walkMin": 3,
-      "score": 9.1,
-      "reviewCount": 6042,
+      "agodaUrl": "https://www.agoda.com/the-stay-osaka-shinsaibashi/hotel/osaka-jp.html?cid=1925461",
+      "walkMin": 2,
+      "score": 9,
+      "reviewCount": 11456,
       "priceBand": 1,
-      "priceText": "₩ · 약 3만원",
-      "valueIndex": 9.1,
-      "img": "//pix8.agoda.net/hotelImages/5710110/0/0c32d4c7bed91af4dc2d3e15e9755856.jpeg?va=1&ce=2",
-      "distanceNote": "약 223.67m · JR 난바역 인근",
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/6405135/0/9aaedf3e6e75e1e9bf9ff69e6aa54e4f.jpg?ce=0",
+      "distanceNote": "약 182.28m · 나가호리바시역 인근",
       "metaTags": [
-        "💰 약 3만원",
-        "📝 리뷰 6,042건",
+        "💰 약 2만원",
+        "📝 리뷰 11,456건",
         "⭐ 2성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 6,042건 기반.",
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 11,456건 기반.",
       "reviews": [
         {
-          "text": "이곳의 구석구석은 흠잡을 데 없이 깨끗했습니다!",
-          "score": "10",
-          "country": "Malaysia",
-          "date": "2025.11",
+          "text": "아마도 지금까지 머물렀던 호스텔 중 최고일 것입니다.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2022.07",
           "translated": true
         },
         {
-          "text": "저예산 여행자에게 이 호텔을 적극 추천하고 싶습니다.",
+          "text": "사랑스럽고 넓은 공용 공간과 주방, 좋은 수하물 보관소",
           "score": "10",
-          "country": "Malaysia",
+          "country": "中國香港",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "공용 화장실은 깨끗하고 칸막이 공간도 넓습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "공용 욕실은 크고 조용하며 흠집 하나 없이 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
           "date": "2025.05",
           "translated": true
         },
         {
-          "text": "깨끗하고 시설이 잘 갖춰져 있으며 저렴한 가격으로 오사카에 머물 수 있는 숙소입니다.",
+          "text": "위치는 신사이바시에서 도톤부리까지 가까워서 좋습니다.",
           "score": "9.6",
-          "country": "United States",
-          "date": "2024.10",
-          "translated": true
-        },
-        {
-          "text": "뽀송뽀송한 깨끗함과 순수함을 자랑하는 곳으로,",
-          "score": "10",
-          "country": "Philippines",
-          "date": "2024.10",
-          "translated": true
-        },
-        {
-          "text": "현대적이며 무엇보다도 욕실에 온천이 있습니다.",
-          "score": "9.6",
-          "country": "Singapore",
-          "date": "2024.07",
+          "country": "Indonesia",
+          "date": "2025.02",
           "translated": true
         }
       ],
@@ -169,19 +169,19 @@
       "agodaUrl": "https://www.agoda.com/toyoko-inn-osaka-namba-h39896744/hotel/osaka-jp.html?cid=1925461",
       "walkMin": 2,
       "score": 9,
-      "reviewCount": 3164,
+      "reviewCount": 3169,
       "priceBand": 1,
       "priceText": "₩ · 약 7만원",
       "valueIndex": 9,
-      "img": "//pix8.agoda.net/hotelImages/47646382/-1/bfce4e8fe53aec0a667d8147d9831532.jpg?va=1&ce=0",
+      "img": "//pix8.agoda.net/hotelImages/47646382/-1/bfce4e8fe53aec0a667d8147d9831532.jpg?ce=0",
       "distanceNote": "약 121.91m · 오사카난바역 인근",
       "metaTags": [
         "💰 약 7만원",
-        "📝 리뷰 3,164건",
+        "📝 리뷰 3,169건",
         "⭐ 3성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 3,164건 기반.",
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 3,169건 기반.",
       "reviews": [
         {
           "text": "와이파이도 빠르고 무료로 이용할 수 있는 편의시설도 많아요",
@@ -228,27 +228,20 @@
       "agodaUrl": "https://www.agoda.com/hotel-amanek-osaka-namba/hotel/osaka-jp.html?cid=1925461",
       "walkMin": 2,
       "score": 8.9,
-      "reviewCount": 1594,
+      "reviewCount": 1595,
       "priceBand": 1,
       "priceText": "₩ · 약 7만원",
       "valueIndex": 8.9,
-      "img": "//pix8.agoda.net/hotelImages/85856579/0/70dc11be8ca17917194945e6302eddd3.jpg?va=1&ce=3",
+      "img": "//pix8.agoda.net/hotelImages/85856579/0/70dc11be8ca17917194945e6302eddd3.jpg?ce=3",
       "distanceNote": "약 193.2m · 긴테쓰닛폰바시역 인근",
       "metaTags": [
         "💰 약 7만원",
-        "📝 리뷰 1,594건",
+        "📝 리뷰 1,595건",
         "⭐ 3성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,594건 기반.",
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,595건 기반.",
       "reviews": [
-        {
-          "text": "훌륭한 위치, 깨끗하고 편안합니다.",
-          "score": "10",
-          "country": "Hong Kong SAR, China",
-          "date": "2026.05",
-          "translated": true
-        },
         {
           "text": "그러나 방은 여전히 ​​조용했습니다. 외부 소음은 전혀 들리지 않았습니다.",
           "score": "9.2",
@@ -257,10 +250,10 @@
           "translated": true
         },
         {
-          "text": "내가 지불한 것보다 객실 품질이 더 좋습니다.",
-          "score": "9.6",
+          "text": "훌륭한 위치, 깨끗하고 편안합니다.",
+          "score": "10",
           "country": "Hong Kong SAR, China",
-          "date": "2026.03",
+          "date": "2026.05",
           "translated": true
         },
         {
@@ -271,10 +264,17 @@
           "translated": true
         },
         {
-          "text": "직원들은 항상 이용 가능했고 기꺼이 도와주었습니다.",
+          "text": "내가 지불한 것보다 객실 품질이 더 좋습니다.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 세심하고 수용적이었습니다.",
           "score": "9.6",
           "country": "United States",
-          "date": "2026.06",
+          "date": "2026.02",
           "translated": true
         }
       ],
@@ -282,83 +282,24 @@
     },
     {
       "rank": 5,
-      "name": "Y's 캐빈 오사카 난바 (Y's Cabin Osaka Namba)",
-      "hotelSlug": "",
-      "agodaUrl": "https://www.agoda.com/y-s-cabin-osaka-namba_3/hotel/osaka-jp.html?cid=1925461",
-      "walkMin": 2,
-      "score": 8.8,
-      "reviewCount": 7420,
-      "priceBand": 1,
-      "priceText": "₩ · 약 2만원",
-      "valueIndex": 8.8,
-      "img": "//pix8.agoda.net/hotelImages/2011879/0/632eb432a93abc1faf6d4b1801742a69.jpeg?va=1&ce=2",
-      "distanceNote": "약 130.6m · 난바역 인근",
-      "metaTags": [
-        "💰 약 2만원",
-        "📝 리뷰 7,420건",
-        "⭐ 2성급",
-        "📶 무료 Wi-Fi"
-      ],
-      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 7,420건 기반.",
-      "reviews": [
-        {
-          "text": "Y의 캐빈은 도톤보리에서 매우 가깝고 매우 깨끗했습니다.",
-          "score": "10",
-          "country": "대한민국",
-          "date": "2025.09",
-          "translated": true
-        },
-        {
-          "text": "직원들은 매우 정중하며 필요한 도움을 줍니다.",
-          "score": "10",
-          "country": "Singapore",
-          "date": "2025.09",
-          "translated": true
-        },
-        {
-          "text": "안전하고 깨끗하며 (제가 머물렀을 때) 나에게는 너무 저렴합니다.",
-          "score": "10",
-          "country": "Malaysia",
-          "date": "2024.08",
-          "translated": true
-        },
-        {
-          "text": "모든 시설이 완비되어 있고 깨끗하며 위생적입니다.",
-          "score": "10",
-          "country": "China",
-          "date": "2024.09",
-          "translated": true
-        },
-        {
-          "text": "도톤보리와 신사이바시와 매우 가깝습니다.",
-          "score": "10",
-          "country": "China",
-          "date": "2024.09",
-          "translated": true
-        }
-      ],
-      "ctaText": "🏨 최저가·예약창 가격 확인"
-    },
-    {
-      "rank": 6,
       "name": "APA 호텔 난바 신사이바시 니시 (APA Hotel Namba Shinsaibashi Nishi)",
       "hotelSlug": "",
       "agodaUrl": "https://www.agoda.com/apa-hotel-namba-shinsaibashi-nishi/hotel/osaka-jp.html?cid=1925461",
       "walkMin": 4,
       "score": 8.8,
-      "reviewCount": 7410,
+      "reviewCount": 7412,
       "priceBand": 1,
       "priceText": "₩ · 약 5만원",
       "valueIndex": 8.8,
-      "img": "//pix8.agoda.net/hotelImages/22995346/0/a6588cf82ff0ff9b3d324c873d288a00.jpeg?va=1&ce=3",
+      "img": "//pix8.agoda.net/hotelImages/22995346/0/dff674070a8978cc13bff9c605851330.jpg?ce=3",
       "distanceNote": "약 281.87m · 오사카난바역 인근",
       "metaTags": [
         "💰 약 5만원",
-        "📝 리뷰 7,410건",
+        "📝 리뷰 7,412건",
         "⭐ 3성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 7,410건 기반.",
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 7,412건 기반.",
       "reviews": [
         {
           "text": "호텔 직원은 영어를 유창하게 구사할 수 있으며 매우 도움이 됩니다.",
@@ -399,25 +340,25 @@
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "퍼스트 캐빈 미도스지 난바 (First Cabin Midosuji-Namba)",
       "hotelSlug": "",
       "agodaUrl": "https://www.agoda.com/first-cabin-midosuji-namba/hotel/osaka-jp.html?cid=1925461",
       "walkMin": 1,
       "score": 8.8,
-      "reviewCount": 5281,
+      "reviewCount": 5282,
       "priceBand": 1,
       "priceText": "₩ · 약 2만원",
       "valueIndex": 8.8,
-      "img": "//pix8.agoda.net/hotelImages/284535/0/06078d7cd5d99b20aafe2ba6ec137aa5.jpeg?va=1&ce=3",
+      "img": "//pix8.agoda.net/hotelImages/284535/0/8c9f9828f877ad111d24b3ae7b6cb3c9.jpg?ce=3",
       "distanceNote": "약 75.25m · 난바역 인근",
       "metaTags": [
         "💰 약 2만원",
-        "📝 리뷰 5,281건",
+        "📝 리뷰 5,282건",
         "⭐ 1.5성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 5,281건 기반.",
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 5,282건 기반.",
       "reviews": [
         {
           "text": "전반적으로 퍼스트 캐빈에서의 숙박은 기대 이상이었습니다.",
@@ -456,10 +397,69 @@
         }
       ],
       "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Y's 캐빈 오사카 난바 (Y's Cabin Osaka Namba)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/y-s-cabin-osaka-namba_3/hotel/osaka-jp.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.8,
+      "reviewCount": 7435,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/201/2011879/2011879_17083017220055857559.jpg?ca=6&ce=1",
+      "distanceNote": "약 130.6m · 난바역 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 7,435건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 7,435건 기반.",
+      "reviews": [
+        {
+          "text": "Y의 캐빈은 도톤보리에서 매우 가깝고 매우 깨끗했습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 정중하며 필요한 도움을 줍니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "안전하고 깨끗하며 (제가 머물렀을 때) 나에게는 너무 저렴합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "모든 시설이 완비되어 있고 깨끗하며 위생적입니다.",
+          "score": "10",
+          "country": "China",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "도톤보리와 신사이바시와 매우 가깝습니다.",
+          "score": "10",
+          "country": "China",
+          "date": "2024.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
     }
   ],
   "_meta": {
-    "fetchedAt": "2026-06-25T15:42:31.306Z",
+    "fetchedAt": "2026-06-26T14:44:25.639Z",
     "source": "agoda citySearch",
     "count": 7
   }

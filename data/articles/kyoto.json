@@ -13,7 +13,7 @@
   "heroAlt": "교토",
   "heroTitleHtml": "교토 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
   "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
-  "verdictHtml": "가성비 1위는 <b>더 밀레니얼스 교토</b>(평점 9.2·리뷰 6,820건·1박 약 3만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>가와라마치역 도보 1분</b>의 <b>글랜짓 교토 카와라마치</b>를 추천합니다.",
+  "verdictHtml": "가성비 1위는 <b>더 밀레니얼스 교토</b>(평점 9.2·리뷰 6,824건·1박 약 2만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>가와라마치역 도보 1분</b>의 <b>글랜짓 교토 카와라마치</b>를 추천합니다.",
   "outroImg": "https://pix8.agoda.net/hotelImages/877085/0/2c84c690739923d1aa9f600c79bd3e9c.jpeg?va=1&ce=2",
   "outroTitle": "🌙 교토, 어디에 묵어도 후회없이",
   "outroText": "위 7곳은 모두 교토 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 교토 전체 숙소를 한 번에 비교해보세요.",
@@ -26,19 +26,19 @@
       "agodaUrl": "https://www.agoda.com/the-millennials-kyoto/hotel/kyoto-jp.html?cid=1925461",
       "walkMin": 5,
       "score": 9.2,
-      "reviewCount": 6820,
+      "reviewCount": 6824,
       "priceBand": 1,
-      "priceText": "₩ · 약 3만원",
+      "priceText": "₩ · 약 2만원",
       "valueIndex": 9.2,
-      "img": "//pix8.agoda.net/hotelImages/2401153/0/580c95fbdbd40f1a655053e716692da9.jpeg?va=1&ce=2",
+      "img": "//pix8.agoda.net/hotelImages/2401153/-1/9d5fcfe6c1504cc3323b2d811892f694.jpg?ce=0",
       "distanceNote": "약 380.88m · 교토시야쿠쇼마에역 인근",
       "metaTags": [
-        "💰 약 3만원",
-        "📝 리뷰 6,820건",
+        "💰 약 2만원",
+        "📝 리뷰 6,824건",
         "⭐ 2.5성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 6,820건 기반.",
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 6,824건 기반.",
       "reviews": [
         {
           "text": "로비 자체는 지금까지 본 것 중 최고였습니다.",
@@ -80,71 +80,12 @@
     },
     {
       "rank": 2,
-      "name": "피스 호스텔 산조 (Piece Hostel Sanjo)",
-      "hotelSlug": "",
-      "agodaUrl": "https://www.agoda.com/piece-hostel-sanjo/hotel/kyoto-jp.html?cid=1925461",
-      "walkMin": 5,
-      "score": 9.2,
-      "reviewCount": 14261,
-      "priceBand": 1,
-      "priceText": "₩ · 약 2만원",
-      "valueIndex": 9.2,
-      "img": "//pix8.agoda.net/hotelImages/877085/0/2c84c690739923d1aa9f600c79bd3e9c.jpeg?va=1&ce=2",
-      "distanceNote": "약 422.82m · 교토시야쿠쇼마에역 인근",
-      "metaTags": [
-        "💰 약 2만원",
-        "📝 리뷰 14,261건",
-        "⭐ 2성급",
-        "📶 무료 Wi-Fi"
-      ],
-      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 14,261건 기반.",
-      "reviews": [
-        {
-          "text": "Piece Hostel은 나에게 완벽한 숙박 경험을 제공했습니다.",
-          "score": "10",
-          "country": "대한민국",
-          "date": "2024.07",
-          "translated": true
-        },
-        {
-          "text": "놀라운 숙소, 제가 머물렀던 최고의 호스텔 중 하나",
-          "score": "10",
-          "country": "Türkiye",
-          "date": "2024.08",
-          "translated": true
-        },
-        {
-          "text": "직원분들도 너무 친절하시고 시설도 너무 좋아요!",
-          "score": "9.2",
-          "country": "Malaysia",
-          "date": "2025.04",
-          "translated": true
-        },
-        {
-          "text": "가격이나 품질면에서 정말 마음에 드는 곳이었습니다.",
-          "score": "10",
-          "country": "España",
-          "date": "2025.01",
-          "translated": true
-        },
-        {
-          "text": "친절한 직원, 깨끗하고 모든 것에 가깝습니다.",
-          "score": "10",
-          "country": "Philippines",
-          "date": "2024.02",
-          "translated": true
-        }
-      ],
-      "ctaText": "🏨 최저가·예약창 가격 확인"
-    },
-    {
-      "rank": 3,
       "name": "피스 호스텔 교토 (Piece Hostel Kyoto)",
       "hotelSlug": "",
       "agodaUrl": "https://www.agoda.com/piece-hostel-kyoto/hotel/kyoto-jp.html?cid=1925461",
       "walkMin": 5,
       "score": 9.2,
-      "reviewCount": 11719,
+      "reviewCount": 11722,
       "priceBand": 1,
       "priceText": "₩ · 약 2만원",
       "valueIndex": 9.2,
@@ -152,11 +93,11 @@
       "distanceNote": "약 380.25m · 교토역 하치조구치 버스 정류장 인근",
       "metaTags": [
         "💰 약 2만원",
-        "📝 리뷰 11,719건",
+        "📝 리뷰 11,722건",
         "⭐ 2성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 11,719건 기반.",
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 11,722건 기반.",
       "reviews": [
         {
           "text": "지금까지 혼자 여행하면서 최고의 숙박 중 하나입니다.",
@@ -197,25 +138,84 @@
       "ctaText": "🏨 최저가·예약창 가격 확인"
     },
     {
+      "rank": 3,
+      "name": "피스 호스텔 산조 (Piece Hostel Sanjo)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/piece-hostel-sanjo/hotel/kyoto-jp.html?cid=1925461",
+      "walkMin": 5,
+      "score": 9.2,
+      "reviewCount": 14262,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 9.2,
+      "img": "//pix8.agoda.net/hotelImages/877085/-1/06d050efe35a4ac2ab543da1d47f3dcb.jpg?ca=7&ce=1",
+      "distanceNote": "약 422.82m · 교토시야쿠쇼마에역 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 14,262건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 14,262건 기반.",
+      "reviews": [
+        {
+          "text": "Piece Hostel은 나에게 완벽한 숙박 경험을 제공했습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "놀라운 숙소, 제가 머물렀던 최고의 호스텔 중 하나",
+          "score": "10",
+          "country": "Türkiye",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "직원분들도 너무 친절하시고 시설도 너무 좋아요!",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "가격이나 품질면에서 정말 마음에 드는 곳이었습니다.",
+          "score": "10",
+          "country": "España",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원, 깨끗하고 모든 것에 가깝습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
       "rank": 4,
       "name": "글랜짓 교토 카와라마치 (GLANSIT KYOTO KAWARAMACHI)",
       "hotelSlug": "",
       "agodaUrl": "https://www.agoda.com/glansit-kyoto-kawaramachi/hotel/kyoto-jp.html?cid=1925461",
       "walkMin": 1,
       "score": 9.1,
-      "reviewCount": 4382,
+      "reviewCount": 4383,
       "priceBand": 1,
       "priceText": "₩ · 약 4만원",
       "valueIndex": 9.1,
-      "img": "//pix8.agoda.net/hotelImages/5000760/0/eff06d53f090c760d546348172b849d7.jpeg?va=1&ce=2",
+      "img": "//pix8.agoda.net/hotelImages/5000760/0/f98f2095c7426e460021fcbd0456d53b.jpg?ce=2",
       "distanceNote": "약 110.94m · 가와라마치역 인근",
       "metaTags": [
         "💰 약 4만원",
-        "📝 리뷰 4,382건",
+        "📝 리뷰 4,383건",
         "⭐ 2.5성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 4,382건 기반.",
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 4,383건 기반.",
       "reviews": [
         {
           "text": "지금까지 일본에서 묵어본 캡슐호텔 중 최고였습니다",
@@ -262,19 +262,19 @@
       "agodaUrl": "https://www.agoda.com/daiwa-roynet-hotel-kyoto-ekimae/hotel/kyoto-jp.html?cid=1925461",
       "walkMin": 4,
       "score": 9.1,
-      "reviewCount": 15296,
+      "reviewCount": 15298,
       "priceBand": 1,
       "priceText": "₩ · 약 8만원",
       "valueIndex": 9.1,
-      "img": "//pix8.agoda.net/hotelImages/119/1194076/1194076_17011714460050359140.jpg?va=1&ca=6&ce=1",
+      "img": "//pix8.agoda.net/hotelImages/119/1194076/1194076_17011714460050359140.jpg?ca=6&ce=1",
       "distanceNote": "약 326.52m · 교토역 인근",
       "metaTags": [
         "💰 약 8만원",
-        "📝 리뷰 15,296건",
+        "📝 리뷰 15,298건",
         "⭐ 4성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 15,296건 기반.",
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 15,298건 기반.",
       "reviews": [
         {
           "text": "호텔 자체는 깨끗하고 직원은 훌륭합니다.",
@@ -321,19 +321,19 @@
       "agodaUrl": "https://www.agoda.com/hotel-forza-kyoto-shijo-kawaramachi/hotel/kyoto-jp.html?cid=1925461",
       "walkMin": 4,
       "score": 9.1,
-      "reviewCount": 12337,
+      "reviewCount": 12336,
       "priceBand": 1,
       "priceText": "₩ · 약 7만원",
       "valueIndex": 9.1,
-      "img": "//pix8.agoda.net/hotelImages/23128257/-1/32cb36ab6613300414b6835b28d72f37.jpg?va=1&ca=18&ce=1",
+      "img": "//pix8.agoda.net/hotelImages/23128257/-1/32cb36ab6613300414b6835b28d72f37.jpg?ca=18&ce=1",
       "distanceNote": "약 331.82m · 가와라마치역 인근",
       "metaTags": [
         "💰 약 7만원",
-        "📝 리뷰 12,337건",
+        "📝 리뷰 12,336건",
         "⭐ 4성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 12,337건 기반.",
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 12,336건 기반.",
       "reviews": [
         {
           "text": "방 자체는 흠잡을 데 없이 깔끔하고 잘 관리되어 있었습니다.",
@@ -380,19 +380,19 @@
       "agodaUrl": "https://www.agoda.com/sotetsu-fresa-inn-kyoto-shijokarasuma/hotel/kyoto-jp.html?cid=1925461",
       "walkMin": 1,
       "score": 9.1,
-      "reviewCount": 12302,
+      "reviewCount": 12306,
       "priceBand": 1,
       "priceText": "₩ · 약 6만원",
       "valueIndex": 9.1,
-      "img": "//pix8.agoda.net/hotelImages/1618367/0/063dae2ccc3e971bed86dd4e4c13b8d2.jpeg?va=1&ce=2",
+      "img": "//pix8.agoda.net/hotelImages/1618367/-1/fe2479572e5baed89f29e8465377f2b1.jpg?ca=7&ce=1",
       "distanceNote": "약 77.46m · 시조역 인근",
       "metaTags": [
         "💰 약 6만원",
-        "📝 리뷰 12,302건",
+        "📝 리뷰 12,306건",
         "⭐ 3.5성급",
         "📶 무료 Wi-Fi"
       ],
-      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 12,302건 기반.",
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 12,306건 기반.",
       "reviews": [
         {
           "text": "나는 내 친구에게 이 호텔에 묵도록 꼭 추천할 것입니다.",
@@ -434,7 +434,7 @@
     }
   ],
   "_meta": {
-    "fetchedAt": "2026-06-25T15:43:19.520Z",
+    "fetchedAt": "2026-06-26T14:45:31.750Z",
     "source": "agoda citySearch",
     "count": 7
   }
