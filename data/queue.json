@@ -1,12 +1,12 @@
 {
-  "lastPostedAt": "2026-06-26T15:57:33.433Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 6,
+  "lastPostedAt": "2026-06-26T17:49:52.824Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 7,
   "postedDate": "2026-06-26",
   "queue": [
-    "hanoi",
-    "kuala-lumpur"
+    "kuala-lumpur",
+    "bali"
   ],
   "publishedSlugs": [
     "osaka-namba",
@@ -22,6 +22,7 @@
     "nagoya",
     "busan",
     "kaohsiung",
-    "chiangmai"
+    "chiangmai",
+    "hanoi"
   ]
 }
