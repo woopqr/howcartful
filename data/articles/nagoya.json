@@ -1,0 +1,441 @@
+{
+  "slug": "nagoya",
+  "title": "나고야 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 나고야 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "nagoya-jp",
+  "cityName": "나고야",
+  "cityId": 13740,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "나고야",
+  "heroImg": "https://pix8.agoda.net/property/46431429/0/c351693742fa3c38179a8d1b15423f55.jpeg?ce=3",
+  "heroAlt": "나고야",
+  "heroTitleHtml": "나고야 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Hotel Abc Nagoya Eki Shinkansenguchi</b>(평점 9.3·리뷰 3,969건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>사카에역 도보 2분</b>의 <b>컴포트 인 나고야 사카에</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/property/46431429/0/c351693742fa3c38179a8d1b15423f55.jpeg?ce=3",
+  "outroTitle": "🌙 나고야, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 나고야 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 나고야 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Hotel Abc Nagoya Eki Shinkansenguchi",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-abc-h9776557/hotel/nagoya-jp.html?cid=1925461",
+      "walkMin": 5,
+      "score": 9.3,
+      "reviewCount": 3969,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 9.3,
+      "img": "//pix8.agoda.net/property/46431429/0/c351693742fa3c38179a8d1b15423f55.jpeg?ce=3",
+      "distanceNote": "약 369.95m · Nagoya City Bus 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 3,969건",
+        "⭐ 1성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 3,969건 기반.",
+      "reviews": [
+        {
+          "text": "호텔도 조용하고 깨끗하고 직원들도 너무 친절했어요!",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "잠을 자기에는 침대, 이불, 베개가 모두 편안합니다.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "호텔은 현대적이고 매우 깨끗하며 잘 관리되어 있습니다.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "친절하고 깨끗한 호텔! 넓고 나는 통나무처럼 잤습니다.",
+          "score": "9.6",
+          "country": "Netherlands",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 도움이 되고 친절했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "소테츠 프레사 인 나고야에키 사쿠라도리구치 (Sotetsu Fresa Inn Nagoyaeki Sakuradoriguchi)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sotetsu-fresa-inn-nagoya-sakuradoriguchi/hotel/nagoya-jp.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.8,
+      "reviewCount": 13004,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/9891910/0/c9cbe8d21680bd1bf57ac3e701a8c4c6.jpeg",
+      "distanceNote": "약 221.64m · 메이테쓰나고야역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 13,004건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 13,004건 기반.",
+      "reviews": [
+        {
+          "text": "위치, 시설, 서비스, 직원 모두 매우 만족스럽습니다!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "호텔은 쇼핑몰, 나고야역 근처의 훌륭한 위치에 있었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "호텔은 나고야역에서 도보로 약 7분 거리에 있습니다.",
+          "score": "9.333",
+          "country": "Singapore",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "나고야역과 가까워서 위치가 좋은 호텔",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "편의점과 음식 선택에 대한 접근성이 뛰어납니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "컴포트 인 나고야 사카에 (Comfort Inn Nagoya Sakae)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/unizo-inn-nagoya-sakae_9/hotel/nagoya-jp.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.8,
+      "reviewCount": 3385,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/795379560.jpg?k=f53d8aaac2a19f3d572ee9a9333000b2667428cb7e37aba083132ab373752db9&o=",
+      "distanceNote": "약 145.84m · 사카에역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 3,385건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 3,385건 기반.",
+      "reviews": [
+        {
+          "text": "하우스키핑이 훌륭하여 편안한 숙박을 보장합니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 도움이 되고 정중했습니다. 정말 감사합니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "일본호텔에 비해 방이 넓었고,",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "객실과 시트는 깨끗하고 새것 같았습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "장소는 역, 시장, 관광지 근처에 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "베이스 레이어 호텔 나고야 니시키 (BASE LAYER HOTEL NAGOYA NISHIKI)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/base-layer-hotel-nagoya/hotel/nagoya-jp.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.7,
+      "reviewCount": 3417,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/64171597/0/0286acbd4ac841696ff07e4e2425ef5f.jpeg?ce=2",
+      "distanceNote": "약 209.49m · 마루노우치역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 3,417건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 3,417건 기반.",
+      "reviews": [
+        {
+          "text": "개인 여행자로서 1박 동안 훌륭한 숙박을 했습니다.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "현대적이면서도 편안하며, 전반적으로 정착하기가 좋습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "샤워공간과 시설도 아이들이 이용하기 딱 좋았습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "침대는 완벽했습니다. 매우 아늑하고 편안했습니다.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "또한 매우 깨끗하고 편안했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "호텔 케이한 나고야 (Hotel Keihan Nagoya)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-keihan-nagoya/hotel/hatasho-cho-jp.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.7,
+      "reviewCount": 21830,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/9084550/0/24499c55d568da121253407afc21e86c.jpeg?ce=2",
+      "distanceNote": "약 418.72m · 마루노우치역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 21,830건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 21,830건 기반.",
+      "reviews": [
+        {
+          "text": "지금까지 가본 그 어떤 호텔보다 만족스러웠습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "이곳의 모든 것이 훌륭했고 심지어 직원들도 친절했습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 편안했고 직원들은 매우 도움이 되었습니다.",
+          "score": "8.8",
+          "country": "中國香港",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "직원분들이 친절하셔서 즐거운 시간 보냈습니다❤️",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "다음 나고야 여행에도 기꺼이 이곳에 다시 머물고 싶습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "2025 리뉴얼 오픈 - 안신 오야도 나고야 맨 / 우먼 사카에 스테이션 (2025 Renewal Open - Anshin Oyado Nagoya Man / Woman Sakae Station)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/capsule-hotel-anshin-oyado-premium-nagoya-sakae/hotel/nagoya-jp.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.7,
+      "reviewCount": 7212,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/10681746/1016636755/1314ee7ae2106e2090c7ef84a3348279.jpeg",
+      "distanceNote": "약 430.92m · 사카에역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 7,212건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 7,212건 기반.",
+      "reviews": [
+        {
+          "text": "세차 세계처럼 조각된 목재, 깨끗한 객실을 좋아했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "제가 정말 마음에 들었던 곳은 대중목욕탕/인공온천이었어요!",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "위치, 온천, 매우 저렴한 가격이 마음에 듭니다.",
+          "score": "8.4",
+          "country": "Japão",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "이 회사는 놀랍습니다. 최고의 캡슐을 찾을 수 있습니다",
+          "score": "10",
+          "country": "Israel",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 시설과 훌륭한 직원이 있는 훌륭한 위치.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "소테츠 프레사 인 나고야 신칸센구치 (Sotetsu Fresa Inn Nagoya Shinkansenguchi)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sotetsu-fresa-inn-nagoya-shinkansenguchi/hotel/nagoya-jp.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.7,
+      "reviewCount": 14992,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/25764569/0/8ad2098b4178c6a8892b353a52782841.jpeg?ce=2",
+      "distanceNote": "약 321.95m · Nagoya City Bus 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 14,992건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 14,992건 기반.",
+      "reviews": [
+        {
+          "text": "다양한 개인 편의시설이 갖춰져 있고 파자마도 마음에 듭니다.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 냄새도 전혀 없습니다(비흡연 호텔입니다).",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "성인 2명과 어린이 2명이 숙박할 수 있는 커넥팅룸이 있습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "나고야역 근처에 위치해 접근성이 매우 좋은 호텔입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 순조롭게 진행되었고 우리는 매우 편안하게 지냈습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-26T01:36:53.608Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
