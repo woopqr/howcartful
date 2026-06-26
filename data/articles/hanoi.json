@@ -1,0 +1,441 @@
+{
+  "slug": "hanoi",
+  "title": "하노이 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 하노이 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "hanoi-vn",
+  "cityName": "하노이",
+  "cityId": 2758,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "하노이",
+  "heroImg": "https://pix8.agoda.net/hotelImages/23696503/-1/fab7caa97b86e715a38c4aa42cb57b6a.jpg?ca=23&ce=0",
+  "heroAlt": "하노이",
+  "heroTitleHtml": "하노이 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>카리용 부티크 호텔</b>(평점 9.5·리뷰 7,754건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>하노이역 도보 12분</b>의 <b>비스포크 트렌디 호텔 하노이 호텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/23696503/-1/fab7caa97b86e715a38c4aa42cb57b6a.jpg?ca=23&ce=0",
+  "outroTitle": "🌙 하노이, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 하노이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 하노이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "카리용 부티크 호텔 (Carillon Boutique Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/carillon-boutique-hotel/hotel/hanoi-vn.html?cid=1925461",
+      "walkMin": 18,
+      "score": 9.5,
+      "reviewCount": 7754,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 9.5,
+      "img": "//pix8.agoda.net/hotelImages/23696503/-1/fab7caa97b86e715a38c4aa42cb57b6a.jpg?ca=23&ce=0",
+      "distanceNote": "약 1459.46m · 하노이역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 7,754건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 7,754건 기반.",
+      "reviews": [
+        {
+          "text": "기차역, Bahn Mi 25 및 야시장과 매우 ​​가깝습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "객실은 편안했고 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "객실 편의 시설에는 필요한 모든 것이 갖추어져 있으며 깨끗합니다.",
+          "score": "10",
+          "country": "Schweiz",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "그러나 이 호텔을 진정으로 차별화하는 것은 직원입니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "우리가 도착한 순간부터 우리는 가족처럼 대우 받았습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "비스포크 트렌디 호텔 하노이 호텔 (Bespoke Trendy Hotel Hanoi Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hanoi-la-siesta-hotel-trendy/hotel/hanoi-vn.html?cid=1925461",
+      "walkMin": 12,
+      "score": 9.3,
+      "reviewCount": 7715,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 9.3,
+      "img": "//pix8.agoda.net/hotelImages/115/1158452/1158452_16061316220043496351.jpg?ca=6&ce=1",
+      "distanceNote": "약 994.75m · 하노이역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 7,715건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 7,715건 기반.",
+      "reviews": [
+        {
+          "text": "하지만 아, 이 보석 같은 호텔의 가장 중요한 보석은 바로 직원입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "객실은 아름답게 디자인되어 있고 아늑하며 흠잡을 데가 없습니다.",
+          "score": "10",
+          "country": "ישראל",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "모든 직원의 환대는 최고 수준이었습니다!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "마지막으로 Lena와 그녀의 팀에게 특히 감사의 말씀을 전하고 싶습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "호텔은 훌륭하고 매우 친절한 직원이 매우 도움이 되었습니다.",
+          "score": "10",
+          "country": "Germany",
+          "date": "2024.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "하노이 레일웨이 캡슐 (Hanoi Railway Capsule)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hanoi-railway-capsule/hotel/hanoi-vn.html?cid=1925461",
+      "walkMin": 13,
+      "score": 9.4,
+      "reviewCount": 457,
+      "priceBand": 1,
+      "priceText": "₩ · 약 1만원",
+      "valueIndex": 9.3,
+      "img": "//pix8.agoda.net/hotelImages/78428713/0/d67aa4b52fcf3e60d5d5786a1bf19ed5.jpg?ce=2",
+      "distanceNote": "약 1020.64m · 하노이역 인근",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 457건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 457건 기반.",
+      "reviews": [
+        {
+          "text": "나는 안전하다고 느꼈고 모든 직원이 도움이 되고 수용적이었습니다.",
+          "score": "10",
+          "country": "Kuwait",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "매우 친절한 호스트, 매우 깨끗하고 새로운 캡슐 호텔",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "적극 추천합니다!",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 훌륭했고 매일 저녁 캡슐 문에 남겨졌습니다.",
+          "score": "9.2",
+          "country": "Ireland",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "가격대비 이 호스텔은 정말 가격 대비 훌륭한 가치를 자랑합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "올드 쿼터 뷰 하노이 호스텔 (Old Quarter View Hanoi Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/old-quarter-view-hanoi-hostel/hotel/hanoi-vn.html?cid=1925461",
+      "walkMin": 19,
+      "score": 9.3,
+      "reviewCount": 4956,
+      "priceBand": 1,
+      "priceText": "₩ · 약 1만원",
+      "valueIndex": 9.3,
+      "img": "//pix8.agoda.net/hotelImages/1517145/-1/38f9e776e140896bc1dc4b4ea1438868.jpg?ca=0&ce=1",
+      "distanceNote": "약 1555.35m · 하노이역 인근",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 4,956건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 4,956건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 매우 친절했고 머무는 내내 도움을 주었습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "위치는 완벽합니다. 필요한 모든 것에 가깝습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "제가 머물렀던 방은 깨끗하고 관리가 잘 되어 있어서 좋았습니다.",
+          "score": "9.2",
+          "country": "Slovenija",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 깨끗하고 잘 관리된 느낌을 받았습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "나의 놀라운 숙박을 더해 줄 수 있는 말은 단 한 마디도 없습니다!",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "리틀 참 하노이 호스텔 (Little Charm Hanoi Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/little-charm-hanoi-hostel/hotel/hanoi-vn.html?cid=1925461",
+      "walkMin": 17,
+      "score": 9,
+      "reviewCount": 6712,
+      "priceBand": 1,
+      "priceText": "₩ · 약 1만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/5060902/0/1953844fbe23e6c41762ccce972a6a5e.png?ce=3",
+      "distanceNote": "약 1388.29m · 하노이역 인근",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 6,712건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 6,712건 기반.",
+      "reviews": [
+        {
+          "text": "그들은 항상 손님을 환영하고 보살펴준다는 느낌을 줍니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "하노이에 가면 이 호텔에 다시 올 수 있어요",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "직원들은 샤워실과 화장실이 깨끗하게 유지되는지 확인하고 있었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "하노이 센터를 탐험할 계획이라면 위치가 훌륭합니다.",
+          "score": "8.4",
+          "country": "Vietnam",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "우리는 숙박을 연장했고, 하노이에 있다면 다시 머물고 싶습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "모토고 호스텔 (MOTOGO  Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/motogo-hostel/hotel/hanoi-vn.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 1714,
+      "priceBand": 1,
+      "priceText": "₩ · 약 1만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/48616211/-1/3769a228150ead545532766c049d9956.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 1,714건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,714건 기반.",
+      "reviews": [
+        {
+          "text": "이른 AM 비행 전 하룻밤을 보내기에 완벽한 장소입니다!",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "유연한 체크인/아웃, 깨끗하고 편안합니다. 호스트가 도움이 됩니다.",
+          "score": "9.2",
+          "country": "India",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "하노이에 도착하는 밤 비행기에 아주 좋은 곳입니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "그녀는 나에게 방, 침대, 수건을 가져다 주었고 나는 잠에 들었습니다.",
+          "score": "10",
+          "country": "ישראל",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "호스텔은 깨끗하고 새것이며 차가우며 직원들은 너무 친절합니다",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "아즈마야 킴마 3 (Azumaya Kim Ma 3)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/azumaya-kim-ma-3/hotel/hanoi-vn.html?cid=1925461",
+      "walkMin": 40,
+      "score": 9,
+      "reviewCount": 439,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/64834890/0/2d47abed2003f6136f6547d1acb4873c.jpeg?ce=0",
+      "distanceNote": "약 3227.75m · 하노이역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 439건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 439건 기반.",
+      "reviews": [
+        {
+          "text": "시내 비즈니스를 산책하기에 좋은 위치입니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고, 일본식 조식도 맛있어요",
+          "score": "10",
+          "country": "台灣",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 좋은 일본식 저예산 호텔",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "완벽한 위치와 청결함을 갖춘 좋은 호텔입니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치",
+          "score": "10",
+          "country": "台灣",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-26T13:35:36.458Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
