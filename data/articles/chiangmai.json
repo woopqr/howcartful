@@ -1,0 +1,440 @@
+{
+  "slug": "chiangmai",
+  "title": "치앙마이 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 치앙마이 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "치앙마이",
+  "cityId": 7401,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "치앙마이",
+  "heroImg": "https://pix8.agoda.net/hotelImages/705/705418/705418_15052805090027877410.jpg?ca=4&ce=1",
+  "heroAlt": "치앙마이",
+  "heroTitleHtml": "치앙마이 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>우알라이 사바이데</b>(평점 9.5·리뷰 1,213건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>도이수텝행 버스 정류장 도보 29분</b>의 <b>데이지 하우스</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/705/705418/705418_15052805090027877410.jpg?ca=4&ce=1",
+  "outroTitle": "🌙 치앙마이, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 치앙마이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 치앙마이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "우알라이 사바이데  (Wualai Sabaidee)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wualai-sabaidee/hotel/all/chiang-mai-th.html?cid=1925461",
+      "walkMin": 41,
+      "score": 9.5,
+      "reviewCount": 1213,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 9.5,
+      "img": "//pix8.agoda.net/hotelImages/705/705418/705418_15052805090027877410.jpg?ca=4&ce=1",
+      "distanceNote": "약 3281.93m · 치앙마이역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 1,213건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 1,213건 기반.",
+      "reviews": [
+        {
+          "text": "장소는 아름답고 방은 깨끗하고 넓습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "제가 머물렀던 모든 곳 중에서 이곳이 제가 가장 좋아하는 곳입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "가장 중요한 것은 우리가 머물렀던 방이 깨끗했다는 것입니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "이 호텔에서 두 번째로 추천할 수 있습니다.",
+          "score": "8.4",
+          "country": "Thailand",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "직원분들도 너무 친절하시고 숙소도 아늑하고 깨끗했어요.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Angmo Hostel by Amaka",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/angmo-hostel-by-amaka/hotel/all/chiang-mai-th.html?cid=1925461",
+      "walkMin": 40,
+      "score": 9.5,
+      "reviewCount": 575,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 9.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/706641628.jpg?k=de8f8c239b488ecada7fa4e230be2854345294e82ca4db4eab5927b2d74e73d9&o=",
+      "distanceNote": "약 3166.22m · 치앙마이역 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 575건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 575건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 작은 수영장이 있어 편안합니다.",
+          "score": "10",
+          "country": "中国",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "이것은 내가 머물렀던 최고의 호스텔 중 하나입니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "치앙마이에 다시 간다면 또 묵을 예정입니다 :)",
+          "score": "10",
+          "country": "Colombia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "세심한 사장님과 직원들이 특별함을 느끼게 해주었고,",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 항상 훌륭하고 세심하게 준비되어 있습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "데이지 하우스 (Daizy House)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/daizy-house_2/hotel/chiang-mai-th.html?cid=1925461",
+      "walkMin": 29,
+      "score": 9.2,
+      "reviewCount": 992,
+      "priceBand": 1,
+      "priceText": "₩ · 약 1만원",
+      "valueIndex": 9.2,
+      "img": "//pix8.agoda.net/hotelImages/2482599/-1/f14e3a3c4d98513551568341e16e00e8.jpg?ca=29&ce=0",
+      "distanceNote": "약 2328.17m · 도이수텝행 버스 정류장 인근",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 992건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 992건 기반.",
+      "reviews": [
+        {
+          "text": "개인 여행자를 위한 매우 깨끗하고 따뜻하며 조용한 호스텔입니다.",
+          "score": "10",
+          "country": "China",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "반짝반짝 깨끗하고 아늑하며 빠른 Wi-Fi, 훌륭한 침대와 편의 시설.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "호스트는 매우 냉정하며 최대한 많은 도움을 주었습니다.",
+          "score": "9.6",
+          "country": "태국",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "특히, 이 호스텔의 주인은 매우 친절합니다.",
+          "score": "10",
+          "country": "China",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "내 방은 개인실을 예약했는데 너무 넓어요.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "말리 호텔 (MALEE HOTEL)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/malee-hotel/hotel/chiang-mai-th.html?cid=1925461",
+      "walkMin": 37,
+      "score": 9.1,
+      "reviewCount": 3026,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/23388650/-1/4047d96fb851974a083d4cd679114424.jpg?ca=23&ce=0",
+      "distanceNote": "약 2981.12m · 치앙마이역 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 3,026건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 3,026건 기반.",
+      "reviews": [
+        {
+          "text": "올드시티에 묵는다면 위치는 완벽합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "무료 커피와 차는 꼭대기에 위치합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "밤문화, 음식, 마사지, 쇼핑 등 무엇이든!",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "객실은 매우 깨끗하고 편안하며 잘 관리되어 있습니다.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "위치가 좋고, 명소와 레스토랑에 쉽게 접근할 수 있습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "더 커먼 호스텔 (성인 전용) (The Common Hostel (Adult Only))",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hostel-by-bed/hotel/chiang-mai-th.html?cid=1925461",
+      "walkMin": 42,
+      "score": 9.1,
+      "reviewCount": 4766,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/1402656/-1/8af78f0ce3dcbfee2534c12f5b663d05.jpg?ca=25&ce=0",
+      "distanceNote": "약 3394.79m · 도이수텝행 버스 정류장 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 4,766건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 4,766건 기반.",
+      "reviews": [
+        {
+          "text": "1인이 머물기에 충분한 공간을 갖춘 편안하고 깨끗한 침대",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "잠을 자기에는 정말 편안하고 편안했습니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "객실, 침대, 욕실 및 모든 공간이 매우 깨끗합니다.",
+          "score": "10",
+          "country": "Argentina",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "침대는 훌륭했고 시설도 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "이곳에서 즐거운 시간을 보냈습니다. 편안하고 매우 깨끗합니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "솜왕 부티크 하우스 (Somwang Boutique House)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/somwang-boutique-house/hotel/chiang-mai-th.html?cid=1925461",
+      "walkMin": 32,
+      "score": 9,
+      "reviewCount": 2987,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/868/868158/868158_15120412400038250516.jpg?ca=6&ce=1",
+      "distanceNote": "약 2563.67m · 치앙마이역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 2,987건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,987건 기반.",
+      "reviews": [
+        {
+          "text": "질문이 있을 때마다 친절하고 도움이 되는 직원.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치에 있으며 모든 곳이 도보로 5분 거리에 있지만 매우 조용합니다.",
+          "score": "10",
+          "country": "Bangladesh",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "좋은 WiFi, 직원 수용 - 심지어 세탁 시설까지!",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "나는 즐거운 시간을 보냈고 Somwang에서 시간을 연장했습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치에 있는 아름답고 편안한 호텔입니다.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Paiyannoi Guesthome",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/paiyannoi-guesthome_2/hotel/all/chiang-mai-th.html?cid=1925461",
+      "walkMin": 38,
+      "score": 9.2,
+      "reviewCount": 186,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/169272130.jpg?k=71465c45431efeed5cba8547869adc6d18b3eed1fd6af5060cdd2b6d2cba2bb5&o=",
+      "distanceNote": "약 3054.65m · 도이수텝행 버스 정류장 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 186건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 186건 기반.",
+      "reviews": [
+        {
+          "text": "음식이 깔끔하고 정갈하게 준비되어 있고,",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "당신은 확실히 여기에 있어야합니다.",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "머무르는 것이 매우 기뻤습니다.",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "내가 머물렀던 방은 너무 조심스러워",
+          "score": "10",
+          "country": "泰國",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "눈에 띄는 것은 직원들의 친절함이었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-26T11:36:12.554Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
