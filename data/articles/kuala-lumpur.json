@@ -1,0 +1,441 @@
+{
+  "slug": "kuala-lumpur",
+  "title": "쿠알라룸푸르 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 쿠알라룸푸르 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "kuala-lumpur-my",
+  "cityName": "쿠알라룸푸르",
+  "cityId": 14524,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "쿠알라룸푸르",
+  "heroImg": "https://pix8.agoda.net/hotelImages/49687865/0/ce8bebfa36baf27b2a5c91f67e7a4718.jpg?ce=0",
+  "heroAlt": "쿠알라룸푸르",
+  "heroTitleHtml": "쿠알라룸푸르 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>케플러 클럽 쿠알라룸푸르 에어포트-KLIA T1 랜드사이드</b>(평점 9.2·리뷰 1,913건·1박 약 6만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Kuala Lumpur International Airport Station 도보 1분</b>의 <b>케플러 클럽 쿠알라룸푸르 에어포트-KLIA T1 랜드사이드</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/49687865/0/ce8bebfa36baf27b2a5c91f67e7a4718.jpg?ce=0",
+  "outroTitle": "🌙 쿠알라룸푸르, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 쿠알라룸푸르 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 쿠알라룸푸르 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "케플러 클럽 쿠알라룸푸르 에어포트-KLIA T1 랜드사이드 (Kepler Club Kuala Lumpur Airport-KLIA T1 Landside)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kepler-club-kuala-lumpur-airport-klia-t1-landside/hotel/kuala-lumpur-my.html?cid=1925461",
+      "walkMin": 1,
+      "score": 9.2,
+      "reviewCount": 1913,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 9.2,
+      "img": "//pix8.agoda.net/hotelImages/49687865/0/ce8bebfa36baf27b2a5c91f67e7a4718.jpg?ce=0",
+      "distanceNote": "약 30.19m · Kuala Lumpur International Airport Station 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 1,913건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 1,913건 기반.",
+      "reviews": [
+        {
+          "text": "시설(샤워실, 라운지, 프라이버시)은 최고 수준입니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "직원들은 손님을 잘 돌보기 위해 최선을 다합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "아고다에서는 저렴한 가격으로 객실 가격도 그만한 가치가 있습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "체류 기간이 길다면 이곳이 가장 좋은 곳입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 일찍 비행기를 타는 여행자에게 좋습니다.",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "더 베드 부킷 빈탕 (The Bed Bukit Bintang)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-bed-bukit-bintang/hotel/kuala-lumpur-my.html?cid=1925461",
+      "walkMin": 1,
+      "score": 9.1,
+      "reviewCount": 4085,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/42168931/0/a88943354424a6e2f52ba4347b6e85ab.jpg?ce=0",
+      "distanceNote": "약 112.27m · Bukit Bintang MRT Station 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 4,085건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 4,085건 기반.",
+      "reviews": [
+        {
+          "text": "제공되는 아침 식사는 좋았고 직원들은 매우 도움이 되었습니다.",
+          "score": "8",
+          "country": "India",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "솔로에게 가장 적합",
+          "score": "10",
+          "country": "India",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "아마 제가 묵어본 호스텔 중 최고일 것 같아요",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "장소는 24시간 내내 매우 깔끔했습니다.",
+          "score": "8",
+          "country": "India",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "당신들은 내 체류를 정말 기억에 남고 편안한 체류로 만들었습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "슬리핑 라이온 스위트 (Sleeping Lion Suites)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sleeping-lion-suites/hotel/kuala-lumpur-my.html?cid=1925461",
+      "walkMin": 4,
+      "score": 9,
+      "reviewCount": 43321,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/417629323.jpg?k=c6d87b69736c69e400dc183a847f86b51e5c810cbe07449ba7afe273631bda85&o=",
+      "distanceNote": "약 296.15m · Bukit Bintang MRT Station 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 43,321건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 43,321건 기반.",
+      "reviews": [
+        {
+          "text": "탐험에 관해 말하자면, 호텔의 위치는 타의 추종을 불허합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "Everythings는 파빌리온 근처 최고의 호텔입니다.",
+          "score": "9.6",
+          "country": "Brunei Darussalam",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "새로 지은 호텔이라 있을 건 다 있었어요.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "인피니티 풀은 주변의 숨막히는 전망을 제공했습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "내 체류를 매우 특별하게 만들어 준 팀 전체에 감사드립니다!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "더 베드 KLCC (The Bed KLCC)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-bed-klcc/hotel/kuala-lumpur-my.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.9,
+      "reviewCount": 5782,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/2239459/0/0dc9c83792a62a0f47dc4b57cf855954.jpeg?ce=0",
+      "distanceNote": "약 324.3m · 부킷 나나스역 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 5,782건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 5,782건 기반.",
+      "reviews": [
+        {
+          "text": "이곳은 지금까지 제가 평생 가본 호스텔 중 최고의 호스텔이었습니다.",
+          "score": "10",
+          "country": "Brazil",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "지금까지 머물면서 즐거웠던 최고의 큐비클 호스텔",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "멋진 위치 - 트윈 타워와 KLCC 공원 바로 옆.",
+          "score": "7.6",
+          "country": "Poland",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "욕실은 크고 세면대, 화장실, 샤워실이 많습니다.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "캡슐은 깨끗하고 넓으며 후크와 선반이 있습니다.",
+          "score": "7.2",
+          "country": "Canada",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "1000 마일즈 호텔 (1000 Miles Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/1000-miles-hotel/hotel/kuala-lumpur-my.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.9,
+      "reviewCount": 2829,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/957101/-1/5ccab99d6fb74005b0fd3785ccc404cb.jpg?ca=6&ce=1",
+      "distanceNote": "약 177.01m · Masjid Jamek LRT Station 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 2,829건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 2,829건 기반.",
+      "reviews": [
+        {
+          "text": "내년에 KL로 돌아오면 여기서 다시 예약하겠습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "여행 조언에 많은 도움을 주는 훌륭한 직원.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 직원 덕분에 1000마일로 돌아왔습니다.",
+          "score": "10",
+          "country": "Danmark",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "옥상은 진정한 자산입니다. KL 타워의 놀라운 전망입니다!",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 환대와 매우 도움이 되는 직원을 갖춘 놀라운 호텔입니다.",
+          "score": "10",
+          "country": "Magyarország",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "호텔 스타 뮤즈 부킷빈탕 (Star Mews Hotel Changkat Bukit Bintang)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-star-mews-at-bukit-bintang/hotel/kuala-lumpur-my.html?cid=1925461",
+      "walkMin": 4,
+      "score": 9,
+      "reviewCount": 151,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/84550012/0/1ce652e141f9d934e734d2aef92a175d.png?ce=3",
+      "distanceNote": "약 311.74m · SBK18A Bukit Bintang 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 151건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 151건 기반.",
+      "reviews": [
+        {
+          "text": "가격도 저렴하고 깨끗하고 직원들도 너무 친절했어요.",
+          "score": "8.8",
+          "country": "Cambodia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "나는 다가오는 여행을 위해 다시 여기에 머무를 것을 고려할 것입니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "잘란 알로(Jalan Alor) 근처의 부킷 빈탕(Bukit Bintang) 지역 내 훌륭한 위치.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "2박 숙박을 기준으로 이 호텔을 추천하고 싶습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "호텔은 매우 새롭고 서비스가 훌륭합니다.",
+          "score": "10",
+          "country": "中国",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "ARK 스테이케이션 홈 (ARK Staycation Home)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ark-staycation-home/hotel/kuala-lumpur-my.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.7,
+      "reviewCount": 2679,
+      "priceBand": 1,
+      "priceText": "₩ · 약 1만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/56180447/-1/4c0155a88833bf9fa33ffb617c0dc36f.jpg?ce=0",
+      "distanceNote": "약 305.21m · Cheras LRT Station 인근",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 2,679건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 2,679건 기반.",
+      "reviews": [
+        {
+          "text": "화장실도 매번 반짝반짝 빛나고 있어요.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "나홀로 여행자에게 시설은 완벽했어요",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "온수 샤워 시설은 24시간 이용 가능합니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "저는 이 홈스테이에서 정말 멋진 경험을 했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "이 곳은 제가 가본 게스트하우스 중 최고의 숙소인 것 같아요",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-26T15:58:03.014Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
