@@ -1,0 +1,440 @@
+{
+  "slug": "busan",
+  "title": "부산 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 부산 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "busan-kr",
+  "cityName": "부산",
+  "cityId": 17172,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "부산",
+  "heroImg": "https://pix8.agoda.net/hotelImages/64627051/0/e4abac4bdb250ca3afdb0977d64df10a.jpg?va=1&ce=0",
+  "heroAlt": "부산",
+  "heroTitleHtml": "부산 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>W스테이 호텔 부산시청점</b>(평점 9·리뷰 1,055건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>연산역 도보 1분</b>의 <b>W스테이 호텔 부산시청점</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/64627051/0/e4abac4bdb250ca3afdb0977d64df10a.jpg?va=1&ce=0",
+  "outroTitle": "🌙 부산, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 부산 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 부산 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "W스테이 호텔 부산시청점 ([Agoda Pick] W Stay Hotel Busan City Hall Branch)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/w-h64693189/hotel/busan-kr.html?cid=1925461",
+      "walkMin": 1,
+      "score": 9,
+      "reviewCount": 1055,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/64627051/0/e4abac4bdb250ca3afdb0977d64df10a.jpg?va=1&ce=0",
+      "distanceNote": "약 105.32m · 연산역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 1,055건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,055건 기반.",
+      "reviews": [
+        {
+          "text": "어메니티도 다 갖춰져 있었고 깨끗하고 깔끔했어요.",
+          "score": "10",
+          "country": "Südkorea",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "이렇게 완벽한 호텔 방은 없었다고 말하고 싶습니다.",
+          "score": "10",
+          "country": "Südkorea",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "역에서 가까우며, 주요 시내와도 그리 멀지 않음",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "부산에 다시 간다면 꼭 다시 묵을 것 같아요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "확실히 제가 한국에서 머물렀던 최고의 장소 중 하나입니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "토요코 인 부산역 1 (Toyoko Inn Busan Station 1)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/toyoko-inn-busan-station-1_8/hotel/busan-kr.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.9,
+      "reviewCount": 10827,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/4576021/-1/541a573f49867bafa93fa5840b6c1e6c.jpg?va=1&ce=0",
+      "distanceNote": "약 116.47m · 부산역 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 10,827건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 10,827건 기반.",
+      "reviews": [
+        {
+          "text": "방은 환상적이고 잘 디자인되었으며 실용적입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "욕실은 욕조가 있는 훌륭한 표준 일본식 욕실입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "(포함된) 아침 식사는 정말 훌륭했습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "우리 가족은 이 호텔을 좋아했고 누구에게나 추천하고 싶습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "1박당 약 30sgd의 가격대로 제공되는 넓은 객실입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "엘모멘토 사상 레지던스 (Elmomento Sasang  Residence)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/elmomento-sasang/hotel/busan-kr.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.8,
+      "reviewCount": 1863,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/63063347/0/7a95b2bebd2895797af172186e15b3a6.jpg?va=1&ce=0",
+      "distanceNote": "약 165.28m · 사상역 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 1,863건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,863건 기반.",
+      "reviews": [
+        {
+          "text": "여기있어! 그만한 가치가 있고 쉬기 좋은 곳입니다!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "침대는 너무 딱딱하지도 않고 너무 푹신하지도 않고 딱 좋아요.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "위치는 사상역에서 도보로 5분정도?",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 신선하고 깨끗하며 잘 관리되어 있는 것 같았습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "청결도, 위치, 서비스 모두 최고 수준이었습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "라라비안코 비즈니스호텔 ([Agoda Pick] Lala Vianco Business Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lala-vianco-hotel-h17185049/hotel/busan-kr.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.8,
+      "reviewCount": 3218,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/206/20615204/20615204_20121014060093591022.jpg?va=1&ca=16&ce=1",
+      "distanceNote": "약 386.73m · 서면역 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 3,218건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 3,218건 기반.",
+      "reviews": [
+        {
+          "text": "전반적으로 지금까지 묵어본 호텔 중 단연 최고입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "부산에 다시 오면 꼭 다시 여기에 머물고 싶습니다.",
+          "score": "10",
+          "country": "Netherlands",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "서비스, ​​편안함, 분위기 모두 완벽합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "위치와 편안함에 있어서 가격을 이길 수 없습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "편리한 위치 - KTX 및 지하철역에서 도보로 5분 거리",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "하운드 호텔 사상점 (HOUND HOTEL sasang branch)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/busan-sasang-hound-sasang/hotel/busan-kr.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.8,
+      "reviewCount": 846,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/55711728/-1/de3a8d1e56b00d9dc5f8b33b5ddc4a80.jpg?va=1&ce=0",
+      "distanceNote": "약 179.95m · 괘법르네시떼역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 846건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 846건 기반.",
+      "reviews": [
+        {
+          "text": "믿을 수 없을 정도로 조용하고 제가 필요로 하는 것에 완벽했습니다.",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "공항까지 빨리 갈 수 있어서 좋은 숙소였습니다.",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "이 호텔은 매우 넓고 깨끗하며 분위기가 좋습니다.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "호텔은 부산공항 근처에 있고 매우 깨끗했습니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "방도 매우 크고, 욕실도 매우 큽니다 :)",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "토요코 인 부산 서면 (Toyoko Inn Busan Seomyeon)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/toyoko-inn-busan-seomyeon_4/hotel/busan-kr.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.7,
+      "reviewCount": 5834,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/4515765/-1/b74f719e39555468fecbe634f3ee8fde.jpg?va=1&ca=7&ce=1",
+      "distanceNote": "약 366.28m · 서면역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 5,834건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 5,834건 기반.",
+      "reviews": [
+        {
+          "text": "부산 가시는 분들에게 적극 추천드리는 호텔입니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "매우 정중하고 도움이 되는 훌륭한 다국어 직원,",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "매우 저렴하지만 객실은 철저하게 청소되어 있습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "가장 좋은 점은 매일 아침 무료 아침 식사가 제공된다는 것입니다!",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "호텔은 깨끗하고 전반적으로 저렴하고 머물기에 좋은 곳입니다.",
+          "score": "8",
+          "country": "Canada",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "호텔 티티 구포 (Hotel tt Gupo)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/h35296754/hotel/busan-kr.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.7,
+      "reviewCount": 3975,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/35296754/-1/c8186ded12f5b09d3032ec3a1a602ecd.jpg?va=1&ce=0",
+      "distanceNote": "약 184.63m · 구포 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 3,975건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 3,975건 기반.",
+      "reviews": [
+        {
+          "text": "부산에 있을 때 머물기에 완벽한 숙소입니다!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "밤새 머물 곳이 꼭 필요한 곳입니다.",
+          "score": "8",
+          "country": "United States",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "호텔 티티 구포는 부산에 머무를 때 머물기에 좋은 곳입니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "우리 가족은 호텔을 떠나고 싶지 않았고 정말 좋아했습니다!!!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 직원들은 매우 친절합니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-26T05:54:15.772Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

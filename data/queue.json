@@ -1,12 +1,12 @@
 {
-  "lastPostedAt": "2026-06-26T01:36:12.452Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 1,
+  "lastPostedAt": "2026-06-26T05:53:35.567Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 2,
   "postedDate": "2026-06-26",
   "queue": [
-    "hongkong",
-    "nagoya"
+    "nagoya",
+    "busan"
   ],
   "publishedSlugs": [
     "osaka-namba",
@@ -17,6 +17,7 @@
     "taipei",
     "bangkok",
     "danang",
-    "singapore"
+    "singapore",
+    "hongkong"
   ]
 }
