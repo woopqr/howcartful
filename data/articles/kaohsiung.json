@@ -1,0 +1,441 @@
+{
+  "slug": "kaohsiung",
+  "title": "가오슝 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 가오슝 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "kaohsiung-tw",
+  "cityName": "가오슝",
+  "cityId": 756,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "가오슝",
+  "heroImg": "https://pix8.agoda.net/hotelImages/1504829/0/63fde64b908d179779f2cef49a1b2b4d.jpeg",
+  "heroAlt": "가오슝",
+  "heroTitleHtml": "가오슝 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>렛츠 호스텔</b>(평점 8.9·리뷰 8,685건·1박 약 3만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>MRT 메이리다오역 도보 1분</b>의 <b>렛츠 호스텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/1504829/0/63fde64b908d179779f2cef49a1b2b4d.jpeg",
+  "outroTitle": "🌙 가오슝, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 가오슝 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 가오슝 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "렛츠 호스텔 (Let's Hostel )",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/light-hostel-kaohsiung/hotel/kaohsiung-tw.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.9,
+      "reviewCount": 8685,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/1504829/0/63fde64b908d179779f2cef49a1b2b4d.jpeg",
+      "distanceNote": "약 72.33m · MRT 메이리다오역 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 8,685건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 8,685건 기반.",
+      "reviews": [
+        {
+          "text": "그리고 분위기는 아늑하고 편안했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "호스텔은 Formosa Boulevard MRT 역에 위치해 있습니다.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "가오슝으로 다시 오면 여기에서 다시 임대할 예정입니다",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "위치는 완벽합니다 - LiuHe 야시장 옆에 있습니다.",
+          "score": "9.2",
+          "country": "泰國",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "가오슝을 방문하는 모든 사람에게 이곳을 적극 추천합니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "드림웰 호스텔 (DreamWell Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/d-well-hostel/hotel/kaohsiung-tw.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.8,
+      "reviewCount": 2541,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/862067/0/035477e85109eed694be5f396e79ead2.jpeg?ce=2",
+      "distanceNote": "약 261.27m · MRT 산둬상권역 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 2,541건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 2,541건 기반.",
+      "reviews": [
+        {
+          "text": "욕실과 기숙사는 매우 깨끗하고 넓으며,",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "지하철까지 도보 거리에 있어 이동이 편리합니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "BC 쇼핑 지구에 인접해 있으며 mrt에서 도보로 3분 거리에 있습니다.",
+          "score": "9.2",
+          "country": "中國香港",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "만나서 즐거웠던 최고의 직원을 솔직하게 말할 수 있습니다.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "직원 소녀는 매우 친절하고 동정심이 많습니다.",
+          "score": "9.6",
+          "country": "Brazil",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "호텔 요시 가오슝 (HOTEL YOSHI KAOHSIUNG)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/golden-pacific-hotel/hotel/kaohsiung-tw.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.6,
+      "reviewCount": 6185,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/931489/0/5a3e036c0b59206b89d7f6916491b46c.jpg?ce=3",
+      "distanceNote": "약 251.78m · MRT 옌청푸역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 6,185건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 6,185건 기반.",
+      "reviews": [
+        {
+          "text": "방도 넓고 직원도 친절하고 친절해요",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "방도 매우 넓고 깨끗합니다.",
+          "score": "8",
+          "country": "中國香港",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "아름다운 호텔, 편리한 위치, 편안한 객실",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "매일 수건을 갈아주는 데일리 하우스키핑",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "시설은 깨끗하고 매우 편안했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "스카이원 호텔 (Skyone Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/skyone-hotel/hotel/kaohsiung-tw.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.6,
+      "reviewCount": 17624,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/2985159/-1/5ab7e4910c76100ba096efc1f2eb3d06.jpg?ce=0",
+      "distanceNote": "약 239.48m · Cianjin MRT Station 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 17,624건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 17,624건 기반.",
+      "reviews": [
+        {
+          "text": "주변 지역을 돌아다니고 탐험하는 데 매우 편리합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "호텔 자체는 흠잡을 데 없이 깨끗하고 잘 관리되어 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "가격이 매우 저렴해서 더욱 좋은 곳이에요!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "편안하고 저렴한 숙박을 위해 강력히 추천합니다!",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "호텔은 깨끗하고 로비에 들어서자마자 좋은 냄새가 납니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "싱글 인 - 카오슝 스테이션 (Single Inn - Kaohsiung Station)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/single-inn-kaohsiung-station_2/hotel/kaohsiung-tw.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.6,
+      "reviewCount": 7638,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/2086565/-1/209e7fb3b154e09b08a58cbfd37fa531.jpg?ca=0&ce=1",
+      "distanceNote": "약 179.04m · Zhongnan Bus Station 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 7,638건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 7,638건 기반.",
+      "reviews": [
+        {
+          "text": "위치는 기차나 버스를 통해 실제로 접근 가능합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "나는 실내 온천과 아침 식사도 즐겼습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "나중에 가오슝을 방문한다면 꼭 다시 묵을 예정입니다",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "위치는 음식을 선택할 수 있는 많은 장소와 매우 가깝습니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "가오슝에서 휴가를 보내기에 완벽한 장소입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "칸 호텔 (Khan Hotel )",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/khan-hotel/hotel/kaohsiung-tw.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.5,
+      "reviewCount": 6113,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.5,
+      "img": "//pix8.agoda.net/hotelImages/983556/0/b6568b9d75bbd91e71294d28d7c55d77.jpeg?ce=2",
+      "distanceNote": "약 389.62m · Cianjin MRT Station 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 6,113건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 6,113건 기반.",
+      "reviews": [
+        {
+          "text": "현대적인 시설과 저렴한 가격으로 만나보실 수 있습니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 넓으며 가격대비 훌륭합니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 즐거운 숙박이었으며 꼭 다시 예약할 것입니다!",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "위치가 너무 좋고 깨끗하고 가격대비 훌륭해요!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 객실, 친절한 직원, 가격 대비 훌륭한 가치!",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "로얄 파인 호텔 (Royal Fine Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/yongyue-hotel/hotel/kaohsiung-tw.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.5,
+      "reviewCount": 10084,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.5,
+      "img": "//pix8.agoda.net/hotelImages/30189161/-1/fbcd528caff6088b22ba35defa31b3f7.jpg?ce=0",
+      "distanceNote": "약 384.98m · Cianjin MRT Station 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 10,084건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 10,084건 기반.",
+      "reviews": [
+        {
+          "text": "이 도시로 돌아오면 꼭 다시 여기에 묵을 거예요",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "호텔은 깨끗하고 시설도 좋았으며 관리가 잘 되어 있었습니다.",
+          "score": "8",
+          "country": "Vietnam",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "호텔 서비스는 매우 좋고 직원들은 정중합니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절했고 항상 도움을 줄 준비가 되어 있었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "청결부터 직원 서비스까지 뛰어난 경험.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-26T08:51:51.547Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
