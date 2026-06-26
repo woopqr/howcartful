@@ -1,0 +1,441 @@
+{
+  "slug": "taichung",
+  "title": "타이중 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 타이중 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "taichung-tw",
+  "cityName": "타이중",
+  "cityId": 12080,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "타이중",
+  "heroImg": "https://pix8.agoda.net/hotelImages/6915990/-1/9943e6e4c320d70336f1b69b9e30f756.jpg?ce=0",
+  "heroAlt": "타이중",
+  "heroTitleHtml": "타이중 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>노르덴 루더 호스텔 타이중</b>(평점 9.4·리뷰 6,664건·1박 약 3만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>타이중역 도보 1분</b>의 <b>노르덴 루더 호스텔 타이중</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/6915990/-1/9943e6e4c320d70336f1b69b9e30f756.jpg?ce=0",
+  "outroTitle": "🌙 타이중, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 타이중 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 타이중 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "노르덴 루더 호스텔 타이중 (Norden Ruder Hostel Taichung)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/norden-ruder-hostel-taichung_2/hotel/taichung-tw.html?cid=1925461",
+      "walkMin": 1,
+      "score": 9.4,
+      "reviewCount": 6664,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 9.4,
+      "img": "//pix8.agoda.net/hotelImages/6915990/-1/9943e6e4c320d70336f1b69b9e30f756.jpg?ce=0",
+      "distanceNote": "약 93.68m · 타이중역 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 6,664건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 6,664건 기반.",
+      "reviews": [
+        {
+          "text": "나는 방 설정 (2 in 1 방)과 미학을 좋아했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "나는 그곳에서 즐거운 시간을 보냈고 다시 거기에 머물고 싶습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "내가 얼마나 만족하는지 더 이상 표현할 수 없습니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "저는 항상 타이중에 있는 숙소를 이용합니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "욕실과 화장실은 매우 깨끗하고, 샤워실도 엄청 넓습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Star Hostel Taichung Parklane",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/star-hostel-taichung-parklane/hotel/all/taichung-tw.html?cid=1925461",
+      "walkMin": 8,
+      "score": 9.3,
+      "reviewCount": 5777,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 9.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/875114950.jpg?k=c53a3b52ec39e7d6050baafce0f95220f03a963448f1c84cadccd4fadfcee2ba&o=",
+      "distanceNote": "약 654.57m · Tonglian Bus Station 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 5,777건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 5,777건 기반.",
+      "reviews": [
+        {
+          "text": "나는 필요한 모든 것을 얻었고 그것은 내 기대를 뛰어 넘었습니다.",
+          "score": "10",
+          "country": "澳洲",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "꼭 다시 와서 친구에게 추천할 것입니다.",
+          "score": "10",
+          "country": "澳洲",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "기회가 주어진다면 꼭 이 곳으로 돌아갈 것입니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 훌륭한 직원, 훌륭한 환경.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "매우 편안하고 깨끗한 숙소 - 꼭 다시 방문하겠습니다!",
+          "score": "10",
+          "country": "台灣",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "스프링스 랩소디 호텔 (Spring's Rhapsody Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/spring-s-rhapsody-hotel/hotel/taichung-tw.html?cid=1925461",
+      "walkMin": 14,
+      "score": 9.1,
+      "reviewCount": 5874,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/35441673/0/7f6af6dc97ea4268504c89f7fc337a00.png?ce=3",
+      "distanceNote": "약 1137.28m · Wuquan 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 5,874건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 5,874건 기반.",
+      "reviews": [
+        {
+          "text": "타이중을 방문할 때마다 수년간 이곳에 머물렀습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "조식도 괜찮고 직원 서비스도 훌륭합니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "호텔 시설은 기대 이상이었습니다!",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "객실은 현대적이며 침대는 매우 편안합니다.",
+          "score": "9.6",
+          "country": "Malta",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "전반적으로, 내 체류에 관한 모든 것이 훌륭했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "1969 블루스카이 체크인 (BlueSky Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/1969-blue-sky-hotel_3/hotel/taichung-tw.html?cid=1925461",
+      "walkMin": 7,
+      "score": 9,
+      "reviewCount": 5741,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/1179332/0/e4e9d5b8c2860ba6235c9b31856cd2e3.png?ce=3",
+      "distanceNote": "약 535.82m · 간청 버스터미널 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 5,741건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 5,741건 기반.",
+      "reviews": [
+        {
+          "text": "대만에 머무는 동안 최고의 호텔 중 하나였습니다!",
+          "score": "10",
+          "country": "Italia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "이 숙소는 모든 면에서 기대 이상이었습니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "아름다운 가구와 놀라운 전망을 갖춘 멋진 객실입니다.",
+          "score": "10",
+          "country": "Italia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "호텔은 도움이 되고 친절한 직원과 함께 훌륭한 서비스를 제공했습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안한 퀸사이즈 침대 2개가 있습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "센트럴 랜드 호텔 (Central Land Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/old-school-hotel/hotel/taichung-tw.html?cid=1925461",
+      "walkMin": 6,
+      "score": 9,
+      "reviewCount": 10042,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/2405061/0/0eb5e6e2b3fc2c359a13f38408ad68e4.jpg?ce=3",
+      "distanceNote": "약 489.56m · 타이중역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 10,042건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 10,042건 기반.",
+      "reviews": [
+        {
+          "text": "객실은 햇빛이 잘 들어와 아늑하고 편안합니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 침대는 편안합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "주변에 쉽게 접근할 수 있는 음식과 쇼핑몰이 있는 좋은 위치입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 새것이고 직원들도 정말 친절했어요",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "숙소는 깨끗했고 매일 청소 서비스가 제공되었습니다.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "호텔 이스트 타이중 (Hotel East Taichung)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/da-dun-street-hotel/hotel/taichung-tw.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.9,
+      "reviewCount": 12322,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/16424623/0/cd3152904784004983b7a19aa8fcc027.jpeg?ce=0",
+      "distanceNote": "약 409.43m · 간청 버스터미널 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 12,322건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 12,322건 기반.",
+      "reviews": [
+        {
+          "text": "호텔은 새것처럼 보였고 방은 넓고 밝았습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "무료 아침 식사와 저녁 식사도 제공됩니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "타이중으로 돌아가면 꼭 다시 이곳에 묵을 예정입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "둘째, 이 호텔은 아침과 저녁을 무료로 제공합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "마지막으로 객실은 매우 깨끗하고 잘 관리되어 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "시티인 플러스 타이중역 브랜치 (CityInn Plus Taichung Station Branch)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cityinn-plus-taichung-station-branch/hotel/taichung-tw.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.9,
+      "reviewCount": 15112,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/336387/0/46dd856a8704718ab814e07df0f2f274.jpg?ce=3",
+      "distanceNote": "약 144.94m · 타이중역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 15,112건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 15,112건 기반.",
+      "reviews": [
+        {
+          "text": "도보로 약 5분 거리에 타로코 몰(Taroko Mall)도 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "이 가격대에서 이 호텔은 기대 이상이었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "헤어드라이어, 목욕용품 등 기본 물품이 모두 제공됩니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "모든 직원은 매우 친절하고 인내심이 많으며 도움이 되었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "타이추앙에 올 때마다 이곳에 묵었습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-26T22:21:53.893Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
