@@ -1,0 +1,441 @@
+{
+  "slug": "jakarta",
+  "title": "자카르타 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 자카르타 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "jakarta-id",
+  "cityName": "자카르타",
+  "cityId": 8691,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "자카르타",
+  "heroImg": "https://pix8.agoda.net/hotelImages/5825789/-1/0643390bcbf84b1d1506d40c30550444.jpg?ca=7&ce=1",
+  "heroAlt": "자카르타",
+  "heroTitleHtml": "자카르타 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>홀리데이 인 앤 스위트 자카르타 가자마다 바이 IHG</b>(평점 9.2·리뷰 13,325건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>수디르만역 도보 2분</b>의 <b>아르토텔 허브 심팡 테무</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/5825789/-1/0643390bcbf84b1d1506d40c30550444.jpg?ca=7&ce=1",
+  "outroTitle": "🌙 자카르타, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 자카르타 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 자카르타 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "홀리데이 인 앤 스위트 자카르타 가자마다 바이 IHG (Holiday Inn & Suites Jakarta Gajah Mada By IHG)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/holiday-inn-suites-jakarta-gajah-mada/hotel/jakarta-id.html?cid=1925461",
+      "walkMin": 11,
+      "score": 9.2,
+      "reviewCount": 13325,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 9.2,
+      "img": "//pix8.agoda.net/hotelImages/5825789/-1/0643390bcbf84b1d1506d40c30550444.jpg?ca=7&ce=1",
+      "distanceNote": "약 858.77m · Halte Transjakarta Kota 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 13,325건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 13,325건 기반.",
+      "reviews": [
+        {
+          "text": "이 호텔의 탁월한 고객 서비스는 저에게 깊은 인상을 주었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "하이라이트 중 하나는 호텔의 아침 식사였습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "100% 모든 것이 훌륭하고 아름다운 자카르타 최고의 호텔",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "방이 너무 넓고 깨끗하고 직원들이 친절해요!",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "자카르타를 여행하게 된다면 꼭 다시 이곳에 묵을 예정입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "모델 J 호텔 자카르타 수카르노 하타 에어포트 (Model J Hotel Jakarta Soekarno-Hatta Airport)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/model-j-hotel-jakarta-soekarno-hatta-airport/hotel/tangerang-id.html?cid=1925461",
+      "walkMin": 33,
+      "score": 9.1,
+      "reviewCount": 2334,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/61209770/0/83f2f71969798dc02a652e2eb74a2c3e.png?ce=3",
+      "distanceNote": "약 2650.42m · Terminal 3 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 2,334건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 2,334건 기반.",
+      "reviews": [
+        {
+          "text": "저렴한 가격에 비해 시설이 너무 좋습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "그리고 모든 세부 사항은 신중하게 처리되었습니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 전문적이었습니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "전체적으로 이 공항 호텔을 모든 사람에게 적극 추천합니다!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "이 곳 덕분에 자카르타에서의 체류가 즐거웠습니다.",
+          "score": "10",
+          "country": "Tunisie",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "와이네스 호텔 에어포트 (Wyneth Hotel Airport)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wyneth-hotel-h80234888/hotel/tangerang-id.html?cid=1925461",
+      "walkMin": 31,
+      "score": 9.1,
+      "reviewCount": 232,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/80234888/0/56fa523562828e39b2712fd7fd95f2a4.png?ce=3",
+      "distanceNote": "약 2442.15m · Terminal 3 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 232건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 232건 기반.",
+      "reviews": [
+        {
+          "text": "완벽한 시설과 엘리베이터를 갖춘 매우 깨끗한 객실입니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원과 카페와 레스토랑의 맛있는 음식.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "가격은 저렴하지만 품질은 별 5개가 넘습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "매우 추천합니다! 이 호텔에서 정말 행복한 시간을 보내세요!",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "매우 멋진 호텔로 매우 깨끗하고 직원도 매우 친절합니다..",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "아르토텔 허브 심팡 테무 (Artotel Hub Simpang Temu)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/artotel-simpang-temu/hotel/jakarta-id.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.9,
+      "reviewCount": 834,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/64502728/0/466dc171a094182d99cbe6f9cc95f00e.jpg?ce=2",
+      "distanceNote": "약 134.41m · 수디르만역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 834건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 834건 기반.",
+      "reviews": [
+        {
+          "text": "신선하고 깨끗하며 아름답고 직원들은 겸손하고 도움이 되었습니다.",
+          "score": "9.2",
+          "country": "Indonesia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "체크인 과정은 원활했고 직원들은 친절했습니다",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "이 호텔의 훌륭한 위치를 강조하고 싶습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "방도 넓고 욕실도 깨끗하고 좋아요.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "기대 이상으로 방이 넓고 깨끗했어요!",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "콘코 호스텔 (Konko Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/konko-hostel/hotel/jakarta-id.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.8,
+      "reviewCount": 1582,
+      "priceBand": 1,
+      "priceText": "₩ · 약 1만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/4878677/-1/b7a36704febad0828ce144c5b2112f27.jpg?ca=7&ce=1",
+      "distanceNote": "약 344.95m · 곤당디아역 인근",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 1,582건",
+        "⭐ 1성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,582건 기반.",
+      "reviews": [
+        {
+          "text": "책상과 침실 1개가 1m 이내에 들어가지만 편안했습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "다음 방문에도 꼭 다시 이곳에 묵을 예정입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "적극 추천합니다. 꼭 다시 이곳에 머물고 싶습니다!",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 가격, 깨끗하고 훌륭한 직원, 정말 환상적입니다!",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "그들은 대부분의 호스텔이 제공하지 않는 헤어드라이어를 제공했습니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2023.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "머큐어 자카르타 바타비아 (Mercure Jakarta Batavia)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/de-rivier-hotel/hotel/jakarta-id.html?cid=1925461",
+      "walkMin": 9,
+      "score": 8.7,
+      "reviewCount": 1620,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/21727001/0/5ce5b711b25449883a54be70a92c9aba.jpeg?ce=2",
+      "distanceNote": "약 747.92m · Halte Transjakarta Kota 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 1,620건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,620건 기반.",
+      "reviews": [
+        {
+          "text": "매력적인 유산 건물에 위치한 아름답고 현대적인 객실입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "Mercure Hotel Batavia는 매우 편안한 호텔입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "이 호텔에 몇 번이나 묵었는지 셀 수 없을 정도였습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "청결도가 굉장합니다. 살기 위해 만든 방",
+          "score": "8",
+          "country": "Indonesia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "호텔은 아름답고 매우 깨끗하고 조용했습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "더 1O1 자카르타 세다유 다르마왕사 (The 1O1 Jakarta Sedayu Darmawangsa)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-1o1-jakarta-sedayu-darmawangsa-hotel/hotel/jakarta-id.html?cid=1925461",
+      "walkMin": 7,
+      "score": 8.6,
+      "reviewCount": 5106,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/862865/-1/ee99f448add859868818d7e57d12ebee.jpg?ca=28&ce=0",
+      "distanceNote": "약 543.37m · Blok A MRT Station 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 5,106건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 5,106건 기반.",
+      "reviews": [
+        {
+          "text": "불만이 없으며 이 호텔을 강력히 추천합니다.. 수고했어요",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "101 호텔은 자카르타에 머물기에 최고의 선택입니다",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "우리 가족과 친구들에게 이것을 추천할 것입니다!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "이 호텔에서 즐거운 하룻밤 주말을 보냈습니다.",
+          "score": "8",
+          "country": "Indonesia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "위치가 깨끗하고 직원들이 매우 친절했습니다",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-27T18:17:16.392Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
