@@ -1,0 +1,441 @@
+{
+  "slug": "manila",
+  "title": "마닐라 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 마닐라 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "manila-ph",
+  "cityName": "마닐라",
+  "cityId": 1622,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "마닐라",
+  "heroImg": "https://pix8.agoda.net/hotelImages/59858622/-1/46d0ccc2565b6713d4572b7bd1ec9665.jpg?ce=0",
+  "heroAlt": "마닐라",
+  "heroTitleHtml": "마닐라 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>야마토 호스텔</b>(평점 9.3·리뷰 1,441건·1박 약 2만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>페드로길역 도보 3분</b>의 <b>트로피카나 스위트</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/59858622/-1/46d0ccc2565b6713d4572b7bd1ec9665.jpg?ce=0",
+  "outroTitle": "🌙 마닐라, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 마닐라 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 마닐라 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "야마토 호스텔 (Yamato Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/yamato-hostel/hotel/manila-ph.html?cid=1925461",
+      "walkMin": 8,
+      "score": 9.3,
+      "reviewCount": 1441,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 9.3,
+      "img": "//pix8.agoda.net/hotelImages/59858622/-1/46d0ccc2565b6713d4572b7bd1ec9665.jpg?ce=0",
+      "distanceNote": "약 654.46m · EDSA 타프트 에비뉴 버스 정류장 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 1,441건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 1,441건 기반.",
+      "reviews": [
+        {
+          "text": "마닐라에 머무는 동안 머물기에 가장 좋은 숙소 중 하나입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "여자화장실은 정말 놀라울 정도였습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "장소의 청결은 죽을 것입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "시설은 현대적이고 깨끗하며 세심하게 디자인되었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "도착하는 순간부터 모든 것이 최고 수준이었습니다.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "호텔101 - 마닐라 (Hotel101 – Manila)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-101-manila/hotel/manila-ph.html?cid=1925461",
+      "walkMin": 7,
+      "score": 8.7,
+      "reviewCount": 26986,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/1145746/-1/d4e7ec1731d6290c0ebd16671fcb7efc.jpg?ce=0",
+      "distanceNote": "약 586.14m · SM Mall of Asia Bus Stop 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 26,986건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 26,986건 기반.",
+      "reviews": [
+        {
+          "text": "Hotel101의 내 방은 넓고 깨끗하며 잘 갖춰져 있었습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "편의성과 훌륭한 서비스를 모두 갖춘 곳으로 강력 추천합니다!",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "무엇보다도 호텔101의 위치가 환상적입니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "호텔 직원은 매우 친절하고 협조적이며 협조적이었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "주요 비즈니스 및 관광 중심지 내에 위치해 있습니다.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "사파이어 씨뷰 파크 (Sapphire Seaview Park)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sapphire-seaview-park/hotel/manila-ph.html?cid=1925461",
+      "walkMin": 18,
+      "score": 8.7,
+      "reviewCount": 1017,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/64964327/0/73ea0de1f1c5e50ba03b2694a12bcc23.jpg?ce=3",
+      "distanceNote": "약 1425.77m · Asia World Interchange 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 1,017건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,017건 기반.",
+      "reviews": [
+        {
+          "text": "그래서 다음 마닐라 여행에도 꼭 이곳에 머물고 싶습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "그들은 매우 전문적이었고 그 일을 아주 잘 알고 있었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 편안하며 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 흠 하나 없고 매우 편안했습니다.",
+          "score": "8.8",
+          "country": "Cambodia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "팀 전체의 따뜻함을 느낄 수 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "캐노피 스튜디오 BGC - 그라시아 스트리트 (Canopy Studios BGC - Gracia Street)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/canopyproperties/hotel/tejeros-ph.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8.9,
+      "reviewCount": 223,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/81078458/0/a866d951251e3d8b8926f6f65fecd42b.jpg?ce=3",
+      "distanceNote": "약 453.68m · 부엔디아3역 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 223건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 223건 기반.",
+      "reviews": [
+        {
+          "text": "루프탑 수영장, 체육관, 무료 세탁 등 5성급 편의시설을 제공합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 필요한 모든 것이 갖춰져 있었습니다",
+          "score": "10",
+          "country": "Suomi",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "객실에는 실내 욕실, 싱크대, 주전자, 냉장고, 전자 레인지 등이 있습니다.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 우리는 Canopy Gracia에서 매우 즐겁고 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 편안했으며 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "트로피카나 스위트 (Tropicana Suites)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tropicana-suites_5/hotel/manila-ph.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.5,
+      "reviewCount": 3803,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.5,
+      "img": "//pix8.agoda.net/hotelImages/5399269/-1/11cdb662ded1661bad9edd505f6c10b1.jpg?ce=0",
+      "distanceNote": "약 270.62m · 페드로길역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 3,803건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 3,803건 기반.",
+      "reviews": [
+        {
+          "text": "예전부터 호텔의 청결도는 여전히 놀랍습니다.",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 이 호텔을 다른 사람들에게 꼭 추천하고 싶습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "방은 정말 넓고 깨끗하며 다소 집처럼 편안합니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "우수한 고객 서비스; 매우 수용적이고 친절합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 세심하고 친절하며 정중했습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "베이뷰 파크 호텔 마닐라 (Bayview Park Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bayview-park-hotel/hotel/manila-ph.html?cid=1925461",
+      "walkMin": 10,
+      "score": 8.5,
+      "reviewCount": 16660,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.5,
+      "img": "//pix8.agoda.net/hotelImages/10547/-1/a5720c697f0c71b0a7aed1d1a6b1d299.jpg?ce=0",
+      "distanceNote": "약 781.81m · 유나이티드네이션스역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 16,660건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 16,660건 기반.",
+      "reviews": [
+        {
+          "text": "심지어 생일이라 룸 업그레이드도 해줬어요.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "눈에 띄는 기능 중 하나는 고객 서비스였습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 베이뷰 파크 호텔 마닐라는 내 기대를 뛰어넘었습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "숙소는 위치가 매우 우수하여 만점을 자랑했습니다.",
+          "score": "8",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "위치는 많은 상점과 음식에 매우 접근 가능합니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "시티 가든 호텔 마카티 (City Garden Hotel Makati)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/city-garden-hotel-makati/hotel/manila-ph.html?cid=1925461",
+      "walkMin": 15,
+      "score": 8.5,
+      "reviewCount": 8980,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.5,
+      "img": "//pix8.agoda.net/hotelImages/45155/-1/ec55b59c086d8052138709119f04eea4.jpg?ce=0",
+      "distanceNote": "약 1215.12m · 부엔디아3역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 8,980건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 8,980건 기반.",
+      "reviews": [
+        {
+          "text": "그리고 마카티 중심부에 위치해 있다는 점은 항상 장점입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "짧은 시간이라도 이곳에 머무르는 것이 정말 즐거웠습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "옥상 레스토랑의 모든 직원은 환상적이었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "멋진 루프탑 바와 수영장, 따뜻한 자쿠지는 보너스입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "레스토랑의 음식은 예외적이었습니다. 정말 좋았습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-27T08:13:14.537Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
