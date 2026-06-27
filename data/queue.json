@@ -1,12 +1,12 @@
 {
-  "lastPostedAt": "2026-06-27T08:12:36.548Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 3,
+  "lastPostedAt": "2026-06-27T10:23:45.117Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 4,
   "postedDate": "2026-06-27",
   "queue": [
-    "nha-trang",
-    "manila"
+    "manila",
+    "penang"
   ],
   "publishedSlugs": [
     "osaka-namba",
@@ -29,6 +29,7 @@
     "sapporo",
     "jeju",
     "taichung",
-    "phuket"
+    "phuket",
+    "nha-trang"
   ]
 }
