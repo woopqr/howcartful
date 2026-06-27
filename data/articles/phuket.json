@@ -1,0 +1,441 @@
+{
+  "slug": "phuket",
+  "title": "푸켓 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 푸켓 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "phuket-th",
+  "cityName": "푸켓",
+  "cityId": 16056,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "푸켓",
+  "heroImg": "https://pix8.agoda.net/hotelImages/89340/0/48beda9ffb8843b7bd95665069d260f0.png?ce=3",
+  "heroAlt": "푸켓",
+  "heroTitleHtml": "푸켓 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>푸켓 에어포트 호텔</b>(평점 9.2·리뷰 3,022건·1박 약 6만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>푸켓타운 제1 로컬 버스 터미널 도보 7분</b>의 <b>페라나칸 부티크 호텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/89340/0/48beda9ffb8843b7bd95665069d260f0.png?ce=3",
+  "outroTitle": "🌙 푸켓, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 푸켓 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 푸켓 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "푸켓 에어포트 호텔 (Phuket Airport Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/phuket-airport-hotel/hotel/phuket-th.html?cid=1925461",
+      "walkMin": 14,
+      "score": 9.2,
+      "reviewCount": 3022,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 9.2,
+      "img": "//pix8.agoda.net/hotelImages/89340/0/48beda9ffb8843b7bd95665069d260f0.png?ce=3",
+      "distanceNote": "약 1082.33m · 나이 양 비치 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 3,022건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 3,022건 기반.",
+      "reviews": [
+        {
+          "text": "객실은 깨끗하고 단기 체류에도 충분히 편안합니다.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "직원은 사랑스럽고 도움이되며 객실은 흠 잡을 데가 없습니다!",
+          "score": "10",
+          "country": "Belgium",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 호텔, 친절한 직원, 공항 근처의 완벽한 장소.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "공항으로 향하기 전에 머물기에 좋은 위치입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 직원들은 모두 매우 친절하고 협조적입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "더 루나 호스텔 (The Luna Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-luna/hotel/phuket-th.html?cid=1925461",
+      "walkMin": 12,
+      "score": 9.2,
+      "reviewCount": 3614,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 9.2,
+      "img": "//pix8.agoda.net/hotelImages/55538139/0/01cf79280e1be3d14d3edf42d083805a.jpeg?ce=0",
+      "distanceNote": "약 989.08m · 나이 양 비치 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 3,614건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 3,614건 기반.",
+      "reviews": [
+        {
+          "text": "공항 바로 옆에 위치한 아름다운 호스텔입니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "공항까지 도보로 단 10분, 가장 가까운 해변까지 도보로 15분 거리입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "또한 리셉션의 소녀들은 매우 친절하고 협조적입니다!",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "비오는 밤에도 조명이 있어서 수영장이 더 예뻐보이네요.",
+          "score": "10",
+          "country": "中国",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 나무 화장실 문 😁 그리고 모자이크 벽 타일이 사랑스럽습니다",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "이비스 스타일 푸켓 방타오 (ibis Styles Phuket Bangtao)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ibis-styles-phuket-bangtao/hotel/phuket-th.html?cid=1925461",
+      "walkMin": 52,
+      "score": 9.6,
+      "reviewCount": 128,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 9.2,
+      "img": "//pix8.agoda.net/hotelImages/83545344/0/0c5d24c8bf39e540e1702450be5271f0.jpg?ce=3",
+      "distanceNote": "약 4158.11m · 푸켓 판타 씨 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 128건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 128건 기반.",
+      "reviews": [
+        {
+          "text": "비수기 가격이 맘에 들고 서비스도 좋아요",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "비치클럽 이용하기 좋은 위치와 가격.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "적절한 돈으로 지출하십시오. 좋은 곳",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 가치가 있음",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "나이스 플레이스",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "더 메모리 앳 온 온 호텔 (The Memory at On On Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-memory-at-on-on-hotel/hotel/phuket-th.html?cid=1925461",
+      "walkMin": 10,
+      "score": 9.1,
+      "reviewCount": 6260,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/408733/-1/66d20c6dab35bf9a1a0754bb8aea1089.jpg?ca=17&ce=1",
+      "distanceNote": "약 815.47m · 푸켓타운 제1 로컬 버스 터미널 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 6,260건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 6,260건 기반.",
+      "reviews": [
+        {
+          "text": "객실 크기가 넉넉하여 휴식을 취할 수 있는 충분한 공간을 제공했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "그리고 위치는 이보다 더 좋을 수 없을 것 같아요!",
+          "score": "10",
+          "country": "France",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "직원들도 친절하고 시설도 깨끗하고 편안합니다.",
+          "score": "10",
+          "country": "South Africa",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "정통 빈티지 장식이 숙박의 질을 높여주었습니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 조용하며 직원들은 매우 도움이 됩니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "페라나칸 부티크 호텔 (PeranaKan Boutique Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oyo-130-peranakan-boutique-hotel/hotel/phuket-th.html?cid=1925461",
+      "walkMin": 7,
+      "score": 9.1,
+      "reviewCount": 1941,
+      "priceBand": 1,
+      "priceText": "₩ · 약 1만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/5891849/0/4378c053d54b360ceeba4d73225992bd.jpg?ce=3",
+      "distanceNote": "약 530.08m · 푸켓타운 제1 로컬 버스 터미널 인근",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 1,941건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 1,941건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗하고 직원이 친절하며 가격 대비 성능 비율이 매우 좋습니다.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗했고 숙박은 매우 편안했습니다.",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "내가 머물렀던 가격 대비 최고의 호텔 중 하나입니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗한 호텔 방, 화장실 및 기타 모든 것.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "이 호텔에는 3시간 안에 끝나는 세탁 서비스도 있습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "카사 블랑카 부티크 호텔 푸켓 (Casa Blanca Boutique Hotel Phuket)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/casa-blanca-boutique-hotel-phuket/hotel/phuket-th.html?cid=1925461",
+      "walkMin": 7,
+      "score": 9,
+      "reviewCount": 3040,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/285997/0/89da6dbe6388f5d0a40d934ae6017684.jpg?ce=3",
+      "distanceNote": "약 578.38m · 푸켓타운 제1 로컬 버스 터미널 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 3,040건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 3,040건 기반.",
+      "reviews": [
+        {
+          "text": "뛰어난 직원, 특히 추가 노력을 기울인 Prim.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "부티크는 모든 것 안에 완벽하게 위치해 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "장소는 깨끗했고 건축물은 아름다웠습니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "직원은 훌륭하고 객실은 매력적이고 깨끗합니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "위치는 시내 중심에 있어 아주 좋습니다.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "북 어 베드 포스텔 (Book a Bed Poshtel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/book-a-bed-poshtel/hotel/phuket-th.html?cid=1925461",
+      "walkMin": 7,
+      "score": 9,
+      "reviewCount": 2208,
+      "priceBand": 1,
+      "priceText": "₩ · 약 1만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/3635187/0/bd65cd2bb5a89b2dacf38a75f5a6b38d.jpg?ce=3",
+      "distanceNote": "약 588.38m · 푸켓타운 제1 로컬 버스 터미널 인근",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 2,208건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,208건 기반.",
+      "reviews": [
+        {
+          "text": "2024년 푸켓 타운에 묵는 최고의 호스텔입니다. 감사합니다!",
+          "score": "10",
+          "country": "中国",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "그것은 내가 이제까지 경험했던 최고의 호스텔 중 하나였습니다!",
+          "score": "9.6",
+          "country": "Deutschland",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "청결도는 완벽합니다. 보이는 모든 곳이 깨끗하고 깔끔합니다.",
+          "score": "9.2",
+          "country": "China",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "매일 새 침대 시트/이불과 수건을 제공합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "객실은 정말 멋진 레이아웃으로 깨끗하고 깔끔합니다!",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2022.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-27T01:33:51.971Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

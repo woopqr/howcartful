@@ -1,12 +1,12 @@
 {
-  "lastPostedAt": "2026-06-26T22:21:08.715Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 10,
-  "postedDate": "2026-06-26",
+  "lastPostedAt": "2026-06-27T01:33:10.670Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-06-27",
   "queue": [
-    "jeju",
-    "taichung"
+    "taichung",
+    "phuket"
   ],
   "publishedSlugs": [
     "osaka-namba",
@@ -26,6 +26,7 @@
     "hanoi",
     "kuala-lumpur",
     "bali",
-    "sapporo"
+    "sapporo",
+    "jeju"
   ]
 }
