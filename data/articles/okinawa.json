@@ -1,0 +1,440 @@
+{
+  "slug": "okinawa",
+  "title": "이시가키 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 이시가키 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "이시가키",
+  "cityId": 107999,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "이시가키",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/815946717.jpg?k=f26031da761c1f361db91756cd5d4c43333a4b0571fcdc0580a10fd186173a84&o=",
+  "heroAlt": "이시가키",
+  "heroTitleHtml": "이시가키 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Southern Gate HIVE</b>(평점 9.1·리뷰 298건·1박 약 3만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>카비라 공원 도보 3분</b>의 <b>비앤비 호텔 룰랄리야</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/815946717.jpg?k=f26031da761c1f361db91756cd5d4c43333a4b0571fcdc0580a10fd186173a84&o=",
+  "outroTitle": "🌙 이시가키, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 이시가키 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 이시가키 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Southern Gate HIVE",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/southern-gate-hive/hotel/all/ishigaki-jp.html?cid=1925461",
+      "walkMin": 5,
+      "score": 9.1,
+      "reviewCount": 298,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/815946717.jpg?k=f26031da761c1f361db91756cd5d4c43333a4b0571fcdc0580a10fd186173a84&o=",
+      "distanceNote": "약 380.4m · Azuma Transport 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 298건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 298건 기반.",
+      "reviews": [
+        {
+          "text": "다음에 방문하면 또 여기에 묵을 예정입니다!",
+          "score": "10",
+          "country": "Japan",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "캡슐은 예상보다 더 넓습니다!",
+          "score": "10",
+          "country": "Japan",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 위치가 훌륭함",
+          "score": "10",
+          "country": "Italy",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절합니다",
+          "score": "10",
+          "country": "Japan",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "멋진 휴가 숙박",
+          "score": "10",
+          "country": "Japan",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "비앤비 호텔 룰랄리야 (B&B Hotel Lulaliya)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/b-b-hotel-lulaliya/hotel/ishigaki-jp.html?cid=1925461",
+      "walkMin": 3,
+      "score": 9,
+      "reviewCount": 381,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/123/1235565/1235565_16060914290043330706.jpg?ca=6&ce=1",
+      "distanceNote": "약 211.21m · 카비라 공원 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 381건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 381건 기반.",
+      "reviews": [
+        {
+          "text": "공용 공용 욕실과 화장실도 매우 깨끗합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "시설은 깨끗하고 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 환대와 Kabira Bay에 가깝습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "우리는 이 게스트하우스에 머무르는 것을 정말 좋아했습니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "직원은 훌륭했고 우리가 도착한 순간부터 매우 도움이 되었습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "2019신축 ! 게스트하우스 홀로홀로 비치사이드 (2019新築 ! guest house Holoholo beach side)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/guest-house-holoholo-beach-side-ishigakijima/hotel/miyako-gun-jp.html?cid=1925461",
+      "walkMin": 108,
+      "score": 9,
+      "reviewCount": 469,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/78105091/0/2b8cb90dd821e839f538cdee242dcd9c.jpeg?ce=2",
+      "distanceNote": "약 8628.82m · Azuma Transport 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 469건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 469건 기반.",
+      "reviews": [
+        {
+          "text": "해변과 가까운 조용한 작은 마을.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "시설이 훌륭하고 모든 것이 집처럼 느껴집니다 🤗❤️✨",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "내가 이시가키로 돌아간다면 이것이 나의 최우선 선택이 될 것입니다.",
+          "score": "9.6",
+          "country": "Netherlands",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "적극 추천합니다. 그곳에서 즐거운 시간을 보냈습니다",
+          "score": "10",
+          "country": "France",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "완벽한 위치",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "게스트하우스 추라 쿠쿨레 이시가키지마 (Guest House Chura Cucule Ishigakijima)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/guest-house-chura-cucule-ishigakijima_2/hotel/ishigaki-jp.html?cid=1925461",
+      "walkMin": 10,
+      "score": 8.8,
+      "reviewCount": 1885,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/365/3650015/3650015_17121309250060379251.jpg?ca=6&ce=1",
+      "distanceNote": "약 781.99m · Azuma Transport 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 1,885건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,885건 기반.",
+      "reviews": [
+        {
+          "text": "제가 묵어본 게스트하우스 중 단연 최고입니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "아침을 먹었는데 맛있고 옵션도 다양했어요",
+          "score": "10",
+          "country": "Italia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "놀라운 디자인, 매우 깨끗하고 친절한 직원.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "욕실 공간, 기숙사 공간, 라운지 공간은 매우 깨끗합니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "여기서 일하는 직원들은 훌륭하고 친절하며 매우 친절합니다.",
+          "score": "9.2",
+          "country": "Japan",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "HOSTEL SunTerrace Ishigaki",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hostel-sunterrace-ishigaki/hotel/all/ishigaki-jp.html?cid=1925461",
+      "walkMin": 8,
+      "score": 8.8,
+      "reviewCount": 1028,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/566861395.jpg?k=07605802f3e6cc79ee36c5e660edff4532ee5affb8a9d886db6feb2a2d24d2d4&o=",
+      "distanceNote": "약 664.36m · Azuma Transport 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 1,028건",
+        "⭐ 1성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,028건 기반.",
+      "reviews": [
+        {
+          "text": "내가 머물렀던 최고의 호스텔 중 하나",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "너무 깨끗하고 공간도 좋고 친절하고 세탁기도 좋아요",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "계속 체류 기간을 연장했고 이시가키는 집처럼 느껴졌습니다.",
+          "score": "10",
+          "country": "Spain",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "일본에 가본 최고의 호스텔",
+          "score": "10",
+          "country": "Israel",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 도움이 되었습니다.",
+          "score": "10",
+          "country": "États-Unis",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "게스트 하우스 오리히메 (Guest House Orihime)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/guest-house-orihime/hotel/all/ishigaki-jp.html?cid=1925461",
+      "walkMin": 8,
+      "score": 8.8,
+      "reviewCount": 706,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/115175679.jpg?k=86849ffdae5f44b56785ace6f94ff9057652ac1cc83ef5850cd0ed0a0b18bd0a&o=",
+      "distanceNote": "약 607.67m · Azuma Transport 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 706건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 706건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗한 객실, 친절한 직원/주인, 완벽한 숙박!",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "매우 편안하고 깨끗합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "나는 반드시 돌아올 것이다.",
+          "score": "10",
+          "country": "Spain",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "위치도 편리해요",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "좋아요 깨끗해요 직원 친절해요",
+          "score": "10",
+          "country": "Japan",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "게스트 하우스 윤테라스 (guest house Yunterrace)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/guest-house-yun-terrace/hotel/taketomi-jp.html?cid=1925461",
+      "walkMin": 12,
+      "score": 8.6,
+      "reviewCount": 688,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/29220098/0/62c3ca4135696928b0afec8df773204e.jpeg?ce=0",
+      "distanceNote": "약 954.85m · Azuma Transport 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 688건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 688건 기반.",
+      "reviews": [
+        {
+          "text": "깔끔하고 조용하며 편안하고 친절한 주인과 손님.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "숙소는 항상 깨끗했고 시설도 좋았습니다.",
+          "score": "10",
+          "country": "Austria",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "이시가키지마를 방문할 때마다 여기로 오겠습니다..",
+          "score": "10",
+          "country": "India",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "이 게스트하우스의 주인은 정말 친절한 사람입니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "일주일 동안 머물렀는데 많은 재방문 손님을 만났습니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-27T11:52:04.136Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
