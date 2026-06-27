@@ -1,0 +1,441 @@
+{
+  "slug": "nha-trang",
+  "title": "나트랑 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 나트랑 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "nha-trang-vn",
+  "cityName": "나트랑",
+  "cityId": 2679,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "나트랑",
+  "heroImg": "https://pix8.agoda.net/hotelImages/67349925/0/9a0693f14841573b2625fe2502f9d48b.jpg?ce=2",
+  "heroAlt": "나트랑",
+  "heroTitleHtml": "나트랑 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>시사이드 부티크 호텔 나트랑 비치</b>(평점 9.1·리뷰 2,470건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>나트랑역 도보 17분</b>의 <b>시사이드 부티크 호텔 나트랑 비치</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/67349925/0/9a0693f14841573b2625fe2502f9d48b.jpg?ce=2",
+  "outroTitle": "🌙 나트랑, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 나트랑 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 나트랑 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "시사이드 부티크 호텔 나트랑 비치 (Seaside Boutique Hotel Nha Trang Beach)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/seaside-boutique-hotel-nha-trang-beach/hotel/nha-trang-vn.html?cid=1925461",
+      "walkMin": 17,
+      "score": 9.1,
+      "reviewCount": 2470,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/67349925/0/9a0693f14841573b2625fe2502f9d48b.jpg?ce=2",
+      "distanceNote": "약 1327.15m · 나트랑역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 2,470건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 2,470건 기반.",
+      "reviews": [
+        {
+          "text": "놀라운 환대, 훌륭한 위치, 벌레 없이 깨끗함",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "나트랑에서 묵었던 호텔 중 가장 좋았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "그녀는 우리의 숙박을 편안하고 기억에 남게 만들었습니다!!",
+          "score": "9.2",
+          "country": "日本",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "방은 훌륭했고 직원들은 매우 친절하고 도움이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "우리는 모든 사람에게 귀하의 호텔을 확실히 추천할 것입니다!",
+          "score": "9.2",
+          "country": "日本",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "리게일리어 골드 호텔 (Regalia Gold Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/regalia-gold-hotel/hotel/nha-trang-vn.html?cid=1925461",
+      "walkMin": 18,
+      "score": 8.9,
+      "reviewCount": 23942,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/10681625/-1/7cd7e553a9c37ce3120bc8fdc037dca5.jpg?ca=11&ce=1",
+      "distanceNote": "약 1474.96m · 나트랑역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 23,942건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 23,942건 기반.",
+      "reviews": [
+        {
+          "text": "리셉션의 Binh 씨는 매우 전문적이고 배려심이 깊었습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "수영장과 바가 있는 옥상에서 바라보는 놀라운 전망도 있습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "멋진 전망을 자랑하는 멋진 객실과 옥상 수영장.",
+          "score": "8.8",
+          "country": "Vietnam",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 최고 품질의 수건, 친절하고 도움이 되는 직원",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "이 장소가 얼마나 좋은지 충분히 말할 수 없습니다 !!",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "벤타나 나트랑 호텔 (Ventana Nha Trang Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ventana-nha-trang-hotel/hotel/nha-trang-vn.html?cid=1925461",
+      "walkMin": 20,
+      "score": 8.9,
+      "reviewCount": 5310,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/9824099/-1/1201bc4f311cfe390032e41c405c72b5.jpg?ca=9&ce=1",
+      "distanceNote": "약 1628.82m · 나트랑역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 5,310건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 5,310건 기반.",
+      "reviews": [
+        {
+          "text": "넓은 침실과 룸컨디션에 놀랐습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "위치가 매우 좋고 깨끗하며 직원들이 매우 친절합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "모든 시설이 훌륭하고 아침 식사도 훌륭합니다.",
+          "score": "10",
+          "country": "South Africa",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "위치는 상점과 레스토랑에도 좋습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "나트랑 여행시 벤타나에만 묵을 예정입니다.",
+          "score": "10",
+          "country": "South Africa",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "리버티 센트럴 나트랑 호텔 (Liberty Central Nha Trang Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/liberty-central-nha-trang-hotel/hotel/nha-trang-vn.html?cid=1925461",
+      "walkMin": 24,
+      "score": 8.9,
+      "reviewCount": 6935,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/869046/0/deb9ba4a7f4d51d932cf590550e8c88f.jpg?ce=2",
+      "distanceNote": "약 1935.81m · 나트랑역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 6,935건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 6,935건 기반.",
+      "reviews": [
+        {
+          "text": "해변과 레스토랑을 즐기기에 완벽한 위치입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "나트랑 최고의 호텔… 호텔은 최고의 위치에 있습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "청결도도 좋았고, 조식도 맛있었어요.",
+          "score": "9.6",
+          "country": "Vietnam",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "여러번 묵었는데 항상 편안하고 만족스럽습니다",
+          "score": "8.4",
+          "country": "United Kingdom",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "리버티 센트럴 나트랑(Liberty Central Nha Trang)은 정말 훌륭한 호텔입니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "스타시티 베이프런트 냐짱 호텔 (Starcity Bayfront Nha Trang Hotel )",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/starcity-nha-trang-hotel/hotel/nha-trang-vn.html?cid=1925461",
+      "walkMin": 27,
+      "score": 8.8,
+      "reviewCount": 5575,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/1158838/0/dea7b14d402d137535a29f124efa777f.png?ce=2",
+      "distanceNote": "약 2151.6m · 나트랑역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 5,575건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 5,575건 기반.",
+      "reviews": [
+        {
+          "text": "나트랑의 다른 호텔에서는 최소한 두 배의 비용이 청구됩니다.",
+          "score": "10",
+          "country": "德國",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "그들은 항상 내 체류를 매우 환영하고 즐겁게 만들어줍니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "수영장은 환상적이었고, 하우스키핑도 흠잡을 데가 없었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 침대는 구름 위에서 자는 것 같았습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 손님을 잘 존중합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "참파 아일랜드 나트랑 - 리조트 호텔 앤 스파 (Champa Island Nha Trang - Resort Hotel & Spa)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/champa-island-nha-trang-resort-hotel-and-spa/hotel/nha-trang-vn.html?cid=1925461",
+      "walkMin": 24,
+      "score": 8.8,
+      "reviewCount": 3938,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/926006/-1/2934bad983e42d81e1df8ef5a1cdc309.jpg?ce=0",
+      "distanceNote": "약 1886.41m · 나트랑역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 3,938건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 3,938건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 정말 훌륭했고 우리의 숙박을 완벽하게 만들어주었습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "멋진 체육관, 50m 길이의 훌륭한 수영장, 상점 및 필요한 모든 것.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 도움이 되고 환영받았습니다 - 매우 반응이 좋았습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "커피숍은 아름다웠어요... 계속할 수 있었어요!",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 협조적이며 협조적입니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "버고 호텔 (Virgo Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/virgo-hotel/hotel/nha-trang-vn.html?cid=1925461",
+      "walkMin": 19,
+      "score": 8.7,
+      "reviewCount": 14514,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/7466289/-1/63a228f0438a61d37c105135602bfc59.jpg?ce=0",
+      "distanceNote": "약 1502.2m · 나트랑역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 14,514건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 14,514건 기반.",
+      "reviews": [
+        {
+          "text": "무엇보다 가격대비 호텔컨디션이 너무 좋아요.",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 객실, 빠른 Wi-Fi, 수영장에서 보이는 아름다운 전망.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "방은 디자인이 아름답고 넓고 매우 깨끗했습니다.",
+          "score": "9.6",
+          "country": "Finland",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "방은 공간이 있었고 깨끗했으며 매우 미적이었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "객실은 현대적이고 깨끗하며 편안하며 멋진 전망을 자랑합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-27T05:34:27.537Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

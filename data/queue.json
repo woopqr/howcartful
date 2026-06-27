@@ -1,12 +1,12 @@
 {
-  "lastPostedAt": "2026-06-27T01:33:10.670Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 1,
+  "lastPostedAt": "2026-06-27T05:33:47.947Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 2,
   "postedDate": "2026-06-27",
   "queue": [
-    "taichung",
-    "phuket"
+    "phuket",
+    "nha-trang"
   ],
   "publishedSlugs": [
     "osaka-namba",
@@ -27,6 +27,7 @@
     "kuala-lumpur",
     "bali",
     "sapporo",
-    "jeju"
+    "jeju",
+    "taichung"
   ]
 }
