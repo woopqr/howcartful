@@ -1,0 +1,441 @@
+{
+  "slug": "pattaya",
+  "title": "파타야 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 파타야 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "pattaya-th",
+  "cityName": "파타야",
+  "cityId": 8584,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "파타야",
+  "heroImg": "https://pix8.agoda.net/hotelImages/1294798/710429079/e93a41106a3c9ff1d086740aa6b3a3ec.jpg?ce=0",
+  "heroAlt": "파타야",
+  "heroTitleHtml": "파타야 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>더 베드룸 호스텔 파타야</b>(평점 9·리뷰 2,519건·1박 약 1만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>파타야 버스터미널 도보 9분</b>의 <b>베스트 웨스턴 플러스 넥센 파타야</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/1294798/710429079/e93a41106a3c9ff1d086740aa6b3a3ec.jpg?ce=0",
+  "outroTitle": "🌙 파타야, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 파타야 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 파타야 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 베드룸 호스텔 파타야 (The Bedroom Hostel Pattaya)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-bedrooms-hostel-pattaya/hotel/pattaya-th.html?cid=1925461",
+      "walkMin": 25,
+      "score": 9,
+      "reviewCount": 2519,
+      "priceBand": 1,
+      "priceText": "₩ · 약 1만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/1294798/710429079/e93a41106a3c9ff1d086740aa6b3a3ec.jpg?ce=0",
+      "distanceNote": "약 1998.26m · 파타야 버스터미널 인근",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 2,519건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,519건 기반.",
+      "reviews": [
+        {
+          "text": "나는 청결도와 직원에 대해 9/10을 평가하고 싶습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "언젠가 다시 파타야를 방문한다면 이 호스텔에 묵을 예정입니다",
+          "score": "8.8",
+          "country": "Indonesia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "저렴하고 깨끗하며 아늑하며 가장 좋은 점은 바로 해변입니다 😍",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "좋은 방, 훌륭한 위치, 친절한 직원",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "그들은 또한 우리가 본 최고의 샤워실 중 하나를 가지고 있었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "코시 파타야 웡 아맛 비치 (COSI Pattaya Wong Amat Beach)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cosi-pattaya-naklua-beach/hotel/pattaya-th.html?cid=1925461",
+      "walkMin": 25,
+      "score": 9,
+      "reviewCount": 7982,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/28762961/0/e1be98d4abc808b0498a4477758794c9.jpeg?ce=3",
+      "distanceNote": "약 2028.78m · 파타야 버스터미널 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 7,982건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 7,982건 기반.",
+      "reviews": [
+        {
+          "text": "나는 거기에 5-6 번 머물렀고 호텔은 결코 실망하지 않았습니다.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "방, 시설, 직원 모두 정말 훌륭했습니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "위치가 매우 좋습니다. 해변까지 도보로 10분 거리입니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "아래층에는 연중무휴 카페가 있고 세탁도 매우 도움이 됩니다.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "좋은 방, 모든 것이 새 것처럼 보이고, 침대와 에어컨도 좋습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "원 파티오 호텔 파타야 (One patio hotel pattaya)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/one-patio-hotel-pattaya/hotel/pattaya-th.html?cid=1925461",
+      "walkMin": 20,
+      "score": 8.9,
+      "reviewCount": 2584,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/11016697/-1/f08bc599ec0fcf7d6f2e4250e39dc13e.png?ca=27&ce=0",
+      "distanceNote": "약 1614.93m · 파타야 버스터미널 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 2,584건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 2,584건 기반.",
+      "reviews": [
+        {
+          "text": "직원들도 매우 친절하고, 방도 깨끗하고, 수영장도 좋습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 도움이 되고, 방은 넓고 깨끗합니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 새로운 시설, 친절한 직원.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "환상적인 서비스, 매우 깨끗하고 넓은 객실.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 깨끗했고, 수영장도 매력적이었습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "베스트 웨스턴 플러스 넥센 파타야 (Best Western Plus Nexen Pattaya)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-plus-nexen-pattaya-hotel/hotel/pattaya-th.html?cid=1925461",
+      "walkMin": 9,
+      "score": 8.9,
+      "reviewCount": 6023,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/16797154/-1/645f7d4a688c429fc949018d6943f28e.jpg?ca=13&ce=1",
+      "distanceNote": "약 722.83m · 파타야 버스터미널 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 6,023건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 6,023건 기반.",
+      "reviews": [
+        {
+          "text": "관광지역 최고의 호텔이며 매우 친절합니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "프런트 직원과 청소 직원이 매우 친절합니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "항상 방문하고 묵었던 호텔, 벌써 4번 이상",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "직원들이 너무 깨끗하고 친절해서 놀랐습니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "적당한 가격, 새 호텔이고 깨끗하고 직원들도 친절합니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "호텔 앰버 파타야 (Hotel Amber Pattaya)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-amber-pattaya_2/hotel/pattaya-th.html?cid=1925461",
+      "walkMin": 33,
+      "score": 8.9,
+      "reviewCount": 16051,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/7443358/-1/3865ca97306c92cee80a7ec9f8f52414.jpg?ca=14&ce=1",
+      "distanceNote": "약 2617.78m · 파타야역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 16,051건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 16,051건 기반.",
+      "reviews": [
+        {
+          "text": "제가 태국에서 머물렀던 호텔 중 가장 멋진 호텔 중 하나입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "태국에서 머물렀던 최고의 호텔 중 하나입니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "주요 야간 유흥 장소까지 도보로 5분도 채 걸리지 않습니다.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "내 방은 현대적이고 넓으며 믿을 수 없을 정도로 편안했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "매우 부드러운 침대/베개, 환상적인 직원, 완벽한 위치.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "날란타 호텔 파타야 (Nalanta Hotel Pattaya)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nalanta-pattaya/hotel/pattaya-th.html?cid=1925461",
+      "walkMin": 33,
+      "score": 8.6,
+      "reviewCount": 2715,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/10543170/-1/8989571889caf2eec66c7e1b9d0463f2.jpg?ca=21&ce=0",
+      "distanceNote": "약 2670.14m · 파타야 버스터미널 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 2,715건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 2,715건 기반.",
+      "reviews": [
+        {
+          "text": "완벽하고 깨끗하며 소음도 없고 친절한 호텔이며 에어컨이 시원합니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "호텔의 위치는 매우 편리하고 걸어서 갈 수 있습니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "Nalanta에서의 훌륭한 숙박이며 꼭 다시 머물고 싶습니다.",
+          "score": "10",
+          "country": "Jersey",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "프론트 데스크 등록의 Susie는 정말 기쁩니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "무엇보다도 Susie와 그녀의 직원은 매우 친절하고 협조적입니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "마치 호텔 (March Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/march-hotel/hotel/pattaya-th.html?cid=1925461",
+      "walkMin": 25,
+      "score": 8.5,
+      "reviewCount": 17152,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.5,
+      "img": "//pix8.agoda.net/hotelImages/967809/0/dab2f536b846d447b41af7b14b90aee5.jpeg?ce=0",
+      "distanceNote": "약 1989m · 파타야 버스터미널 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 17,152건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 17,152건 기반.",
+      "reviews": [
+        {
+          "text": "지난 3년간 묵었던 호텔 중 단연 최고였습니다",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "모든 직원들에게 수고했으며 숙박 시설에 감사드립니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "앞으로도 이 호텔을 꼭 다시 예약하겠습니다",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "3월 호텔은 제가 태국에서 꼭 가고 싶은 호텔이 되었습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 유능합니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-27T14:51:13.160Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
