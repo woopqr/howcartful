@@ -1,12 +1,12 @@
 {
-  "lastPostedAt": "2026-06-27T14:50:33.353Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 7,
+  "lastPostedAt": "2026-06-27T15:55:56.293Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 8,
   "postedDate": "2026-06-27",
   "queue": [
-    "incheon",
-    "pattaya"
+    "pattaya",
+    "dalat"
   ],
   "publishedSlugs": [
     "osaka-namba",
@@ -33,6 +33,7 @@
     "nha-trang",
     "manila",
     "penang",
-    "okinawa"
+    "okinawa",
+    "incheon"
   ]
 }
