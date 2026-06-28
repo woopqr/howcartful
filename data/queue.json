@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-06-28T12:51:09.235Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 5,
+  "lastPostedAt": "2026-06-28T14:29:24.559Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 6,
   "postedDate": "2026-06-28",
   "queue": [
-    "boracay",
     "kobe"
   ],
   "publishedSlugs": [
@@ -41,6 +40,7 @@
     "jakarta",
     "yokohama",
     "daegu",
-    "tainan"
+    "tainan",
+    "boracay"
   ]
 }
