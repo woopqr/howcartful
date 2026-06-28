@@ -1,0 +1,290 @@
+{
+  "slug": "kobe",
+  "title": "몬테고 베이 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 몬테고 베이 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "몬테고 베이",
+  "cityId": 3561,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "몬테고 베이",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/79236185.jpg?k=1a7a2d9274c70db95919c2c0b73e2452a54b58ab6452e75975cfe98751660326&o=",
+  "heroAlt": "몬테고 베이",
+  "heroTitleHtml": "몬테고 베이 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Mobay Kotch</b>(평점 8.8·리뷰 813건·1박 약 4만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>One Man Beach 도보 9분</b>의 <b>Penthouse villa 1</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/79236185.jpg?k=1a7a2d9274c70db95919c2c0b73e2452a54b58ab6452e75975cfe98751660326&o=",
+  "outroTitle": "🌙 몬테고 베이, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 몬테고 베이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 몬테고 베이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Mobay Kotch",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mobay-kotch/hotel/all/montego-bay-jm.html?cid=1925461",
+      "walkMin": 14,
+      "score": 8.8,
+      "reviewCount": 813,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/79236185.jpg?k=1a7a2d9274c70db95919c2c0b73e2452a54b58ab6452e75975cfe98751660326&o=",
+      "distanceNote": "약 1102.99m · One Man Beach 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 813건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 813건 기반.",
+      "reviews": [
+        {
+          "text": "자메이카 최고의 호스텔",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "위치는 모든 것의 중심에 완벽합니다.",
+          "score": "8.4",
+          "country": "Canada",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "방은 편안한 침대는 공유 기숙사에서 괜찮습니다.",
+          "score": "8.4",
+          "country": "Canada",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "여성 나홀로 여행자가 머물 수 있는 안전하고 안전한 숙소",
+          "score": "8.4",
+          "country": "Canada",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "직접 식사를 준비할 수 있는 완비된 주방.",
+          "score": "8.4",
+          "country": "Canada",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Penthouse villa 1",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/penthouse-villa-h78592856/hotel/all/trelawny-jm.html?cid=1925461",
+      "walkMin": 9,
+      "score": 8,
+      "reviewCount": 36,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 7.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/837117061.jpg?k=50ff9fb3adb774f1af3a254745b4d99b4ea1dff81f13b247a2ddbce74608e5b0&o=",
+      "distanceNote": "약 723.35m · One Man Beach 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 36건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 36건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "African Symbol Guest House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/african-symbol-guest-house_2/hotel/all/montego-bay-jm.html?cid=1925461",
+      "walkMin": 84,
+      "score": 7.6,
+      "reviewCount": 110,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 7.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/455857587.jpg?k=1fcb7f532c87c0c146d00af13a4038a56dd6677f7f302759ca3b3a627aef1fd8&o=",
+      "distanceNote": "약 6692.85m · 대드 엔드 비치 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 110건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 110건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 장소",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Marshan villa",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/marshan-villa_2/hotel/all/montego-bay-jm.html?cid=1925461",
+      "walkMin": 50,
+      "score": 8.6,
+      "reviewCount": 128,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/798717921.jpg?k=ad5fb9be65579a383abd0b719c2b3df06822a208473d9e343eaf8cae15665a9f&o=",
+      "distanceNote": "약 3967.24m · One Man Beach 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 128건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 128건 기반.",
+      "reviews": [
+        {
+          "text": "저는 이곳을 적극 추천합니다. 이곳은 진짜 보물이에요!",
+          "score": "10",
+          "country": "Jamaica",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "매니저인 Mark는 환상적이었습니다!",
+          "score": "10",
+          "country": "Jamaica",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "멋진 경험!",
+          "score": "10",
+          "country": "Jamaica",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박!",
+          "score": "10",
+          "country": "Jamaica",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Colorful Private Room Oasis",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/colorful-private-room-oasis/hotel/all/montego-bay-jm.html?cid=1925461",
+      "walkMin": 30,
+      "score": 8.9,
+      "reviewCount": 36,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 8만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/450076867.jpg?k=3866c0c872b39701bca6312fd1cd8c6275a059d60db7e2a477f457edfcc0bd44&o=",
+      "distanceNote": "약 2393.09m · One Man Beach 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 36건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 36건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Hills Royale Villa -Ironshore Montego Bay",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hills-royale-villa/hotel/all/montego-bay-jm.html?cid=1925461",
+      "walkMin": 82,
+      "score": 9.4,
+      "reviewCount": 329,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/424667883.jpg?k=12185d5c0bc227a77e56aa89f4d51cd58d355f7b3181f8b74b4f8c8737ea19ec&o=",
+      "distanceNote": "약 6586.27m · 대드 엔드 비치 인근",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 329건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 329건 기반.",
+      "reviews": [
+        {
+          "text": "사랑스러운 집과 내 방은 최고였습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 맛있었습니다!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 환대.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "집처럼 편안하게 느껴보세요",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Montego Bay Sea View Guesthouse",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/montego-bay-guesthouse/hotel/all/trelawny-jm.html?cid=1925461",
+      "walkMin": 14,
+      "score": 8.1,
+      "reviewCount": 43,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/621389157.jpg?k=1ac46cf2b9049b46ded84f7494be4b8b5dd0a3c46802f93e678bc55eb7c126b0&o=",
+      "distanceNote": "약 1149.48m · 닥터's 케이브 비치 클럽 인근",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 43건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 43건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-28T12:51:25.044Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

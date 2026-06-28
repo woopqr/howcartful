@@ -1,12 +1,12 @@
 {
-  "lastPostedAt": "2026-06-28T11:22:42.885Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 4,
+  "lastPostedAt": "2026-06-28T12:51:09.235Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 5,
   "postedDate": "2026-06-28",
   "queue": [
-    "tainan",
-    "boracay"
+    "boracay",
+    "kobe"
   ],
   "publishedSlugs": [
     "osaka-namba",
@@ -40,6 +40,7 @@
     "cebu",
     "jakarta",
     "yokohama",
-    "daegu"
+    "daegu",
+    "tainan"
   ]
 }
