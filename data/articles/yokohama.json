@@ -1,0 +1,441 @@
+{
+  "slug": "yokohama",
+  "title": "요코하마 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 요코하마 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "yokohama-jp",
+  "cityName": "요코하마",
+  "cityId": 4590,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "요코하마",
+  "heroImg": "https://pix8.agoda.net/hotelImages/53818795/-1/1fda2bc367aa00cf462bfa0a1b864670.jpg?ce=0",
+  "heroAlt": "요코하마",
+  "heroTitleHtml": "요코하마 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>글로벌 캐빈 요코하마 차이나타운</b>(평점 9·리뷰 1,374건·1박 약 4만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>바샤미치역 도보 1분</b>의 <b>소테츠 후레사 인 요코하마 사쿠라기초</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/53818795/-1/1fda2bc367aa00cf462bfa0a1b864670.jpg?ce=0",
+  "outroTitle": "🌙 요코하마, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 요코하마 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 요코하마 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "글로벌 캐빈 요코하마 차이나타운 (global cabin yokohama Chinatown)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/global-cabin-yokohamachukagai-h8876439/hotel/yokohama-jp.html?cid=1925461",
+      "walkMin": 5,
+      "score": 9,
+      "reviewCount": 1374,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/53818795/-1/1fda2bc367aa00cf462bfa0a1b864670.jpg?ce=0",
+      "distanceNote": "약 398.74m · Ishikawachō Station 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 1,374건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,374건 기반.",
+      "reviews": [
+        {
+          "text": "시설이나 편의시설도 너무 좋았습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "개인 미니 온천이 있고 직원들은 매우 정중했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "아마도 제가 지금까지 머물렀던 캡슐 호텔 중 가장 마음에 드는 호텔일 것입니다!",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "지금까지 머물렀던 최고의 캡슐 호텔입니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "다시 여행을 간다면 꼭 다시 올 거예요.",
+          "score": "10",
+          "country": "Ireland",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "소테츠 후레사 인 요코하마 사쿠라기초 (Sotetsu Fresa Inn Yokohama Sakuragicho)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sotetsu-fresa-inn-yokohama-sakuragicho/hotel/yokohama-jp.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.7,
+      "reviewCount": 8345,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/410959/0/d07852644a22d583a91d7d321c455bb0.jpg?ce=2",
+      "distanceNote": "약 49.63m · 바샤미치역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 8,345건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 8,345건 기반.",
+      "reviews": [
+        {
+          "text": "위치는 훌륭합니다. 행사장에서 단 1정거장 거리에 있습니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안했고 샤워실도 훌륭해서 전반적으로 즐거운 숙박이었습니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "로비에 직접 가져갈 수 있는 편의시설 완비",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "필요한 세면도구도 로비에서 선택하실 수 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 공간이 크며 일본에서는 매우 드뭅니다.",
+          "score": "8.4",
+          "country": "Thailand",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Sotetsu Fresa Inn Yokohama Higashiguchi",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sotetsu-fresa-inn-yokohama-higashiguchi/hotel/yokohama-jp.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.6,
+      "reviewCount": 13269,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/14092825/-1/ff9668e77417a220dca096030a69c167.jpg?ca=17&ce=1",
+      "distanceNote": "약 321.38m · 요코하마역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 13,269건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 13,269건 기반.",
+      "reviews": [
+        {
+          "text": "그들은 Sotetsue Fresa Inn에서의 체류를 훌륭하게 만들었습니다.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 요코하마에 가야 한다면 다시 여기에 머물고 싶습니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "편의시설에는 우리에게 필요한 거의 모든 것이 갖춰져 있었습니다! 적극 추천합니다!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "체크인 전후 짐 보관이 매우 편리합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "나는 이곳에서 즐거운 시간을 보냈고 다음에 다시 돌아올 것입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "APA 호텔 앤 리조트 요코하마 베이 타워 (APA Hotel & Resort Yokohama Bay Tower)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/apa-hotel-resort-yokohama-bay-tower/hotel/yokohama-jp.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.5,
+      "reviewCount": 58278,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.5,
+      "img": "//pix8.agoda.net/hotelImages/5946705/-1/cb4dc2693f27644980a1de1026e04d70.jpg?ca=11&ce=1",
+      "distanceNote": "약 167.43m · 바샤미치역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 58,278건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 58,278건 기반.",
+      "reviews": [
+        {
+          "text": "나는 은퇴하고 호텔에 영구적으로 머물고 싶습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "제가 묵었던 방은 바다가 보이는 뷰가 너무 좋았습니다.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "요코하마를 방문할 때 이곳을 적극 추천합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "매우 좋은 호텔과 시설이 있었고 그곳에서 즐거운 시간을 보냈습니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "그 위치는 우리가 가고 싶었던 모든 장소에 완벽했습니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "다이와 로이넷 호텔 요코하마-코엔 (Daiwa Roynet Hotel Yokohama-Koen)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/daiwa-roynet-hotel-yokohama-koen/hotel/yokohama-jp.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.5,
+      "reviewCount": 14285,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.5,
+      "img": "//pix8.agoda.net/hotelImages/400/400230/400230_17091104240056196171.jpg?ca=6&ce=1",
+      "distanceNote": "약 365.76m · 니혼오도리역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 14,285건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 14,285건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 조용한 객실, 일본 호텔치고는 꽤 넓습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "그리고 편의 시설은 최고 수준이어서 가격 대비 가치가 있었습니다.",
+          "score": "9.2",
+          "country": "中國香港",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "제가 머물렀던 방은 넓고 우아하게 꾸며져 있습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "이 호텔에서의 나의 체류는 마법과도 같았습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "객실은 매일 청소되며 린넨도 교체됩니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "소테츠 프레사 인 가와사키에키 히가시구치 (Sotetsu Fresa Inn Kawasakieki Higashiguchi)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sotetsu-fresa-inn-kawasakieki-higashiguchi/hotel/yokohama-jp.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.5,
+      "reviewCount": 9233,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.5,
+      "img": "//pix8.agoda.net/hotelImages/154810/-1/4c7eab7d14157c8fdcfd9b975c5c0731.jpg?ca=8&ce=1",
+      "distanceNote": "약 104.71m · Shiyakushomae Bus Stop 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 9,233건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 9,233건 기반.",
+      "reviews": [
+        {
+          "text": "게다가 하네다 공항까지 30분밖에 걸리지 않습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 트윈룸을 예약했고 그것이 완벽하다는 것을 알았습니다.",
+          "score": "9.2",
+          "country": "Japan",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "가장 마음에 드는 점은 호텔 편의 시설이 매우 완벽하다는 것입니다.",
+          "score": "8.8",
+          "country": "Indonesia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "내 체류의 가장 좋은 부분은 확실히 직원 서비스였습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "다음에 도쿄를 방문할 때 이 위치를 다시 고려할 것입니다.",
+          "score": "8.8",
+          "country": "Canada",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "호텔 플럼   (Hotel Plumm)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-plumm/hotel/yokohama-jp.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.4,
+      "reviewCount": 8248,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.4,
+      "img": "//pix8.agoda.net/hotelImages/174/174461/174461_15122310510038695046.jpg?ca=6&ce=1",
+      "distanceNote": "약 103.22m · Sotetsu Bus 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 8,248건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 8,248건 기반.",
+      "reviews": [
+        {
+          "text": "가격대비 머물기에 좋은 호텔이라고 생각합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "위치, 방 크기, 청결도 모두 마음에 듭니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "요코하마를 방문할 때마다 호텔 플럼에 묵습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "전반적인 경험이 좋고, 방이 깨끗하고 편안합니다.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "그리고 직원들은 매우 친절하고 따뜻하며 일부는 영어를 구사할 수 있습니다.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-28T01:54:56.651Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
