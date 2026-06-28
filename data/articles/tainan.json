@@ -1,0 +1,440 @@
+{
+  "slug": "tainan",
+  "title": "타이난 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 타이난 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "tainan-tw",
+  "cityName": "타이난",
+  "cityId": 18347,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "타이난",
+  "heroImg": "https://pix8.agoda.net/hotelImages/2727823/-1/277bf8966bae0110be210473277fd044.jpg?ce=0",
+  "heroAlt": "타이난",
+  "heroTitleHtml": "타이난 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>U.I.J 호텔 앤 호스텔</b>(평점 9.4·리뷰 20,383건·1박 약 3만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Yonghua Bus Station 도보 6분</b>의 <b>U.I.J 호텔 앤 호스텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/2727823/-1/277bf8966bae0110be210473277fd044.jpg?ce=0",
+  "outroTitle": "🌙 타이난, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 타이난 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 타이난 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "U.I.J 호텔 앤 호스텔 (UIJ) (U.I.J Hotel&Hostel (UIJ))",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/u-i-j-hotel-hostel/hotel/tainan-tw.html?cid=1925461",
+      "walkMin": 6,
+      "score": 9.4,
+      "reviewCount": 20383,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 9.4,
+      "img": "//pix8.agoda.net/hotelImages/2727823/-1/277bf8966bae0110be210473277fd044.jpg?ce=0",
+      "distanceNote": "약 498.15m · Yonghua Bus Station 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 20,383건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 20,383건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 매우 친절하며 쉽게 도움을 받을 수 있습니다.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "이것은 내가 머물렀던 가장 멋진 호스텔 중 하나입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "로비 자체는 깔끔하게 디자인되고 장식되어 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 멋진 디자인 선택, 고급 목욕용품.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 편안했으며 잘 관리되어 있었습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "프로빈티아 호텔 (Provintia Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/la-plaza-hotel/hotel/tainan-tw.html?cid=1925461",
+      "walkMin": 12,
+      "score": 9.3,
+      "reviewCount": 5693,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 9.3,
+      "img": "//pix8.agoda.net/hotelImages/284650/-1/d0b3397547171f339508e8e08f4ecd4f.jpg?ce=0",
+      "distanceNote": "약 949.8m · 타이난역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 5,693건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 5,693건 기반.",
+      "reviews": [
+        {
+          "text": "세심한 디자인과 구조로 객실이 아늑하고 깨끗했습니다.",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "환영 음료와 과일은 멋지고 상쾌한 보너스였습니다.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "직원들은 훌륭했고 우리 아기를 위해 유아용 침대를 준비했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "이 호텔은 내가 타이난을 여행하는 이유 중 하나가 될 것입니다!",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "나는 이 호텔을 좋아하고 예약한 것을 후회하지 않습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "몬 포레스트 아파트먼트 (morn forest apartment)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/morn-forest-apartment/hotel/tainan-tw.html?cid=1925461",
+      "walkMin": 12,
+      "score": 9.2,
+      "reviewCount": 2037,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 9.2,
+      "img": "//pix8.agoda.net/hotelImages/6014562/0/a3398494e1af06b5143df476437dacd0.jpg?ce=3",
+      "distanceNote": "약 970.9m · 타이난역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 2,037건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 2,037건 기반.",
+      "reviews": [
+        {
+          "text": "개인 여행자를 위한 방은 매우 깨끗하고 잘 갖춰져 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "방은 좋고 깨끗하지만 조금 작습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 샤워실도 넓습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "전체 장소는 깨끗하고 매우 친절한 직원입니다.",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙소 - 추천하고 싶습니다",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "제리의 메이즈헛 호스텔 (Jerry's Mazehut Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/jerry-s-mazehut-hostel/hotel/tainan-tw.html?cid=1925461",
+      "walkMin": 9,
+      "score": 9.2,
+      "reviewCount": 1901,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 9.2,
+      "img": "//pix8.agoda.net/hotelImages/48280408/-1/102d749d866e9475dc4822966bf28f63.jpg?ce=0",
+      "distanceNote": "약 745.96m · Yonghua Bus Station 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 1,901건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 1,901건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 위치와 건물 자체가 예술 작품이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "나는 여기에 머물기 위해 확실히 돌아올 것입니다.",
+          "score": "10",
+          "country": "加拿大",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "이것은 WOW 경험이다",
+          "score": "10",
+          "country": "加拿大",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "욕실은 밝고 넓으며 깨끗하고 냄새가 훌륭했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "욕실과 화장실은 깨끗하고 충분합니다.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "콰이어트 호스텔 - 민취안 인 (Quiet Hostel - Minquan Inn(清淨背包客棧-民權新館))",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quiet-hostel-minquan-inn/hotel/tainan-tw.html?cid=1925461",
+      "walkMin": 9,
+      "score": 9.2,
+      "reviewCount": 4388,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 9.2,
+      "img": "//pix8.agoda.net/hotelImages/34742953/-1/8faec98cb35f5964ce8b56675e76c34e.jpg?ce=0",
+      "distanceNote": "약 722.3m · 타이난역 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 4,388건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 4,388건 기반.",
+      "reviews": [
+        {
+          "text": "몇 달 만에 처음으로 정말 집처럼 느껴졌습니다.",
+          "score": "10",
+          "country": "Netherlands",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "직원분들이 너무 친절하시고 방도 너무 넓어서 좋았습니다.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "시설은 잘 관리되어 있고 깨끗합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "매우 좋고, 편안하고, 깨끗하고 매우 환영합니다!",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗한 장소, 친절하고 도움이 되는 주인.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "더 레트로 타이판 2 (The Retro Tai-Pan 2)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kingwow/hotel/tainan-tw.html?cid=1925461",
+      "walkMin": 17,
+      "score": 9.1,
+      "reviewCount": 950,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/4640978/0/c3352fb7b623bed8cb56b64857eecd1f.jpg?ce=3",
+      "distanceNote": "약 1322.91m · Yonghua Bus Station 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 950건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 950건 기반.",
+      "reviews": [
+        {
+          "text": "침대가 너무 좋아서 거기서 푹 잘 수 있었어요.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "이 숙소는 타이난에서 3일간 머물기에 완벽했습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "위치는 완벽했고, 제가 필요한 모든 것에 가깝습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "그리고 방은 정말 사랑스럽고 멋진 도시 전망을 제공합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 깨끗하고 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "야오시 호텔 - 타이난 신메이 파빌리온 (耀西文旅-台南新美館)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/yoshi-hotel-tainan-sinmei-branch-h64533718/hotel/tainan-tw.html?cid=1925461",
+      "walkMin": 11,
+      "score": 9.1,
+      "reviewCount": 2040,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 9.1,
+      "img": "//pix8.agoda.net/hotelImages/83091040/0/441b6c9185d90033d522bdd2cf855684.jpg?ce=3",
+      "distanceNote": "약 882.34m · Yonghua Bus Station 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 2,040건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 2,040건 기반.",
+      "reviews": [
+        {
+          "text": "장소는 좋고 이 지역은 레스토랑 근처에 있습니다.",
+          "score": "8",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "서비스도 좋고 관광객들에게 편리한 곳이에요",
+          "score": "10",
+          "country": "중국",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "이 호텔은 현대 여행객들이 요구할 수 있는 모든 것을 갖추고 있습니다:",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "객실 시설은 매우 만족스럽습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 5박 동안 그곳에서 즐거운 시간을 보냈습니다.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-28T09:33:22.496Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
