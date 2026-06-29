@@ -33,10 +33,20 @@ function rebuildAll() {
     const thumbs = (d.hotels || []).map(h => h.img).filter(Boolean).slice(0, 4).map(imgUrl);
     return { title: titles.makeTitle(d), desc: titles.makeCardDesc(d), thumbs };
   };
+  // 호스트별 썸네일 축소(용량↓). 실패 시 onerror로 원본 폴백(깨짐 방지).
+  const smallImg = u => {
+    if (/bstatic\.com/.test(u)) return u.replace(/\/max\d+(x\d+)?\//, '/max300/').replace(/\/square\d+\//, '/square180/');
+    if (/pix\d*\.agoda\.net/.test(u)) return u + (u.includes('?') ? '&' : '?') + 's=360x240';
+    return u;
+  };
   const thumbHtml = thumbs => {
     if (!thumbs.length) return '';
     const k = thumbs.length >= 4 ? 4 : (thumbs.length >= 2 ? 2 : 1);
-    return `<div class="cthumbs t${k}">` + thumbs.slice(0, 4).map(u => `<img src="${u}" alt="" loading="lazy">`).join('') + `</div>`;
+    return `<div class="cthumbs t${k}">` + thumbs.slice(0, 4).map(u => {
+      const s = smallImg(u);
+      const fb = s !== u ? ` onerror="this.onerror=null;this.src='${u}'"` : '';
+      return `<img src="${s}"${fb} alt="" loading="lazy" decoding="async">`;
+    }).join('') + `</div>`;
   };
   const cards = list => {
     if (!list.length) return '<div class="card">\n        <div class="cbody"><h2>준비 중</h2><p>첫 비교 글이 곧 발행됩니다.</p></div>\n      </div>';
