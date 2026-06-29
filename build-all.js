@@ -9,12 +9,14 @@
 const fs = require('fs');
 const path = require('path');
 const { buildOne } = require('./build');
+const titles = require('./lib/titles');
 
 const ROOT = __dirname;
 const SITE = 'https://howcartful.com';
 const readJSON = p => JSON.parse(fs.readFileSync(p, 'utf8'));
 const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const today = () => new Date().toISOString().slice(0, 10);
+const imgUrl = u => u ? ('https:' + String(u).replace(/^https?:/, '')) : '';
 
 function rebuildAll() {
   const q = readJSON(path.join(ROOT, 'data', 'queue.json'));
@@ -28,13 +30,19 @@ function rebuildAll() {
   // 2) 홈 글 목록 = 발행된 글만, 최신글 위로
   const meta = slug => {
     const d = readJSON(path.join(ROOT, 'data', 'articles', slug + '.json'));
-    return { title: d.title || slug, desc: d.metaDescription || '' };
+    const thumbs = (d.hotels || []).map(h => h.img).filter(Boolean).slice(0, 4).map(imgUrl);
+    return { title: titles.makeTitle(d), desc: titles.makeCardDesc(d), thumbs };
+  };
+  const thumbHtml = thumbs => {
+    if (!thumbs.length) return '';
+    const k = thumbs.length >= 4 ? 4 : (thumbs.length >= 2 ? 2 : 1);
+    return `<div class="cthumbs t${k}">` + thumbs.slice(0, 4).map(u => `<img src="${u}" alt="" loading="lazy">`).join('') + `</div>`;
   };
   const cards = list => {
-    if (!list.length) return '<div class="card">\n        <h2>준비 중</h2>\n        <p>첫 비교 글이 곧 발행됩니다.</p>\n      </div>';
+    if (!list.length) return '<div class="card">\n        <div class="cbody"><h2>준비 중</h2><p>첫 비교 글이 곧 발행됩니다.</p></div>\n      </div>';
     return list.map(s => {
       const m = meta(s);
-      return `<a class="card" href="/articles/${s}">\n        <h2>${esc(m.title)}</h2>\n        <p>${esc(m.desc)}</p>\n      </a>`;
+      return `<a class="card" href="/articles/${s}">\n        ${thumbHtml(m.thumbs)}\n        <div class="cbody"><h2>${esc(m.title)}</h2><p>${esc(m.desc)}</p></div>\n      </a>`;
     }).join('\n      ');
   };
   const onIndex = published.filter(s => slugs.includes(s));

@@ -12,6 +12,7 @@
 const fs = require('fs');
 const path = require('path');
 const agoda = require('./lib/agoda');
+const titles = require('./lib/titles');
 
 const ROOT = __dirname;
 const TPL = fs.readFileSync(path.join(ROOT, 'templates', 'article.template.html'), 'utf8');
@@ -82,6 +83,10 @@ function buildContext(data) {
     hotelsByDistance: [...hotels].sort((a, b) => a.walkMin - b.walkMin),
     hotelCards: hotels, // 1위~전체 호텔 카드(사진+예약+리뷰)
     cityUrl: agoda.cityLink(data.citySlug, lang),
+    // 제목·메타는 빌드 시점에 풀 조합으로 생성(슬러그 고정)
+    title: titles.makeTitle(data),
+    heroTitleHtml: titles.makeHeroHtml(data),
+    metaDescription: titles.makeMeta(data),
   };
 }
 
