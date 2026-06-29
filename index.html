@@ -35,7 +35,7 @@
     header h1{ font-size:2rem; font-weight:900; letter-spacing:-.02em;
       background:linear-gradient(90deg, var(--p1), var(--p2)); -webkit-background-clip:text; background-clip:text; color:transparent; }
     header p{ color:var(--muted); margin-top:8px; }
-    .grid{ margin-top:36px; display:grid; gap:20px; grid-template-columns:repeat(auto-fill, minmax(300px, 1fr)); }
+    .grid{ margin-top:36px; display:grid; gap:20px; grid-template-columns:repeat(auto-fill, minmax(300px, 1fr)); align-items:start; }
     .card{ position:relative; display:block; text-decoration:none; color:var(--text);
       background:var(--card-bg); border-radius:18px; overflow:hidden; box-shadow:var(--card-sh);
       transition:transform .22s ease, box-shadow .22s ease; }
@@ -70,6 +70,12 @@
     .search .ic{ position:absolute; left:18px; top:50%; transform:translateY(-50%); color:#fff; display:flex; pointer-events:none; transition:color .2s; }
     .search input:focus ~ .ic{ color:var(--ph); }
     .noresult{ display:none; color:var(--muted); margin-top:26px; text-align:center; font-size:.95rem; }
+    /* 더보기(누적) 버튼 */
+    .loadmore{ display:block; margin:38px auto 0; padding:13px 32px; font-size:1rem; font-weight:800; color:#fff;
+      border:0; border-radius:999px; cursor:pointer; background:linear-gradient(95deg,#22d3ee,#6366f1 46%,#a855f7);
+      box-shadow:0 10px 26px rgba(124,92,246,.32); transition:transform .15s, box-shadow .2s; }
+    .loadmore:hover{ transform:translateY(-2px); box-shadow:0 14px 32px rgba(124,92,246,.45); }
+    .loadmore .cnt{ opacity:.85; font-weight:700; }
     /* 테마 토글 버튼 */
     .theme-toggle{ position:fixed; top:14px; right:14px; z-index:50; width:40px; height:40px; border-radius:50%;
       border:1px solid var(--line); background:var(--card-bg); color:var(--text); cursor:pointer; display:flex; align-items:center; justify-content:center; box-shadow:var(--card-sh); }
@@ -233,6 +239,7 @@
       <!--ARTICLES_END-->
     </main>
     <p class="noresult" id="noresult">검색 결과가 없습니다.</p>
+    <button id="loadmore" class="loadmore" type="button">더보기 <span class="cnt"></span></button>
     <footer>
       <p>본 사이트의 일부 링크는 제휴(어필리에이트) 링크이며, 구매 시 수수료를 받을 수 있습니다. 평점·리뷰는 실제 데이터에 근거합니다.</p>
     </footer>
@@ -240,17 +247,29 @@
   <script>
     function __hcToggle(){var r=document.documentElement;var cur=r.getAttribute('data-theme');var eff=cur||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');var next=eff==='dark'?'light':'dark';r.setAttribute('data-theme',next);try{localStorage.setItem('hc-theme',next);}catch(e){}}
     (function(){
-      var q=document.getElementById('q'), nr=document.getElementById('noresult');
-      if(!q) return;
+      var q=document.getElementById('q'), nr=document.getElementById('noresult'), btn=document.getElementById('loadmore');
       var cards=[].slice.call(document.querySelectorAll('#article-list .card'));
-      q.addEventListener('input',function(){
-        var v=q.value.trim().toLowerCase(), n=0;
-        cards.forEach(function(c){
-          var hit=!v||c.textContent.toLowerCase().indexOf(v)>=0;
-          c.style.display=hit?'':'none'; if(hit)n++;
-        });
-        if(nr) nr.style.display=(n===0&&v)?'block':'none';
+      var PAGE=12, shown=Math.min(PAGE,cards.length), searching=false;
+      function paint(){
+        if(searching) return;
+        cards.forEach(function(c,i){ c.style.display = i<shown ? '' : 'none'; });
+        if(btn){
+          var rest=cards.length-shown;
+          if(rest>0){ btn.style.display=''; var cnt=btn.querySelector('.cnt'); if(cnt) cnt.textContent='('+rest+')'; }
+          else btn.style.display='none';
+        }
+      }
+      if(btn) btn.addEventListener('click',function(){ shown=Math.min(shown+PAGE,cards.length); paint(); });
+      if(q) q.addEventListener('input',function(){
+        var v=q.value.trim().toLowerCase(); searching=!!v;
+        if(v){
+          var n=0;
+          cards.forEach(function(c){ var hit=c.textContent.toLowerCase().indexOf(v)>=0; c.style.display=hit?'':'none'; if(hit)n++; });
+          if(nr) nr.style.display=n===0?'block':'none';
+          if(btn) btn.style.display='none';
+        } else { if(nr) nr.style.display='none'; paint(); }
       });
+      paint();
     })();
   </script>
 </body>
