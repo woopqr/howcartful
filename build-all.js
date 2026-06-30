@@ -39,20 +39,21 @@ function rebuildAll() {
     if (/pix\d*\.agoda\.net/.test(u)) return u + (u.includes('?') ? '&' : '?') + 's=360x240';
     return u;
   };
+  // 보라 패널 안에 4장 동일 크기 그리드(Codex 카드 스타일)
   const thumbHtml = thumbs => {
     if (!thumbs.length) return '';
-    const k = thumbs.length >= 4 ? 4 : (thumbs.length >= 2 ? 2 : 1);
-    return `<div class="cthumbs t${k}">` + thumbs.slice(0, 4).map(u => {
+    const imgs = thumbs.slice(0, 4).map(u => {
       const s = smallImg(u);
       const fb = s !== u ? ` onerror="this.onerror=null;this.src='${u}'"` : '';
       return `<img src="${s}"${fb} alt="" loading="lazy" decoding="async">`;
-    }).join('') + `</div>`;
+    }).join('');
+    return `<div class="cpanel"><div class="cgrid">${imgs}</div></div>`;
   };
   const cards = list => {
     if (!list.length) return '<div class="card">\n        <div class="cbody"><h2>준비 중</h2><p>첫 비교 글이 곧 발행됩니다.</p></div>\n      </div>';
     return list.map(s => {
       const m = meta(s);
-      return `<a class="card" href="/articles/${s}">\n        ${thumbHtml(m.thumbs)}\n        <div class="cbody"><h2>${esc(m.title)}</h2><p>${esc(m.desc)}</p></div>\n      </a>`;
+      return `<a class="card" href="/articles/${s}">\n        ${thumbHtml(m.thumbs)}\n        <div class="cbody"><h2>${esc(m.title)}</h2><p>${esc(m.desc)}</p></div>\n        <span class="cbtn">리뷰 보러가기 →</span>\n      </a>`;
     }).join('\n      ');
   };
   const onIndex = published.filter(s => slugs.includes(s));
