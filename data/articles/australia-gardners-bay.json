@@ -1,0 +1,214 @@
+{
+  "slug": "australia-gardners-bay",
+  "title": "가드너스 베이 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 가드너스 베이 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "huon-valley-au",
+  "cityName": "가드너스 베이",
+  "cityId": 719616,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "가드너스 베이",
+  "heroImg": "https://pix8.agoda.net/hotelImages/5196483/0/a8b4007efbc55b8ccc2654a5248fd073.jpeg?ce=0",
+  "heroAlt": "가드너스 베이",
+  "heroTitleHtml": "가드너스 베이 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>시그넷 올드 뱅크</b>(평점 9.5·리뷰 156건·1박 약 16만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>시그넷 올드 뱅크</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/5196483/0/a8b4007efbc55b8ccc2654a5248fd073.jpeg?ce=0",
+  "outroTitle": "🌙 가드너스 베이, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 가드너스 베이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 가드너스 베이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "시그넷 올드 뱅크 (Cygnet Old Bank)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cygnet-old-bank_2/hotel/huon-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 156,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/5196483/0/a8b4007efbc55b8ccc2654a5248fd073.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 156건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 156건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 숙소, 깨끗하고 매우 편안합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "모든 직원은 매우 친절했고 매우 도움이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 아름다웠고 우리를 위해 충분하지 못했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "환상적인 위치, 훌륭한 숙소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절했고 문제를 신속하게 해결해주었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "The Cove Kettering",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-cove-kettering_3/hotel/all/kettering-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 166,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/232452822.jpg?k=bbe1c224602aa0adac0b91ec28caa6a8a570c262aa51ee8d2e1ffe44fc9e201e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 166건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 166건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 넓고 항구 전망이 좋습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "환상적인 서비스 + 아침 식사가 포함되어 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "이곳이 정말 마음에 듭니다. 브루니 모험을 즐기기에 환상적인 위치입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 깨끗합니다.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "편안하고 깨끗하며 전망이 좋습니다.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Tranquil Point",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tranquil-point_2/hotel/all/deep-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 72,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/491362635.jpg?k=503d83839d04e352cb2b785e57993a10ef170ccbbed7ee2a65e72400025750fd&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 72건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 72건 기반.",
+      "reviews": [
+        {
+          "text": "친절하고 친절한 호스트.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "확실히 추천할 것입니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Woodbridge Hill Hideaway",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/woodbridge-hill-hideaway/hotel/all/woodbridge-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 288,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 35만원",
+      "valueIndex": 5.4,
+      "img": "//pix8.agoda.net/hotelImages/281115/0/08111b147a66af9ce2d80cda382126f4.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 35만원",
+        "📝 리뷰 288건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 288건 기반.",
+      "reviews": [
+        {
+          "text": "게이 창으로 다시 돌아올 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-02T17:12:29.400Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}

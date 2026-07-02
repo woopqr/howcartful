@@ -1,15 +1,15 @@
 {
-  "lastPostedAt": "2026-07-02T15:29:32.001Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 3,
+  "lastPostedAt": "2026-07-02T17:12:15.414Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 4,
   "postedDate": "2026-07-02",
   "queue": [
-    "hoi-an"
+    "australia-gardners-bay"
   ],
   "fetchState": {
-    "regionIndex": 4,
-    "cityIndex": 6,
+    "regionIndex": 10,
+    "cityIndex": 4,
     "regionFails": 0,
     "skippedIds": []
   },
@@ -51,6 +51,7 @@
     "kobe",
     "daejeon",
     "sokcho",
-    "ho-chi-minh"
+    "ho-chi-minh",
+    "hoi-an"
   ]
 }
