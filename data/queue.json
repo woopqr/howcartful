@@ -1,15 +1,15 @@
 {
-  "lastPostedAt": "2026-07-02T22:40:34.267Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 8,
+  "lastPostedAt": "2026-07-02T23:44:24.985Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 9,
   "postedDate": "2026-07-02",
   "queue": [
-    "australia-gatton"
+    "australia-gelibrand"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 8,
+    "cityIndex": 9,
     "regionFails": 0,
     "skippedIds": []
   },
@@ -56,6 +56,7 @@
     "australia-gardners-bay",
     "australia-garlon",
     "australia-geroa",
-    "australia-geringong"
+    "australia-geringong",
+    "australia-gatton"
   ]
 }

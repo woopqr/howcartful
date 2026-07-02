@@ -1,0 +1,132 @@
+{
+  "slug": "australia-gelibrand",
+  "title": "겔리브랜드 가성비 호텔 2곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 겔리브랜드 가성비 호텔 2곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "gellibrand-au",
+  "cityName": "겔리브랜드",
+  "cityId": 513616,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "겔리브랜드",
+  "heroImg": "https://pix8.agoda.net/hotelImages/337/337531/337531_13031811220010885498.jpg?ca=0&ce=1",
+  "heroAlt": "겔리브랜드",
+  "heroTitleHtml": "겔리브랜드 가성비 호텔 2곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>오트웨이 투어리스트 파크</b>(평점 8.2·리뷰 428건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>오트웨이 투어리스트 파크</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/337/337531/337531_13031811220010885498.jpg?ca=0&ce=1",
+  "outroTitle": "🌙 겔리브랜드, 어디에 묵어도 후회없이",
+  "outroText": "위 2곳은 모두 겔리브랜드 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 겔리브랜드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "오트웨이 투어리스트 파크 (Otways Tourist Park)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/otways-tourist-park/hotel/gellibrand-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 428,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/337/337531/337531_13031811220010885498.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 428건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 428건 기반.",
+      "reviews": [
+        {
+          "text": "우리 객실은 모든 면에서 완벽했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "편안한 분위기, 매우 편안한 침대.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "내가 잤던 침대 중 가장 편안한 침대는 집보다 더 좋았습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "숙소가 깨끗하고 직원이 친절해요",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "휴식을 취하기에 매우 좋은 장소와 좋은 위치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Fauna Australia Wildlife Experience",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/fauna-australia-wildlife-experience/hotel/all/great-ocean-road-lavers-hill-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 123,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/849964162.jpg?k=f1722c0324d1ca39369972ba93ce462b32ea4ed3bf2db7dedfad3e283c76042d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 123건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 123건 기반.",
+      "reviews": [
+        {
+          "text": "가족을 위한 훌륭한 숙박이며 저렴한 가격입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "가족에게 적합",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "적극 추천합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-02T23:44:32.690Z",
+    "source": "agoda citySearch",
+    "count": 2
+  }
+}
