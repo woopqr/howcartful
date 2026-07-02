@@ -1,15 +1,15 @@
 {
-  "lastPostedAt": "2026-07-02T13:09:44.861Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 2,
+  "lastPostedAt": "2026-07-02T15:29:32.001Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 3,
   "postedDate": "2026-07-02",
   "queue": [
-    "ho-chi-minh"
+    "hoi-an"
   ],
   "fetchState": {
     "regionIndex": 4,
-    "cityIndex": 5,
+    "cityIndex": 6,
     "regionFails": 0,
     "skippedIds": []
   },
@@ -50,6 +50,7 @@
     "boracay",
     "kobe",
     "daejeon",
-    "sokcho"
+    "sokcho",
+    "ho-chi-minh"
   ]
 }
