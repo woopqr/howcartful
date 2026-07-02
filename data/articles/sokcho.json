@@ -1,0 +1,416 @@
+{
+  "slug": "sokcho",
+  "title": "속초 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 속초 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "sokcho-si-kr",
+  "cityName": "속초",
+  "cityId": 17236,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "속초",
+  "heroImg": "https://pix8.agoda.net/hotelImages/74229741/0/1574650867e2b57738be770665eaf876.jpg?ce=2",
+  "heroAlt": "속초",
+  "heroTitleHtml": "속초 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>속초 스테이션 호스텔</b>(평점 9.4·리뷰 663건·1박 약 4만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>속초 시외버스터미널 도보 1분</b>의 <b>속초 휘테 게스트하우스</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/74229741/0/1574650867e2b57738be770665eaf876.jpg?ce=2",
+  "outroTitle": "🌙 속초, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 속초 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 속초 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "속초 스테이션 호스텔 (SokCho Station Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/3011-1-4/hotel/sokcho-si-kr.html?cid=1925461",
+      "walkMin": 3,
+      "score": 9.4,
+      "reviewCount": 663,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 9.3,
+      "img": "//pix8.agoda.net/hotelImages/74229741/0/1574650867e2b57738be770665eaf876.jpg?ce=2",
+      "distanceNote": "약 273.74m · 속초 시외버스터미널 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 663건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 663건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗하고 편안하며 필요한 모든 것을 갖추고 있습니다.",
+          "score": "10",
+          "country": "Belgique",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "시트는 깨끗했고 침대는 슈퍼 싱글이었고 편안했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "완벽하다는 말 외에는 할 말이 없습니다.",
+          "score": "10",
+          "country": "France",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "이것은 나에게 지금까지 최고의 호스텔이었습니다.",
+          "score": "10",
+          "country": "Italia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "호스텔은 터미널에서 도보 거리에 있습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "속초 휘테 게스트하우스 (Sokcho Hutte Guesthouse)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sokcho-hutte-guesthouse/hotel/sokcho-si-kr.html?cid=1925461",
+      "walkMin": 1,
+      "score": 9.5,
+      "reviewCount": 265,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 9.3,
+      "img": "//pix8.agoda.net/hotelImages/6420710/0/3d4fdc7ac7563b8f2076ecf8679d95b7.jpeg?ce=0",
+      "distanceNote": "약 75.02m · 속초 시외버스터미널 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 265건",
+        "⭐ 1.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 265건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 호스트, 깨끗하고 편안한 집, 맛있는 아침 식사.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 베개와 침대는 매우 편안합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고 직원도 친절하고 방도 매우 깨끗했습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "속초에서 이 곳을 이용할 수 있다면 예약하세요!",
+          "score": "10",
+          "country": "Israel",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 편의 시설을 갖춘 사랑스럽고 깨끗한 게스트하우스입니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "속초 하루 (Sokcho Day)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sokcho-day/hotel/sokcho-si-kr.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.8,
+      "reviewCount": 447,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/56315419/-1/c623311528611cbfc5dadc47a35c1fba.jpg?ce=0",
+      "distanceNote": "약 97.75m · 속초 시외버스터미널 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 447건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 447건 기반.",
+      "reviews": [
+        {
+          "text": "깔끔하고 깨끗한 시설, 친절한 직원, 편안한 침대.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "전체 사업은 매우 잘 관리되고 깨끗합니다.",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "속초데이(하루)를 예외적으로 관리, 유지하고 있습니다.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "속초에 다시 가게 된다면 꼭 다시 이곳에 묵고 싶습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "객실은 그리 크지는 않지만 괜찮고 침대도 편안합니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "맹그로브 고성 (Mangrove Goseong)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mangrove-goseong/hotel/sokcho-si-kr.html?cid=1925461",
+      "walkMin": 116,
+      "score": 8.9,
+      "reviewCount": 475,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 8만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/51419904/-1/0effe637cd4c806b7514fda9241ff999.jpg?ce=0",
+      "distanceNote": "약 9266.82m · 속초 시외버스터미널 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 475건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 475건 기반.",
+      "reviews": [
+        {
+          "text": "유목민 작업에 좋은 장소",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "휴가와 업무의 완벽한 균형",
+          "score": "8",
+          "country": "South Korea",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "속초 스테이 호텔 (Sokcho Stay Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sokcho-stay-hotel/hotel/sokcho-si-kr.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8.9,
+      "reviewCount": 586,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/60898043/-1/d17007686b47b9fc4da634679dd23550.jpg?ce=0",
+      "distanceNote": "약 492.23m · 속초 시외버스터미널 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 586건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 586건 기반.",
+      "reviews": [
+        {
+          "text": "내가 방에 도착했을 때 그것은 믿어지지 않았다.",
+          "score": "10",
+          "country": "Magyarország",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "직원들도 친절하고 영어도 잘하더군요.",
+          "score": "10",
+          "country": "Magyarország",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "우리가 한국에서 보낸 가장 좋은 숙박 중 하나",
+          "score": "10",
+          "country": "Iceland",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "바다 전망을 제공하며 동명항과 가깝습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "스위트룸으로 업그레이드 받았어요.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "소노펠리체  델피노 (Sono Felice Delpino)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sono-felice-delpino/hotel/sokcho-si-kr.html?cid=1925461",
+      "walkMin": 107,
+      "score": 8.9,
+      "reviewCount": 6052,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/27930958/-1/2bab9e6a946635c4d5eae02e514ee37b.jpg?ce=0",
+      "distanceNote": "약 8596.59m · 속초 시외버스터미널 인근",
+      "metaTags": [
+        "📝 리뷰 6,052건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 6,052건 기반.",
+      "reviews": [
+        {
+          "text": "이곳은 정말 머물기 좋은 곳이었습니다.",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "그것은 우리의 체류를 더욱 기억에 남게 만들었습니다.",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "현장 식사 옵션은 다양하고 맛있었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "전망이 굉장하고, 크고, 조용하고, 침대가 편안합니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "내가 머물렀던 최고의 골프 ​​클럽 호텔과 리조트.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "르컬렉티브 속초해변 (Lecollective SokchoBeach)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/le-collective-sokcho-beach/hotel/sokcho-si-kr.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.8,
+      "reviewCount": 2828,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/61794530/0/c132f3d1461609cc4906e426c36822bc.png?ce=3",
+      "distanceNote": "약 198.17m · 속초 고속 버스 터미널 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 2,828건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 2,828건 기반.",
+      "reviews": [
+        {
+          "text": "시설은 새롭고 깨끗하며 매우 현대적입니다.",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "조용하고 방도 깨끗하고 직원들도 친절해요.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "바다가 보이는 넓고 깨끗한 스튜디오였습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "가격면에서는 모든 사람에게 꼭 추천하고 싶습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 바다 전망 방을 선택했는데 정말 환상적이었습니다!",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-02T11:15:14.995Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

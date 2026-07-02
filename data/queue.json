@@ -1,15 +1,15 @@
 {
-  "lastPostedAt": "2026-06-28T15:52:34.027Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 0,
+  "lastPostedAt": "2026-07-02T11:14:45.300Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 1,
   "postedDate": "2026-07-02",
   "queue": [
-    "daejeon"
+    "sokcho"
   ],
   "fetchState": {
     "regionIndex": 0,
-    "cityIndex": 6,
+    "cityIndex": 7,
     "regionFails": 0,
     "skippedIds": []
   },
@@ -48,6 +48,7 @@
     "daegu",
     "tainan",
     "boracay",
-    "kobe"
+    "kobe",
+    "daejeon"
   ]
 }
