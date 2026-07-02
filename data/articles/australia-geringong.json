@@ -1,0 +1,427 @@
+{
+  "slug": "australia-geringong",
+  "title": "게링공 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 게링공 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "게링공",
+  "cityId": 512810,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "게링공",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/213808488.jpg?k=f4f812eaddd5eae01feb0e8ed4a720daa6f11f2be6e0c67b7183d26688398a0d&o=",
+  "heroAlt": "게링공",
+  "heroTitleHtml": "게링공 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>파크 리지 리트리트</b>(평점 9·리뷰 1,139건·1박 약 26만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>키아마역 도보 1분</b>의 <b>노바 키아마</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/213808488.jpg?k=f4f812eaddd5eae01feb0e8ed4a720daa6f11f2be6e0c67b7183d26688398a0d&o=",
+  "outroTitle": "🌙 게링공, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 게링공 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 게링공 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "파크 리지 리트리트 (Park Ridge Retreat)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/park-ridge-retreat_3/hotel/all/gerringong-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 1139,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/213808488.jpg?k=f4f812eaddd5eae01feb0e8ed4a720daa6f11f2be6e0c67b7183d26688398a0d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 1,139건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,139건 기반.",
+      "reviews": [
+        {
+          "text": "객실은 편안하고 저렴합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "장소는 믿을 수 없을 정도로 잘 관리되어 있었고 인상적이었습니다.",
+          "score": "9.6",
+          "country": "澳洲",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "호텔은 좋은 위치에 있으며 시내 중심가까지 도보로 가까운 거리에 있습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "평화롭고 깨끗하며 멋진 전망을 자랑합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "위치는 좋고 조용하고 안전했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "노바 키아마 (Nova Kiama)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nova-kiama/hotel/kiama-au.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.9,
+      "reviewCount": 3526,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/102/10290703/10290703_19120311060084785993.jpg?ca=9&ce=1",
+      "distanceNote": "약 37.82m · 키아마역 인근",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 3,526건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 3,526건 기반.",
+      "reviews": [
+        {
+          "text": "시드니에서 멜버른 방향으로 운전하기에 좋은 위치입니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 여기에 머물면서 즐거운 시간을 보냈고 직원들은 친절했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "전체적으로 편안하고 즐거운 경험이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 직원이 정중하고 전문적인 객실이 훌륭합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "여행 중 하룻밤 묵는 것은 매우 편안했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "키아마 쇼어 (Kiama Shores)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kiama-shores-motel/hotel/kiama-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 9,
+      "reviewCount": 2623,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/295356/-1/ccddeb40dbff805766a376ff4fe609e9.jpg?ca=9&ce=1",
+      "distanceNote": "약 511.42m · 키아마역 인근",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 2,623건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,623건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 위치에 깨끗하고 현대적인 객실을 갖춘 사랑스러운 모텔입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "시설은 훌륭했고 위치는 이길 수 없습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 장소, 놀라운 침대, 아름다운 방과 욕실.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "키아마로 돌아갈 때 꼭 여기에 묵을 거예요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 넓으며 주차는 무료입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "머큐어 제링공 리조트 (Mercure Gerringong Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mercure-gerringong-resort/hotel/gerringong-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 1416,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/871767852.jpg?k=e1e47914729c5266c34403901a322ea8566130f068839f7f00c8a9c4cdf596c9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 1,416건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 1,416건 기반.",
+      "reviews": [
+        {
+          "text": "내 방은 넓고 킹 사이즈 침대와 전용 안뜰이 있었습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "우리는 매번 남해안에 있는 호텔로 갑니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 단기 체류, 편안한 침대 및 깨끗한 객실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 침대가 매우 편안했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "여기 직원들은 정말 훌륭하고, 매우 친절하고 도움이 됩니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "키아마 모텔 617 (Kiama Motel 617)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/motel-617_3/hotel/kiama-au.html?cid=1925461",
+      "walkMin": 10,
+      "score": 8.5,
+      "reviewCount": 142,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/326956966.jpg?k=ffd69eb05a2d49ea16f628becbe865bef9514624440740fe0ddb963083a35e63&o=",
+      "distanceNote": "약 818.22m · 키아마역 인근",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 142건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 142건 기반.",
+      "reviews": [
+        {
+          "text": "모텔은 환상적이었고 위치가 훌륭했으며 객실도 깔끔했습니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙소, 시내 중심까지 도보로 쉽게 이동 가능.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "Motel 617에서의 주말 숙박에 매우 만족했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "위치는 완벽했고 시내까지 쉽게 걸어갈 수 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 위치는 몇 개의 해변과 가깝습니다.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "The SALTY PALMS Luxury Beach House Kiama",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/salty-palms-luxury-villa-s-kiama/hotel/all/kiama-au.html?cid=1925461",
+      "walkMin": 15,
+      "score": 9.5,
+      "reviewCount": 49,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 95만원",
+      "valueIndex": 5.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/749628056.jpg?k=9257cea15210e5373783583214cefced5319eb6ff7a96ac10989cb0d5ababbf9&o=",
+      "distanceNote": "약 1197.73m · 키아마역 인근",
+      "metaTags": [
+        "💰 약 95만원",
+        "📝 리뷰 49건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 49건 기반.",
+      "reviews": [
+        {
+          "text": "키아마에 있는 동안 이곳에 머무르는 것을 강력히 추천합니다!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "Salty Palm's에서의 숙박은 정말 환상적이었습니다!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "정말 놀랍습니다!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "더 세벨 키아마 (The Sebel Kiama)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-sebel-harbourside-kiama-hotel/hotel/kiama-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.7,
+      "reviewCount": 170,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 33만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/847585363.jpg?k=f2e593d08af9335dbb71258272401886e6fd1cf47166ac2e5285bfab2909f7dd&o=",
+      "distanceNote": "약 388.91m · 키아마역 인근",
+      "metaTags": [
+        "💰 약 33만원",
+        "📝 리뷰 170건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 170건 기반.",
+      "reviews": [
+        {
+          "text": "호텔 자체는 흠잡을 데 없이 깨끗하고 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "나는 두 번째로 여기에 머물렀고 꼭 다시 머물고 싶습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "키아마(Kiama)를 탐험하기에 이보다 더 좋은 위치는 없습니다.",
+          "score": "8.8",
+          "country": "Thailand",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "이것은 키아마에서의 숙박을 위한 완벽한 선택이었습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "그리고 방은 홈페이지에 나온 사진 그대로였어요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-02T21:31:49.703Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
