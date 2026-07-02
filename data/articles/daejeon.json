@@ -1,0 +1,438 @@
+{
+  "slug": "daejeon",
+  "title": "대전 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 대전 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "daejeon-kr",
+  "cityName": "대전",
+  "cityId": 17233,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "대전",
+  "heroImg": "https://pix8.agoda.net/hotelImages/4591092/0/8657b2052445fcf21ac993fb974558d0.jpg?ce=3",
+  "heroAlt": "대전",
+  "heroTitleHtml": "대전 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>토요코 인 대전정부청사앞</b>(평점 8.7·리뷰 4,151건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>시청역 도보 2분</b>의 <b>둔산 그레이톤 호텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/4591092/0/8657b2052445fcf21ac993fb974558d0.jpg?ce=3",
+  "outroTitle": "🌙 대전, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 대전 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 대전 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "토요코 인 대전정부청사앞 (Toyoko Inn Daejeon Government Complex in front)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/toyoko-inn-daejeon-government-complex-in-front/hotel/daejeon-kr.html?cid=1925461",
+      "walkMin": 8,
+      "score": 8.7,
+      "reviewCount": 4151,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/4591092/0/8657b2052445fcf21ac993fb974558d0.jpg?ce=3",
+      "distanceNote": "약 603.41m · 정부청사역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 4,151건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 4,151건 기반.",
+      "reviews": [
+        {
+          "text": "객실은 사진과 같이 심플하고 깔끔하고 편안합니다.",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "The facility was clean and the breakfast is good too",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "편안한 호텔입니다. 객실은 작지만 시설이 잘 갖추어져 있습니다.",
+          "score": "8.4",
+          "country": "Mexico",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 모든 것에 가까워지고 싶다면 좋습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "매우 편안한 호텔",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "대전 용전 해피타워 (Daejeon Yongjeon Happy Tower)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/daejeon-yongjeon-happy-tower-h10581437/hotel/daejeon-kr.html?cid=1925461",
+      "walkMin": 29,
+      "score": 8.7,
+      "reviewCount": 744,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/49734975/-1/c644dcabc043c4954642b52d618becdb.jpg?ce=0",
+      "distanceNote": "약 2342.29m · 대전역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 744건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 744건 기반.",
+      "reviews": [
+        {
+          "text": "Good for couples",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "I liked the hard bed + comforter and pillows were comfy.",
+          "score": "8.8",
+          "country": "South Korea",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "대전에 오면 꼭 다시 묵을 예정입니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "나처럼 혼자 여행하는 것은 가격이 가장 큰 장점이다.",
+          "score": "8.4",
+          "country": "Italia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "버스 정류장 바로 옆에 있는 훌륭한 위치.",
+          "score": "9.6",
+          "country": "Spain",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "레지던스 호텔 라인 (Residence Hotel Line)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/residence-hotel-line/hotel/daejeon-kr.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.7,
+      "reviewCount": 4523,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/6587702/-1/149d07bc1c6adeaf4f998c92caf38f6e.jpg?ca=10&ce=1",
+      "distanceNote": "약 340.7m · 정부청사역 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 4,523건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 4,523건 기반.",
+      "reviews": [
+        {
+          "text": "나는 여기서 편안한 밤을 잤다. 다시 할 것입니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "숙소는 꽤 (보통) 좋았고, 아늑하고 깨끗했습니다.",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "합리적인 가격의 최고의 호텔 중 하나입니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "장소는 버스 정류장 근처에 매우 편리하게 위치해 있습니다.",
+          "score": "8.8",
+          "country": "Vietnam",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "레지던스 호텔 라인에서 즐거운 시간을 보냈습니다!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "대전 게스트하우스 하늘정원 (Daejeon Guesthouse Sky Garden)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/daejeon-guesthouse-sky-garden/hotel/daejeon-kr.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8.5,
+      "reviewCount": 773,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 8.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/616293020.jpg?k=7cbc2d12e65875ea06a6b27ecfa3a366f6d20fec2052109d6cfbf13a938e45f7&o=",
+      "distanceNote": "약 489.56m · 중구청역 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 773건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 773건 기반.",
+      "reviews": [
+        {
+          "text": "움직일 때 침대가 흔들리거나 시끄럽지 않습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "제공된 모든 것이 비용 대비 훌륭한 가치였습니다.",
+          "score": "8.4",
+          "country": "South Korea",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "전통시장과 대전역까지 걸어서 갈 수 있습니다.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "이 장소가 제공하는 것의 양은 놀랍습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "객실은 사진과 같으며 집 같은 느낌을 줍니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "굿모닝 레지던스 호텔 휴 (Good Morning Residence Hotel Hue)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/good-morning-residence-hotel-hue/hotel/daejeon-kr.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8.5,
+      "reviewCount": 4451,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.5,
+      "img": "//pix8.agoda.net/hotelImages/445059/-1/7aa0d32bac7c0236ec445e9d9a2e550c.jpg?ce=0",
+      "distanceNote": "약 458.58m · 시청역 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 4,451건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 4,451건 기반.",
+      "reviews": [
+        {
+          "text": "가격 대비 숙소가 얼마나 좋았는지 믿을 수가 없어요",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "방은 넓었고 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "저는 이곳에 다시 묵고 싶고 적극 추천합니다.",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "방에 필요한 모든 것이 갖춰져 있고 매일 청소를 합니다.",
+          "score": "9.6",
+          "country": "台灣",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "모든 기능을 갖춘 간이 주방을 갖춘 넓은 객실",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "둔산 그레이톤 호텔 (Dunsan Graytone Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dunsan-graytone-hotel/hotel/daejeon-kr.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.4,
+      "reviewCount": 6077,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.4,
+      "img": "//pix8.agoda.net/hotelImages/567800/0/262eccb071eea78211ac8711bb951a91.jpeg?ce=0",
+      "distanceNote": "약 164.87m · 시청역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 6,077건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 6,077건 기반.",
+      "reviews": [
+        {
+          "text": "제공되는 음료까지 맛있었습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "위치, 직원, 위치가 너무 좋았어요 100% 추천합니다",
+          "score": "9.6",
+          "country": "Spain",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "이코노미 원룸 구조는 작은 원룸과 같습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "대전시청역 인근 최고의 위치",
+          "score": "8.8",
+          "country": "Indonesia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "가든 스위트는 훌륭하고 아침 식사는 맛있습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "대전 용문 제이앤케이 클래식 호텔 (Daejeon Yongmun JNK Classic Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/daejeon-yongmun-1st-branch-jnk-classic-hotel/hotel/daejeon-kr.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.2,
+      "reviewCount": 410,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.2,
+      "img": "//pix8.agoda.net/hotelImages/59314079/892350939/9ac87bd53b8b6e833760a0c2166d82a2.jpg?ce=0",
+      "distanceNote": "약 313.34m · 용문역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 410건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 410건 기반.",
+      "reviews": [
+        {
+          "text": "방은 기본 물품이 모두 갖춰져 있으면서도 깨끗하고 좋습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "호텔 직원은 매우 친절합니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "저예산 최고의 호텔",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "I slept well and the location was good",
+          "score": "8.4",
+          "country": "Israel",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "이 호텔은 매우 친절하고 최고의 서비스를 제공합니다..",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-02T08:36:08.722Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

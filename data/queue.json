@@ -4,10 +4,12 @@
   "intervalCursor": 3,
   "postedToday": 0,
   "postedDate": "2026-07-02",
-  "queue": [],
+  "queue": [
+    "daejeon"
+  ],
   "fetchState": {
     "regionIndex": 0,
-    "cityIndex": 0,
+    "cityIndex": 6,
     "regionFails": 0,
     "skippedIds": []
   },
