@@ -1,0 +1,441 @@
+{
+  "slug": "ho-chi-minh",
+  "title": "호치민 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 호치민 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "ho-chi-minh-city-vn",
+  "cityName": "호치민",
+  "cityId": 13170,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "호치민",
+  "heroImg": "https://pix8.agoda.net/hotelImages/65513469/1021359968/1086b5dd6f3231ea2bae7ecce9ad4f70.jpg?ce=0",
+  "heroAlt": "호치민",
+  "heroTitleHtml": "호치민 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>탈라사이공 호텔</b>(평점 9.2·리뷰 1,078건·1박 약 1만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>사이공역 도보 30분</b>의 <b>아코야 사이공 센트럴 호텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/65513469/1021359968/1086b5dd6f3231ea2bae7ecce9ad4f70.jpg?ce=0",
+  "outroTitle": "🌙 호치민, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 호치민 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 호치민 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "탈라사이공 호텔 (TalaSaiGon Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/talasaigon-hotel/hotel/ho-chi-minh-city-vn.html?cid=1925461",
+      "walkMin": 43,
+      "score": 9.2,
+      "reviewCount": 1078,
+      "priceBand": 1,
+      "priceText": "₩ · 약 1만원",
+      "valueIndex": 9.2,
+      "img": "//pix8.agoda.net/hotelImages/65513469/1021359968/1086b5dd6f3231ea2bae7ecce9ad4f70.jpg?ce=0",
+      "distanceNote": "약 3443.81m · 사이공역 인근",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 1,078건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 1,078건 기반.",
+      "reviews": [
+        {
+          "text": "다음번 방문이나 SGN 환승 시 꼭 다시 예약하겠습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "방도 너무 깨끗하고 침구에서 향도 너무 좋아요!!!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "TalaSaigon 덕분에 오버레이가 매우 편안해졌습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 시설이 잘 갖춰져 있었고 매일 청소를 해주었습니다.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절하고 서비스도 훌륭합니다.",
+          "score": "10",
+          "country": "Úc",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "시티하우스 - 네스트 민카이 (CityHouse - Nest Minh Khai)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cityhouse-nest-minh-khai/hotel/ho-chi-minh-city-vn.html?cid=1925461",
+      "walkMin": 33,
+      "score": 9.3,
+      "reviewCount": 541,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 9.2,
+      "img": "//pix8.agoda.net/hotelImages/61692879/0/3832f3584fe9552154a5b4e802a142f2.png?ce=3",
+      "distanceNote": "약 2660.7m · 사이공역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 541건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 541건 기반.",
+      "reviews": [
+        {
+          "text": "이것은 아마도 내가 머물렀던 가장 깨끗한 방일 것입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 편안했으며 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "거기에 머무는 동안 모든 것이 깨끗하고 새것 같아 기쁩니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "직원들은 차갑고 객실은 깨끗하고 시설이 잘 갖추어져 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "방은 좋고 필요한 모든 시설을 갖추고 있습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "바이브 호텔 매니지드 바이 나이시 (Vibe Hotel Managed By Nicecy)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/vibe-hotel-h85108990/hotel/ho-chi-minh-city-vn.html?cid=1925461",
+      "walkMin": 39,
+      "score": 9.3,
+      "reviewCount": 162,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/85108990/0/3e1fc08a4783ebe1931db7d72d9cb874.jpg?ce=3",
+      "distanceNote": "약 3131.99m · 사이공역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 162건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 162건 기반.",
+      "reviews": [
+        {
+          "text": "가격과 위치 모두 매우 만족스러운 숙박이었습니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "전체 호텔 경험은 모든 기대치를 뛰어 넘었습니다.",
+          "score": "10",
+          "country": "Trung Quốc",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 편안했으며 잘 관리되어 있었습니다.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 따뜻하고 세심하며 수용적이었습니다.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 직원은 매우 도움이됩니다.",
+          "score": "10",
+          "country": "Nederland",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "아코야 사이공 센트럴 호텔 (Akoya Saigon Central Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-akoya-ben-thanh-hotel/hotel/ho-chi-minh-city-vn.html?cid=1925461",
+      "walkMin": 30,
+      "score": 8.9,
+      "reviewCount": 5641,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/823/8233455/8233455_19062515510076793767.jpg?ca=13&ce=1",
+      "distanceNote": "약 2431.69m · 사이공역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 5,641건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 5,641건 기반.",
+      "reviews": [
+        {
+          "text": "말 그대로 걷기만 하면... 이런 곳까지 갈 수 있어요.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "핑크 교회(Pink Church)도 그랩(Grab)으로 단 10분 거리에 있습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "4박 동안 불편함 없이 편안하게 머물렀습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 편안하며 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "매우 친절한 직원과 우리의 요청을 수용합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "트리플 E 호텔 메트로 벤 탄 (Triple E Hotel Metro Ben Thanh)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/triple-e-hotel-metro-ben-thanh/hotel/ho-chi-minh-city-vn.html?cid=1925461",
+      "walkMin": 35,
+      "score": 8.9,
+      "reviewCount": 7160,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/36825405/-1/48362aea2093667ab95dfabc87763a57.jpg?ce=0",
+      "distanceNote": "약 2799.1m · 사이공역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 7,160건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 7,160건 기반.",
+      "reviews": [
+        {
+          "text": "하우스키핑은 매우 전문적이며 매우 조심스럽게 청소됩니다.",
+          "score": "10",
+          "country": "Zweden",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "그러나 이 호텔을 진정으로 향상시키는 것은 직원입니다.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "나는 이 호텔에서 매우 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 현대적이며 좋은 위치, 젊은 직원, 가격 대비 가치.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "위치도 너무 좋고 조식도 맛있었어요!",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "익스프레스 바이 M 빌리지 끄우 롱, 어 브랜드 오브 모던 빌리지 라이프스타일 (Express by M Village Cửu Long, a brand of Modern Village Lifestyle)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/m-village-c-u-long/hotel/ho-chi-minh-city-vn.html?cid=1925461",
+      "walkMin": 41,
+      "score": 8.9,
+      "reviewCount": 1699,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/38676217/0/fd413b7f79c82f8a519fcda856da9f41.jpg?ce=3",
+      "distanceNote": "약 3274.28m · 사이공역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 1,699건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,699건 기반.",
+      "reviews": [
+        {
+          "text": "호텔용품부터 청결까지 10점 드립니다!",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "객실은 심플한 장식으로 훌륭했고, 깨끗하고 편안했습니다.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "새로운 시설이 마음에 들고 깨끗합니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 시설을 갖춘 매우 큰 객실입니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 새롭고 깨끗하며 직원들은 매우 친절합니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2023.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "시티하우스 - 네스트 메트로 타오디엔 (CityHouse - Nest Metro Thảo Điền)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cityhouse-nest-metro-thao-dien/hotel/ho-chi-minh-city-vn.html?cid=1925461",
+      "walkMin": 37,
+      "score": 9.3,
+      "reviewCount": 80,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/80171419/0/e96397b7076e52b853ac5e5ecc0c840c.png?ce=3",
+      "distanceNote": "약 2977.17m · 벤세 미엔동 버스 터미널 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 80건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 80건 기반.",
+      "reviews": [
+        {
+          "text": "그들이 나를 기다리고 있었기 때문에 체크인은 매우 빨랐습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 도움이 되었습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "CityHouse Thao Dien에서의 매우 즐거운 숙박이었습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "숙소는 깨끗하고 효율적이며 필요한 모든 것을 갖추고 있습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "가능하다면 꼭 여기로 다시 돌아와 머물겠습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-02T13:10:21.500Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

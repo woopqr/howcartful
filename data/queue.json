@@ -1,15 +1,15 @@
 {
-  "lastPostedAt": "2026-07-02T11:14:45.300Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 1,
+  "lastPostedAt": "2026-07-02T13:09:44.861Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 2,
   "postedDate": "2026-07-02",
   "queue": [
-    "sokcho"
+    "ho-chi-minh"
   ],
   "fetchState": {
-    "regionIndex": 0,
-    "cityIndex": 7,
+    "regionIndex": 4,
+    "cityIndex": 5,
     "regionFails": 0,
     "skippedIds": []
   },
@@ -49,6 +49,7 @@
     "tainan",
     "boracay",
     "kobe",
-    "daejeon"
+    "daejeon",
+    "sokcho"
   ]
 }
