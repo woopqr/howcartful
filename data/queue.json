@@ -1,15 +1,15 @@
 {
-  "lastPostedAt": "2026-07-02T17:12:15.414Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 4,
+  "lastPostedAt": "2026-07-02T18:48:40.246Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 5,
   "postedDate": "2026-07-02",
   "queue": [
-    "australia-gardners-bay"
+    "australia-garlon"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 4,
+    "cityIndex": 5,
     "regionFails": 0,
     "skippedIds": []
   },
@@ -52,6 +52,7 @@
     "daejeon",
     "sokcho",
     "ho-chi-minh",
-    "hoi-an"
+    "hoi-an",
+    "australia-gardners-bay"
   ]
 }

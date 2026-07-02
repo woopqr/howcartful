@@ -1,0 +1,132 @@
+{
+  "slug": "australia-garlon",
+  "title": "갈롱 가성비 호텔 3곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 갈롱 가성비 호텔 3곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "boorowa-au",
+  "cityName": "갈롱",
+  "cityId": 709726,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "갈롱",
+  "heroImg": "https://pix8.agoda.net/hotelImages/119/1193404/1193404_16112106590048920661.jpg?ca=6&ce=1",
+  "heroAlt": "갈롱",
+  "heroTitleHtml": "갈롱 가성비 호텔 3곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>부로와 호텔</b>(평점 8·리뷰 85건·1박 약 6만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>부로와 호텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/119/1193404/1193404_16112106590048920661.jpg?ca=6&ce=1",
+  "outroTitle": "🌙 갈롱, 어디에 묵어도 후회없이",
+  "outroText": "위 3곳은 모두 갈롱 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 갈롱 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "부로와 호텔 (Boorowa Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/boorowa-hotel/hotel/boorowa-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 85,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 7.9,
+      "img": "//pix8.agoda.net/hotelImages/119/1193404/1193404_16112106590048920661.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 85건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 85건 기반.",
+      "reviews": [
+        {
+          "text": "Rooms are comfy and have reverse cycle air in them.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Good bed to sleep, things to eat pretty much all the time.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "We have an excellent stay at the Boorowa Hotel.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Place has a lovely feel and food was sensational",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Also appreciated the heated mattresses and the warm room.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Courthouse Hotel Boorowa",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/courthouse-hotel-boorowa/hotel/all/boorowa-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 89,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/610484993.jpg?k=f47dbdc3de6f4f334afd64f00ae9dd49c018c9fb27f2493550441fc041806549&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 89건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 89건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Harden Country Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/harden-country-motel/hotel/all/harden-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 199,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/370168875.jpg?k=dfff6ef9969c33a723c00f0ac92c3af2091ed9d5dff00b55799ebf18e3aef104&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 199건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 199건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-02T18:48:45.054Z",
+    "source": "agoda citySearch",
+    "count": 3
+  }
+}
