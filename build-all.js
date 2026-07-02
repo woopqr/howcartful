@@ -47,7 +47,7 @@ function rebuildAll() {
       const fb = s !== u ? ` onerror="this.onerror=null;this.src='${u}'"` : '';
       return `<img src="${s}"${fb} alt="" loading="lazy" decoding="async">`;
     }).join('');
-    return `<div class="cpanel"><div class="cgrid">${imgs}</div></div>`;
+    return `<div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid">${imgs}</div></div></div>`;
   };
   const cards = list => {
     if (!list.length) return '<div class="card">\n        <div class="cbody"><h2>준비 중</h2><p>첫 비교 글이 곧 발행됩니다.</p></div>\n      </div>';
