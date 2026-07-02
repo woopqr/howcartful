@@ -1,0 +1,6 @@
+[
+  { "cityId": 13170, "slug": "ho-chi-minh", "name": "호치민", "country": "베트남" },
+  { "cityId": 16552, "slug": "hoi-an",      "name": "호이안", "country": "베트남" },
+  { "cityId": 17233, "slug": "daejeon",     "name": "대전",   "country": "한국" },
+  { "cityId": 17236, "slug": "sokcho",      "name": "속초",   "country": "한국" }
+]

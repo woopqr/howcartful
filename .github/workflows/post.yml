@@ -1,6 +1,6 @@
 name: auto-post
 
-# 자주 깨어나 게이트(publish.js)가 28·29·30·31분 간격을 거른다.
+# 5분마다 publish.js — 발행 게이트 + 국가별 큐 보충(실패 시 스킵)
 # GitHub Actions 스케줄은 분 단위지만 정시 보장은 안 됨(혼잡 시 지연) — 게이트 방식이라 무방.
 on:
   schedule:

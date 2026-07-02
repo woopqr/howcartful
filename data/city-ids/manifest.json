@@ -1,0 +1,18 @@
+{
+  "excludeRegions": ["china"],
+  "regionOrder": [
+    "korea",
+    "japan",
+    "taiwan",
+    "thailand",
+    "vietnam",
+    "singapore",
+    "malaysia",
+    "indonesia",
+    "philippines",
+    "hongkong",
+    "australia"
+  ],
+  "regionFailThreshold": 5,
+  "maxFetchAttemptsPerRun": 3
+}

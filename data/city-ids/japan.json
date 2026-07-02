@@ -1,0 +1,65 @@
+[
+  {
+    "cityId": 9590,
+    "slug": "osaka-namba",
+    "label": "오사카",
+    "name": "오사카",
+    "nameEn": "오사카"
+  },
+  {
+    "cityId": 5085,
+    "slug": "tokyo",
+    "label": "도쿄",
+    "name": "도쿄",
+    "nameEn": "도쿄"
+  },
+  {
+    "cityId": 1784,
+    "slug": "kyoto",
+    "label": "교토",
+    "name": "교토",
+    "nameEn": "교토"
+  },
+  {
+    "cityId": 16527,
+    "slug": "fukuoka",
+    "label": "후쿠오카",
+    "name": "후쿠오카",
+    "nameEn": "후쿠오카"
+  },
+  {
+    "cityId": 13740,
+    "slug": "nagoya",
+    "label": "나고야",
+    "name": "나고야",
+    "nameEn": "나고야"
+  },
+  {
+    "cityId": 3435,
+    "slug": "sapporo",
+    "label": "삿포로",
+    "name": "삿포로",
+    "nameEn": "삿포로"
+  },
+  {
+    "cityId": 107999,
+    "slug": "okinawa",
+    "label": "오키나와",
+    "name": "오키나와",
+    "nameEn": "오키나와"
+  },
+  {
+    "cityId": 4590,
+    "slug": "yokohama",
+    "label": "요코하마",
+    "name": "요코하마",
+    "nameEn": "요코하마"
+  },
+  {
+    "cityId": 3561,
+    "slug": "kobe",
+    "label": "고베",
+    "name": "고베",
+    "nameEn": "고베"
+  }
+]

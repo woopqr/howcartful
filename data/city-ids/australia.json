@@ -1,0 +1,4148 @@
+[
+  {
+    "cityId": 720559,
+    "label": "NULL",
+    "name": "",
+    "nameEn": ""
+  },
+  {
+    "cityId": 720814,
+    "label": "NULL",
+    "name": "",
+    "nameEn": ""
+  },
+  {
+    "cityId": 720815,
+    "label": "NULL",
+    "name": "",
+    "nameEn": ""
+  },
+  {
+    "cityId": 719616,
+    "label": "가드너스 베이 (Gardner's Bay)",
+    "name": "가드너스 베이",
+    "nameEn": "Gardner's Bay"
+  },
+  {
+    "cityId": 709726,
+    "label": "갈롱 (Garlon)",
+    "name": "갈롱",
+    "nameEn": "Garlon"
+  },
+  {
+    "cityId": 512778,
+    "label": "게로아 (Geroa)",
+    "name": "게로아",
+    "nameEn": "Geroa"
+  },
+  {
+    "cityId": 512810,
+    "label": "게링공 (Geringong)",
+    "name": "게링공",
+    "nameEn": "Geringong"
+  },
+  {
+    "cityId": 21422,
+    "label": "게톤 (Gatton)",
+    "name": "게톤",
+    "nameEn": "Gatton"
+  },
+  {
+    "cityId": 513616,
+    "label": "겔리브랜드 (Gelibrand)",
+    "name": "겔리브랜드",
+    "nameEn": "Gelibrand"
+  },
+  {
+    "cityId": 141608,
+    "label": "고로칸 (Gorokan)",
+    "name": "고로칸",
+    "nameEn": "Gorokan"
+  },
+  {
+    "cityId": 718484,
+    "label": "골 골 (Gol Gol)",
+    "name": "골 골",
+    "nameEn": "Gol Gol"
+  },
+  {
+    "cityId": 513016,
+    "label": "골드 코스트 힌터랜드 (Gold Coast Hinterland)",
+    "name": "골드 코스트 힌터랜드",
+    "nameEn": "Gold Coast Hinterland"
+  },
+  {
+    "cityId": 16611,
+    "label": "골드코스트 (Gold Coast)",
+    "name": "골드코스트",
+    "nameEn": "Gold Coast"
+  },
+  {
+    "cityId": 12597,
+    "label": "골번 (Goulburn)",
+    "name": "골번",
+    "nameEn": "Goulburn"
+  },
+  {
+    "cityId": 78910,
+    "label": "구네다 (Guneda)",
+    "name": "구네다",
+    "nameEn": "Guneda"
+  },
+  {
+    "cityId": 214878,
+    "label": "군다가이 (Gundagai)",
+    "name": "군다가이",
+    "nameEn": "Gundagai"
+  },
+  {
+    "cityId": 10745,
+    "label": "군디윈디 (Goondiwindi)",
+    "name": "군디윈디",
+    "nameEn": "Goondiwindi"
+  },
+  {
+    "cityId": 694523,
+    "label": "굴공 (Gulkong)",
+    "name": "굴공",
+    "nameEn": "Gulkong"
+  },
+  {
+    "cityId": 13552,
+    "label": "굴와 (Gulwa)",
+    "name": "굴와",
+    "nameEn": "Gulwa"
+  },
+  {
+    "cityId": 21392,
+    "label": "그래프턴 (Grafton)",
+    "name": "그래프턴",
+    "nameEn": "Grafton"
+  },
+  {
+    "cityId": 720464,
+    "label": "그랜드체스터 (Grandchester)",
+    "name": "그랜드체스터",
+    "nameEn": "Grandchester"
+  },
+  {
+    "cityId": 513190,
+    "label": "그램피언스 (Grampians)",
+    "name": "그램피언스",
+    "nameEn": "Grampians"
+  },
+  {
+    "cityId": 79629,
+    "label": "그레이트 배리어 리프 (Great Barrier Reef)",
+    "name": "그레이트 배리어 리프",
+    "nameEn": "Great Barrier Reef"
+  },
+  {
+    "cityId": 512803,
+    "label": "그레이트 오션 로드 - 글레나이레 (Great Ocean Road - Glenaire)",
+    "name": "그레이트 오션 로드 - 글레나이레",
+    "nameEn": "Great Ocean Road - Glenaire"
+  },
+  {
+    "cityId": 671591,
+    "label": "그레이트 오션 로드 - 레이버스 힐 (Great Ocean Road - Laver's Hill)",
+    "name": "그레이트 오션 로드 - 레이버스 힐",
+    "nameEn": "Great Ocean Road - Laver's Hill"
+  },
+  {
+    "cityId": 14497,
+    "label": "그레이트 오션 로드 - 론 (Great Ocean Road - Lorne)",
+    "name": "그레이트 오션 로드 - 론",
+    "nameEn": "Great Ocean Road - Lorne"
+  },
+  {
+    "cityId": 513669,
+    "label": "그레이트 오션 로드 - 아이레이스 인렛 (Great Ocean Road - Aireys Inlet)",
+    "name": "그레이트 오션 로드 - 아이레이스 인렛",
+    "nameEn": "Great Ocean Road - Aireys Inlet"
+  },
+  {
+    "cityId": 390124,
+    "label": "그레이트 오션 로드 - 앵글시 (Great Ocean Road - Anglesea)",
+    "name": "그레이트 오션 로드 - 앵글시",
+    "nameEn": "Great Ocean Road - Anglesea"
+  },
+  {
+    "cityId": 143397,
+    "label": "그레이트 오션 로드 - 와이 리버 (Great Ocean Road - Wye River)",
+    "name": "그레이트 오션 로드 - 와이 리버",
+    "nameEn": "Great Ocean Road - Wye River"
+  },
+  {
+    "cityId": 671572,
+    "label": "그레이트 오션 로드 - 요한나 (Great Ocean Road - Johanna)",
+    "name": "그레이트 오션 로드 - 요한나",
+    "nameEn": "Great Ocean Road - Johanna"
+  },
+  {
+    "cityId": 102363,
+    "label": "그레이트 오션 로드 - 케이프 오트웨이 (Great Ocean Road - Cape Otway)",
+    "name": "그레이트 오션 로드 - 케이프 오트웨이",
+    "nameEn": "Great Ocean Road - Cape Otway"
+  },
+  {
+    "cityId": 717285,
+    "label": "그레이트 오션 로드 - 프린스타운 (Great Ocean Road - Princetown)",
+    "name": "그레이트 오션 로드 - 프린스타운",
+    "nameEn": "Great Ocean Road - Princetown"
+  },
+  {
+    "cityId": 78914,
+    "label": "그레이트 오션 로드 톨케이 (Great Ocean Road Torquay)",
+    "name": "그레이트 오션 로드 톨케이",
+    "nameEn": "Great Ocean Road Torquay"
+  },
+  {
+    "cityId": 21447,
+    "label": "그레이트 케펠 섬 (Great Keppel Island)",
+    "name": "그레이트 케펠 섬",
+    "nameEn": "Great Keppel Island"
+  },
+  {
+    "cityId": 390122,
+    "label": "그레이트오션로드 - 아폴로베이 (Great Ocean Road - Apollo Bay)",
+    "name": "그레이트오션로드 - 아폴로베이",
+    "nameEn": "Great Ocean Road - Apollo Bay"
+  },
+  {
+    "cityId": 9463,
+    "label": "그레이트오션로드 - 포트 캠벨 (Great Ocean Road - Port Campbell)",
+    "name": "그레이트오션로드 - 포트 캠벨",
+    "nameEn": "Great Ocean Road - Port Campbell"
+  },
+  {
+    "cityId": 672,
+    "label": "그리피스 (Griffith)",
+    "name": "그리피스",
+    "nameEn": "Griffith"
+  },
+  {
+    "cityId": 710442,
+    "label": "그린스 비치 (Greens Beach)",
+    "name": "그린스 비치",
+    "nameEn": "Greens Beach"
+  },
+  {
+    "cityId": 5084,
+    "label": "글래드스톤 (Gladstone)",
+    "name": "글래드스톤",
+    "nameEn": "Gladstone"
+  },
+  {
+    "cityId": 8983,
+    "label": "글렌 이네스 (Glen Innes)",
+    "name": "글렌 이네스",
+    "nameEn": "Glen Innes"
+  },
+  {
+    "cityId": 141603,
+    "label": "글로우세스터 (Gloucester)",
+    "name": "글로우세스터",
+    "nameEn": "Gloucester"
+  },
+  {
+    "cityId": 21314,
+    "label": "긴긴 (Gingin)",
+    "name": "긴긴",
+    "nameEn": "Gingin"
+  },
+  {
+    "cityId": 141594,
+    "label": "길간드라 (Gilgandra)",
+    "name": "길간드라",
+    "nameEn": "Gilgandra"
+  },
+  {
+    "cityId": 513003,
+    "label": "깁스랜드 리지온 (Gippsland Region)",
+    "name": "깁스랜드 리지온",
+    "nameEn": "Gippsland Region"
+  },
+  {
+    "cityId": 21445,
+    "label": "깁시 포인트 (Gypsy Point)",
+    "name": "깁시 포인트",
+    "nameEn": "Gypsy Point"
+  },
+  {
+    "cityId": 143200,
+    "label": "나감비 (Nagambie)",
+    "name": "나감비",
+    "nameEn": "Nagambie"
+  },
+  {
+    "cityId": 710731,
+    "label": "나낭고 (Nanango)",
+    "name": "나낭고",
+    "nameEn": "Nanango"
+  },
+  {
+    "cityId": 7373,
+    "label": "나라브리 (Narrabri)",
+    "name": "나라브리",
+    "nameEn": "Narrabri"
+  },
+  {
+    "cityId": 13000,
+    "label": "나라쿠르테 (Naracoorte)",
+    "name": "나라쿠르테",
+    "nameEn": "Naracoorte"
+  },
+  {
+    "cityId": 141796,
+    "label": "나란데라 (Narrandera)",
+    "name": "나란데라",
+    "nameEn": "Narrandera"
+  },
+  {
+    "cityId": 213230,
+    "label": "나루마 (Narooma)",
+    "name": "나루마",
+    "nameEn": "Narooma"
+  },
+  {
+    "cityId": 2515,
+    "label": "나우라 (Nauru)",
+    "name": "나우라",
+    "nameEn": "Nauru"
+  },
+  {
+    "cityId": 143499,
+    "label": "난눕 (Nannup)",
+    "name": "난눕",
+    "nameEn": "Nannup"
+  },
+  {
+    "cityId": 10750,
+    "label": "남부카 헤즈 (Nambucca Heads)",
+    "name": "남부카 헤즈",
+    "nameEn": "Nambucca Heads"
+  },
+  {
+    "cityId": 102391,
+    "label": "노르만빌 (Normanville)",
+    "name": "노르만빌",
+    "nameEn": "Normanville"
+  },
+  {
+    "cityId": 710750,
+    "label": "노스 레이크 (North Lake)",
+    "name": "노스 레이크",
+    "nameEn": "North Lake"
+  },
+  {
+    "cityId": 720460,
+    "label": "노스 월폴 (North Walpole)",
+    "name": "노스 월폴",
+    "nameEn": "North Walpole"
+  },
+  {
+    "cityId": 141809,
+    "label": "노스 헤이븐 (North Haven)",
+    "name": "노스 헤이븐",
+    "nameEn": "North Haven"
+  },
+  {
+    "cityId": 21425,
+    "label": "누룬바이 (Noorunbai)",
+    "name": "누룬바이",
+    "nameEn": "Noorunbai"
+  },
+  {
+    "cityId": 513451,
+    "label": "누비나 (Nubina)",
+    "name": "누비나",
+    "nameEn": "Nubina"
+  },
+  {
+    "cityId": 102388,
+    "label": "뉴 노포크 (New Norfolk)",
+    "name": "뉴 노포크",
+    "nameEn": "New Norfolk"
+  },
+  {
+    "cityId": 21464,
+    "label": "뉴먼 (Newman)",
+    "name": "뉴먼",
+    "nameEn": "Newman"
+  },
+  {
+    "cityId": 717735,
+    "label": "뉴버러 (Newborough)",
+    "name": "뉴버러",
+    "nameEn": "Newborough"
+  },
+  {
+    "cityId": 710743,
+    "label": "뉴웰 비치 (Newell Beach)",
+    "name": "뉴웰 비치",
+    "nameEn": "Newell Beach"
+  },
+  {
+    "cityId": 18058,
+    "label": "뉴캐슬 (Newcastle)",
+    "name": "뉴캐슬",
+    "nameEn": "Newcastle"
+  },
+  {
+    "cityId": 7816,
+    "label": "니힐 (Nhill)",
+    "name": "니힐",
+    "nameEn": "Nhill"
+  },
+  {
+    "cityId": 390161,
+    "label": "님빈 (Nimbin)",
+    "name": "님빈",
+    "nameEn": "Nimbin"
+  },
+  {
+    "cityId": 7138,
+    "label": "다윈 (Darwin)",
+    "name": "다윈",
+    "nameEn": "Darwin"
+  },
+  {
+    "cityId": 142741,
+    "label": "다이사트 (Dysart)",
+    "name": "다이사트",
+    "nameEn": "Dysart"
+  },
+  {
+    "cityId": 78903,
+    "label": "다이아몬드 비치 (Diamond Beach)",
+    "name": "다이아몬드 비치",
+    "nameEn": "Diamond Beach"
+  },
+  {
+    "cityId": 143443,
+    "label": "달링턴 (Darlington)",
+    "name": "달링턴",
+    "nameEn": "Darlington"
+  },
+  {
+    "cityId": 142191,
+    "label": "달비 (Dalby)",
+    "name": "달비",
+    "nameEn": "Dalby"
+  },
+  {
+    "cityId": 718494,
+    "label": "댐피어 페닌술라 (Dampier Peninsula)",
+    "name": "댐피어 페닌술라",
+    "nameEn": "Dampier Peninsula"
+  },
+  {
+    "cityId": 720468,
+    "label": "더 젬필드 (The Gemfields)",
+    "name": "더 젬필드",
+    "nameEn": "The Gemfields"
+  },
+  {
+    "cityId": 102401,
+    "label": "더 케이브 (The Cave)",
+    "name": "더 케이브",
+    "nameEn": "The Cave"
+  },
+  {
+    "cityId": 11312,
+    "label": "더보 (Dubbo)",
+    "name": "더보",
+    "nameEn": "Dubbo"
+  },
+  {
+    "cityId": 17898,
+    "label": "더비 (Derby)",
+    "name": "더비",
+    "nameEn": "Derby"
+  },
+  {
+    "cityId": 671553,
+    "label": "더비 (WA) (Derby, WA)",
+    "name": "더비 (WA)",
+    "nameEn": "Derby, WA"
+  },
+  {
+    "cityId": 513480,
+    "label": "던엘리 (Donnelly)",
+    "name": "던엘리",
+    "nameEn": "Donnelly"
+  },
+  {
+    "cityId": 21391,
+    "label": "데넘 (Denham)",
+    "name": "데넘",
+    "nameEn": "Denham"
+  },
+  {
+    "cityId": 141541,
+    "label": "데닐리퀸 (Deniliquin)",
+    "name": "데닐리퀸",
+    "nameEn": "Deniliquin"
+  },
+  {
+    "cityId": 11069,
+    "label": "데번포트 (Devonport)",
+    "name": "데번포트",
+    "nameEn": "Devonport"
+  },
+  {
+    "cityId": 6460,
+    "label": "데이레스포드 앤 메이스돈 랜지 (Daylesford and Macedon Ranges)",
+    "name": "데이레스포드 앤 메이스돈 랜지",
+    "nameEn": "Daylesford and Macedon Ranges"
+  },
+  {
+    "cityId": 18895,
+    "label": "데인트리 (Daintree)",
+    "name": "데인트리",
+    "nameEn": "Daintree"
+  },
+  {
+    "cityId": 18939,
+    "label": "덴마크 (Denmark)",
+    "name": "덴마크",
+    "nameEn": "Denmark"
+  },
+  {
+    "cityId": 141542,
+    "label": "덴먼 (Denman)",
+    "name": "덴먼",
+    "nameEn": "Denman"
+  },
+  {
+    "cityId": 710365,
+    "label": "덴즈 포인트 (Dent's Point)",
+    "name": "덴즈 포인트",
+    "nameEn": "Dent's Point"
+  },
+  {
+    "cityId": 702246,
+    "label": "동가라 (Dongara)",
+    "name": "동가라",
+    "nameEn": "Dongara"
+  },
+  {
+    "cityId": 718475,
+    "label": "두놀리 (Dunolly)",
+    "name": "두놀리",
+    "nameEn": "Dunolly"
+  },
+  {
+    "cityId": 106115,
+    "label": "드로우인 (Drouin)",
+    "name": "드로우인",
+    "nameEn": "Drouin"
+  },
+  {
+    "cityId": 10533,
+    "label": "들로레인 (Dulohein)",
+    "name": "들로레인",
+    "nameEn": "Dulohein"
+  },
+  {
+    "cityId": 513450,
+    "label": "디너 플레인 (Dinner Plain)",
+    "name": "디너 플레인",
+    "nameEn": "Dinner Plain"
+  },
+  {
+    "cityId": 142196,
+    "label": "디셉션 베이 (Deception Bay)",
+    "name": "디셉션 베이",
+    "nameEn": "Deception Bay"
+  },
+  {
+    "cityId": 142987,
+    "label": "딕슨 크릭 (Dixon Creek)",
+    "name": "딕슨 크릭",
+    "nameEn": "Dixon Creek"
+  },
+  {
+    "cityId": 719760,
+    "label": "라버투슈 (La Trobe)",
+    "name": "라버투슈",
+    "nameEn": "La Trobe"
+  },
+  {
+    "cityId": 702031,
+    "label": "라스무센 (Rasmussen)",
+    "name": "라스무센",
+    "nameEn": "Rasmussen"
+  },
+  {
+    "cityId": 142271,
+    "label": "라이들레이 / 그랜드체스터 (Ridley / Grandchester)",
+    "name": "라이들레이 / 그랜드체스터",
+    "nameEn": "Ridley / Grandchester"
+  },
+  {
+    "cityId": 23686,
+    "label": "락킹햄 (Rockingham)",
+    "name": "락킹햄",
+    "nameEn": "Rockingham"
+  },
+  {
+    "cityId": 711796,
+    "label": "란셀린 (Lancelin)",
+    "name": "란셀린",
+    "nameEn": "Lancelin"
+  },
+  {
+    "cityId": 710605,
+    "label": "래밍턴 (Lamington)",
+    "name": "래밍턴",
+    "nameEn": "Lamington"
+  },
+  {
+    "cityId": 707838,
+    "label": "랜스필드 (Lancefield)",
+    "name": "랜스필드",
+    "nameEn": "Lancefield"
+  },
+  {
+    "cityId": 292862,
+    "label": "레녹스 헤드 (Lennox Head)",
+    "name": "레녹스 헤드",
+    "nameEn": "Lennox Head"
+  },
+  {
+    "cityId": 141856,
+    "label": "레드 록 (Red Rock)",
+    "name": "레드 록",
+    "nameEn": "Red Rock"
+  },
+  {
+    "cityId": 143261,
+    "label": "레드 클립스 (Red Cliffs)",
+    "name": "레드 클립스",
+    "nameEn": "Red Cliffs"
+  },
+  {
+    "cityId": 142388,
+    "label": "레드클리프 (Redcliffe)",
+    "name": "레드클리프",
+    "nameEn": "Redcliffe"
+  },
+  {
+    "cityId": 143259,
+    "label": "레이먼드 아일랜드 (Raymond Island)",
+    "name": "레이먼드 아일랜드",
+    "nameEn": "Raymond Island"
+  },
+  {
+    "cityId": 78900,
+    "label": "레이번스번 (Ravensbourn)",
+    "name": "레이번스번",
+    "nameEn": "Ravensbourn"
+  },
+  {
+    "cityId": 372478,
+    "label": "레이크 맥쿼리 (Lake Macquarie)",
+    "name": "레이크 맥쿼리",
+    "nameEn": "Lake Macquarie"
+  },
+  {
+    "cityId": 17909,
+    "label": "레이크 베넷 (Lake Bennett)",
+    "name": "레이크 베넷",
+    "nameEn": "Lake Bennett"
+  },
+  {
+    "cityId": 711617,
+    "label": "레이크 보가 (Lake Boga)",
+    "name": "레이크 보가",
+    "nameEn": "Lake Boga"
+  },
+  {
+    "cityId": 710600,
+    "label": "레이크 캐시 (Lake Cathie)",
+    "name": "레이크 캐시",
+    "nameEn": "Lake Cathie"
+  },
+  {
+    "cityId": 102395,
+    "label": "레인보우 비치 (Rainbow Beach)",
+    "name": "레인보우 비치",
+    "nameEn": "Rainbow Beach"
+  },
+  {
+    "cityId": 236,
+    "label": "렌마크 (Renmark)",
+    "name": "렌마크",
+    "nameEn": "Renmark"
+  },
+  {
+    "cityId": 11723,
+    "label": "로드 하우 아일랜드 (Lord Howe Island)",
+    "name": "로드 하우 아일랜드",
+    "nameEn": "Lord Howe Island"
+  },
+  {
+    "cityId": 78913,
+    "label": "로마 (Roma)",
+    "name": "로마",
+    "nameEn": "Roma"
+  },
+  {
+    "cityId": 7190,
+    "label": "로브 (Robe)",
+    "name": "로브",
+    "nameEn": "Robe"
+  },
+  {
+    "cityId": 102443,
+    "label": "로스 (Ross)",
+    "name": "로스",
+    "nameEn": "Ross"
+  },
+  {
+    "cityId": 718492,
+    "label": "로스빌 (Roseville)",
+    "name": "로스빌",
+    "nameEn": "Roseville"
+  },
+  {
+    "cityId": 513127,
+    "label": "로우 헤드 (Low Head)",
+    "name": "로우 헤드",
+    "nameEn": "Low Head"
+  },
+  {
+    "cityId": 23670,
+    "label": "로즈베어즈 (Rosebears)",
+    "name": "로즈베어즈",
+    "nameEn": "Rosebears"
+  },
+  {
+    "cityId": 19488,
+    "label": "로트네스트 섬 (Rottnest Island)",
+    "name": "로트네스트 섬",
+    "nameEn": "Rottnest Island"
+  },
+  {
+    "cityId": 710843,
+    "label": "로플리 (Loffly)",
+    "name": "로플리",
+    "nameEn": "Loffly"
+  },
+  {
+    "cityId": 710846,
+    "label": "록스비 다운스 (Roxby Downs)",
+    "name": "록스비 다운스",
+    "nameEn": "Roxby Downs"
+  },
+  {
+    "cityId": 688614,
+    "label": "록스턴 (Roxton)",
+    "name": "록스턴",
+    "nameEn": "Roxton"
+  },
+  {
+    "cityId": 13685,
+    "label": "록햄프턴 (Rockhampton)",
+    "name": "록햄프턴",
+    "nameEn": "Rockhampton"
+  },
+  {
+    "cityId": 513079,
+    "label": "론서스턴 (Launceston)",
+    "name": "론서스턴",
+    "nameEn": "Launceston"
+  },
+  {
+    "cityId": 141716,
+    "label": "롱 제티 (Long Jetty)",
+    "name": "롱 제티",
+    "nameEn": "Long Jetty"
+  },
+  {
+    "cityId": 21452,
+    "label": "롱리치 (Longreach)",
+    "name": "롱리치",
+    "nameEn": "Longreach"
+  },
+  {
+    "cityId": 5757,
+    "label": "롱포드 (Longford)",
+    "name": "롱포드",
+    "nameEn": "Longford"
+  },
+  {
+    "cityId": 719596,
+    "label": "루신다 (Lucinda)",
+    "name": "루신다",
+    "nameEn": "Lucinda"
+  },
+  {
+    "cityId": 718495,
+    "label": "루크허스트 (Lukhurst)",
+    "name": "루크허스트",
+    "nameEn": "Lukhurst"
+  },
+  {
+    "cityId": 513446,
+    "label": "루터글렌 (Rutherglen)",
+    "name": "루터글렌",
+    "nameEn": "Rutherglen"
+  },
+  {
+    "cityId": 141712,
+    "label": "리스고우 (Lithgow)",
+    "name": "리스고우",
+    "nameEn": "Lithgow"
+  },
+  {
+    "cityId": 17910,
+    "label": "리즈모어 (Lismore)",
+    "name": "리즈모어",
+    "nameEn": "Lismore"
+  },
+  {
+    "cityId": 720462,
+    "label": "리치먼드 (뉴 사우스 웨일스) (Richmond, NSW)",
+    "name": "리치먼드 (뉴 사우스 웨일스)",
+    "nameEn": "Richmond, NSW"
+  },
+  {
+    "cityId": 512861,
+    "label": "리톤 (Riton)",
+    "name": "리톤",
+    "nameEn": "Riton"
+  },
+  {
+    "cityId": 143122,
+    "label": "리틀 리버 (Little River)",
+    "name": "리틀 리버",
+    "nameEn": "Little River"
+  },
+  {
+    "cityId": 710611,
+    "label": "림핀우드 (Limpinwood)",
+    "name": "림핀우드",
+    "nameEn": "Limpinwood"
+  },
+  {
+    "cityId": 1816,
+    "label": "마가렛 리버 와인 산지 (Margaret River Wine Region)",
+    "name": "마가렛 리버 와인 산지",
+    "nameEn": "Margaret River Wine Region"
+  },
+  {
+    "cityId": 15438,
+    "label": "마그네틱 아일랜드 (Magnetic Island)",
+    "name": "마그네틱 아일랜드",
+    "nameEn": "Magnetic Island"
+  },
+  {
+    "cityId": 711753,
+    "label": "마라카이 (Maracai)",
+    "name": "마라카이",
+    "nameEn": "Maracai"
+  },
+  {
+    "cityId": 141731,
+    "label": "마루타 (Maruta)",
+    "name": "마루타",
+    "nameEn": "Maruta"
+  },
+  {
+    "cityId": 8165,
+    "label": "마운트 갬비어 (Mount Gambier)",
+    "name": "마운트 갬비어",
+    "nameEn": "Mount Gambier"
+  },
+  {
+    "cityId": 512947,
+    "label": "마운트 글로리어스 (Mount Glorious)",
+    "name": "마운트 글로리어스",
+    "nameEn": "Mount Glorious"
+  },
+  {
+    "cityId": 143180,
+    "label": "마운트 단데농 레인지스 (Mount Dandenong Ranges)",
+    "name": "마운트 단데농 레인지스",
+    "nameEn": "Mount Dandenong Ranges"
+  },
+  {
+    "cityId": 390168,
+    "label": "마운트 버렐 (Mount Barrell)",
+    "name": "마운트 버렐",
+    "nameEn": "Mount Barrell"
+  },
+  {
+    "cityId": 712232,
+    "label": "마운트 콜 (Mount Kol)",
+    "name": "마운트 콜",
+    "nameEn": "Mount Kol"
+  },
+  {
+    "cityId": 143463,
+    "label": "마운트 핫햄 (Mount Hotham)",
+    "name": "마운트 핫햄",
+    "nameEn": "Mount Hotham"
+  },
+  {
+    "cityId": 1457,
+    "label": "마운트아이자 (Mount Isa)",
+    "name": "마운트아이자",
+    "nameEn": "Mount Isa"
+  },
+  {
+    "cityId": 19645,
+    "label": "마운틴 불러 (Mountain Buller)",
+    "name": "마운틴 불러",
+    "nameEn": "Mountain Buller"
+  },
+  {
+    "cityId": 710723,
+    "label": "마이오컴 (Myocum)",
+    "name": "마이오컴",
+    "nameEn": "Myocum"
+  },
+  {
+    "cityId": 142305,
+    "label": "마일즈 (Miles)",
+    "name": "마일즈",
+    "nameEn": "Miles"
+  },
+  {
+    "cityId": 141733,
+    "label": "마틴스빌 (Martinsville)",
+    "name": "마틴스빌",
+    "nameEn": "Martinsville"
+  },
+  {
+    "cityId": 143486,
+    "label": "만지멉 (Manjimup)",
+    "name": "만지멉",
+    "nameEn": "Manjimup"
+  },
+  {
+    "cityId": 512959,
+    "label": "말라쿠타 (Mallacoota)",
+    "name": "말라쿠타",
+    "nameEn": "Mallacoota"
+  },
+  {
+    "cityId": 709530,
+    "label": "매리스빌 (Marysville)",
+    "name": "매리스빌",
+    "nameEn": "Marysville"
+  },
+  {
+    "cityId": 21413,
+    "label": "맥라렌 베일 (McLaren Vale)",
+    "name": "맥라렌 베일",
+    "nameEn": "McLaren Vale"
+  },
+  {
+    "cityId": 710634,
+    "label": "맥스빌 (Maxville)",
+    "name": "맥스빌",
+    "nameEn": "Maxville"
+  },
+  {
+    "cityId": 718500,
+    "label": "맥칼린든 (McCallinden)",
+    "name": "맥칼린든",
+    "nameEn": "McCallinden"
+  },
+  {
+    "cityId": 2975,
+    "label": "맥케이 (Mackay)",
+    "name": "맥케이",
+    "nameEn": "Mackay"
+  },
+  {
+    "cityId": 706679,
+    "label": "맥클린 (McLean)",
+    "name": "맥클린",
+    "nameEn": "McLean"
+  },
+  {
+    "cityId": 11655,
+    "label": "맨두라 (Mandurah)",
+    "name": "맨두라",
+    "nameEn": "Mandurah"
+  },
+  {
+    "cityId": 19502,
+    "label": "맨스필드 (Mansfield)",
+    "name": "맨스필드",
+    "nameEn": "Mansfield"
+  },
+  {
+    "cityId": 390159,
+    "label": "머럼베트맨 (Murumbeeman)",
+    "name": "머럼베트맨",
+    "nameEn": "Murumbeeman"
+  },
+  {
+    "cityId": 390167,
+    "label": "머레이 다운스 (Murray Downs)",
+    "name": "머레이 다운스",
+    "nameEn": "Murray Downs"
+  },
+  {
+    "cityId": 142633,
+    "label": "머레이 브리지 (Murray Bridge)",
+    "name": "머레이 브리지",
+    "nameEn": "Murray Bridge"
+  },
+  {
+    "cityId": 720458,
+    "label": "머리 (Murray)",
+    "name": "머리",
+    "nameEn": "Murray"
+  },
+  {
+    "cityId": 30343,
+    "label": "머윌룸바 (Murwillumbah)",
+    "name": "머윌룸바",
+    "nameEn": "Murwillumbah"
+  },
+  {
+    "cityId": 7909,
+    "label": "머지 (Mudgee)",
+    "name": "머지",
+    "nameEn": "Mudgee"
+  },
+  {
+    "cityId": 512713,
+    "label": "머치슨 (Murchison)",
+    "name": "머치슨",
+    "nameEn": "Murchison"
+  },
+  {
+    "cityId": 710719,
+    "label": "먼더링 (Mundering)",
+    "name": "먼더링",
+    "nameEn": "Mundering"
+  },
+  {
+    "cityId": 710720,
+    "label": "멀건 (Mulgan)",
+    "name": "멀건",
+    "nameEn": "Mulgan"
+  },
+  {
+    "cityId": 141785,
+    "label": "멀럼빔비 (Mullumbimby)",
+    "name": "멀럼빔비",
+    "nameEn": "Mullumbimby"
+  },
+  {
+    "cityId": 706692,
+    "label": "멀왈라 (Mulwala)",
+    "name": "멀왈라",
+    "nameEn": "Mulwala"
+  },
+  {
+    "cityId": 80020,
+    "label": "멍키미아 (Monkey Mia)",
+    "name": "멍키미아",
+    "nameEn": "Monkey Mia"
+  },
+  {
+    "cityId": 713744,
+    "label": "메나 크릭 (Mena Creek)",
+    "name": "메나 크릭",
+    "nameEn": "Mena Creek"
+  },
+  {
+    "cityId": 390206,
+    "label": "메닌지 (Meningie)",
+    "name": "메닌지",
+    "nameEn": "Meningie"
+  },
+  {
+    "cityId": 9093,
+    "label": "메리버러 (Maryborough)",
+    "name": "메리버러",
+    "nameEn": "Maryborough"
+  },
+  {
+    "cityId": 718463,
+    "label": "메리버러 (VIC) (Maryborough, VIC)",
+    "name": "메리버러 (VIC)",
+    "nameEn": "Maryborough, VIC"
+  },
+  {
+    "cityId": 17400,
+    "label": "메리베일 (Maroubra)",
+    "name": "메리베일",
+    "nameEn": "Maroubra"
+  },
+  {
+    "cityId": 512730,
+    "label": "메리직 (Merrijig)",
+    "name": "메리직",
+    "nameEn": "Merrijig"
+  },
+  {
+    "cityId": 5138,
+    "label": "메림불라 (Merimbula)",
+    "name": "메림불라",
+    "nameEn": "Merimbula"
+  },
+  {
+    "cityId": 512898,
+    "label": "메이데나 (Maydena)",
+    "name": "메이데나",
+    "nameEn": "Maydena"
+  },
+  {
+    "cityId": 710673,
+    "label": "메카타라 (Mekatara)",
+    "name": "메카타라",
+    "nameEn": "Mekatara"
+  },
+  {
+    "cityId": 102385,
+    "label": "멜로즈 (Melrose)",
+    "name": "멜로즈",
+    "nameEn": "Melrose"
+  },
+  {
+    "cityId": 10372,
+    "label": "멜버른 (Melbourne)",
+    "name": "멜버른",
+    "nameEn": "Melbourne"
+  },
+  {
+    "cityId": 720555,
+    "label": "멜턴 사우스 (Melton South)",
+    "name": "멜턴 사우스",
+    "nameEn": "Melton South"
+  },
+  {
+    "cityId": 143150,
+    "label": "멜튼 (Melton)",
+    "name": "멜튼",
+    "nameEn": "Melton"
+  },
+  {
+    "cityId": 17914,
+    "label": "모닝턴 반도 (Mornington Peninsula)",
+    "name": "모닝턴 반도",
+    "nameEn": "Mornington Peninsula"
+  },
+  {
+    "cityId": 702045,
+    "label": "모란바 (Moranbah)",
+    "name": "모란바",
+    "nameEn": "Moranbah"
+  },
+  {
+    "cityId": 512785,
+    "label": "모루야 (Moruya)",
+    "name": "모루야",
+    "nameEn": "Moruya"
+  },
+  {
+    "cityId": 12386,
+    "label": "모리 (Moree)",
+    "name": "모리",
+    "nameEn": "Moree"
+  },
+  {
+    "cityId": 719594,
+    "label": "모브레이 (Mowbray)",
+    "name": "모브레이",
+    "nameEn": "Mowbray"
+  },
+  {
+    "cityId": 141769,
+    "label": "모스 베일 (Moss Vale)",
+    "name": "모스 베일",
+    "nameEn": "Moss Vale"
+  },
+  {
+    "cityId": 9179,
+    "label": "모아마 (Moama)",
+    "name": "모아마",
+    "nameEn": "Moama"
+  },
+  {
+    "cityId": 142328,
+    "label": "모우라 (Moura)",
+    "name": "모우라",
+    "nameEn": "Moura"
+  },
+  {
+    "cityId": 106123,
+    "label": "모턴만 베이 (Moreton Bay)",
+    "name": "모턴만 베이",
+    "nameEn": "Moreton Bay"
+  },
+  {
+    "cityId": 143160,
+    "label": "몬벌크 (Monbulk)",
+    "name": "몬벌크",
+    "nameEn": "Monbulk"
+  },
+  {
+    "cityId": 141724,
+    "label": "몰던 (Maldon)",
+    "name": "몰던",
+    "nameEn": "Maldon"
+  },
+  {
+    "cityId": 106002,
+    "label": "몰리묵 (Mollymook)",
+    "name": "몰리묵",
+    "nameEn": "Mollymook"
+  },
+  {
+    "cityId": 671647,
+    "label": "무남벨 (Munambel)",
+    "name": "무남벨",
+    "nameEn": "Munambel"
+  },
+  {
+    "cityId": 5427,
+    "label": "무스웰브룩 (Muswellbrook)",
+    "name": "무스웰브룩",
+    "nameEn": "Muswellbrook"
+  },
+  {
+    "cityId": 718501,
+    "label": "무어 파크 비치 (Moore Park Beach)",
+    "name": "무어 파크 비치",
+    "nameEn": "Moore Park Beach"
+  },
+  {
+    "cityId": 709116,
+    "label": "무체아 (Muchea)",
+    "name": "무체아",
+    "nameEn": "Muchea"
+  },
+  {
+    "cityId": 718161,
+    "label": "문타 베이 (Munta Bay)",
+    "name": "문타 베이",
+    "nameEn": "Munta Bay"
+  },
+  {
+    "cityId": 718482,
+    "label": "물랄엽 (Mulralyeap)",
+    "name": "물랄엽",
+    "nameEn": "Mulralyeap"
+  },
+  {
+    "cityId": 513236,
+    "label": "미니얀 (Miniyan)",
+    "name": "미니얀",
+    "nameEn": "Miniyan"
+  },
+  {
+    "cityId": 702046,
+    "label": "미들마운트 (Middlemount)",
+    "name": "미들마운트",
+    "nameEn": "Middlemount"
+  },
+  {
+    "cityId": 8390,
+    "label": "미션 비치 (Mission Beach)",
+    "name": "미션 비치",
+    "nameEn": "Mission Beach"
+  },
+  {
+    "cityId": 390160,
+    "label": "미스터리 베이 (Mystery Bay)",
+    "name": "미스터리 베이",
+    "nameEn": "Mystery Bay"
+  },
+  {
+    "cityId": 17913,
+    "label": "미타공 (Mitagong)",
+    "name": "미타공",
+    "nameEn": "Mitagong"
+  },
+  {
+    "cityId": 143199,
+    "label": "미틀포드 (Mitford)",
+    "name": "미틀포드",
+    "nameEn": "Mitford"
+  },
+  {
+    "cityId": 8316,
+    "label": "밀두라 (Mildura)",
+    "name": "밀두라",
+    "nameEn": "Mildura"
+  },
+  {
+    "cityId": 102386,
+    "label": "밀라와 (Millawa)",
+    "name": "밀라와",
+    "nameEn": "Millawa"
+  },
+  {
+    "cityId": 713042,
+    "label": "밀레스톰 (Milestone)",
+    "name": "밀레스톰",
+    "nameEn": "Milestone"
+  },
+  {
+    "cityId": 717354,
+    "label": "밀리센트 (Millicent)",
+    "name": "밀리센트",
+    "nameEn": "Millicent"
+  },
+  {
+    "cityId": 141748,
+    "label": "밀소프 (Milsop)",
+    "name": "밀소프",
+    "nameEn": "Milsop"
+  },
+  {
+    "cityId": 141749,
+    "label": "밀턴 (Milton)",
+    "name": "밀턴",
+    "nameEn": "Milton"
+  },
+  {
+    "cityId": 16613,
+    "label": "바로사 밸리 (Barossa Valley)",
+    "name": "바로사 밸리",
+    "nameEn": "Barossa Valley"
+  },
+  {
+    "cityId": 142871,
+    "label": "바롱가록 (Barongagarok)",
+    "name": "바롱가록",
+    "nameEn": "Barongagarok"
+  },
+  {
+    "cityId": 78909,
+    "label": "바루가 (Baruga)",
+    "name": "바루가",
+    "nameEn": "Baruga"
+  },
+  {
+    "cityId": 4133,
+    "label": "바메라 (Bamerra)",
+    "name": "바메라",
+    "nameEn": "Bamerra"
+  },
+  {
+    "cityId": 710203,
+    "label": "바빈다 (Babinda)",
+    "name": "바빈다",
+    "nameEn": "Babinda"
+  },
+  {
+    "cityId": 512808,
+    "label": "바원 헤드 (Barwon Heads)",
+    "name": "바원 헤드",
+    "nameEn": "Barwon Heads"
+  },
+  {
+    "cityId": 7694,
+    "label": "바이런베이 (Byron Bay)",
+    "name": "바이런베이",
+    "nameEn": "Byron Bay"
+  },
+  {
+    "cityId": 17890,
+    "label": "바첼러 / 리크필드 국립 공원 (Batchelor / Litchfield National Park)",
+    "name": "바첼러 / 리크필드 국립 공원",
+    "nameEn": "Batchelor / Litchfield National Park"
+  },
+  {
+    "cityId": 710240,
+    "label": "바칼딘 (Barcaldine)",
+    "name": "바칼딘",
+    "nameEn": "Barcaldine"
+  },
+  {
+    "cityId": 513445,
+    "label": "바튜 베이 (Bateau Bay)",
+    "name": "바튜 베이",
+    "nameEn": "Bateau Bay"
+  },
+  {
+    "cityId": 709720,
+    "label": "바햄 (Barham)",
+    "name": "바햄",
+    "nameEn": "Barham"
+  },
+  {
+    "cityId": 712230,
+    "label": "발나링 (Balnaing)",
+    "name": "발나링",
+    "nameEn": "Balnaing"
+  },
+  {
+    "cityId": 142522,
+    "label": "발드 힐스 (Bald Hills)",
+    "name": "발드 힐스",
+    "nameEn": "Bald Hills"
+  },
+  {
+    "cityId": 719603,
+    "label": "발라 (Balla)",
+    "name": "발라",
+    "nameEn": "Balla"
+  },
+  {
+    "cityId": 17889,
+    "label": "발리나 (Ballina)",
+    "name": "발리나",
+    "nameEn": "Ballina"
+  },
+  {
+    "cityId": 709701,
+    "label": "발링업 (Ballingup)",
+    "name": "발링업",
+    "nameEn": "Ballingup"
+  },
+  {
+    "cityId": 142104,
+    "label": "배린 (Barrin)",
+    "name": "배린",
+    "nameEn": "Barrin"
+  },
+  {
+    "cityId": 710243,
+    "label": "배링턴 (Barrington)",
+    "name": "배링턴",
+    "nameEn": "Barrington"
+  },
+  {
+    "cityId": 17891,
+    "label": "배서스트 (Bathurst)",
+    "name": "배서스트",
+    "nameEn": "Bathurst"
+  },
+  {
+    "cityId": 710204,
+    "label": "배저 크릭 (Badger Creek)",
+    "name": "배저 크릭",
+    "nameEn": "Badger Creek"
+  },
+  {
+    "cityId": 717038,
+    "label": "배틀로 (Battlero)",
+    "name": "배틀로",
+    "nameEn": "Battlero"
+  },
+  {
+    "cityId": 710236,
+    "label": "밴든 그로브 (Benden Grove)",
+    "name": "밴든 그로브",
+    "nameEn": "Benden Grove"
+  },
+  {
+    "cityId": 14771,
+    "label": "밸러랫 (Ballarat)",
+    "name": "밸러랫",
+    "nameEn": "Ballarat"
+  },
+  {
+    "cityId": 11957,
+    "label": "버니 (Burnie)",
+    "name": "버니",
+    "nameEn": "Burnie"
+  },
+  {
+    "cityId": 512773,
+    "label": "버닌용 (Berrinong)",
+    "name": "버닌용",
+    "nameEn": "Berrinong"
+  },
+  {
+    "cityId": 512885,
+    "label": "버라 (Berrra)",
+    "name": "버라",
+    "nameEn": "Berrra"
+  },
+  {
+    "cityId": 710275,
+    "label": "버레구라 (Barregura)",
+    "name": "버레구라",
+    "nameEn": "Barregura"
+  },
+  {
+    "cityId": 390157,
+    "label": "버마구이 (Bermagui)",
+    "name": "버마구이",
+    "nameEn": "Bermagui"
+  },
+  {
+    "cityId": 141452,
+    "label": "버지워이 (Burgerwoy)",
+    "name": "버지워이",
+    "nameEn": "Burgerwoy"
+  },
+  {
+    "cityId": 143428,
+    "label": "버컵 (Bucup)",
+    "name": "버컵",
+    "nameEn": "Bucup"
+  },
+  {
+    "cityId": 19496,
+    "label": "버크 (Burke)",
+    "name": "버크",
+    "nameEn": "Burke"
+  },
+  {
+    "cityId": 512731,
+    "label": "버클랜드 (Buckland)",
+    "name": "버클랜드",
+    "nameEn": "Buckland"
+  },
+  {
+    "cityId": 141456,
+    "label": "번더눈 (Bundernun)",
+    "name": "번더눈",
+    "nameEn": "Bundernun"
+  },
+  {
+    "cityId": 12602,
+    "label": "번더버그 (Bundaberg)",
+    "name": "번더버그",
+    "nameEn": "Bundaberg"
+  },
+  {
+    "cityId": 3666,
+    "label": "번버리 (Bunbury)",
+    "name": "번버리",
+    "nameEn": "Bunbury"
+  },
+  {
+    "cityId": 11269,
+    "label": "베가 (Bega)",
+    "name": "베가",
+    "nameEn": "Bega"
+  },
+  {
+    "cityId": 10447,
+    "label": "베날라 (Benalla)",
+    "name": "베날라",
+    "nameEn": "Benalla"
+  },
+  {
+    "cityId": 142528,
+    "label": "베리 (Berry)",
+    "name": "베리",
+    "nameEn": "Berry"
+  },
+  {
+    "cityId": 142874,
+    "label": "베이츠포드 (Batesford)",
+    "name": "베이츠포드",
+    "nameEn": "Batesford"
+  },
+  {
+    "cityId": 13105,
+    "label": "베이트만스베이 (Batemans Bay)",
+    "name": "베이트만스베이",
+    "nameEn": "Batemans Bay"
+  },
+  {
+    "cityId": 10985,
+    "label": "벤디고 (Bendigo)",
+    "name": "벤디고",
+    "nameEn": "Bendigo"
+  },
+  {
+    "cityId": 711030,
+    "label": "벤트너 (Bentner)",
+    "name": "벤트너",
+    "nameEn": "Bentner"
+  },
+  {
+    "cityId": 512776,
+    "label": "벨링겐 (Bellingen)",
+    "name": "벨링겐",
+    "nameEn": "Bellingen"
+  },
+  {
+    "cityId": 142885,
+    "label": "벨브레 (Belbre)",
+    "name": "벨브레",
+    "nameEn": "Belbre"
+  },
+  {
+    "cityId": 709115,
+    "label": "보가빌라 (Bogabilla)",
+    "name": "보가빌라",
+    "nameEn": "Bogabilla"
+  },
+  {
+    "cityId": 21402,
+    "label": "보더서트 (Borderland)",
+    "name": "보더서트",
+    "nameEn": "Borderland"
+  },
+  {
+    "cityId": 102355,
+    "label": "보스웰 (Boswell)",
+    "name": "보스웰",
+    "nameEn": "Boswell"
+  },
+  {
+    "cityId": 3590,
+    "label": "보우럴 (Bowral)",
+    "name": "보우럴",
+    "nameEn": "Bowral"
+  },
+  {
+    "cityId": 106109,
+    "label": "보웬 (Bowen)",
+    "name": "보웬",
+    "nameEn": "Bowen"
+  },
+  {
+    "cityId": 711746,
+    "label": "보웬 마운틴 (Bowen Mountain)",
+    "name": "보웬 마운틴",
+    "nameEn": "Bowen Mountain"
+  },
+  {
+    "cityId": 671712,
+    "label": "보인 아일랜드 (Boyne Island)",
+    "name": "보인 아일랜드",
+    "nameEn": "Boyne Island"
+  },
+  {
+    "cityId": 512787,
+    "label": "보트 하버 (Boat Harbour)",
+    "name": "보트 하버",
+    "nameEn": "Boat Harbour"
+  },
+  {
+    "cityId": 141433,
+    "label": "본빌 (Bonville)",
+    "name": "본빌",
+    "nameEn": "Bonville"
+  },
+  {
+    "cityId": 106072,
+    "label": "볼리 포인트 (Bolly Point)",
+    "name": "볼리 포인트",
+    "nameEn": "Bolly Point"
+  },
+  {
+    "cityId": 18893,
+    "label": "봄바 포인트 (Bomba Point)",
+    "name": "봄바 포인트",
+    "nameEn": "Bomba Point"
+  },
+  {
+    "cityId": 712238,
+    "label": "부나 (Boona)",
+    "name": "부나",
+    "nameEn": "Boona"
+  },
+  {
+    "cityId": 706665,
+    "label": "부로와 (Burowa)",
+    "name": "부로와",
+    "nameEn": "Burowa"
+  },
+  {
+    "cityId": 706219,
+    "label": "부를레 (Burley)",
+    "name": "부를레",
+    "nameEn": "Burley"
+  },
+  {
+    "cityId": 710301,
+    "label": "부릴 레이크 (Burill Lake)",
+    "name": "부릴 레이크",
+    "nameEn": "Burill Lake"
+  },
+  {
+    "cityId": 719612,
+    "label": "부시 파크 (Bush Park)",
+    "name": "부시 파크",
+    "nameEn": "Bush Park"
+  },
+  {
+    "cityId": 710298,
+    "label": "분달롱 (Bundalong)",
+    "name": "분달롱",
+    "nameEn": "Bundalong"
+  },
+  {
+    "cityId": 142142,
+    "label": "분담바 (Bundamba)",
+    "name": "분담바",
+    "nameEn": "Bundamba"
+  },
+  {
+    "cityId": 141454,
+    "label": "불리 (Bulli)",
+    "name": "불리",
+    "nameEn": "Bulli"
+  },
+  {
+    "cityId": 80021,
+    "label": "뷰산 (Bewshan)",
+    "name": "뷰산",
+    "nameEn": "Bewshan"
+  },
+  {
+    "cityId": 512809,
+    "label": "뷰티 포인트 / 베이컨필드 (Beauty Point / Beaconfield)",
+    "name": "뷰티 포인트 / 베이컨필드",
+    "nameEn": "Beauty Point / Beaconfield"
+  },
+  {
+    "cityId": 14591,
+    "label": "브라이트 (Bright)",
+    "name": "브라이트",
+    "nameEn": "Bright"
+  },
+  {
+    "cityId": 513145,
+    "label": "브램스톤 비치 (Bramston Beach)",
+    "name": "브램스톤 비치",
+    "nameEn": "Bramston Beach"
+  },
+  {
+    "cityId": 141449,
+    "label": "브런즈윅 헤즈 (Brunswick Heads)",
+    "name": "브런즈윅 헤즈",
+    "nameEn": "Brunswick Heads"
+  },
+  {
+    "cityId": 390162,
+    "label": "브렁커빌 (Brunkerville)",
+    "name": "브렁커빌",
+    "nameEn": "Brunkerville"
+  },
+  {
+    "cityId": 718467,
+    "label": "브레머 아일랜드 (Bremer Island)",
+    "name": "브레머 아일랜드",
+    "nameEn": "Bremer Island"
+  },
+  {
+    "cityId": 8731,
+    "label": "브로큰 힐 (Broken Hill)",
+    "name": "브로큰 힐",
+    "nameEn": "Broken Hill"
+  },
+  {
+    "cityId": 102360,
+    "label": "브루니 섬 (Bruny Island)",
+    "name": "브루니 섬",
+    "nameEn": "Bruny Island"
+  },
+  {
+    "cityId": 9824,
+    "label": "브룸 (Broome)",
+    "name": "브룸",
+    "nameEn": "Broome"
+  },
+  {
+    "cityId": 102358,
+    "label": "브리드포트 (Bridport)",
+    "name": "브리드포트",
+    "nameEn": "Bridport"
+  },
+  {
+    "cityId": 142355,
+    "label": "브리비 아일랜드 (Bribie Island)",
+    "name": "브리비 아일랜드",
+    "nameEn": "Bribie Island"
+  },
+  {
+    "cityId": 9466,
+    "label": "브리즈번 (Brisbane)",
+    "name": "브리즈번",
+    "nameEn": "Brisbane"
+  },
+  {
+    "cityId": 143424,
+    "label": "브리지타운 (Bridgetown)",
+    "name": "브리지타운",
+    "nameEn": "Bridgetown"
+  },
+  {
+    "cityId": 716433,
+    "label": "블랙 포인트 (Black Point)",
+    "name": "블랙 포인트",
+    "nameEn": "Black Point"
+  },
+  {
+    "cityId": 142121,
+    "label": "블랙워터 (Blackwater)",
+    "name": "블랙워터",
+    "nameEn": "Blackwater"
+  },
+  {
+    "cityId": 710276,
+    "label": "블레이니 (Blainy)",
+    "name": "블레이니",
+    "nameEn": "Blainy"
+  },
+  {
+    "cityId": 17892,
+    "label": "블루마운틴 (Blue Mountains)",
+    "name": "블루마운틴",
+    "nameEn": "Blue Mountains"
+  },
+  {
+    "cityId": 513479,
+    "label": "비나롱 베이 (Binalong Bay)",
+    "name": "비나롱 베이",
+    "nameEn": "Binalong Bay"
+  },
+  {
+    "cityId": 390208,
+    "label": "비너스 베이 (Venus Bay)",
+    "name": "비너스 베이",
+    "nameEn": "Venus Bay"
+  },
+  {
+    "cityId": 10254,
+    "label": "비체노 (Bicheno)",
+    "name": "비체노",
+    "nameEn": "Bicheno"
+  },
+  {
+    "cityId": 9829,
+    "label": "비치워스 (Beechworth)",
+    "name": "비치워스",
+    "nameEn": "Beechworth"
+  },
+  {
+    "cityId": 513186,
+    "label": "비치포트 (Beachport)",
+    "name": "비치포트",
+    "nameEn": "Beachport"
+  },
+  {
+    "cityId": 10849,
+    "label": "빅터하버 (Victor Harbor)",
+    "name": "빅터하버",
+    "nameEn": "Victor Harbor"
+  },
+  {
+    "cityId": 15778,
+    "label": "빌로엘라 (Villoella)",
+    "name": "빌로엘라",
+    "nameEn": "Villoella"
+  },
+  {
+    "cityId": 142408,
+    "label": "사리나 (Sarina)",
+    "name": "사리나",
+    "nameEn": "Sarina"
+  },
+  {
+    "cityId": 102398,
+    "label": "사우스 미션 비치 (South Mission Beach)",
+    "name": "사우스 미션 비치",
+    "nameEn": "South Mission Beach"
+  },
+  {
+    "cityId": 23668,
+    "label": "사우스 웨스트 락 (South West Rocks)",
+    "name": "사우스 웨스트 락",
+    "nameEn": "South West Rocks"
+  },
+  {
+    "cityId": 142162,
+    "label": "샤를빌 (Charleville)",
+    "name": "샤를빌",
+    "nameEn": "Charleville"
+  },
+  {
+    "cityId": 142826,
+    "label": "서머셋 (Somerset)",
+    "name": "서머셋",
+    "nameEn": "Somerset"
+  },
+  {
+    "cityId": 512772,
+    "label": "서섹스 인렛 (Sussex Inlet)",
+    "name": "서섹스 인렛",
+    "nameEn": "Sussex Inlet"
+  },
+  {
+    "cityId": 512978,
+    "label": "서튼 포레스트 (Sutton Forest)",
+    "name": "서튼 포레스트",
+    "nameEn": "Sutton Forest"
+  },
+  {
+    "cityId": 143536,
+    "label": "서펜타인 (Serpentine)",
+    "name": "서펜타인",
+    "nameEn": "Serpentine"
+  },
+  {
+    "cityId": 710929,
+    "label": "선샤인 베이 (Sunshine Bay)",
+    "name": "선샤인 베이",
+    "nameEn": "Sunshine Bay"
+  },
+  {
+    "cityId": 19930,
+    "label": "선샤인코스트 (Sunshine Coast)",
+    "name": "선샤인코스트",
+    "nameEn": "Sunshine Coast"
+  },
+  {
+    "cityId": 512953,
+    "label": "세닉 림 (Scenic Rim)",
+    "name": "세닉 림",
+    "nameEn": "Scenic Rim"
+  },
+  {
+    "cityId": 10081,
+    "label": "세두나 (Ceduna)",
+    "name": "세두나",
+    "nameEn": "Ceduna"
+  },
+  {
+    "cityId": 13375,
+    "label": "세르반테스 (Cervantes)",
+    "name": "세르반테스",
+    "nameEn": "Cervantes"
+  },
+  {
+    "cityId": 143288,
+    "label": "세바스토폴 (Sebastopol)",
+    "name": "세바스토폴",
+    "nameEn": "Sebastopol"
+  },
+  {
+    "cityId": 142820,
+    "label": "세인트 매리스 (Saint Marys)",
+    "name": "세인트 매리스",
+    "nameEn": "Saint Marys"
+  },
+  {
+    "cityId": 513654,
+    "label": "세인트 메리스 (Saint Marys)",
+    "name": "세인트 메리스",
+    "nameEn": "Saint Marys"
+  },
+  {
+    "cityId": 710854,
+    "label": "세인트 조지 (Saint George)",
+    "name": "세인트 조지",
+    "nameEn": "Saint George"
+  },
+  {
+    "cityId": 17920,
+    "label": "세인트 헬렌 (Saint Helen)",
+    "name": "세인트 헬렌",
+    "nameEn": "Saint Helen"
+  },
+  {
+    "cityId": 243553,
+    "label": "센트럴 코스트 (Central Coast)",
+    "name": "센트럴 코스트",
+    "nameEn": "Central Coast"
+  },
+  {
+    "cityId": 710882,
+    "label": "셀릭스 힐 (Celicks Hill)",
+    "name": "셀릭스 힐",
+    "nameEn": "Celicks Hill"
+  },
+  {
+    "cityId": 711074,
+    "label": "셔브루크 (Sherbrook)",
+    "name": "셔브루크",
+    "nameEn": "Sherbrook"
+  },
+  {
+    "cityId": 12479,
+    "label": "셰퍼턴 (Shepparton)",
+    "name": "셰퍼턴",
+    "nameEn": "Shepparton"
+  },
+  {
+    "cityId": 292818,
+    "label": "셰필드 (Sheffield)",
+    "name": "셰필드",
+    "nameEn": "Sheffield"
+  },
+  {
+    "cityId": 142827,
+    "label": "소렐 (Sorell)",
+    "name": "소렐",
+    "nameEn": "Sorell"
+  },
+  {
+    "cityId": 718483,
+    "label": "솔즈베리 (NSW) (Salisbury, NSW)",
+    "name": "솔즈베리 (NSW)",
+    "nameEn": "Salisbury, NSW"
+  },
+  {
+    "cityId": 513350,
+    "label": "숄헤이븐 헤즈 (Shoalhaven Heads)",
+    "name": "숄헤이븐 헤즈",
+    "nameEn": "Shoalhaven Heads"
+  },
+  {
+    "cityId": 513304,
+    "label": "쉘하버 (Shellharbour)",
+    "name": "쉘하버",
+    "nameEn": "Shellharbour"
+  },
+  {
+    "cityId": 17919,
+    "label": "스노위 마운틴 (Snowy Mountains)",
+    "name": "스노위 마운틴",
+    "nameEn": "Snowy Mountains"
+  },
+  {
+    "cityId": 21360,
+    "label": "스레드보 빌리지 (Thredbo Village)",
+    "name": "스레드보 빌리지",
+    "nameEn": "Thredbo Village"
+  },
+  {
+    "cityId": 11588,
+    "label": "스미스턴 (Smithton)",
+    "name": "스미스턴",
+    "nameEn": "Smithton"
+  },
+  {
+    "cityId": 589,
+    "label": "스완 힐 (Swan Hill)",
+    "name": "스완 힐",
+    "nameEn": "Swan Hill"
+  },
+  {
+    "cityId": 17221,
+    "label": "스완시 (Swansea)",
+    "name": "스완시",
+    "nameEn": "Swansea"
+  },
+  {
+    "cityId": 709486,
+    "label": "스캇츠 헤드 (Scotts Head)",
+    "name": "스캇츠 헤드",
+    "nameEn": "Scotts Head"
+  },
+  {
+    "cityId": 13792,
+    "label": "스캐맨더 (Scamander)",
+    "name": "스캐맨더",
+    "nameEn": "Scamander"
+  },
+  {
+    "cityId": 142823,
+    "label": "스코츠데일 (Scottsdale)",
+    "name": "스코츠데일",
+    "nameEn": "Scottsdale"
+  },
+  {
+    "cityId": 7897,
+    "label": "스콘 (Scone)",
+    "name": "스콘",
+    "nameEn": "Scone"
+  },
+  {
+    "cityId": 19408,
+    "label": "스탠리 (Stanley)",
+    "name": "스탠리",
+    "nameEn": "Stanley"
+  },
+  {
+    "cityId": 142681,
+    "label": "스탠스버리 (Stansbury)",
+    "name": "스탠스버리",
+    "nameEn": "Stansbury"
+  },
+  {
+    "cityId": 1517,
+    "label": "스텐서프 (Stanthorpe)",
+    "name": "스텐서프",
+    "nameEn": "Stanthorpe"
+  },
+  {
+    "cityId": 141908,
+    "label": "스톡턴 (Stockton)",
+    "name": "스톡턴",
+    "nameEn": "Stockton"
+  },
+  {
+    "cityId": 671717,
+    "label": "스트라스고든 (Strathgordon)",
+    "name": "스트라스고든",
+    "nameEn": "Strathgordon"
+  },
+  {
+    "cityId": 142682,
+    "label": "스트라탈빈 (Strathalbyn)",
+    "name": "스트라탈빈",
+    "nameEn": "Strathalbyn"
+  },
+  {
+    "cityId": 15819,
+    "label": "스트라한 (Strahan)",
+    "name": "스트라한",
+    "nameEn": "Strahan"
+  },
+  {
+    "cityId": 702201,
+    "label": "스트리키 베이 (Streaky Bay)",
+    "name": "스트리키 베이",
+    "nameEn": "Streaky Bay"
+  },
+  {
+    "cityId": 709700,
+    "label": "스트셸레키 (Strzelecki)",
+    "name": "스트셸레키",
+    "nameEn": "Strzelecki"
+  },
+  {
+    "cityId": 719608,
+    "label": "스틸스 크릭 (Steels Creek)",
+    "name": "스틸스 크릭",
+    "nameEn": "Steels Creek"
+  },
+  {
+    "cityId": 142418,
+    "label": "스프링슈어 (Springsure)",
+    "name": "스프링슈어",
+    "nameEn": "Springsure"
+  },
+  {
+    "cityId": 710906,
+    "label": "슬레이드 포인트 (Slade Point)",
+    "name": "슬레이드 포인트",
+    "nameEn": "Slade Point"
+  },
+  {
+    "cityId": 14370,
+    "label": "시드니 (Sydney)",
+    "name": "시드니",
+    "nameEn": "Sydney"
+  },
+  {
+    "cityId": 23687,
+    "label": "시모어 (Seymour)",
+    "name": "시모어",
+    "nameEn": "Seymour"
+  },
+  {
+    "cityId": 718470,
+    "label": "실 록스 (Seal Rocks)",
+    "name": "실 록스",
+    "nameEn": "Seal Rocks"
+  },
+  {
+    "cityId": 143285,
+    "label": "씨포드 (Seaford)",
+    "name": "씨포드",
+    "nameEn": "Seaford"
+  },
+  {
+    "cityId": 19546,
+    "label": "아그네스 워터 (Agnes Water)",
+    "name": "아그네스 워터",
+    "nameEn": "Agnes Water"
+  },
+  {
+    "cityId": 1047,
+    "label": "아라랏 (Ararat)",
+    "name": "아라랏",
+    "nameEn": "Ararat"
+  },
+  {
+    "cityId": 204073,
+    "label": "아라와라 (Arawarra)",
+    "name": "아라와라",
+    "nameEn": "Arawarra"
+  },
+  {
+    "cityId": 5128,
+    "label": "아미데일 (Armidale)",
+    "name": "아미데일",
+    "nameEn": "Armidale"
+  },
+  {
+    "cityId": 105611,
+    "label": "아보카 (VIC) (Avoca, VIC)",
+    "name": "아보카 (VIC)",
+    "nameEn": "Avoca, VIC"
+  },
+  {
+    "cityId": 718487,
+    "label": "아서스 레이크 (Arthur's Lake)",
+    "name": "아서스 레이크",
+    "nameEn": "Arthur's Lake"
+  },
+  {
+    "cityId": 19489,
+    "label": "아서톤 테이블랜드 (Atherton Tableland)",
+    "name": "아서톤 테이블랜드",
+    "nameEn": "Atherton Tableland"
+  },
+  {
+    "cityId": 142848,
+    "label": "알렉산드라 (Alexandra)",
+    "name": "알렉산드라",
+    "nameEn": "Alexandra"
+  },
+  {
+    "cityId": 17208,
+    "label": "알바니 (Albany)",
+    "name": "알바니",
+    "nameEn": "Albany"
+  },
+  {
+    "cityId": 720456,
+    "label": "알토나 노스 (Altona North)",
+    "name": "알토나 노스",
+    "nameEn": "Altona North"
+  },
+  {
+    "cityId": 11981,
+    "label": "애들레이드 (Adelaide)",
+    "name": "애들레이드",
+    "nameEn": "Adelaide"
+  },
+  {
+    "cityId": 102445,
+    "label": "애버딘 (Aberdeen)",
+    "name": "애버딘",
+    "nameEn": "Aberdeen"
+  },
+  {
+    "cityId": 102348,
+    "label": "앨랑굴러 (Allangular)",
+    "name": "앨랑굴러",
+    "nameEn": "Allangular"
+  },
+  {
+    "cityId": 5312,
+    "label": "앨리스 스프링스 (Alice Springs)",
+    "name": "앨리스 스프링스",
+    "nameEn": "Alice Springs"
+  },
+  {
+    "cityId": 5126,
+    "label": "앨버리 (Albury)",
+    "name": "앨버리",
+    "nameEn": "Albury"
+  },
+  {
+    "cityId": 141367,
+    "label": "앨스턴빌 (Alstonville)",
+    "name": "앨스턴빌",
+    "nameEn": "Alstonville"
+  },
+  {
+    "cityId": 17930,
+    "label": "야라 밸리 (Yarra Valley)",
+    "name": "야라 밸리",
+    "nameEn": "Yarra Valley"
+  },
+  {
+    "cityId": 143403,
+    "label": "야라옹가 (Yarragon)",
+    "name": "야라옹가",
+    "nameEn": "Yarragon"
+  },
+  {
+    "cityId": 713185,
+    "label": "야라하피니 (Yarrahapinni)",
+    "name": "야라하피니",
+    "nameEn": "Yarrahapinni"
+  },
+  {
+    "cityId": 15348,
+    "label": "야스 (Yass)",
+    "name": "야스",
+    "nameEn": "Yass"
+  },
+  {
+    "cityId": 717462,
+    "label": "얀간 (Yangan)",
+    "name": "얀간",
+    "nameEn": "Yangan"
+  },
+  {
+    "cityId": 702175,
+    "label": "얀쳅 (Yanchep)",
+    "name": "얀쳅",
+    "nameEn": "Yanchep"
+  },
+  {
+    "cityId": 14897,
+    "label": "얌바 (Yamba)",
+    "name": "얌바",
+    "nameEn": "Yamba"
+  },
+  {
+    "cityId": 142088,
+    "label": "어드밴스타운 (Advancetown)",
+    "name": "어드밴스타운",
+    "nameEn": "Advancetown"
+  },
+  {
+    "cityId": 141980,
+    "label": "어퍼 오라라 (Upper Orara)",
+    "name": "어퍼 오라라",
+    "nameEn": "Upper Orara"
+  },
+  {
+    "cityId": 17899,
+    "label": "에덴 (Eden)",
+    "name": "에덴",
+    "nameEn": "Eden"
+  },
+  {
+    "cityId": 21411,
+    "label": "에메랄드 (Emerald)",
+    "name": "에메랄드",
+    "nameEn": "Emerald"
+  },
+  {
+    "cityId": 141578,
+    "label": "에반스 헤드 (Evans Head)",
+    "name": "에반스 헤드",
+    "nameEn": "Evans Head"
+  },
+  {
+    "cityId": 13632,
+    "label": "에스페란스 (Esperance)",
+    "name": "에스페란스",
+    "nameEn": "Esperance"
+  },
+  {
+    "cityId": 19654,
+    "label": "에어 (Ayr)",
+    "name": "에어",
+    "nameEn": "Ayr"
+  },
+  {
+    "cityId": 292832,
+    "label": "에어 반도 (Eyre Peninsula)",
+    "name": "에어 반도",
+    "nameEn": "Eyre Peninsula"
+  },
+  {
+    "cityId": 4457,
+    "label": "에어즈락 (울루루) (Ayers Rock, Uluru)",
+    "name": "에어즈락 (울루루)",
+    "nameEn": "Ayers Rock, Uluru"
+  },
+  {
+    "cityId": 717733,
+    "label": "에일든 (Ailden)",
+    "name": "에일든",
+    "nameEn": "Ailden"
+  },
+  {
+    "cityId": 21434,
+    "label": "엑스마우스 (Exmouth)",
+    "name": "엑스마우스",
+    "nameEn": "Exmouth"
+  },
+  {
+    "cityId": 720457,
+    "label": "엔세이 (Ensay)",
+    "name": "엔세이",
+    "nameEn": "Ensay"
+  },
+  {
+    "cityId": 4408,
+    "label": "엔트런스 호수 (Entrance Lake)",
+    "name": "엔트런스 호수",
+    "nameEn": "Entrance Lake"
+  },
+  {
+    "cityId": 711741,
+    "label": "엘런데일 (Ellendale)",
+    "name": "엘런데일",
+    "nameEn": "Ellendale"
+  },
+  {
+    "cityId": 718469,
+    "label": "엘리자베스 비치 (Elizabeth Beach)",
+    "name": "엘리자베스 비치",
+    "nameEn": "Elizabeth Beach"
+  },
+  {
+    "cityId": 710396,
+    "label": "엘보우 밸리 (Elbow Valley)",
+    "name": "엘보우 밸리",
+    "nameEn": "Elbow Valley"
+  },
+  {
+    "cityId": 15343,
+    "label": "영 (Young)",
+    "name": "영",
+    "nameEn": "Young"
+  },
+  {
+    "cityId": 143406,
+    "label": "예이 (Yea)",
+    "name": "예이",
+    "nameEn": "Yea"
+  },
+  {
+    "cityId": 7588,
+    "label": "옙푼 (Yeppoon)",
+    "name": "옙푼",
+    "nameEn": "Yeppoon"
+  },
+  {
+    "cityId": 1195,
+    "label": "오동가 (Odonga)",
+    "name": "오동가",
+    "nameEn": "Odonga"
+  },
+  {
+    "cityId": 19399,
+    "label": "오렌지 (Orange)",
+    "name": "오렌지",
+    "nameEn": "Orange"
+  },
+  {
+    "cityId": 718491,
+    "label": "오로루 (Oruru)",
+    "name": "오로루",
+    "nameEn": "Oruru"
+  },
+  {
+    "cityId": 10212,
+    "label": "오르보스트 (Orbost)",
+    "name": "오르보스트",
+    "nameEn": "Orbost"
+  },
+  {
+    "cityId": 671577,
+    "label": "오베론 (Oberon)",
+    "name": "오베론",
+    "nameEn": "Oberon"
+  },
+  {
+    "cityId": 143230,
+    "label": "오션 그로브 (Ocean Grove)",
+    "name": "오션 그로브",
+    "nameEn": "Ocean Grove"
+  },
+  {
+    "cityId": 718498,
+    "label": "오션 쇼어 (Ocean Shore)",
+    "name": "오션 쇼어",
+    "nameEn": "Ocean Shore"
+  },
+  {
+    "cityId": 143410,
+    "label": "오스트랄린드 (Australind)",
+    "name": "오스트랄린드",
+    "nameEn": "Australind"
+  },
+  {
+    "cityId": 717662,
+    "label": "오이스터 코브 (Oyster Cove)",
+    "name": "오이스터 코브",
+    "nameEn": "Oyster Cove"
+  },
+  {
+    "cityId": 719588,
+    "label": "오클리 (Oakley)",
+    "name": "오클리",
+    "nameEn": "Oakley"
+  },
+  {
+    "cityId": 701451,
+    "label": "오키 (Oki)",
+    "name": "오키",
+    "nameEn": "Oki"
+  },
+  {
+    "cityId": 142800,
+    "label": "오트랜즈 (Otranto)",
+    "name": "오트랜즈",
+    "nameEn": "Otranto"
+  },
+  {
+    "cityId": 717353,
+    "label": "온슬로 (Onslow)",
+    "name": "온슬로",
+    "nameEn": "Onslow"
+  },
+  {
+    "cityId": 701597,
+    "label": "올드 레이넬라 (Old Reynella)",
+    "name": "올드 레이넬라",
+    "nameEn": "Old Reynella"
+  },
+  {
+    "cityId": 512965,
+    "label": "올드 바 (Old Bar)",
+    "name": "올드 바",
+    "nameEn": "Old Bar"
+  },
+  {
+    "cityId": 143232,
+    "label": "올린다 (Olinda)",
+    "name": "올린다",
+    "nameEn": "Olinda"
+  },
+  {
+    "cityId": 3227,
+    "label": "와가 와가 (Wagga Wagga)",
+    "name": "와가 와가",
+    "nameEn": "Wagga Wagga"
+  },
+  {
+    "cityId": 669605,
+    "label": "와이즈맨스 페리 (Wiseman's Ferry)",
+    "name": "와이즈맨스 페리",
+    "nameEn": "Wiseman's Ferry"
+  },
+  {
+    "cityId": 142697,
+    "label": "와이커리 (Waikerie)",
+    "name": "와이커리",
+    "nameEn": "Waikerie"
+  },
+  {
+    "cityId": 711052,
+    "label": "와일즈 미도우 (Wiles Meadow)",
+    "name": "와일즈 미도우",
+    "nameEn": "Wiles Meadow"
+  },
+  {
+    "cityId": 717039,
+    "label": "와틀 힐 (Wattle Hill)",
+    "name": "와틀 힐",
+    "nameEn": "Wattle Hill"
+  },
+  {
+    "cityId": 514508,
+    "label": "왈라루 (Wallaroo)",
+    "name": "왈라루",
+    "nameEn": "Wallaroo"
+  },
+  {
+    "cityId": 711875,
+    "label": "왈와 (Walwa)",
+    "name": "왈와",
+    "nameEn": "Walwa"
+  },
+  {
+    "cityId": 17925,
+    "label": "왈할라 (Walhalla)",
+    "name": "왈할라",
+    "nameEn": "Walhalla"
+  },
+  {
+    "cityId": 8356,
+    "label": "왱거래타 (Wangaratta)",
+    "name": "왱거래타",
+    "nameEn": "Wangaratta"
+  },
+  {
+    "cityId": 709488,
+    "label": "요크 (York)",
+    "name": "요크",
+    "nameEn": "York"
+  },
+  {
+    "cityId": 142846,
+    "label": "욜라 (Yolla)",
+    "name": "욜라",
+    "nameEn": "Yolla"
+  },
+  {
+    "cityId": 711871,
+    "label": "우드번 (Woodburn)",
+    "name": "우드번",
+    "nameEn": "Woodburn"
+  },
+  {
+    "cityId": 512740,
+    "label": "우드브리지 (Woodbridge)",
+    "name": "우드브리지",
+    "nameEn": "Woodbridge"
+  },
+  {
+    "cityId": 711053,
+    "label": "우롤루 (Urulu)",
+    "name": "우롤루",
+    "nameEn": "Urulu"
+  },
+  {
+    "cityId": 141984,
+    "label": "우룬가 (Urunga)",
+    "name": "우룬가",
+    "nameEn": "Urunga"
+  },
+  {
+    "cityId": 713156,
+    "label": "울굴가 (Ulgulga)",
+    "name": "울굴가",
+    "nameEn": "Ulgulga"
+  },
+  {
+    "cityId": 8032,
+    "label": "울라둘라 (Ulladulla)",
+    "name": "울라둘라",
+    "nameEn": "Ulladulla"
+  },
+  {
+    "cityId": 142047,
+    "label": "울러멈비 (Ullamumbi)",
+    "name": "울러멈비",
+    "nameEn": "Ullamumbi"
+  },
+  {
+    "cityId": 9847,
+    "label": "울런공 (Wollongong)",
+    "name": "울런공",
+    "nameEn": "Wollongong"
+  },
+  {
+    "cityId": 142491,
+    "label": "울루가 (Uluga)",
+    "name": "울루가",
+    "nameEn": "Uluga"
+  },
+  {
+    "cityId": 712026,
+    "label": "울리 (Ulli)",
+    "name": "울리",
+    "nameEn": "Ulli"
+  },
+  {
+    "cityId": 711009,
+    "label": "울마라 (Ulmara)",
+    "name": "울마라",
+    "nameEn": "Ulmara"
+  },
+  {
+    "cityId": 21463,
+    "label": "울버스톤 (Ulverstone)",
+    "name": "울버스톤",
+    "nameEn": "Ulverstone"
+  },
+  {
+    "cityId": 512811,
+    "label": "울버스톤/데본포트 (Ulverstone/Devonport)",
+    "name": "울버스톤/데본포트",
+    "nameEn": "Ulverstone/Devonport"
+  },
+  {
+    "cityId": 4212,
+    "label": "워남불 (Warrnambool)",
+    "name": "워남불",
+    "nameEn": "Warrnambool"
+  },
+  {
+    "cityId": 18908,
+    "label": "워윅 (Warwick)",
+    "name": "워윅",
+    "nameEn": "Warwick"
+  },
+  {
+    "cityId": 513474,
+    "label": "워커 플랫 (Walker Flat)",
+    "name": "워커 플랫",
+    "nameEn": "Walker Flat"
+  },
+  {
+    "cityId": 142487,
+    "label": "원다이 (Wandai)",
+    "name": "원다이",
+    "nameEn": "Wandai"
+  },
+  {
+    "cityId": 717273,
+    "label": "월겟 (Walget)",
+    "name": "월겟",
+    "nameEn": "Walget"
+  },
+  {
+    "cityId": 702275,
+    "label": "월렌드빈 (Wallendbin)",
+    "name": "월렌드빈",
+    "nameEn": "Wallendbin"
+  },
+  {
+    "cityId": 78915,
+    "label": "월폴 (Walpole)",
+    "name": "월폴",
+    "nameEn": "Walpole"
+  },
+  {
+    "cityId": 718479,
+    "label": "웡갈링 비치 (Wongaling Beach)",
+    "name": "웡갈링 비치",
+    "nameEn": "Wongaling Beach"
+  },
+  {
+    "cityId": 143374,
+    "label": "웨더번 (Wedderburn)",
+    "name": "웨더번",
+    "nameEn": "Wedderburn"
+  },
+  {
+    "cityId": 1620,
+    "label": "웨스트 위아롱 (West Wyalong)",
+    "name": "웨스트 위아롱",
+    "nameEn": "West Wyalong"
+  },
+  {
+    "cityId": 718486,
+    "label": "웨스트 켄티시 (West Kentish)",
+    "name": "웨스트 켄티시",
+    "nameEn": "West Kentish"
+  },
+  {
+    "cityId": 512757,
+    "label": "웨스트버리 (Westbury)",
+    "name": "웨스트버리",
+    "nameEn": "Westbury"
+  },
+  {
+    "cityId": 706680,
+    "label": "웨이파 (Waipa)",
+    "name": "웨이파",
+    "nameEn": "Waipa"
+  },
+  {
+    "cityId": 19664,
+    "label": "웬트워스 (Wentworth)",
+    "name": "웬트워스",
+    "nameEn": "Wentworth"
+  },
+  {
+    "cityId": 719605,
+    "label": "위니 크릭 (Winnie Creek)",
+    "name": "위니 크릭",
+    "nameEn": "Winnie Creek"
+  },
+  {
+    "cityId": 709107,
+    "label": "위라바라 (Wirabara)",
+    "name": "위라바라",
+    "nameEn": "Wirabara"
+  },
+  {
+    "cityId": 513168,
+    "label": "위리나 코브 (Wyrina Cove)",
+    "name": "위리나 코브",
+    "nameEn": "Wyrina Cove"
+  },
+  {
+    "cityId": 711055,
+    "label": "위처프루프 (Witcherproof)",
+    "name": "위처프루프",
+    "nameEn": "Witcherproof"
+  },
+  {
+    "cityId": 142040,
+    "label": "윈당 (Winton)",
+    "name": "윈당",
+    "nameEn": "Winton"
+  },
+  {
+    "cityId": 717434,
+    "label": "윈더미어 (Windermere)",
+    "name": "윈더미어",
+    "nameEn": "Windermere"
+  },
+  {
+    "cityId": 142845,
+    "label": "윈야드 (Wynyard)",
+    "name": "윈야드",
+    "nameEn": "Wynyard"
+  },
+  {
+    "cityId": 671560,
+    "label": "윈턴 (QLD) (Winton, QLD)",
+    "name": "윈턴 (QLD)",
+    "nameEn": "Winton, QLD"
+  },
+  {
+    "cityId": 142707,
+    "label": "윌룽가 (Willunga)",
+    "name": "윌룽가",
+    "nameEn": "Willunga"
+  },
+  {
+    "cityId": 143559,
+    "label": "윌리암스타운 (Williamstown)",
+    "name": "윌리암스타운",
+    "nameEn": "Williamstown"
+  },
+  {
+    "cityId": 102405,
+    "label": "윌리엄 크릭 (William Creek)",
+    "name": "윌리엄 크릭",
+    "nameEn": "William Creek"
+  },
+  {
+    "cityId": 143558,
+    "label": "윌리엄스 (Williams)",
+    "name": "윌리엄스",
+    "nameEn": "Williams"
+  },
+  {
+    "cityId": 719589,
+    "label": "윌야브럽 (Wilyabrup)",
+    "name": "윌야브럽",
+    "nameEn": "Wilyabrup"
+  },
+  {
+    "cityId": 142041,
+    "label": "윙엄 (Wingham)",
+    "name": "윙엄",
+    "nameEn": "Wingham"
+  },
+  {
+    "cityId": 143010,
+    "label": "유로아 (Euroa)",
+    "name": "유로아",
+    "nameEn": "Euroa"
+  },
+  {
+    "cityId": 102409,
+    "label": "유롱 (Yarong)",
+    "name": "유롱",
+    "nameEn": "Yarong"
+  },
+  {
+    "cityId": 141576,
+    "label": "유스턴 (Euston)",
+    "name": "유스턴",
+    "nameEn": "Euston"
+  },
+  {
+    "cityId": 143000,
+    "label": "이글호크 (Eaglehawk)",
+    "name": "이글호크",
+    "nameEn": "Eaglehawk"
+  },
+  {
+    "cityId": 21409,
+    "label": "이글호크 넥 (Eaglehawk Neck)",
+    "name": "이글호크 넥",
+    "nameEn": "Eaglehawk Neck"
+  },
+  {
+    "cityId": 142253,
+    "label": "이니스페일 (Innisfail)",
+    "name": "이니스페일",
+    "nameEn": "Innisfail"
+  },
+  {
+    "cityId": 106005,
+    "label": "이버로치 (Iveroch)",
+    "name": "이버로치",
+    "nameEn": "Iveroch"
+  },
+  {
+    "cityId": 143073,
+    "label": "인디고 (Indigo)",
+    "name": "인디고",
+    "nameEn": "Indigo"
+  },
+  {
+    "cityId": 17906,
+    "label": "인버렐 (Inverell)",
+    "name": "인버렐",
+    "nameEn": "Inverell"
+  },
+  {
+    "cityId": 701452,
+    "label": "인준 (Injun)",
+    "name": "인준",
+    "nameEn": "Injun"
+  },
+  {
+    "cityId": 78911,
+    "label": "일루카 (Illuka)",
+    "name": "일루카",
+    "nameEn": "Illuka"
+  },
+  {
+    "cityId": 709717,
+    "label": "임빌 (Imbil)",
+    "name": "임빌",
+    "nameEn": "Imbil"
+  },
+  {
+    "cityId": 20020,
+    "label": "입스위치 (Ipswich)",
+    "name": "입스위치",
+    "nameEn": "Ipswich"
+  },
+  {
+    "cityId": 718471,
+    "label": "잉게비라 (Ingebirah)",
+    "name": "잉게비라",
+    "nameEn": "Ingebirah"
+  },
+  {
+    "cityId": 102446,
+    "label": "잉햄 (Ingham)",
+    "name": "잉햄",
+    "nameEn": "Ingham"
+  },
+  {
+    "cityId": 213232,
+    "label": "저비스 만 (Jervis Bay)",
+    "name": "저비스 만",
+    "nameEn": "Jervis Bay"
+  },
+  {
+    "cityId": 2438,
+    "label": "제랄튼 (Geraldton)",
+    "name": "제랄튼",
+    "nameEn": "Geraldton"
+  },
+  {
+    "cityId": 716185,
+    "label": "제릴데리 (Jerilderie)",
+    "name": "제릴데리",
+    "nameEn": "Jerilderie"
+  },
+  {
+    "cityId": 21444,
+    "label": "조지 타운 (George Town)",
+    "name": "조지 타운",
+    "nameEn": "George Town"
+  },
+  {
+    "cityId": 141660,
+    "label": "존스 리버 (Jones River)",
+    "name": "존스 리버",
+    "nameEn": "Jones River"
+  },
+  {
+    "cityId": 246857,
+    "label": "주리안 베이 (Julian Bay)",
+    "name": "주리안 베이",
+    "nameEn": "Julian Bay"
+  },
+  {
+    "cityId": 513012,
+    "label": "지한 (Zeehan)",
+    "name": "지한",
+    "nameEn": "Zeehan"
+  },
+  {
+    "cityId": 672526,
+    "label": "진진 (Jindalee)",
+    "name": "진진",
+    "nameEn": "Jindalee"
+  },
+  {
+    "cityId": 5307,
+    "label": "질롱 (Geelong)",
+    "name": "질롱",
+    "nameEn": "Geelong"
+  },
+  {
+    "cityId": 6207,
+    "label": "짐피 (Gympie)",
+    "name": "짐피",
+    "nameEn": "Gympie"
+  },
+  {
+    "cityId": 19497,
+    "label": "차터스 타워스 (Charters Towers)",
+    "name": "차터스 타워스",
+    "nameEn": "Charters Towers"
+  },
+  {
+    "cityId": 142940,
+    "label": "찰튼 (Charlton)",
+    "name": "찰튼",
+    "nameEn": "Charlton"
+  },
+  {
+    "cityId": 719607,
+    "label": "첨 크릭 (Cham Creek)",
+    "name": "첨 크릭",
+    "nameEn": "Cham Creek"
+  },
+  {
+    "cityId": 513183,
+    "label": "친칠라 (Chinchilla)",
+    "name": "친칠라",
+    "nameEn": "Chinchilla"
+  },
+  {
+    "cityId": 710326,
+    "label": "칠더스 (Childers)",
+    "name": "칠더스",
+    "nameEn": "Childers"
+  },
+  {
+    "cityId": 6421,
+    "label": "카나본 (Carnarvon)",
+    "name": "카나본",
+    "nameEn": "Carnarvon"
+  },
+  {
+    "cityId": 142155,
+    "label": "카눈그라 (Canungra)",
+    "name": "카눈그라",
+    "nameEn": "Canungra"
+  },
+  {
+    "cityId": 143083,
+    "label": "카니바 (Kaniva)",
+    "name": "카니바",
+    "nameEn": "Kaniva"
+  },
+  {
+    "cityId": 7883,
+    "label": "카드웰 (Cardwell)",
+    "name": "카드웰",
+    "nameEn": "Cardwell"
+  },
+  {
+    "cityId": 142929,
+    "label": "카디건 (Cardigan)",
+    "name": "카디건",
+    "nameEn": "Cardigan"
+  },
+  {
+    "cityId": 142596,
+    "label": "카디나 (Kadina)",
+    "name": "카디나",
+    "nameEn": "Kadina"
+  },
+  {
+    "cityId": 6164,
+    "label": "카라타 (Karata)",
+    "name": "카라타",
+    "nameEn": "Karata"
+  },
+  {
+    "cityId": 513066,
+    "label": "카루아 (Karua)",
+    "name": "카루아",
+    "nameEn": "Karua"
+  },
+  {
+    "cityId": 718489,
+    "label": "카예나 (Cayena)",
+    "name": "카예나",
+    "nameEn": "Cayena"
+  },
+  {
+    "cityId": 718160,
+    "label": "카이리 (Kairi)",
+    "name": "카이리",
+    "nameEn": "Kairi"
+  },
+  {
+    "cityId": 141486,
+    "label": "카지노 (Casino)",
+    "name": "카지노",
+    "nameEn": "Casino"
+  },
+  {
+    "cityId": 16455,
+    "label": "카카두 (Kakadu)",
+    "name": "카카두",
+    "nameEn": "Kakadu"
+  },
+  {
+    "cityId": 142157,
+    "label": "카펠라 (Capella)",
+    "name": "카펠라",
+    "nameEn": "Capella"
+  },
+  {
+    "cityId": 710527,
+    "label": "칸당가 (Kandanga)",
+    "name": "칸당가",
+    "nameEn": "Kandanga"
+  },
+  {
+    "cityId": 710303,
+    "label": "칼리오페 (Calliope)",
+    "name": "칼리오페",
+    "nameEn": "Calliope"
+  },
+  {
+    "cityId": 17908,
+    "label": "칼바리 (Kalbarri)",
+    "name": "칼바리",
+    "nameEn": "Kalbarri"
+  },
+  {
+    "cityId": 142597,
+    "label": "캉가릴라 (Kangarilla)",
+    "name": "캉가릴라",
+    "nameEn": "Kangarilla"
+  },
+  {
+    "cityId": 142153,
+    "label": "캐논베일 (Cannonvale)",
+    "name": "캐논베일",
+    "nameEn": "Cannonvale"
+  },
+  {
+    "cityId": 390163,
+    "label": "캐룰 (Carroll)",
+    "name": "캐룰",
+    "nameEn": "Carroll"
+  },
+  {
+    "cityId": 513461,
+    "label": "캐릭카린가 (Carrickalinga)",
+    "name": "캐릭카린가",
+    "nameEn": "Carrickalinga"
+  },
+  {
+    "cityId": 623,
+    "label": "캐서린 (Katherine)",
+    "name": "캐서린",
+    "nameEn": "Katherine"
+  },
+  {
+    "cityId": 142936,
+    "label": "캐슬마인 (Castlemaine)",
+    "name": "캐슬마인",
+    "nameEn": "Castlemaine"
+  },
+  {
+    "cityId": 2051,
+    "label": "캔버라 (Canberra)",
+    "name": "캔버라",
+    "nameEn": "Canberra"
+  },
+  {
+    "cityId": 7590,
+    "label": "캘굴리 (Kalgoorlie)",
+    "name": "캘굴리",
+    "nameEn": "Kalgoorlie"
+  },
+  {
+    "cityId": 142925,
+    "label": "캠버웰 (Camberwell)",
+    "name": "캠버웰",
+    "nameEn": "Camberwell"
+  },
+  {
+    "cityId": 702170,
+    "label": "캠벨 타운 (Campbell Town)",
+    "name": "캠벨 타운",
+    "nameEn": "Campbell Town"
+  },
+  {
+    "cityId": 18894,
+    "label": "캠퍼다운 (VIC) (Camperdown, VIC)",
+    "name": "캠퍼다운 (VIC)",
+    "nameEn": "Camperdown, VIC"
+  },
+  {
+    "cityId": 512775,
+    "label": "캥거루 밸리 (Kangaroo Valley)",
+    "name": "캥거루 밸리",
+    "nameEn": "Kangaroo Valley"
+  },
+  {
+    "cityId": 17209,
+    "label": "캥거루 아일랜드 (Kangaroo Island)",
+    "name": "캥거루 아일랜드",
+    "nameEn": "Kangaroo Island"
+  },
+  {
+    "cityId": 711918,
+    "label": "커디베일 (Cudgeybail)",
+    "name": "커디베일",
+    "nameEn": "Cudgeybail"
+  },
+  {
+    "cityId": 513345,
+    "label": "커라롱 (Curalong)",
+    "name": "커라롱",
+    "nameEn": "Curalong"
+  },
+  {
+    "cityId": 143088,
+    "label": "케랑 (Kerang)",
+    "name": "케랑",
+    "nameEn": "Kerang"
+  },
+  {
+    "cityId": 13550,
+    "label": "케언즈 (Cairns)",
+    "name": "케언즈",
+    "nameEn": "Cairns"
+  },
+  {
+    "cityId": 21404,
+    "label": "케이프 저비스 (Cape Jervis)",
+    "name": "케이프 저비스",
+    "nameEn": "Cape Jervis"
+  },
+  {
+    "cityId": 143085,
+    "label": "케일러 (Keilor)",
+    "name": "케일러",
+    "nameEn": "Keilor"
+  },
+  {
+    "cityId": 513352,
+    "label": "케터링 (Kettering)",
+    "name": "케터링",
+    "nameEn": "Kettering"
+  },
+  {
+    "cityId": 21703,
+    "label": "켄든업 (Kendenup)",
+    "name": "켄든업",
+    "nameEn": "Kendenup"
+  },
+  {
+    "cityId": 10854,
+    "label": "켐프세이 (Kempsey)",
+    "name": "켐프세이",
+    "nameEn": "Kempsey"
+  },
+  {
+    "cityId": 718554,
+    "label": "코랑 (Korang)",
+    "name": "코랑",
+    "nameEn": "Korang"
+  },
+  {
+    "cityId": 17897,
+    "label": "코럴 베이 (Coral Bay)",
+    "name": "코럴 베이",
+    "nameEn": "Coral Bay"
+  },
+  {
+    "cityId": 6251,
+    "label": "코로와 (Corowa)",
+    "name": "코로와",
+    "nameEn": "Corowa"
+  },
+  {
+    "cityId": 143103,
+    "label": "코룸부라 (Corumbura)",
+    "name": "코룸부라",
+    "nameEn": "Corumbura"
+  },
+  {
+    "cityId": 702281,
+    "label": "코리넬라 (Corinella)",
+    "name": "코리넬라",
+    "nameEn": "Corinella"
+  },
+  {
+    "cityId": 717431,
+    "label": "코리옹 (Corion)",
+    "name": "코리옹",
+    "nameEn": "Corion"
+  },
+  {
+    "cityId": 718480,
+    "label": "코린디 비치 (Corindi Beach)",
+    "name": "코린디 비치",
+    "nameEn": "Corindi Beach"
+  },
+  {
+    "cityId": 13251,
+    "label": "코바르 (Cobar)",
+    "name": "코바르",
+    "nameEn": "Cobar"
+  },
+  {
+    "cityId": 717256,
+    "label": "코바크 (Cobark)",
+    "name": "코바크",
+    "nameEn": "Cobark"
+  },
+  {
+    "cityId": 710343,
+    "label": "코브던 (Cobden)",
+    "name": "코브던",
+    "nameEn": "Cobden"
+  },
+  {
+    "cityId": 10850,
+    "label": "코우라 (Cowra)",
+    "name": "코우라",
+    "nameEn": "Cowra"
+  },
+  {
+    "cityId": 11902,
+    "label": "코프스 하버 (Coffs Harbour)",
+    "name": "코프스 하버",
+    "nameEn": "Coffs Harbour"
+  },
+  {
+    "cityId": 141520,
+    "label": "코플랜드 (Copland)",
+    "name": "코플랜드",
+    "nameEn": "Copland"
+  },
+  {
+    "cityId": 142955,
+    "label": "코후나 (Cohuna)",
+    "name": "코후나",
+    "nameEn": "Cohuna"
+  },
+  {
+    "cityId": 141511,
+    "label": "콘졸라 (Consola)",
+    "name": "콘졸라",
+    "nameEn": "Consola"
+  },
+  {
+    "cityId": 14609,
+    "label": "콜락 (Colac)",
+    "name": "콜락",
+    "nameEn": "Colac"
+  },
+  {
+    "cityId": 143435,
+    "label": "콜리 (Collie)",
+    "name": "콜리",
+    "nameEn": "Collie"
+  },
+  {
+    "cityId": 102369,
+    "label": "콜스 베이 (Coles Bay)",
+    "name": "콜스 베이",
+    "nameEn": "Coles Bay"
+  },
+  {
+    "cityId": 19494,
+    "label": "쿠나물라 (Coonamulla)",
+    "name": "쿠나물라",
+    "nameEn": "Coonamulla"
+  },
+  {
+    "cityId": 14604,
+    "label": "쿠나바라브란 (Coonabarabran)",
+    "name": "쿠나바라브란",
+    "nameEn": "Coonabarabran"
+  },
+  {
+    "cityId": 17896,
+    "label": "쿠나와라 (Coonawarra)",
+    "name": "쿠나와라",
+    "nameEn": "Coonawarra"
+  },
+  {
+    "cityId": 3997,
+    "label": "쿠누누라 (Kununurra)",
+    "name": "쿠누누라",
+    "nameEn": "Kununurra"
+  },
+  {
+    "cityId": 141518,
+    "label": "쿠라벨 크릭 (Curabel Creek)",
+    "name": "쿠라벨 크릭",
+    "nameEn": "Curabel Creek"
+  },
+  {
+    "cityId": 10206,
+    "label": "쿠마 (Cooma)",
+    "name": "쿠마",
+    "nameEn": "Cooma"
+  },
+  {
+    "cityId": 10248,
+    "label": "쿠버페디 (Coober Pedy)",
+    "name": "쿠버페디",
+    "nameEn": "Coober Pedy"
+  },
+  {
+    "cityId": 143474,
+    "label": "쿠케린 (Kukerin)",
+    "name": "쿠케린",
+    "nameEn": "Kukerin"
+  },
+  {
+    "cityId": 23736,
+    "label": "쿠타문드라 (Cootamundra)",
+    "name": "쿠타문드라",
+    "nameEn": "Cootamundra"
+  },
+  {
+    "cityId": 141517,
+    "label": "쿠퍼누크 (Coopernook)",
+    "name": "쿠퍼누크",
+    "nameEn": "Coopernook"
+  },
+  {
+    "cityId": 15036,
+    "label": "쿡타운 (Cooktown)",
+    "name": "쿡타운",
+    "nameEn": "Cooktown"
+  },
+  {
+    "cityId": 718481,
+    "label": "쿤드룩 (Kundrok)",
+    "name": "쿤드룩",
+    "nameEn": "Kundrok"
+  },
+  {
+    "cityId": 15717,
+    "label": "쿨랑가타 (Coolangatta)",
+    "name": "쿨랑가타",
+    "nameEn": "Coolangatta"
+  },
+  {
+    "cityId": 717027,
+    "label": "쿵후르 (Kungfur)",
+    "name": "쿵후르",
+    "nameEn": "Kungfur"
+  },
+  {
+    "cityId": 17935,
+    "label": "퀸베얀 (Queanbeyan)",
+    "name": "퀸베얀",
+    "nameEn": "Queanbeyan"
+  },
+  {
+    "cityId": 106117,
+    "label": "퀸스클리프 (Queenscliff)",
+    "name": "퀸스클리프",
+    "nameEn": "Queenscliff"
+  },
+  {
+    "cityId": 18900,
+    "label": "퀸스타운 (Queenstown)",
+    "name": "퀸스타운",
+    "nameEn": "Queenstown"
+  },
+  {
+    "cityId": 16614,
+    "label": "크래들산 (Cradle Mountain)",
+    "name": "크래들산",
+    "nameEn": "Cradle Mountain"
+  },
+  {
+    "cityId": 10959,
+    "label": "크랜번 (Cranbourne)",
+    "name": "크랜번",
+    "nameEn": "Cranbourne"
+  },
+  {
+    "cityId": 702278,
+    "label": "크레센트 헤드 (Crescent Head)",
+    "name": "크레센트 헤드",
+    "nameEn": "Crescent Head"
+  },
+  {
+    "cityId": 513331,
+    "label": "크레스윅 (Creswick)",
+    "name": "크레스윅",
+    "nameEn": "Creswick"
+  },
+  {
+    "cityId": 513524,
+    "label": "크레이피시 크릭 (Crayfish Creek)",
+    "name": "크레이피시 크릭",
+    "nameEn": "Crayfish Creek"
+  },
+  {
+    "cityId": 103435,
+    "label": "크로우스 네스트 (Crows Nest)",
+    "name": "크로우스 네스트",
+    "nameEn": "Crows Nest"
+  },
+  {
+    "cityId": 718478,
+    "label": "크론컵 (Kronkup)",
+    "name": "크론컵",
+    "nameEn": "Kronkup"
+  },
+  {
+    "cityId": 512878,
+    "label": "크리스마스 섬 (Christmas Island)",
+    "name": "크리스마스 섬",
+    "nameEn": "Christmas Island"
+  },
+  {
+    "cityId": 512963,
+    "label": "클라레 밸리 (Clare Valley)",
+    "name": "클라레 밸리",
+    "nameEn": "Clare Valley"
+  },
+  {
+    "cityId": 142165,
+    "label": "클레몬트 (Clermont)",
+    "name": "클레몬트",
+    "nameEn": "Clermont"
+  },
+  {
+    "cityId": 718496,
+    "label": "클룬스 (NSW) (Clunes, NSW)",
+    "name": "클룬스 (NSW)",
+    "nameEn": "Clunes, NSW"
+  },
+  {
+    "cityId": 4053,
+    "label": "키아마 (Kiama)",
+    "name": "키아마",
+    "nameEn": "Kiama"
+  },
+  {
+    "cityId": 102440,
+    "label": "키아브람 (Kiabram)",
+    "name": "키아브람",
+    "nameEn": "Kiabram"
+  },
+  {
+    "cityId": 9693,
+    "label": "키이스 (Keith)",
+    "name": "키이스",
+    "nameEn": "Keith"
+  },
+  {
+    "cityId": 143092,
+    "label": "킬라네이 (Killaney)",
+    "name": "킬라네이",
+    "nameEn": "Killaney"
+  },
+  {
+    "cityId": 143096,
+    "label": "킬시스 (Kilsyth)",
+    "name": "킬시스",
+    "nameEn": "Kilsyth"
+  },
+  {
+    "cityId": 390165,
+    "label": "킹 아일랜드 (King Island)",
+    "name": "킹 아일랜드",
+    "nameEn": "King Island"
+  },
+  {
+    "cityId": 7336,
+    "label": "킹스 캐년 (Kings Canyon)",
+    "name": "킹스 캐년",
+    "nameEn": "Kings Canyon"
+  },
+  {
+    "cityId": 2216,
+    "label": "킹스클리프 (Kingscliff)",
+    "name": "킹스클리프",
+    "nameEn": "Kingscliff"
+  },
+  {
+    "cityId": 142602,
+    "label": "킹스턴 사우스 이스트 (Kingston South East)",
+    "name": "킹스턴 사우스 이스트",
+    "nameEn": "Kingston South East"
+  },
+  {
+    "cityId": 512779,
+    "label": "타란나 (Taranna)",
+    "name": "타란나",
+    "nameEn": "Taranna"
+  },
+  {
+    "cityId": 15193,
+    "label": "타운스빌 (Townsville)",
+    "name": "타운스빌",
+    "nameEn": "Townsville"
+  },
+  {
+    "cityId": 141925,
+    "label": "타트라 (Tatra)",
+    "name": "타트라",
+    "nameEn": "Tatra"
+  },
+  {
+    "cityId": 513268,
+    "label": "태넘 샌즈 (Taenum Sands)",
+    "name": "태넘 샌즈",
+    "nameEn": "Taenum Sands"
+  },
+  {
+    "cityId": 4183,
+    "label": "태리 (Taree)",
+    "name": "태리",
+    "nameEn": "Taree"
+  },
+  {
+    "cityId": 19401,
+    "label": "탬워스 (Tamworth)",
+    "name": "탬워스",
+    "nameEn": "Tamworth"
+  },
+  {
+    "cityId": 141967,
+    "label": "터로스 헤드 (Teros Head)",
+    "name": "터로스 헤드",
+    "nameEn": "Teros Head"
+  },
+  {
+    "cityId": 12756,
+    "label": "테넌트 크릭 (Tennant Creek)",
+    "name": "테넌트 크릭",
+    "nameEn": "Tennant Creek"
+  },
+  {
+    "cityId": 11083,
+    "label": "텐터필드 (Tenterfield)",
+    "name": "텐터필드",
+    "nameEn": "Tenterfield"
+  },
+  {
+    "cityId": 6133,
+    "label": "토쿰왈 (Tocumwal)",
+    "name": "토쿰왈",
+    "nameEn": "Tocumwal"
+  },
+  {
+    "cityId": 718267,
+    "label": "톤턴 (VIC) (Tonton, VIC)",
+    "name": "톤턴 (VIC)",
+    "nameEn": "Tonton, VIC"
+  },
+  {
+    "cityId": 712670,
+    "label": "투굴라와 (Tugulawa)",
+    "name": "투굴라와",
+    "nameEn": "Tugulawa"
+  },
+  {
+    "cityId": 513518,
+    "label": "투라 (Toora)",
+    "name": "투라",
+    "nameEn": "Toora"
+  },
+  {
+    "cityId": 711002,
+    "label": "투로스 헤즈 (Tuross Heads)",
+    "name": "투로스 헤즈",
+    "nameEn": "Tuross Heads"
+  },
+  {
+    "cityId": 8590,
+    "label": "투무트 (Tumut)",
+    "name": "투무트",
+    "nameEn": "Tumut"
+  },
+  {
+    "cityId": 719717,
+    "label": "투바룸바 (Tubarumba)",
+    "name": "투바룸바",
+    "nameEn": "Tubarumba"
+  },
+  {
+    "cityId": 4480,
+    "label": "투움바 (Toowoomba)",
+    "name": "투움바",
+    "nameEn": "Toowoomba"
+  },
+  {
+    "cityId": 19829,
+    "label": "투클리 (Tweed)",
+    "name": "투클리",
+    "nameEn": "Tweed"
+  },
+  {
+    "cityId": 669529,
+    "label": "툴라 (Tula)",
+    "name": "툴라",
+    "nameEn": "Tula"
+  },
+  {
+    "cityId": 143341,
+    "label": "퉁가비 (Tungabbie)",
+    "name": "퉁가비",
+    "nameEn": "Tungabbie"
+  },
+  {
+    "cityId": 143347,
+    "label": "트래울 (Trawool)",
+    "name": "트래울",
+    "nameEn": "Trawool"
+  },
+  {
+    "cityId": 143348,
+    "label": "트렌담 (Trentham)",
+    "name": "트렌담",
+    "nameEn": "Trentham"
+  },
+  {
+    "cityId": 671630,
+    "label": "트리아부나 (Triabunna)",
+    "name": "트리아부나",
+    "nameEn": "Triabunna"
+  },
+  {
+    "cityId": 5296,
+    "label": "트위드해드 (Tweed Heads)",
+    "name": "트위드해드",
+    "nameEn": "Tweed Heads"
+  },
+  {
+    "cityId": 4597,
+    "label": "티 가든스 (Tea Gardens)",
+    "name": "티 가든스",
+    "nameEn": "Tea Gardens"
+  },
+  {
+    "cityId": 21459,
+    "label": "틸바 틸바 (Tilba Tilba)",
+    "name": "틸바 틸바",
+    "nameEn": "Tilba Tilba"
+  },
+  {
+    "cityId": 21414,
+    "label": "파인 크릭 (Pine Creek)",
+    "name": "파인 크릭",
+    "nameEn": "Pine Creek"
+  },
+  {
+    "cityId": 718162,
+    "label": "파제트 (Paget)",
+    "name": "파제트",
+    "nameEn": "Paget"
+  },
+  {
+    "cityId": 3277,
+    "label": "파크스 (Parkes)",
+    "name": "파크스",
+    "nameEn": "Parkes"
+  },
+  {
+    "cityId": 706663,
+    "label": "팔루마 (Paluma)",
+    "name": "팔루마",
+    "nameEn": "Paluma"
+  },
+  {
+    "cityId": 705305,
+    "label": "팜불라 (Pambula)",
+    "name": "팜불라",
+    "nameEn": "Pambula"
+  },
+  {
+    "cityId": 11980,
+    "label": "퍼스 (Perth)",
+    "name": "퍼스",
+    "nameEn": "Perth"
+  },
+  {
+    "cityId": 512958,
+    "label": "퍼시픽 팜스 (Pacific Palms)",
+    "name": "퍼시픽 팜스",
+    "nameEn": "Pacific Palms"
+  },
+  {
+    "cityId": 142216,
+    "label": "펀베일 (Fernvale)",
+    "name": "펀베일",
+    "nameEn": "Fernvale"
+  },
+  {
+    "cityId": 102394,
+    "label": "페놀라 (Penola)",
+    "name": "페놀라",
+    "nameEn": "Penola"
+  },
+  {
+    "cityId": 512754,
+    "label": "펜톤버리 (Pentonberry)",
+    "name": "펜톤버리",
+    "nameEn": "Pentonberry"
+  },
+  {
+    "cityId": 7469,
+    "label": "펨버튼 (Pemberton)",
+    "name": "펨버튼",
+    "nameEn": "Pemberton"
+  },
+  {
+    "cityId": 142806,
+    "label": "펭귄 (Penguin)",
+    "name": "펭귄",
+    "nameEn": "Penguin"
+  },
+  {
+    "cityId": 21419,
+    "label": "포레스트 (Forrest)",
+    "name": "포레스트",
+    "nameEn": "Forrest"
+  },
+  {
+    "cityId": 720459,
+    "label": "포르펀카 (Forfunka)",
+    "name": "포르펀카",
+    "nameEn": "Forfunka"
+  },
+  {
+    "cityId": 1132,
+    "label": "포브스 (Forbes)",
+    "name": "포브스",
+    "nameEn": "Forbes"
+  },
+  {
+    "cityId": 15491,
+    "label": "포스터 (Foster)",
+    "name": "포스터",
+    "nameEn": "Foster"
+  },
+  {
+    "cityId": 143247,
+    "label": "포인트 론스데일 (Point Lonsdale)",
+    "name": "포인트 론스데일",
+    "nameEn": "Point Lonsdale"
+  },
+  {
+    "cityId": 143526,
+    "label": "포인트 샘손 (Point Samson)",
+    "name": "포인트 샘손",
+    "nameEn": "Point Samson"
+  },
+  {
+    "cityId": 711754,
+    "label": "포인트 스튜어트 (Point Stuart)",
+    "name": "포인트 스튜어트",
+    "nameEn": "Point Stuart"
+  },
+  {
+    "cityId": 512979,
+    "label": "포지 크릭 (Forge Creek)",
+    "name": "포지 크릭",
+    "nameEn": "Forge Creek"
+  },
+  {
+    "cityId": 106003,
+    "label": "포탈링턴 (Portarlington)",
+    "name": "포탈링턴",
+    "nameEn": "Portarlington"
+  },
+  {
+    "cityId": 715340,
+    "label": "포테이토 포인트 (Potato Point)",
+    "name": "포테이토 포인트",
+    "nameEn": "Potato Point"
+  },
+  {
+    "cityId": 710812,
+    "label": "포트 데니슨 (Port Denison)",
+    "name": "포트 데니슨",
+    "nameEn": "Port Denison"
+  },
+  {
+    "cityId": 390219,
+    "label": "포트 소렐 (Port Sorell)",
+    "name": "포트 소렐",
+    "nameEn": "Port Sorell"
+  },
+  {
+    "cityId": 12619,
+    "label": "포트 스티븐스 (Port Stephens)",
+    "name": "포트 스티븐스",
+    "nameEn": "Port Stephens"
+  },
+  {
+    "cityId": 17916,
+    "label": "포트 아서 (Port Arthur)",
+    "name": "포트 아서",
+    "nameEn": "Port Arthur"
+  },
+  {
+    "cityId": 142661,
+    "label": "포트 윌룽가 (Port Willunga)",
+    "name": "포트 윌룽가",
+    "nameEn": "Port Willunga"
+  },
+  {
+    "cityId": 4859,
+    "label": "포트 페어리 (Port Fairy)",
+    "name": "포트 페어리",
+    "nameEn": "Port Fairy"
+  },
+  {
+    "cityId": 7435,
+    "label": "포트 헤드 랜드 (Port Hedland)",
+    "name": "포트 헤드 랜드",
+    "nameEn": "Port Hedland"
+  },
+  {
+    "cityId": 142657,
+    "label": "포트 휴스 (Port Hughes)",
+    "name": "포트 휴스",
+    "nameEn": "Port Hughes"
+  },
+  {
+    "cityId": 684,
+    "label": "포트더글라스 (Port Douglas)",
+    "name": "포트더글라스",
+    "nameEn": "Port Douglas"
+  },
+  {
+    "cityId": 17917,
+    "label": "포트랜드 (Portland)",
+    "name": "포트랜드",
+    "nameEn": "Portland"
+  },
+  {
+    "cityId": 21442,
+    "label": "포트링컨 (Port Lincoln)",
+    "name": "포트링컨",
+    "nameEn": "Port Lincoln"
+  },
+  {
+    "cityId": 9640,
+    "label": "포트맥쿼리 (Port Macquarie)",
+    "name": "포트맥쿼리",
+    "nameEn": "Port Macquarie"
+  },
+  {
+    "cityId": 14767,
+    "label": "포트오거스타 (Port Augusta)",
+    "name": "포트오거스타",
+    "nameEn": "Port Augusta"
+  },
+  {
+    "cityId": 13775,
+    "label": "포트피리 (Port Pirie)",
+    "name": "포트피리",
+    "nameEn": "Port Pirie"
+  },
+  {
+    "cityId": 15827,
+    "label": "폴스 크릭 (Falls Creek)",
+    "name": "폴스 크릭",
+    "nameEn": "Falls Creek"
+  },
+  {
+    "cityId": 10894,
+    "label": "폴스터 (Forster)",
+    "name": "폴스터",
+    "nameEn": "Forster"
+  },
+  {
+    "cityId": 702196,
+    "label": "푸눌룰루 국립공원 (Purnululu National Park)",
+    "name": "푸눌룰루 국립공원",
+    "nameEn": "Purnululu National Park"
+  },
+  {
+    "cityId": 143028,
+    "label": "프레쉬워터 크릭 (Freshwater Creek)",
+    "name": "프레쉬워터 크릭",
+    "nameEn": "Freshwater Creek"
+  },
+  {
+    "cityId": 106054,
+    "label": "프레이저 코스트 (Fraser Coast)",
+    "name": "프레이저 코스트",
+    "nameEn": "Fraser Coast"
+  },
+  {
+    "cityId": 292824,
+    "label": "플러리어 반도 (Fleurieu Peninsula)",
+    "name": "플러리어 반도",
+    "nameEn": "Fleurieu Peninsula"
+  },
+  {
+    "cityId": 719709,
+    "label": "플린더스 아일랜드 (Flinders Island)",
+    "name": "플린더스 아일랜드",
+    "nameEn": "Flinders Island"
+  },
+  {
+    "cityId": 141587,
+    "label": "피그트리 (Figtree)",
+    "name": "피그트리",
+    "nameEn": "Figtree"
+  },
+  {
+    "cityId": 706228,
+    "label": "피크 힐 (Peak Hill)",
+    "name": "피크 힐",
+    "nameEn": "Peak Hill"
+  },
+  {
+    "cityId": 716187,
+    "label": "피터버러 (Peterborough)",
+    "name": "피터버러",
+    "nameEn": "Peterborough"
+  },
+  {
+    "cityId": 671561,
+    "label": "픽턴 (NSW) (Picton, NSW)",
+    "name": "픽턴 (NSW)",
+    "nameEn": "Picton, NSW"
+  },
+  {
+    "cityId": 16610,
+    "label": "필립섬 (Phillip Island)",
+    "name": "필립섬",
+    "nameEn": "Phillip Island"
+  },
+  {
+    "cityId": 143524,
+    "label": "필바라 (Pilbara)",
+    "name": "필바라",
+    "nameEn": "Pilbara"
+  },
+  {
+    "cityId": 513551,
+    "label": "하베이 베이 (Hervey Bay)",
+    "name": "하베이 베이",
+    "nameEn": "Hervey Bay"
+  },
+  {
+    "cityId": 390166,
+    "label": "하우롱 (Howlong)",
+    "name": "하우롱",
+    "nameEn": "Howlong"
+  },
+  {
+    "cityId": 710467,
+    "label": "하이드어웨이 베이 (Hideaway Bay)",
+    "name": "하이드어웨이 베이",
+    "nameEn": "Hideaway Bay"
+  },
+  {
+    "cityId": 141631,
+    "label": "해링턴 (Harrington)",
+    "name": "해링턴",
+    "nameEn": "Harrington"
+  },
+  {
+    "cityId": 711752,
+    "label": "해밀턴 (태즈마니아) (Hamilton, Tasmania)",
+    "name": "해밀턴 (태즈마니아)",
+    "nameEn": "Hamilton, Tasmania"
+  },
+  {
+    "cityId": 14576,
+    "label": "허비 베이 (Hervey Bay)",
+    "name": "허비 베이",
+    "nameEn": "Hervey Bay"
+  },
+  {
+    "cityId": 17905,
+    "label": "허스키슨 (Huskisson)",
+    "name": "허스키슨",
+    "nameEn": "Huskisson"
+  },
+  {
+    "cityId": 17904,
+    "label": "헌터밸리 (Hunter Valley)",
+    "name": "헌터밸리",
+    "nameEn": "Hunter Valley"
+  },
+  {
+    "cityId": 718158,
+    "label": "헤리즐딘 (Herizledin)",
+    "name": "헤리즐딘",
+    "nameEn": "Herizledin"
+  },
+  {
+    "cityId": 6936,
+    "label": "헤이 (Hay)",
+    "name": "헤이",
+    "nameEn": "Hay"
+  },
+  {
+    "cityId": 702242,
+    "label": "헤이브리지 (Haybridge)",
+    "name": "헤이브리지",
+    "nameEn": "Haybridge"
+  },
+  {
+    "cityId": 711890,
+    "label": "헤이필드 (Hayfield)",
+    "name": "헤이필드",
+    "nameEn": "Hayfield"
+  },
+  {
+    "cityId": 720465,
+    "label": "헬리던 스파 (Halidon Spa)",
+    "name": "헬리던 스파",
+    "nameEn": "Halidon Spa"
+  },
+  {
+    "cityId": 14983,
+    "label": "호바트 (Hobart)",
+    "name": "호바트",
+    "nameEn": "Hobart"
+  },
+  {
+    "cityId": 17903,
+    "label": "호쉠 (Horsham)",
+    "name": "호쉠",
+    "nameEn": "Horsham"
+  },
+  {
+    "cityId": 3085,
+    "label": "호커 (Hawker)",
+    "name": "호커",
+    "nameEn": "Hawker"
+  },
+  {
+    "cityId": 716247,
+    "label": "호프타운 (웨스턴 오스트레일리아) (Hopetown, WA)",
+    "name": "호프타운 (웨스턴 오스트레일리아)",
+    "nameEn": "Hopetown, WA"
+  },
+  {
+    "cityId": 17902,
+    "label": "혹스베리 벨리 (Hawkesbury Valley)",
+    "name": "혹스베리 벨리",
+    "nameEn": "Hawkesbury Valley"
+  },
+  {
+    "cityId": 713189,
+    "label": "혼 아일랜드 (Horn Island)",
+    "name": "혼 아일랜드",
+    "nameEn": "Horn Island"
+  },
+  {
+    "cityId": 256222,
+    "label": "홀브룩 (Holbrook)",
+    "name": "홀브룩",
+    "nameEn": "Holbrook"
+  },
+  {
+    "cityId": 19548,
+    "label": "홀스크릭 (Halls Creek)",
+    "name": "홀스크릭",
+    "nameEn": "Halls Creek"
+  },
+  {
+    "cityId": 280,
+    "label": "화이앨라 (Whyalla)",
+    "name": "화이앨라",
+    "nameEn": "Whyalla"
+  },
+  {
+    "cityId": 102404,
+    "label": "화이트 비치 (White Beach)",
+    "name": "화이트 비치",
+    "nameEn": "White Beach"
+  },
+  {
+    "cityId": 102383,
+    "label": "후온 밸리 (Huon Valley)",
+    "name": "후온 밸리",
+    "nameEn": "Huon Valley"
+  },
+  {
+    "cityId": 12395,
+    "label": "휘트선데이 아일랜드 (Whitsunday Islands)",
+    "name": "휘트선데이 아일랜드",
+    "nameEn": "Whitsunday Islands"
+  }
+]

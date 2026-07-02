@@ -1,0 +1,16 @@
+[
+  {
+    "cityId": 14524,
+    "slug": "kuala-lumpur",
+    "label": "쿠알라룸푸르",
+    "name": "쿠알라룸푸르",
+    "nameEn": "쿠알라룸푸르"
+  },
+  {
+    "cityId": 10462,
+    "slug": "penang",
+    "label": "페낭",
+    "name": "페낭",
+    "nameEn": "페낭"
+  }
+]

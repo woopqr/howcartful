@@ -1,0 +1,44 @@
+[
+  {
+    "cityId": 16440,
+    "slug": "danang",
+    "label": "다낭",
+    "name": "다낭",
+    "nameEn": "다낭"
+  },
+  {
+    "cityId": 2758,
+    "slug": "hanoi",
+    "label": "하노이",
+    "name": "하노이",
+    "nameEn": "하노이"
+  },
+  {
+    "cityId": 2679,
+    "slug": "nha-trang",
+    "label": "냐짱",
+    "name": "냐짱",
+    "nameEn": "냐짱"
+  },
+  {
+    "cityId": 15932,
+    "slug": "dalat",
+    "label": "달랏",
+    "name": "달랏",
+    "nameEn": "달랏"
+  },
+  {
+    "cityId": 13170,
+    "slug": "ho-chi-minh",
+    "label": "호치민",
+    "name": "호치민",
+    "nameEn": "호치민"
+  },
+  {
+    "cityId": 16552,
+    "slug": "hoi-an",
+    "label": "호이안",
+    "name": "호이안",
+    "nameEn": "호이안"
+  }
+]

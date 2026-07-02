@@ -1,0 +1,51 @@
+[
+  {
+    "cityId": 14690,
+    "slug": "seoul",
+    "label": "서울",
+    "name": "서울",
+    "nameEn": "서울"
+  },
+  {
+    "cityId": 17172,
+    "slug": "busan",
+    "label": "부산",
+    "name": "부산",
+    "nameEn": "부산"
+  },
+  {
+    "cityId": 16901,
+    "slug": "jeju",
+    "label": "제주",
+    "name": "제주",
+    "nameEn": "제주"
+  },
+  {
+    "cityId": 17234,
+    "slug": "incheon",
+    "label": "인천",
+    "name": "인천",
+    "nameEn": "인천"
+  },
+  {
+    "cityId": 17232,
+    "slug": "daegu",
+    "label": "대구",
+    "name": "대구",
+    "nameEn": "대구"
+  },
+  {
+    "cityId": 17233,
+    "slug": "daejeon",
+    "label": "대전",
+    "name": "대전",
+    "nameEn": "대전"
+  },
+  {
+    "cityId": 17236,
+    "slug": "sokcho",
+    "label": "속초",
+    "name": "속초",
+    "nameEn": "속초"
+  }
+]

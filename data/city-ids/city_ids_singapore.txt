@@ -1,0 +1,4 @@
+const cityIds = [
+  // 싱가포르 (Singapore)
+    4064,   // 싱가포르
+];

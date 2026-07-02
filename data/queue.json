@@ -5,6 +5,12 @@
   "postedToday": 0,
   "postedDate": "2026-07-02",
   "queue": [],
+  "fetchState": {
+    "regionIndex": 0,
+    "cityIndex": 0,
+    "regionFails": 0,
+    "skippedIds": []
+  },
   "publishedSlugs": [
     "osaka-namba",
     "tokyo",

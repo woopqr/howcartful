@@ -1,0 +1,30 @@
+[
+  {
+    "cityId": 4951,
+    "slug": "taipei",
+    "label": "타이베이",
+    "name": "타이베이",
+    "nameEn": "타이베이"
+  },
+  {
+    "cityId": 756,
+    "slug": "kaohsiung",
+    "label": "가오슝",
+    "name": "가오슝",
+    "nameEn": "가오슝"
+  },
+  {
+    "cityId": 12080,
+    "slug": "taichung",
+    "label": "타이중",
+    "name": "타이중",
+    "nameEn": "타이중"
+  },
+  {
+    "cityId": 18347,
+    "slug": "tainan",
+    "label": "타이난",
+    "name": "타이난",
+    "nameEn": "타이난"
+  }
+]

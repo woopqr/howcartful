@@ -1,0 +1,57 @@
+{
+  "japan": {
+    "label": "일본",
+    "countryEn": "Japan",
+    "count": 9
+  },
+  "korea": {
+    "label": "한국",
+    "countryEn": "Korea",
+    "count": 7
+  },
+  "taiwan": {
+    "label": "대만",
+    "countryEn": "Taiwan",
+    "count": 4
+  },
+  "thailand": {
+    "label": "태국",
+    "countryEn": "Thailand",
+    "count": 4
+  },
+  "vietnam": {
+    "label": "베트남",
+    "countryEn": "Vietnam",
+    "count": 6
+  },
+  "singapore": {
+    "label": "싱가포르",
+    "countryEn": "Singapore",
+    "count": 1
+  },
+  "hongkong": {
+    "label": "홍콩",
+    "countryEn": "Hong Kong",
+    "count": 1
+  },
+  "malaysia": {
+    "label": "말레이시아",
+    "countryEn": "Malaysia",
+    "count": 2
+  },
+  "indonesia": {
+    "label": "인도네시아",
+    "countryEn": "Indonesia",
+    "count": 2
+  },
+  "philippines": {
+    "label": "필리핀",
+    "countryEn": "Philippines",
+    "count": 3
+  },
+  "australia": {
+    "label": "호주",
+    "countryEn": "Australia",
+    "count": 691
+  }
+}

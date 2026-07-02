@@ -1,0 +1,16 @@
+[
+  {
+    "cityId": 17193,
+    "slug": "bali",
+    "label": "발리",
+    "name": "발리",
+    "nameEn": "발리"
+  },
+  {
+    "cityId": 8691,
+    "slug": "jakarta",
+    "label": "자카르타",
+    "name": "자카르타",
+    "nameEn": "자카르타"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "cityId": 1622,
+    "slug": "manila",
+    "label": "마닐라",
+    "name": "마닐라",
+    "nameEn": "마닐라"
+  },
+  {
+    "cityId": 4001,
+    "slug": "cebu",
+    "label": "세부",
+    "name": "세부",
+    "nameEn": "세부"
+  },
+  {
+    "cityId": 15903,
+    "slug": "boracay",
+    "label": "보라카이",
+    "name": "보라카이",
+    "nameEn": "보라카이"
+  }
+]

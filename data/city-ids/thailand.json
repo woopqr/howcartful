@@ -1,0 +1,30 @@
+[
+  {
+    "cityId": 9395,
+    "slug": "bangkok",
+    "label": "방콕",
+    "name": "방콕",
+    "nameEn": "방콕"
+  },
+  {
+    "cityId": 7401,
+    "slug": "chiangmai",
+    "label": "치앙마이",
+    "name": "치앙마이",
+    "nameEn": "치앙마이"
+  },
+  {
+    "cityId": 16056,
+    "slug": "phuket",
+    "label": "푸켓",
+    "name": "푸켓",
+    "nameEn": "푸켓"
+  },
+  {
+    "cityId": 8584,
+    "slug": "pattaya",
+    "label": "파타야",
+    "name": "파타야",
+    "nameEn": "파타야"
+  }
+]

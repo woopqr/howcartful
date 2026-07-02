@@ -1,0 +1,4 @@
+const cityIds = [
+  // 홍콩 (Hong Kong)
+    16808,   // 홍콩
+];
