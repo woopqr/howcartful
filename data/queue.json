@@ -1,15 +1,15 @@
 {
-  "lastPostedAt": "2026-07-02T21:31:15.200Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 7,
+  "lastPostedAt": "2026-07-02T22:40:34.267Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 8,
   "postedDate": "2026-07-02",
   "queue": [
-    "australia-geringong"
+    "australia-gatton"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 7,
+    "cityIndex": 8,
     "regionFails": 0,
     "skippedIds": []
   },
@@ -55,6 +55,7 @@
     "hoi-an",
     "australia-gardners-bay",
     "australia-garlon",
-    "australia-geroa"
+    "australia-geroa",
+    "australia-geringong"
   ]
 }
