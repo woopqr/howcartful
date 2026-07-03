@@ -5,11 +5,12 @@
   "postedToday": 10,
   "postedDate": "2026-07-03",
   "queue": [
-    "australia-grafton"
+    "australia-grafton",
+    "australia-grandchester"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 20,
+    "cityIndex": 21,
     "regionFails": 0,
     "skippedIds": [
       513016

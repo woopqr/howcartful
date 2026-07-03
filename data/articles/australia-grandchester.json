@@ -1,0 +1,118 @@
+{
+  "slug": "australia-grandchester",
+  "title": "그랜드체스터 가성비 호텔 2곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 그랜드체스터 가성비 호텔 2곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "그랜드체스터",
+  "cityId": 720464,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "그랜드체스터",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/525279103.jpg?k=f6a17d88a4579c47102b568595359a793390c91efaaa8d1778e625e9bffe6a02&o=",
+  "heroAlt": "그랜드체스터",
+  "heroTitleHtml": "그랜드체스터 가성비 호텔 2곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>The Grandchester Cottage</b>(평점 9.6·리뷰 135건·1박 약 19만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>The Grandchester Cottage</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/525279103.jpg?k=f6a17d88a4579c47102b568595359a793390c91efaaa8d1778e625e9bffe6a02&o=",
+  "outroTitle": "🌙 그랜드체스터, 어디에 묵어도 후회없이",
+  "outroText": "위 2곳은 모두 그랜드체스터 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 그랜드체스터 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Grandchester Cottage",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-cottage-farm-stay-grandchester/hotel/all/grandchester-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 135,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/525279103.jpg?k=f6a17d88a4579c47102b568595359a793390c91efaaa8d1778e625e9bffe6a02&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 135건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 135건 기반.",
+      "reviews": [
+        {
+          "text": "멋지게 장식되어 있고, 프라이빗하고 평화롭습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Spicers Hidden Vale",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/spicers-hidden-vale/hotel/all/grandchester-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 103,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 52만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/377382105.jpg?k=831c06175b13a59c704223284c47ee8e05dccde08e2d67581f8aa026ca8ac002&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 52만원",
+        "📝 리뷰 103건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 103건 기반.",
+      "reviews": [
+        {
+          "text": "아름다운 오두막, 아름다운 위치; 전반적으로 매우 좋은 장소.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "레스토랑 음식도 맛있고 서비스도 매우 좋습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "아름다운 위치, 매우 멋진 바와 레스토랑 공간.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "우리는 곧바로 다시 머물고 싶습니다!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 즐거운 시간을 보냈습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-03T21:47:36.929Z",
+    "source": "agoda citySearch",
+    "count": 2
+  }
+}
