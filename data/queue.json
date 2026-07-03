@@ -1,17 +1,19 @@
 {
-  "lastPostedAt": "2026-07-03T05:01:50.830Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 2,
+  "lastPostedAt": "2026-07-03T08:18:48.416Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 3,
   "postedDate": "2026-07-03",
   "queue": [
-    "australia-gol-gol"
+    "australia-gold-coast"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 11,
+    "cityIndex": 13,
     "regionFails": 0,
-    "skippedIds": []
+    "skippedIds": [
+      513016
+    ]
   },
   "publishedSlugs": [
     "osaka-namba",
@@ -59,6 +61,7 @@
     "australia-geringong",
     "australia-gatton",
     "australia-gelibrand",
-    "australia-gorokan"
+    "australia-gorokan",
+    "australia-gol-gol"
   ]
 }
