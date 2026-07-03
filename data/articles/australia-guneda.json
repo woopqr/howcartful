@@ -1,0 +1,246 @@
+{
+  "slug": "australia-guneda",
+  "title": "구네다 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 구네다 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "구네다",
+  "cityId": 78910,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "구네다",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/474467048.jpg?k=cf610a209dada56ae819336bb7ca9cf28ab60166603fb38f719fbcefa2cca027&o=",
+  "heroAlt": "구네다",
+  "heroTitleHtml": "구네다 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Courthouse Hotel Gunnedah</b>(평점 7.2·리뷰 85건·1박 약 6만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Courthouse Hotel Gunnedah</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/474467048.jpg?k=cf610a209dada56ae819336bb7ca9cf28ab60166603fb38f719fbcefa2cca027&o=",
+  "outroTitle": "🌙 구네다, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 구네다 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 구네다 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Courthouse Hotel Gunnedah",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/courthouse-hotel-gunnedah/hotel/all/gunnedah-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.2,
+      "reviewCount": 85,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/474467048.jpg?k=cf610a209dada56ae819336bb7ca9cf28ab60166603fb38f719fbcefa2cca027&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 85건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.2</b> · 실제 투숙객 리뷰 85건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Overlander Motor Lodge pty ltd.",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/overlander-motor-lodge-h10304746/hotel/gunnedah-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 563,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/106/10614242/10614242_19122111420086193631.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 563건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 563건 기반.",
+      "reviews": [
+        {
+          "text": "중앙 위치, 친절한 직원",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "좋은 가치",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Gunnedah Tourist Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/gunnedah-tourist-caravan-park/hotel/all/gunnedah-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 81,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/595580966.jpg?k=0fd010f0918528771c2acc8545e269b3025bafc115b5e78e1e72e8a3abbd19e4&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 81건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 81건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Red Chief Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/red-chief-motel/hotel/all/gunnedah-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 47,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/681328189.jpg?k=e1f74182fc00773373fcab57b9238e55676b9faece725c2d15634f4df28cb3b1&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 47건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 47건 기반.",
+      "reviews": [
+        {
+          "text": "방은 넓고 메인 스트리트까지 쉽게 걸어갈 수 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "내가 와서 방문할 때 머물기에 가장 좋은 곳… 직원이 굉장하다",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 직원, 시내 중심부, 모든 편의시설과 가깝습니다.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 서비스와 훌륭한 객실",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "나는 관리자가 매우 도움이되고 친절하다는 것을 알았습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Billabong Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/billabong-motel/hotel/gunnedah-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 396,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/250/25064473/25064473_21052110350097459818.jpg?ca=19&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 396건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 396건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "매켈러 모텔 (Mackellar Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mackellar-motel/hotel/gunnedah-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 367,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/699399/0/c865927a23fc7471cc5df5242f527640.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 367건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 367건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 서비스와 매우 깨끗한 시설.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Harvest Lodge Motel - Gunnedah",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/harvest-lodge-motel-gunnedah/hotel/all/gunnedah-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 229,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/217077409.jpg?k=7bd486e3aec0eb487166e4fa01e02ecce31b1f9e6f5796defc85082c04132ac5&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 229건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 229건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-03T13:04:13.386Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

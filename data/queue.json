@@ -1,15 +1,15 @@
 {
-  "lastPostedAt": "2026-07-03T11:03:39.304Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 4,
+  "lastPostedAt": "2026-07-03T13:04:04.922Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 5,
   "postedDate": "2026-07-03",
   "queue": [
-    "australia-goulburn"
+    "australia-guneda"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 14,
+    "cityIndex": 15,
     "regionFails": 0,
     "skippedIds": [
       513016
@@ -63,6 +63,7 @@
     "australia-gelibrand",
     "australia-gorokan",
     "australia-gol-gol",
-    "australia-gold-coast"
+    "australia-gold-coast",
+    "australia-goulburn"
   ]
 }
