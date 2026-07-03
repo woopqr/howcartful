@@ -1,0 +1,418 @@
+{
+  "slug": "australia-gundagai",
+  "title": "군다가이 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 군다가이 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "군다가이",
+  "cityId": 214878,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "군다가이",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/858499165.jpg?k=85a0ba51f947384721eed3ecc9c3ee944de627efc7bc879da0fdf75bc004d5e4&o=",
+  "heroAlt": "군다가이",
+  "heroTitleHtml": "군다가이 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Criterion Hotel Gundagai</b>(평점 8.9·리뷰 580건·1박 약 10만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Criterion Hotel Gundagai</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/858499165.jpg?k=85a0ba51f947384721eed3ecc9c3ee944de627efc7bc879da0fdf75bc004d5e4&o=",
+  "outroTitle": "🌙 군다가이, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 군다가이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 군다가이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Criterion Hotel Gundagai",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/criterion-hotel-gundagai/hotel/all/gundagai-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 580,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/858499165.jpg?k=85a0ba51f947384721eed3ecc9c3ee944de627efc7bc879da0fdf75bc004d5e4&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 580건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 580건 기반.",
+      "reviews": [
+        {
+          "text": "Nice comfortable location to stay at.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Perfect one night stopover",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Clean, comfortable bed, right in the middle of town.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Very easy to check in, friendly staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "조만간 다시 들러보고 싶어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Garden Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/garden-motor-inn-gundagai/hotel/all/gundagai-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 164,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/476493289.jpg?k=2ff461df47b0eb7f5639d79eb75367502665e3bfc03ead34fe1553f70809c29b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 164건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 164건 기반.",
+      "reviews": [
+        {
+          "text": "편안한 침대, 좋은 현대식 에어컨, 멋진 샤워 시설, 조용함.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "거대한 전망을 감상할 수 있는 창문, 훌륭한 침대, 대형 샤워실이 마음에 듭니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안해서 정말 즐거운 시간을 보냈습니다. 감사합니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "숙소의 모든 면에 매우 만족합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "사랑스럽고 현대적인 색상으로 최근 개조된 아름다운 객실입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Poet's Recall Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/poet-s-recall-motel_2/hotel/all/gundagai-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 64,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/40168677.jpg?k=32d13eaf596a804562d5e4ab01055972f7bf715c0fe8e36f6929dd11c1f2f7c0&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 64건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 64건 기반.",
+      "reviews": [
+        {
+          "text": "모텔은 깨끗하고 조용하며 좋은 위치에 있어 매력적이었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고 넓고 깨끗하고 직원도 친절해요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "우리는 몇 번 머물렀지만 지금은 항상 즐거운 시간을 보내고 있습니다",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 깨끗하고 깔끔한 객실, 친절한 직원",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 방이 깨끗하고 깔끔하다고 생각했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Gundagai Tourist Suites",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/gundagai-tourist-suites_2/hotel/all/gundagai-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 50,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/254818714.jpg?k=f8356bbc97716d021a1095a684bbd84923ac1d94e094c08a7bc0d8268a800133&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 50건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 50건 기반.",
+      "reviews": [
+        {
+          "text": "꼭 다시 머물고 다른 사람들에게도 추천할 것입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "침대는 매우 편안했고 샤워 시설도 훌륭했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "다음에 시드니에 가면 또 묵을 예정입니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "성인 3명이 숙박하기에 매우 깨끗하고 넓은 객실입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치, 사랑스러운 장소, 샤워 시설이 완벽합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Gundagai Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/gundagai-motel/hotel/all/gundagai-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 142,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/512258137.jpg?k=1c3428d666d9b9ff19b073ee81f586f5a475d37c1ad4e2c383ccfce0e3e090cb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 142건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 142건 기반.",
+      "reviews": [
+        {
+          "text": "Gundagai에 머물기에 훌륭한 모텔입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "하지만 전반적으로 머물기에 좋은 곳이고 다시 가고 싶습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안하며 합리적인 가격.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "시드니에서 멜버른까지의 여행에 훌륭한 중간 기착 모텔입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "오래된 모텔은 매우 깨끗하고 위치가 좋습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Tuckerbox Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tuckerbox-motor-inn/hotel/all/gundagai-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 45,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/158015450.jpg?k=91149a946e012bada7cf569ef9e8dc7f54d38404d29eaffc65a05dbb475be1f9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 45건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 45건 기반.",
+      "reviews": [
+        {
+          "text": "패밀리룸은 생각보다 넓었고 매우 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "객실은 크고 깨끗하며 필요한 모든 편의 시설을 갖추고 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "터커박스 모터 인(Tuckerbox Motor Inn)은 정말 우리의 기대를 뛰어넘었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "주인은 사랑스럽고 객실은 환상적이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "전자레인지와 싱크대를 갖춘 훌륭한 주방과 좋은 벤치 공간",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Flash Jacks of Gundagai",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/flash-jacks-of-gundagai/hotel/all/gundagai-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 491,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/496854134.jpg?k=a88bef87fa4579cb61623e37502277ce4d320938d0533c81b148e562d5691993&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 491건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 491건 기반.",
+      "reviews": [
+        {
+          "text": "Gundagai의 Flash Jacks에서의 아름다운 숙박.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "향수와 아름다움이 어우러진 멋진 곳.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-03T15:21:44.051Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
