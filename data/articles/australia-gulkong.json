@@ -1,0 +1,323 @@
+{
+  "slug": "australia-gulkong",
+  "title": "굴공 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 굴공 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "굴공",
+  "cityId": 694523,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "굴공",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/542139179.jpg?k=8bc1935bb6bba0377099916c30c2ebdb2d84a6b35c507c01e3db0a5575bf85ef&o=",
+  "heroAlt": "굴공",
+  "heroTitleHtml": "굴공 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Gulgong Tourist Park</b>(평점 9.2·리뷰 313건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Gulgong Tourist Park</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/542139179.jpg?k=8bc1935bb6bba0377099916c30c2ebdb2d84a6b35c507c01e3db0a5575bf85ef&o=",
+  "outroTitle": "🌙 굴공, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 굴공 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 굴공 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Gulgong Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/gulgong-tourist-park/hotel/all/gulgong-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 313,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/542139179.jpg?k=8bc1935bb6bba0377099916c30c2ebdb2d84a6b35c507c01e3db0a5575bf85ef&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 313건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 313건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Ten Dollar Town Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ten-dollar-town-motel/hotel/all/gulgong-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 44,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/820404850.jpg?k=006d25b956661103606ff9aadd67c20fdae9de22d6d2371b2e6b86e3ffd4c740&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 44건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 44건 기반.",
+      "reviews": [
+        {
+          "text": "방은 깨끗했고, 샤워실에는 계속해서 뜨거운 물이 나왔습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "매우 훌륭하고 깨끗하며 현대적이며 시내에 쉽게 접근할 수 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "문제가 없었고 모든 것에 가깝습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "확실히 다시 머물 것입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "PowerPoint에는 USB 충전 포트가 많습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Commercial Travellers House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/commercial-travellers-house/hotel/all/gulgong-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 150,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/273402770.jpg?k=baed735d3bee8d0a34dc580e239b26d31d9c5dfa6f6bcd2b406dd92db460de2e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 150건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 150건 기반.",
+      "reviews": [
+        {
+          "text": "가격 대비 깨끗하고 공용 시설이 깨끗합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "시트와 방은 깨끗했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "그 방에는 내가 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Prince Of Wales Hotel Gulgong",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/prince-of-wales-hotel-gulgong/hotel/all/gulgong-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 153,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/412893465.jpg?k=d6174d7a2b66e583bd10233ad998cb741f981821cbaf71f770e4b8df968820af&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 153건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 153건 기반.",
+      "reviews": [
+        {
+          "text": "편안한 침대, 에어컨, 편리한 전자레인지/냉장고 시설.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "이곳은 깨끗하고 편안했어요.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "우리의 2박 숙박은 훌륭했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "레스토랑/펍과 연결되어 있어 편리합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "매우 도움이 되는 직원",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Gulgong Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/gulgong-motel/hotel/gulgong-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 507,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/42996539.jpg?k=b93562f349ed49bd6d4a0dc9a71c628c402c81c0c64e9a2c937b186eb29c81ac&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 507건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 507건 기반.",
+      "reviews": [
+        {
+          "text": "가격 대비 훌륭한 가치, 단기 체류에 좋습니다!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "겸손하지만 직원과 위치는 100%입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "리모델링된 객실, 친절한 직원",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "수영장도 좋고 방도 너무 좋았습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "편리한 모텔, 가격 대비 훌륭한 가치",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "오울 헤드 로지 (Owl Head Lodge)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/owl-head-lodge/hotel/gulgong-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 183,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/488053/0/0b3cf17a8d70d1ac15ce675114b8a594.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 183건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 183건 기반.",
+      "reviews": [
+        {
+          "text": "Owl Head Lodge에서의 미니 휴식이 정말 마음에 들었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "환상적인 숙소",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "적극 권장합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "그렇지 않으면 완벽한 숙박입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-03T18:04:51.368Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}
