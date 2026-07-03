@@ -6,11 +6,12 @@
   "postedDate": "2026-07-03",
   "queue": [
     "australia-grafton",
-    "australia-grandchester"
+    "australia-grandchester",
+    "australia-grampians"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 21,
+    "cityIndex": 22,
     "regionFails": 0,
     "skippedIds": [
       513016
