@@ -1,0 +1,413 @@
+{
+  "slug": "australia-grafton",
+  "title": "그래프턴 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 그래프턴 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "grafton-au",
+  "cityName": "그래프턴",
+  "cityId": 21392,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "그래프턴",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/655255072.jpg?k=e4501608fe4e7f0c7af0eb28429d70868d7d7fc58d4df09c422bf9be6b1c3226&o=",
+  "heroAlt": "그래프턴",
+  "heroTitleHtml": "그래프턴 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>BIG4 Big River Holiday Park</b>(평점 9·리뷰 102건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>BIG4 Big River Holiday Park</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/655255072.jpg?k=e4501608fe4e7f0c7af0eb28429d70868d7d7fc58d4df09c422bf9be6b1c3226&o=",
+  "outroTitle": "🌙 그래프턴, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 그래프턴 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 그래프턴 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "BIG4 Big River Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big-river-holiday-park-and-ski-lodge-h26201321/hotel/grafton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 102,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/655255072.jpg?k=e4501608fe4e7f0c7af0eb28429d70868d7d7fc58d4df09c422bf9be6b1c3226&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 102건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 102건 기반.",
+      "reviews": [
+        {
+          "text": "주 중반이므로 너무 바쁘지 않고 사랑스럽고 조용한 환경입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "위치와 같은 사랑스러운 성역.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "확실히 다시 머물 것입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "매우 도움이되는 직원.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "조용하고 평화로운",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Andavine House - Bed & Breakfast",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/andavine-house-bed-breakfast/hotel/all/grafton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 189,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/243247497.jpg?k=c8fb57a76ba99bc41b3a391e8cc48ed3ea895a193173aecb1912c11f050b77a8&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 189건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 189건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 전통 B&B",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "헤리티지 리버 모토 인 (Heritage River Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/heritage-river-motor-inn/hotel/grafton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 432,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/567993/-1/8b6137f20e7d99204820eb944ca03759.jpg?ca=12&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 432건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 432건 기반.",
+      "reviews": [
+        {
+          "text": "나는 조용한 환경과 좋은 위치도 좋아합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "세련된 스타일의 숙소를 발견하게 되어 매우 기쁩니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "편안한 침대와 사랑스러운 좌석 공간, 간이 주방이 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "호텔은 완벽했고 우리 세 가족에게 적합했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "모텔과 서비스에 매우 만족합니다",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "피츠로이 모토 인 (Fitzroy Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/fitzroy-motor-inn/hotel/grafton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 914,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/479/479309/479309_14041411200019065575.jpg?ca=2&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 914건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 914건 기반.",
+      "reviews": [
+        {
+          "text": "나는 그래프턴에 사업차 올 때마다 여기에 머물 것입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "패밀리룸은 거대했고 우리의 모든 요구를 충족했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 누구에게나 Fitzroy에 머무르는 것을 추천합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "제가 머물렀던 방은 현대화되어 휘파람 불듯이 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "공간은 깨끗하고 깔끔하여 매력적인 느낌을 주었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "그래프턴 센트럴 모텔 (Grafton Central Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/grafton-central-motel/hotel/grafton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 130,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/2612486/0/9d825fc5c76f0c29156a0c7dc9b86936.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 130건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 130건 기반.",
+      "reviews": [
+        {
+          "text": "방은 넓고 최근에 개조된 것 같습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "밤새 머물기에 좋은 곳이었습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 객실과 편안한 침대를 갖춘 훌륭한 위치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 물건을 넣을 공간이 많았습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치, 깨끗한 객실, 친절한 직원",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Comfort Inn Grafton",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quality-inn-grafton/hotel/grafton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 629,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/568869/0/45a00bcf2789019ffd6f6037e13515d5.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 629건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 629건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 앞으로 다시 여기에 머물 것입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 킹 스위트룸으로 업그레이드 받았는데 정말 좋았습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "긴 운전 후 휴식을 취하기에 좋은 수영장입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "체크인, 체크아웃 시 직원들이 정말 친절했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편리하며 편안합니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "클레어런스 리버 비앤비 (Clarence River Bed & Breakfast)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/clarence-river-bed-breakfast/hotel/grafton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.8,
+      "reviewCount": 353,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/263/263937/263937_14121317330023944847.jpg?ca=3&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 353건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 353건 기반.",
+      "reviews": [
+        {
+          "text": "방은 큰 욕조와 발코니로 매우 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "방은 훌륭했고 호스트는 매우 친절했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "음료와 치즈, 비키를 가족처럼 환영받았습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "정말 놀라운 평화로운 휴양지",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "정말 환상적인 숙박 ❤️",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-03T20:45:37.847Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
