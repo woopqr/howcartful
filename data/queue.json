@@ -7,11 +7,12 @@
   "queue": [
     "australia-grafton",
     "australia-grandchester",
-    "australia-grampians"
+    "australia-grampians",
+    "australia-great-barrier-reef"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 22,
+    "cityIndex": 23,
     "regionFails": 0,
     "skippedIds": [
       513016
