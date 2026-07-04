@@ -1,0 +1,109 @@
+{
+  "slug": "australia-great-ocean-road-wye-river",
+  "title": "그레이트 오션 로드 - 와이 리버 가성비 호텔 2곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 그레이트 오션 로드 - 와이 리버 가성비 호텔 2곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "그레이트 오션 로드 - 와이 리버",
+  "cityId": 143397,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "그레이트 오션 로드 - 와이 리버",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/117579333.jpg?k=005c713efd13466607748509bd79a0bc929327114b7fc3af37ad3ab82845a257&o=",
+  "heroAlt": "그레이트 오션 로드 - 와이 리버",
+  "heroTitleHtml": "그레이트 오션 로드 - 와이 리버 가성비 호텔 2곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Cumberland River Holiday Park</b>(평점 8.5·리뷰 269건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Cumberland River Holiday Park</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/117579333.jpg?k=005c713efd13466607748509bd79a0bc929327114b7fc3af37ad3ab82845a257&o=",
+  "outroTitle": "🌙 그레이트 오션 로드 - 와이 리버, 어디에 묵어도 후회없이",
+  "outroText": "위 2곳은 모두 그레이트 오션 로드 - 와이 리버 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 그레이트 오션 로드 - 와이 리버 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Cumberland River Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cumberland-river-holiday-park/hotel/all/great-ocean-road-lorne-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 269,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/117579333.jpg?k=005c713efd13466607748509bd79a0bc929327114b7fc3af37ad3ab82845a257&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 269건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 269건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗한 객실, 아름다운 개울… 자연이 최고입니다! 정말 좋아요!",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "머물기에 아름다운 숙소, 훌륭한 위치",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "놀라운 숙소 완벽한 위치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "나는 가족과 친구들에게 추천하고 싶습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "고요하고 조용한 숙박 장소",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "BIG4 Wye River Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-wye-river-holiday-park_2/hotel/all/great-ocean-road-wye-river-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 105,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/577016772.jpg?k=39a10ba9176ff5fa30f72f78df19f47bce0c0b161cdf5edfb447c544cc2bb3f7&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 105건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 105건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-04T12:38:19.254Z",
+    "source": "agoda citySearch",
+    "count": 2
+  }
+}
