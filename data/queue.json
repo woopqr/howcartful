@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-04T04:57:07.414Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 2,
+  "lastPostedAt": "2026-07-04T07:46:36.000Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 3,
   "postedDate": "2026-07-04",
   "queue": [
-    "australia-grampians",
     "australia-great-barrier-reef",
     "australia-great-ocean-road-glenaire",
-    "australia-great-ocean-road-lavers-hill"
+    "australia-great-ocean-road-lavers-hill",
+    "australia-great-ocean-road-lorne"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 25,
+    "cityIndex": 26,
     "regionFails": 0,
     "skippedIds": [
       513016
@@ -74,6 +74,7 @@
     "australia-gulkong",
     "australia-gulwa",
     "australia-grafton",
-    "australia-grandchester"
+    "australia-grandchester",
+    "australia-grampians"
   ]
 }
