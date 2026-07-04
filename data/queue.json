@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-04T14:13:00.878Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 7,
+  "lastPostedAt": "2026-07-04T15:32:01.943Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 8,
   "postedDate": "2026-07-04",
   "queue": [
-    "australia-great-ocean-road-aireys-inlet",
     "australia-great-ocean-road-anglesea",
     "australia-great-ocean-road-wye-river",
-    "australia-great-ocean-road-johanna"
+    "australia-great-ocean-road-johanna",
+    "australia-great-ocean-road-cape-otway"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 30,
+    "cityIndex": 31,
     "regionFails": 0,
     "skippedIds": [
       513016
@@ -79,6 +79,7 @@
     "australia-great-barrier-reef",
     "australia-great-ocean-road-glenaire",
     "australia-great-ocean-road-lavers-hill",
-    "australia-great-ocean-road-lorne"
+    "australia-great-ocean-road-lorne",
+    "australia-great-ocean-road-aireys-inlet"
   ]
 }

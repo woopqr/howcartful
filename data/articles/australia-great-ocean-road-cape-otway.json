@@ -1,0 +1,404 @@
+{
+  "slug": "australia-great-ocean-road-cape-otway",
+  "title": "그레이트 오션 로드 - 케이프 오트웨이 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 그레이트 오션 로드 - 케이프 오트웨이 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "그레이트 오션 로드 - 케이프 오트웨이",
+  "cityId": 102363,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "그레이트 오션 로드 - 케이프 오트웨이",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/113547104.jpg?k=71e410042bb8dd35ad076d8c5bd6328cb6be347f048c1356aa88ace75e482e4d&o=",
+  "heroAlt": "그레이트 오션 로드 - 케이프 오트웨이",
+  "heroTitleHtml": "그레이트 오션 로드 - 케이프 오트웨이 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>빔비 파크 - 캠핑 언더 코알라</b>(평점 8.8·리뷰 688건·1박 약 8만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>빔비 파크 - 캠핑 언더 코알라</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/113547104.jpg?k=71e410042bb8dd35ad076d8c5bd6328cb6be347f048c1356aa88ace75e482e4d&o=",
+  "outroTitle": "🌙 그레이트 오션 로드 - 케이프 오트웨이, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 그레이트 오션 로드 - 케이프 오트웨이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 그레이트 오션 로드 - 케이프 오트웨이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "빔비 파크 - 캠핑 언더 코알라 (Bimbi Park - Camping Under Koalas)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bimbi-park-camping-under-koalas/hotel/all/great-ocean-road-cape-otway-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 688,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/113547104.jpg?k=71e410042bb8dd35ad076d8c5bd6328cb6be347f048c1356aa88ace75e482e4d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 688건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 688건 기반.",
+      "reviews": [
+        {
+          "text": "빔비공원은 그야말로 예외적이다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "완벽하게 작동하는 주방, 편안한 침대!",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "야생의 코알라를 볼 수 있는데 너무 귀엽네요!",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "공용화장실과 샤워실은 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "많은 코알라가 있는 훌륭한 위치",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "아폴로 베이 실 아파트먼트 (Apollo Bay Seal Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/apollo-bay-seal-apartments/hotel/great-ocean-road-apollo-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 1268,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/5638342/0/44838fcf419ba535b27ba4c3cb298d3b.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 1,268건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,268건 기반.",
+      "reviews": [
+        {
+          "text": "우리 가족은 이 아파트가 얼마나 깨끗하고 깔끔하며 아늑한지 좋아합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "특히 화장실이 반짝반짝해서 깨끗했어요!",
+          "score": "8",
+          "country": "Malaysia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "청결도도 좋고 이곳을 추천하고 싶습니다!",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고 조용하고 접근성도 좋습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "객실도 넓고 침대도 편안합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "모텔 마렌고 (Motel Marengo)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/motel-marengo/hotel/great-ocean-road-apollo-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 700,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/181/181989/181989_15071014410032046798.jpg?ca=4&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 700건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 700건 기반.",
+      "reviews": [
+        {
+          "text": "머물기에 편안한 숙소이며 아폴로 베이 타운과 매우 가깝습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "수영은 재미 있었고 모텔은 가격 대비 훌륭한 가치가 있었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 훌륭한 경험이었고 훌륭한 가치였습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "방 자체는 매우 깨끗하고 침대도 편안합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "그러나 우리 하이킹 후의 소나기는 이제까지 최고의 일이었다!",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Great Ocean Road Wellness and Nature Stay",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/great-ocean-road-wellness-and-nature-stay/hotel/all/great-ocean-road-apollo-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 54,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/498785978.jpg?k=dce65dd8762a20a0b7a2c6b7b19d4af18ac3f3c0dd4d11d98837a410a6a8d1b5&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 54건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 54건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Marengo Family Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/marengo-family-caravan-park_2/hotel/all/great-ocean-road-apollo-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 407,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/287724529.jpg?k=90cea6b8ec7bc401dadeff97284bf238924a20743dd02f5176c6837dc19f61b9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 407건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 407건 기반.",
+      "reviews": [
+        {
+          "text": "사랑스럽고 깨끗한 객실과 친절한 직원",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "항상 바다 전망을 갖춘 이곳에 머무는 것을 좋아했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "아름다운 해변이 바로 옆에 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치.",
+          "score": "7.6",
+          "country": "Brazil",
+          "date": "2022.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Marengo Beach Studio 4",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/marengo-beach-studio-4-pet-friendly/hotel/all/great-ocean-road-apollo-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 408,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/480371841.jpg?k=2c69212d0676a83fe20099eebdec16d9d48ef8e3a16ed112784deef4cff00a13&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 408건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 408건 기반.",
+      "reviews": [
+        {
+          "text": "모든 것이 설명과 동일하며 관리 상태가 좋습니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "체크인 지침은 매우 명확하고 이해하기 쉽습니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 평면도 좋음, 강력 추천",
+          "score": "8",
+          "country": "中國香港",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "완벽한 작은 휴양지",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "꽤 넓고 편안해요",
+          "score": "8",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Marengo Beach Studios- Pet Friendly",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/marengo-beach-studios/hotel/all/great-ocean-road-apollo-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 275,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/596565911.jpg?k=b47e7f81779791285c35ac7117f58c064598eaee479687826cbf3268e93c809d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 275건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 275건 기반.",
+      "reviews": [
+        {
+          "text": "전반적으로 사랑스러운 공간에서 즐거운 시간을 보냈습니다. 적극 추천합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "Mel과 Dave는 훌륭한 호스트였으며 응답이 빠르고 도움이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "가장 좋은 점은 개가 친화적이고 해변까지 도보 거리에 있다는 것입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "우리와 우리 개들을 이렇게 환영해 주셔서 정말 감사합니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "방은 아늑하고 따뜻하며 놀라울 정도로 넓습니다.",
+          "score": "9.6",
+          "country": "中国",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-04T15:32:24.197Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
