@@ -1,0 +1,332 @@
+{
+  "slug": "australia-great-ocean-road-anglesea",
+  "title": "그레이트 오션 로드 - 앵글시 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 그레이트 오션 로드 - 앵글시 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "great-ocean-road-aireys-inlet-au",
+  "cityName": "그레이트 오션 로드 - 앵글시",
+  "cityId": 390124,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "그레이트 오션 로드 - 앵글시",
+  "heroImg": "https://pix8.agoda.net/hotelImages/89317425/0/0686b4208893ce71de83ae74635919d7.jpg?ce=3",
+  "heroAlt": "그레이트 오션 로드 - 앵글시",
+  "heroTitleHtml": "그레이트 오션 로드 - 앵글시 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Sunnymead Hotel</b>(평점 9.2·리뷰 987건·1박 약 15만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Sunnymead Hotel</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/89317425/0/0686b4208893ce71de83ae74635919d7.jpg?ce=3",
+  "outroTitle": "🌙 그레이트 오션 로드 - 앵글시, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 그레이트 오션 로드 - 앵글시 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 그레이트 오션 로드 - 앵글시 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Sunnymead Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sunnymead-hotel/hotel/great-ocean-road-aireys-inlet-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 987,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/89317425/0/0686b4208893ce71de83ae74635919d7.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 987건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 987건 기반.",
+      "reviews": [
+        {
+          "text": "그레이트 오션 로드에 위치한 정말 환상적인 숙소입니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "디테일, 편안함, 품질에 많은 관심을 기울였습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "방은 사려 깊은 손길로 정말 멋졌습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절했고 우리는 수영장을 즐겼습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "다음에도 꼭 다시 묵고 싶습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "그레이트 오션 로드 리조트 (Great Ocean Road Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/great-ocean-road-resort/hotel/great-ocean-road-anglesea-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 1758,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/548154/-1/1c1ecd18fdd56744aa5e2cdb61dda161.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 1,758건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,758건 기반.",
+      "reviews": [
+        {
+          "text": "큰 욕실을 갖춘 정말 좋은 시설과 객실 편의 시설.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "프런트 데스크 직원은 훌륭했습니다(Andrew 제공). 매우 친절했습니다. 🫶",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "위치, 편의시설, 직원, 객실 모두 완벽합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "이곳은 아름답지만 위치가 완벽합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "체크인과 체크아웃도 매우 쉽습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Anglesea Family Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/anglesea-family-caravan-park/hotel/all/great-ocean-road-anglesea-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 561,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/property/79346985/0/8109556bb744223440c13bd07d0803f5.jpeg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 561건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 561건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 편의 시설, 친절한 직원, 멋진 위치.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "깔끔하고 취사시설이 잘 갖춰진 방",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "아름다운 공원, 도움이 되는 직원, 훌륭한 위치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "오두막은 너무 아름답고 집처럼 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "주방시설과 함께 편의시설도 좋았습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "The Monty",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/anglesea-riverside-motel/hotel/geelong-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 807,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/89287743/0/314a2ef52e495cf34aa877cf505c2aaa.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 807건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 807건 기반.",
+      "reviews": [
+        {
+          "text": "방은 좋았고 욕실은 매우 깨끗했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "정말 환상적인 위치, 깨끗하고 정직한 숙소.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "방 내부는 사랑스럽고 현대적이었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 새로 개조된 것처럼 보입니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "메인 스트리트와 앵글시 해변까지 도보로 단 10분 거리에 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "BIG4 Aireys Inlet",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-aireys-inlet-h60700300/hotel/all/great-ocean-road-aireys-inlet-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 118,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/688331569.jpg?k=06f8c0e2617577edeb7062eb3aa1b63fbdf924c9e2ff25c4717fb32617e987f3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 118건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 118건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "BIG4 Anglesea Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-anglesea-holiday-park/hotel/all/great-ocean-road-anglesea-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 61,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/130731303.jpg?k=bc8759b11a7e933016f08b3cd9b21c296c5aeefb56dfda879fbcb87e222970ad&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 61건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 61건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Anglesea Rivergums",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/anglesea-rivergums/hotel/all/great-ocean-road-anglesea-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 56,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/488949409.jpg?k=9112d288decd9372a97af1f868dd054654886b8cec93450ac7487bf550769c9b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 56건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 56건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-04T11:19:47.476Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

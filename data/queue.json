@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-04T09:54:02.170Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 4,
+  "lastPostedAt": "2026-07-04T11:19:43.778Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 5,
   "postedDate": "2026-07-04",
   "queue": [
-    "australia-great-ocean-road-glenaire",
     "australia-great-ocean-road-lavers-hill",
     "australia-great-ocean-road-lorne",
-    "australia-great-ocean-road-aireys-inlet"
+    "australia-great-ocean-road-aireys-inlet",
+    "australia-great-ocean-road-anglesea"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 27,
+    "cityIndex": 28,
     "regionFails": 0,
     "skippedIds": [
       513016
@@ -76,6 +76,7 @@
     "australia-grafton",
     "australia-grandchester",
     "australia-grampians",
-    "australia-great-barrier-reef"
+    "australia-great-barrier-reef",
+    "australia-great-ocean-road-glenaire"
   ]
 }
