@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-04T16:35:05.749Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 9,
+  "lastPostedAt": "2026-07-04T17:38:56.121Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 10,
   "postedDate": "2026-07-04",
   "queue": [
-    "australia-great-ocean-road-wye-river",
     "australia-great-ocean-road-johanna",
     "australia-great-ocean-road-cape-otway",
-    "australia-great-ocean-road-princetown"
+    "australia-great-ocean-road-princetown",
+    "australia-great-ocean-road-torquay"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 32,
+    "cityIndex": 33,
     "regionFails": 0,
     "skippedIds": [
       513016
@@ -81,6 +81,7 @@
     "australia-great-ocean-road-lavers-hill",
     "australia-great-ocean-road-lorne",
     "australia-great-ocean-road-aireys-inlet",
-    "australia-great-ocean-road-anglesea"
+    "australia-great-ocean-road-anglesea",
+    "australia-great-ocean-road-wye-river"
   ]
 }
