@@ -1,0 +1,425 @@
+{
+  "slug": "australia-great-ocean-road-princetown",
+  "title": " 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해  가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "great-ocean-road-port-campbell-au",
+  "cityName": "",
+  "cityId": 717285,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "",
+  "heroImg": "https://pix8.agoda.net/hotelImages/781133/-1/b4d1e35dd5bb9c46ef7f4b196847b0f8.jpg?ca=18&ce=1",
+  "heroAlt": "",
+  "heroTitleHtml": " 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>소우 앤 피글렛 게스트 하우스</b>(평점 8.9·리뷰 1,095건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>소우 앤 피글렛 게스트 하우스</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/781133/-1/b4d1e35dd5bb9c46ef7f4b196847b0f8.jpg?ca=18&ce=1",
+  "outroTitle": "🌙 , 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두  역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서  전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "소우 앤 피글렛 게스트 하우스 (Sow and Piglets Guesthouse)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/port-campbell-hostel/hotel/great-ocean-road-port-campbell-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 1095,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/781133/-1/b4d1e35dd5bb9c46ef7f4b196847b0f8.jpg?ca=18&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 1,095건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,095건 기반.",
+      "reviews": [
+        {
+          "text": "모든 것이 깨끗하고 편안했습니다. 적극 추천합니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "Sow and Piglets Guesthouse에서 즐거운 시간을 보내세요!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 서비스 정신이 뛰어난 직원이 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 직원들은 친절합니다.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "다시 머물고 다른 사람들에게 추천할 것입니다!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "NRMA Port Campbell Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nrma-port-campbell-holiday-park_2/hotel/all/great-ocean-road-port-campbell-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 1177,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/264169/0/375335470e22fba86b9611d4115c7314.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 1,177건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 1,177건 기반.",
+      "reviews": [
+        {
+          "text": "장소는 흠집 하나 없이 매우 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 필요한 모든 시설을 갖추고 있습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "처음으로 캐빈에 머물렀는데 너무 좋았어요.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "우리는 깨끗하고 편안한 스튜디오에 묵었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "주방 등이 완비된 객실이 정말 마음에 들었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "The Great Ocean Road Studios",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-great-ocean-road-studios/hotel/all/great-ocean-road-port-campbell-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 548,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/339140407.jpg?k=452f0ea807dd7a74544c109cd76aa0317d900d0830f52edb766a34588b47ade7&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 548건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 548건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 곳.",
+          "score": "8.8",
+          "country": "Vietnam",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "너무 편안한 침대와 깨끗한 방.",
+          "score": "10",
+          "country": "호주",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "좋은 욕조",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "포트 캠벨 게스트하우스 & 플래시 패커스 (Port Campbell Guesthouse & Flash Packers)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/port-campbell-guesthouse-flash-packers/hotel/all/great-ocean-road-port-campbell-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 93,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/84664777.jpg?k=d8c86ce999cf2114ea66fe4c04ef5f8754ac107b0a2a14e1c7e254e94bfd1a9c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 93건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 93건 기반.",
+      "reviews": [
+        {
+          "text": "마크는 우리에게 완벽한 숙소를 제공할 뿐입니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "샤워실에는 수압이 세고 뜨거운 물이 많이 나왔습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "방에는 전자레인지와 바 냉장고가 필요했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "당신이 원하는 모든 주방 시설.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "그레이트 오션 로드 스테이를 위한 탁월한 선택",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "섬머 레스트 유닛츠 아파트먼트 (Summers Rest Units Apartment)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/summers-rest-units-apartment/hotel/great-ocean-road-port-campbell-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 1661,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/446/446831/446831_13042221340012001843.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 1,661건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 1,661건 기반.",
+      "reviews": [
+        {
+          "text": "필요한 모든 것이 있으며 매우 깨끗하고 편안합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "가족에게 필요한 모든 것을 갖춘 넓은 아파트",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "편리한 위치, 저렴한 가격, 아늑한 분위기",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 Summers Rest Units Apartment에서 환상적인 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "체크인과 체크아웃 과정은 빠르고 쉬웠습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "안초르스 호텔 포트 캠벨 (Anchors Hotel Port Campbell)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/anchors-hotel-port-campbell/hotel/great-ocean-road-port-campbell-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 165,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/264/264168/264168_17050914350052858341.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 165건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 165건 기반.",
+      "reviews": [
+        {
+          "text": "사진보다 실제 방과 전망이 훨씬 좋습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "포트캠벨에서의 최고의 숙박",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "환상적인 숙소.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "더 오래 머물고 싶어요!",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "한적하고 매우 사적입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "트웰브 아포슬 모텔 앤 컨트리 리트리트 (Twelve Apostles Motel & Country Retreat)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/twelve-apostles-motel-country-retreat/hotel/princetown-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 700,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/287310/-1/5f88520984719786f732e24c9d43c937.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 700건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 700건 기반.",
+      "reviews": [
+        {
+          "text": "그리고 12사도상과 너무 가까워서 좋았어요!",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "다양한 활동을 수용할 수 있는 훌륭한 숙소입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 시설이 잘 갖춰져 있으며 위치가 훌륭합니다.",
+          "score": "10",
+          "country": "Australien",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "우리는 정말 즐거운 시간을 보냈습니다. 그곳에서 아주 즐거운 시간을 보냈습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "열쇠를 방 안에 두고 왔을 때 방의 잠금을 해제하는 데 도움을 주었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-04T16:35:39.598Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
