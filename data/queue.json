@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-05T15:20:47.416Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 7,
+  "lastPostedAt": "2026-07-05T16:30:53.945Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 8,
   "postedDate": "2026-07-05",
   "queue": [
-    "australia-griffith",
     "australia-greens-beach",
     "australia-gladstone",
-    "australia-glen-innes"
+    "australia-glen-innes",
+    "australia-gloucester"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 40,
+    "cityIndex": 41,
     "regionFails": 0,
     "skippedIds": [
       513016
@@ -89,6 +89,7 @@
     "australia-great-ocean-road-torquay",
     "australia-great-keppel-island",
     "australia-great-ocean-road-apollo-bay",
-    "australia-great-ocean-road-port-campbell"
+    "australia-great-ocean-road-port-campbell",
+    "australia-griffith"
   ]
 }
