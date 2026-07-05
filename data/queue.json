@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-05T05:31:56.982Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 2,
+  "lastPostedAt": "2026-07-05T08:28:11.424Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 3,
   "postedDate": "2026-07-05",
   "queue": [
-    "australia-great-ocean-road-princetown",
     "australia-great-ocean-road-torquay",
     "australia-great-keppel-island",
-    "australia-great-ocean-road-apollo-bay"
+    "australia-great-ocean-road-apollo-bay",
+    "australia-great-ocean-road-port-campbell"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 35,
+    "cityIndex": 36,
     "regionFails": 0,
     "skippedIds": [
       513016
@@ -84,6 +84,7 @@
     "australia-great-ocean-road-anglesea",
     "australia-great-ocean-road-wye-river",
     "australia-great-ocean-road-johanna",
-    "australia-great-ocean-road-cape-otway"
+    "australia-great-ocean-road-cape-otway",
+    "australia-great-ocean-road-princetown"
   ]
 }
