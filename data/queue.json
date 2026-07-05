@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-05T17:39:17.757Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 9,
+  "lastPostedAt": "2026-07-05T18:43:18.804Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 10,
   "postedDate": "2026-07-05",
   "queue": [
-    "australia-gladstone",
     "australia-glen-innes",
     "australia-gloucester",
-    "australia-gingin"
+    "australia-gingin",
+    "australia-gilgandra"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 42,
+    "cityIndex": 43,
     "regionFails": 0,
     "skippedIds": [
       513016
@@ -91,6 +91,7 @@
     "australia-great-ocean-road-apollo-bay",
     "australia-great-ocean-road-port-campbell",
     "australia-griffith",
-    "australia-greens-beach"
+    "australia-greens-beach",
+    "australia-gladstone"
   ]
 }

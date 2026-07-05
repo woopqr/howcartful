@@ -1,0 +1,359 @@
+{
+  "slug": "australia-gilgandra",
+  "title": "길간드라 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 길간드라 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "gilgandra-au",
+  "cityName": "길간드라",
+  "cityId": 141594,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "길간드라",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/734951221.jpg?k=0412139a4d43508298f443e9c2caa4f048093ab3d6b15669b677d1cbf43ec4d4&o=",
+  "heroAlt": "길간드라",
+  "heroTitleHtml": "길간드라 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Cooee Motel</b>(평점 9·리뷰 241건·1박 약 9만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Cooee Motel</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/734951221.jpg?k=0412139a4d43508298f443e9c2caa4f048093ab3d6b15669b677d1cbf43ec4d4&o=",
+  "outroTitle": "🌙 길간드라, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 길간드라 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 길간드라 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Cooee Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cooee-motel/hotel/gilgandra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 241,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/734951221.jpg?k=0412139a4d43508298f443e9c2caa4f048093ab3d6b15669b677d1cbf43ec4d4&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 241건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 241건 기반.",
+      "reviews": [
+        {
+          "text": "친절하고 멋진 직원들이 우리를 이 모텔에 머물도록 환영해주었습니다😊",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "침대와 수건이 정말 깨끗하고 깔끔했어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "새 에어컨과 깨끗한 냉장고",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 편안한 침대를 제공합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "편안한 침대와 좋은 시설, 친절한 직원",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "오라나 윈드밀 모텔 (Orana Windmill Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/orana-windmill-motel/hotel/gilgandra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 442,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/674/6748816/6748816_19031311040072956438.jpg?ca=8&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 442건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 442건 기반.",
+      "reviews": [
+        {
+          "text": "적극 추천하고 다시 머물 것입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "매우 편안한 침대...최고급 시트.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "모든 시설과 가까운 가격 대비 훌륭한 모텔",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "위치가 훌륭하고 가격 대비 훌륭한 가치",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 공감이 갑니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Castlereagh Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/castlereagh-motor-inn/hotel/gilgandra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 95,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/32913825/0/f9a92b5557568a63d2e27b10a9fc7236.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 95건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 95건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 깔끔하며 친절한 직원들이 숙면을 취할 수 있도록 만들어주었습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 모텔, 체크인 시 우유 한 병이 제공되어 좋았습니다.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 깨끗하고 깔끔했으며 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "다음에는 꼭 더 오래 머물고 싶습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "제가 말할 수 있는 것은 훌륭하다는 것뿐입니다. 별 5개는 최고의 숙소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Silver Oaks Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/silver-oaks-motel/hotel/gilgandra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 866,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/372516941.jpg?k=9239e4c0b3e185ba4a6b374bdb909a74f4d1b8f36be6154a2c2476f8933a0dcb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 866건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 866건 기반.",
+      "reviews": [
+        {
+          "text": "중앙, 좋은 vslue, 친절한 관리자",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "친절한 서비스, 깨끗하고 편안한 침대.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 좋은 Wi-Fi와 편안한 침대를 갖추고 있습니다.",
+          "score": "10",
+          "country": "Austria",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박, 필요한 모든 것이 도보 거리에 있습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "하룻밤 동안 머물기에 좋은 작은 장소.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "쓰리 웨이즈 모텔 (Three Ways Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/three-ways-motel/hotel/gilgandra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 331,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/781627/0/25cd0e41db2151f8880bcda58969e584.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 331건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 331건 기반.",
+      "reviews": [
+        {
+          "text": "중앙 위치, 매우 괜찮은 객실 및 시설",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "매우 도움이 되고 친절한 직원 좋은 위치.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "매우 편안하고 예산 친화적인 숙박입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "벅스를 위한 플레이 👏- 여기에 가치가 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗했고 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Alfa motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/alfa-motel_9/hotel/all/gilgandra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.8,
+      "reviewCount": 121,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/666456130.jpg?k=a7e0bac7f807aa3aca870231fb754dbc1cadccde822812b65ad02c5f129282c4&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 121건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 121건 기반.",
+      "reviews": [
+        {
+          "text": "넓고 편안함",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 뜨거운 샤워.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-05T18:43:48.003Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}
