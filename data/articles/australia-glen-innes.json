@@ -1,0 +1,388 @@
+{
+  "slug": "australia-glen-innes",
+  "title": "글렌 이네스 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 글렌 이네스 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "글렌 이네스",
+  "cityId": 8983,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "글렌 이네스",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/260481839.jpg?k=ed5fd504bed02127221d6c60684fd8d0c2cd29d372c4dd72f6c9ff47ef069ae6&o=",
+  "heroAlt": "글렌 이네스",
+  "heroTitleHtml": "글렌 이네스 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Glen Innes Motel</b>(평점 8.9·리뷰 46건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Glen Innes Motel</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/260481839.jpg?k=ed5fd504bed02127221d6c60684fd8d0c2cd29d372c4dd72f6c9ff47ef069ae6&o=",
+  "outroTitle": "🌙 글렌 이네스, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 글렌 이네스 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 글렌 이네스 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Glen Innes Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/glen-innes-motel_2/hotel/all/glen-innes-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 46,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/260481839.jpg?k=ed5fd504bed02127221d6c60684fd8d0c2cd29d372c4dd72f6c9ff47ef069ae6&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 46건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 46건 기반.",
+      "reviews": [
+        {
+          "text": "당신이 원하는 모든 것을 갖춘 아주 좋은 아침 식사.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "5성급 숙박 시설과 직원을 갖춘 훌륭한 모텔",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "모텔 운영을 훌륭하게 수행하고 있는 사랑스러운 커플입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "마을과 가까운 아주 조용한 위치에 있는 사랑스러운 객실입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "완벽한 하룻밤, 친절한 직원, 무료 아침 식사",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "The Bank Guesthouse Glen Innes",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-bank-guesthouse-glen-innes/hotel/all/glen-innes-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 528,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/163604303.jpg?k=f60e70fc00670422ff65a7da39d6301368fe31e9098b065db763939d8c332a14&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 528건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 528건 기반.",
+      "reviews": [
+        {
+          "text": "독특한 숙박… 우리는 그것을 좋아했고 돌아올 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "주인장님께서 따뜻하게 맞아주시고",
+          "score": "10",
+          "country": "オーストラリア",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "맛있는 풀코스 아침 식사",
+          "score": "10",
+          "country": "オーストラリア",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "글렌 인스 로지 모텔 (Glen Innes Lodge Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/glen-haven-motor-inn/hotel/glen-innes-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 308,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/685149/0/82c3d480aa8f077a4701c0ec307363cc.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 308건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 308건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 모텔, 깨끗하고 사랑스러운 온수 샤워실, 넉넉한 공간",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "예정보다 늦게 도착했는데 직원들이 너무 친절했어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "정말 좋고 편안하고 샤워실도 훌륭했어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "우리 트리플 룸은 편안하고 따뜻했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "Ash 호텔 직원은 매우 도움이 되었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "클랜스맨 모텔 (Clansman Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/clansman-motel/hotel/glen-innes-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 137,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/836890/0/3d711f62e78ea40cf6be8aa80c01817a.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 137건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 137건 기반.",
+      "reviews": [
+        {
+          "text": "지나갈 때마다 여기에 와서 머물겠습니다",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "도착하자마자 리셉션은 도움이 되었고 사랑스러운 호스트였습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗했고 안전한 주차 공간이 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "좋은 서비스를 제공하는 훌륭하고 깨끗하고 매력적인 모텔.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 방; 편안하고 깨끗하며 잘 표현되어 있습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "뉴잉글랜드 모터 로지 (New England Motor Lodge)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/new-england-motor-lodge/hotel/glen-innes-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 747,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/781/781618/781618_15070316030031647308.jpg?ca=4&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 747건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 747건 기반.",
+      "reviews": [
+        {
+          "text": "모든 것이 너무 신선하고 새롭고 깨끗하고 밝게 느껴졌습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 레스토랑 직원 및 음식은 사랑스러웠습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "객실은 모두 고속도로 소음에서 멀리 떨어져 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 몇 시간 이후에도 쉽게 체크인할 수 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "Glenn Innes에 머물기에 좋은 장소.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "CBD GI Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cbd-gi-motel/hotel/all/glen-innes-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 645,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/496751452.jpg?k=37c73cca14edf4951e6ae8624cf44b917804a49f09f6784d351466413fdf7767&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 645건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 645건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗하고 편안한 객실",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "좋고 깨끗한 방이며 식료품 가게와 가깝습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "행복하게 다시 머물고 싶습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "확실히 A++를 추천합니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "안전한 위치와 친절한 직원",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Rest Point Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rest-point-motor-inn_5/hotel/all/glen-innes-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 912,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/851058572.jpg?k=fb6ef2839a02a77683cae7da8a00a51012bebc9ad9e09ac93ad6e6aff01a32a1&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 912건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 912건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-05T15:21:18.355Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
