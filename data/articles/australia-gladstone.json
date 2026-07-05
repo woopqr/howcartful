@@ -1,0 +1,411 @@
+{
+  "slug": "australia-gladstone",
+  "title": "글래드스톤 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 글래드스톤 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "글래드스톤",
+  "cityId": 5084,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "글래드스톤",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/135311888.jpg?k=2105dfc373b5f8d855711d97633b5f597d4b068a6a3bcb6108c47eb3c3a700e3&o=",
+  "heroAlt": "글래드스톤",
+  "heroTitleHtml": "글래드스톤 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Gladstone Backpackers</b>(평점 7.7·리뷰 233건·1박 약 4만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Gladstone 도보 2분</b>의 <b>The Club Hotel</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/135311888.jpg?k=2105dfc373b5f8d855711d97633b5f597d4b068a6a3bcb6108c47eb3c3a700e3&o=",
+  "outroTitle": "🌙 글래드스톤, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 글래드스톤 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 글래드스톤 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Gladstone Backpackers",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/gladstone-backpackers/hotel/all/gladstone-au.html?cid=1925461",
+      "walkMin": 18,
+      "score": 7.7,
+      "reviewCount": 233,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 7.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/135311888.jpg?k=2105dfc373b5f8d855711d97633b5f597d4b068a6a3bcb6108c47eb3c3a700e3&o=",
+      "distanceNote": "약 1405.71m · Gladstone 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 233건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 233건 기반.",
+      "reviews": [
+        {
+          "text": "머물면서 친구들을 만나기에 좋은 곳입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "좋은 일행과 함께 여행하면서 먹은 최고의 저녁 식사였습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 욕실과 화장실, 주방이 있습니다.",
+          "score": "8",
+          "country": "澳大利亚",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "글래드스톤 최고의 호스텔",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "시설은 잘 갖춰져 있는 것 같았습니다.",
+          "score": "9.6",
+          "country": "Deutschland",
+          "date": "2024.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Harbour Lodge Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/harbour-lodge-motel/hotel/all/gladstone-au.html?cid=1925461",
+      "walkMin": 11,
+      "score": 8.8,
+      "reviewCount": 593,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/161225290.jpg?k=45f5e43508e762fe45e0f64c058391bed6f0f94581b951ec1fe3365756c7e39d&o=",
+      "distanceNote": "약 908.22m · Gladstone 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 593건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 593건 기반.",
+      "reviews": [
+        {
+          "text": "도움이되는 직원과 편안한 모텔",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 깨끗한 객실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "직원들은 정말 친절했고, 아파트는 깔끔하고 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "글래드스톤에 간다면 꼭 다시 묵을 거예요.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "환상적인 위치에 가격 대비 훌륭한 가치가 있습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "시에스타 빌라 모텔 (Siesta Villa Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/siesta-villa-motor-inn_4/hotel/gladstone-au.html?cid=1925461",
+      "walkMin": 9,
+      "score": 8.2,
+      "reviewCount": 434,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/127/1270835/1270835_16082309420045708091.jpg?ca=6&ce=1",
+      "distanceNote": "약 689.45m · Gladstone 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 434건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 434건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗하고 조용한 객실👍",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "방 3에는 훌륭한 베개가 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 훌륭한 가치를 지니고 있으며 시내에 있어 위치가 매우 좋습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "나는 당신이 방 1의 베개를 바꿨다는 것을 알아차렸습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "조용하고 머물기 좋은 곳🤪",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "글래드스톤 시티 센트럴 아파트먼트 호텔 (Gladstone City Central Apartment Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/gladstone-city-central_2/hotel/gladstone-au.html?cid=1925461",
+      "walkMin": 10,
+      "score": 8.1,
+      "reviewCount": 240,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/224/22402677/22402677_21020911460094886907.jpg?ca=17&ce=1",
+      "distanceNote": "약 831.45m · Gladstone 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 240건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 240건 기반.",
+      "reviews": [
+        {
+          "text": "조용하고 평화로운 방문을 위해 여기에 머무를 가치가 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "The Club Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-club-hotel-h24884348/hotel/gladstone-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.1,
+      "reviewCount": 57,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/659499370.jpg?k=97a38acf0b6b744c502a60066b333153f482e18edb7b9cb3544765520ef88aee&o=",
+      "distanceNote": "약 120.27m · Gladstone 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 57건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 57건 기반.",
+      "reviews": [
+        {
+          "text": "100% 추천하고 싶습니다. 훌륭한 직원과 훌륭한 객실",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 가치를 지니고 있으며 이곳에 머무르는 것을 추천합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 가치, 깨끗한 시설, 모든 것에 편리함",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "여기에 두 번 묵었는데 훌륭했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "바와 레스토랑도 사랑스러웠습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Aaron Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/aaron-motel/hotel/all/gladstone-au.html?cid=1925461",
+      "walkMin": 16,
+      "score": 9,
+      "reviewCount": 1109,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/819461427.jpg?k=553983daba525246911a419e9c331529435572e9f4225e8b2f4caa71e63cd033&o=",
+      "distanceNote": "약 1300.83m · Gladstone 인근",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 1,109건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,109건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 사랑스럽고 방은 잘 관리되어 있으며 아름답게 개조되었습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 매우 잘 개조되었고 통풍이 잘되며 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 것을 갖춘 매우 깨끗하고 넓은 객실입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 시설을 갖춘 훌륭한 모텔",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "크고 매우 깨끗했던 새 욕실.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "CQ Motel Gladstone",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cq-motel-gladstone/hotel/all/gladstone-au.html?cid=1925461",
+      "walkMin": 10,
+      "score": 9.1,
+      "reviewCount": 789,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/493661597.jpg?k=b1afc083347d58f282bd2a565f89a4e9d0a8b7dd1f98336a3697191a3aa56176&o=",
+      "distanceNote": "약 819.48m · Gladstone 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 789건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 789건 기반.",
+      "reviews": [
+        {
+          "text": "제가 묵어본 모텔 중 가장 깨끗한 모텔입니다.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "이 친절한 신사들은 우리의 체류를 정말 기억에 남을 만한 곳으로 만들었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "큰 냉장고, 전자레인지, 심지어 토스터도 있었어요.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "푹신하고 편안한 퀸사이즈 침대가 마음에 들었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 곳 직원들은 도움이 되고 친절합니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-05T14:01:55.980Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

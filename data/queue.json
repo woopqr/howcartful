@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-05T12:02:53.798Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 5,
+  "lastPostedAt": "2026-07-05T14:01:24.527Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 6,
   "postedDate": "2026-07-05",
   "queue": [
-    "australia-great-ocean-road-apollo-bay",
     "australia-great-ocean-road-port-campbell",
     "australia-griffith",
-    "australia-greens-beach"
+    "australia-greens-beach",
+    "australia-gladstone"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 38,
+    "cityIndex": 39,
     "regionFails": 0,
     "skippedIds": [
       513016
@@ -87,6 +87,7 @@
     "australia-great-ocean-road-cape-otway",
     "australia-great-ocean-road-princetown",
     "australia-great-ocean-road-torquay",
-    "australia-great-keppel-island"
+    "australia-great-keppel-island",
+    "australia-great-ocean-road-apollo-bay"
   ]
 }
