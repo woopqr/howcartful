@@ -1,0 +1,251 @@
+{
+  "slug": "australia-greens-beach",
+  "title": "그린스 비치 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 그린스 비치 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "beauty-point-beaconsfield-au",
+  "cityName": "그린스 비치",
+  "cityId": 710442,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "그린스 비치",
+  "heroImg": "https://pix8.agoda.net/hotelImages/724076/0/1554006015534d5a615a1de4062753eb.jpeg",
+  "heroAlt": "그린스 비치",
+  "heroTitleHtml": "그린스 비치 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>뷰티 포인트 투어리스트 파크 캐빈</b>(평점 9·리뷰 668건·1박 약 18만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>뷰티 포인트 투어리스트 파크 캐빈</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/724076/0/1554006015534d5a615a1de4062753eb.jpeg",
+  "outroTitle": "🌙 그린스 비치, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 그린스 비치 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 그린스 비치 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "뷰티 포인트 투어리스트 파크 캐빈 (Beauty Point Tourist Park Cabins)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beauty-point-tourist-park-cabins/hotel/beauty-point-beaconsfield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 668,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/724076/0/1554006015534d5a615a1de4062753eb.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 668건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 668건 기반.",
+      "reviews": [
+        {
+          "text": "타마르강(Tamar River) 기슭을 바라보는 편안한 캐빈입니다.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "완비된 주방과 좋은 세탁 시설.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "공원 자체는 항상 깨끗하고 너무 시끄럽지 않습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 따뜻한 숙소.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "사랑스럽고 매력적인 시설.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Comfort Inn The Pier",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/comfort-inn-the-pier-hotel/hotel/george-town-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 63,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/487397/0/a94e535f33a2bb889118d97a2383a286.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 63건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 63건 기반.",
+      "reviews": [
+        {
+          "text": "주방에는 필요한 모든 것이 잘 갖춰져 있습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 깔끔하게 새롭게 단장된 캐릭터 호텔입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고, 가격대비 괜찮고, 방도 깨끗하고 좋습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "매우 편안하고 청결도가 뛰어납니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "하룻밤을 보내기에 좋은 작은 장소.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "요크 코브 (York Cove)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/york-cove/hotel/george-town-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 50,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/161/161944/161944_17101212000057712587.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 50건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 50건 기반.",
+      "reviews": [
+        {
+          "text": "체육관은 이용 가능한 장비가 많아 매우 좋았습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "사랑스럽고 객실이 편안하며",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "아름다운 방.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "아름다운 풍경.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Wingtons Glamping",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wingtons-glamping/hotel/all/clarence-point-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 79,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 30만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/652417006.jpg?k=2d2c25c1793e2abf19fc01f70355908e51a4440740eda7b44fcdc769ae44f763&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 30만원",
+        "📝 리뷰 79건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 79건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "BIG4 Kelso Sands Holiday & Native Wildlife Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-kelso-sands-holiday-native-wildlife-park/hotel/all/kelso-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.4,
+      "reviewCount": 43,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/505346493.jpg?k=6f009dbb2b2953668bbfb42544ff73ae72dcbe12e794fa820bce666ea58c1f79&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 43건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.4</b> · 실제 투숙객 리뷰 43건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-05T12:03:09.429Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}
