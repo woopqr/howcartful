@@ -1,0 +1,382 @@
+{
+  "slug": "australia-narrandera",
+  "title": "나란데라 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 나란데라 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "narrandera-au",
+  "cityName": "나란데라",
+  "cityId": 141796,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "나란데라",
+  "heroImg": "https://pix8.agoda.net/hotelImages/837520/-1/0d36223a6237adaf954827b1cf02ad0a.jpg?ca=10&ce=1",
+  "heroAlt": "나란데라",
+  "heroTitleHtml": "나란데라 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>마스 컨트리 나랜데라 클럽 모터 인</b>(평점 9·리뷰 82건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>마스 컨트리 나랜데라 클럽 모터 인</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/837520/-1/0d36223a6237adaf954827b1cf02ad0a.jpg?ca=10&ce=1",
+  "outroTitle": "🌙 나란데라, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 나란데라 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 나란데라 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "마스 컨트리 나랜데라 클럽 모터 인 (MAS Country Narrandera Club Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/narrandera-club-motor-inn/hotel/narrandera-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 82,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/837520/-1/0d36223a6237adaf954827b1cf02ad0a.jpg?ca=10&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 82건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 82건 기반.",
+      "reviews": [
+        {
+          "text": "Newell 또는 Sturt 고속도로에서 쉽게 접근할 수 있습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "매우 깔끔한 방과 잘 표현됨",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "친절한 관리자와 함께 머물기에 좋은 곳입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "도착하기 전에 에어컨을 켜주세요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "조용하고 편안한 숙소",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "카멜리아 모텔 (Camellia Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/camellia-motel/hotel/narrandera-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 90,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/487/487568/487568_14032010550018780430.jpg?ca=2&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 90건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 90건 기반.",
+      "reviews": [
+        {
+          "text": "편안한 침대, 깨끗하고 새롭게 단장된 객실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "우리는 숙소(10호실)에 매우 만족했습니다!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "멋진 모텔은 우리에게 필요한 모든 것과 그 이상을 갖추고 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 편안했습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "우리는 2박을 묵었습니다. 마을 최고의 모텔 중 하나입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "네웰 모토 인 나란데라 (Newell Motor Inn Narrandera)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/newell-motor-inn-narrandera/hotel/narrandera-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 41,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/488/488377/488377_14011708100018091685.jpg?ca=2&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 41건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 41건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 편안한 객실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "따뜻한 수영장은 매우 편안한 저녁 수영이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "수영장은 깨끗하고 상쾌했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원, 깨끗한 객실",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "가격대비 정말 좋은 모텔이에요",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "비숍스 로지 나란데라 (Bishops Lodge Narrandera)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bishops-lodge-narrandera_3/hotel/narrandera-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 92,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/5589359/-1/e2fa7261933d22f75200d5498e6e8ea7.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 92건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 92건 기반.",
+      "reviews": [
+        {
+          "text": "그리고 소유자 AJ는 모든 세부 사항에 주의를 기울이는 완벽한 호스트입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 직원 및 편의시설.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 방과 저녁 식사 옵션에 가깝습니다",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "주인분이 매우 친절하시고 방도 깨끗하고 편안합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗했습니다. 좋은 위치 매우 조용했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Country Roads Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/country-roads-motor-inn/hotel/all/narrandera-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 31,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/724464608.jpg?k=d82b8e9bea089dafc5d36bbcf64830ee415ee5bfdbd0ee91d20c678244398b52&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 31건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 31건 기반.",
+      "reviews": [
+        {
+          "text": "편안한 객실 좋은 직원, 완벽하고 저렴한 객실",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "사랑스럽고 잘 꾸며진 캐빈 스타일의 객실입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "숙소는 넓고 편안했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 작은 시골 모텔.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "피그트리 모텔 (Figtree Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/figtree-motel/hotel/narrandera-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.8,
+      "reviewCount": 713,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/297856/0/4ab12d161609d85cbd5418d8842ab786.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 713건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 713건 기반.",
+      "reviews": [
+        {
+          "text": "방은 깨끗하고 하룻밤 묵기에는 좋았습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "어딘가에 다시 머물 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "시설도 깨끗하고 깔끔하고 가격도 저렴했어요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "이동 중에 머물기에 완벽한 장소",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "얼마나 좋은지 말로 설명할 수가 없어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-06T18:30:47.185Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}
