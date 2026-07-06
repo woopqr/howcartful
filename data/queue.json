@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-06T13:28:41.997Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 5,
+  "lastPostedAt": "2026-07-06T16:39:19.895Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 6,
   "postedDate": "2026-07-06",
   "queue": [
-    "australia-gypsy-point",
     "australia-nagambie",
     "australia-nanango",
-    "australia-narrabri"
+    "australia-narrabri",
+    "australia-naracoorte"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 48,
+    "cityIndex": 49,
     "regionFails": 0,
     "skippedIds": [
       513016
@@ -97,6 +97,7 @@
     "australia-gloucester",
     "australia-gingin",
     "australia-gilgandra",
-    "australia-gippsland-region"
+    "australia-gippsland-region",
+    "australia-gypsy-point"
   ]
 }

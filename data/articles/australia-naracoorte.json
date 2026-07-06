@@ -1,0 +1,366 @@
+{
+  "slug": "australia-naracoorte",
+  "title": "나라쿠르테 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 나라쿠르테 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "naracoorte-au",
+  "cityName": "나라쿠르테",
+  "cityId": 13000,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "나라쿠르테",
+  "heroImg": "https://pix8.agoda.net/hotelImages/66798485/1026910405/7557324f95df7ecd34aab2d5c4cc021b.jpg?ce=2",
+  "heroAlt": "나라쿠르테",
+  "heroTitleHtml": "나라쿠르테 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Naracoorte Hotel Motel</b>(평점 8.3·리뷰 547건·1박 약 11만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Naracoorte Hotel Motel</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/66798485/1026910405/7557324f95df7ecd34aab2d5c4cc021b.jpg?ce=2",
+  "outroTitle": "🌙 나라쿠르테, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 나라쿠르테 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 나라쿠르테 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Naracoorte Hotel Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/naracoorte-hotel-motel_2/hotel/naracoorte-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 547,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/66798485/1026910405/7557324f95df7ecd34aab2d5c4cc021b.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 547건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 547건 기반.",
+      "reviews": [
+        {
+          "text": "긴 하루의 운전을 마치고 완벽한 휴식처가 되었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "위치가 좋고 펍 식사가 맛있었습니다",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "Naracoorte에 머무를 수 있는 유일한 곳!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "완벽하고 편안하며 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안한 침대, 좋은 위치",
+          "score": "8",
+          "country": "澳洲",
+          "date": "2023.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Aloha Central Luxury Accommodation",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/aloha-central-luxury-accommodation/hotel/all/naracoorte-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 302,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/314436937.jpg?k=0cd8ba448d39b9f50d72a66a64402bfdba49dd57b764cfef9f8e4da78b24c7f1&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 302건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 302건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗하고 편안한 좋은 경험",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "시내 중심가로 도보 이동 용이…",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "흠잡을 데 없는 숙소…",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "편의 시설은 훌륭했습니다…",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "구내 주차장은 무료로 이용 가능했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Kincraig Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kincraig-hotel/hotel/all/naracoorte-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 54,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/851883981.jpg?k=29883aa3b143911fb6a5abd7cd01238e7d5b198de247e57fc41cc5551db0ca87&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 54건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 54건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Echo Holiday Parks - Naracoorte",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-naracoorte-holiday-park/hotel/all/naracoorte-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 249,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/92691139.jpg?k=df50200d909584a9a30ad0072a4115e875fe5575dc4f75ff58c3e45bc372c549&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 249건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 249건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Rest Motels",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rest-motels/hotel/all/naracoorte-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.4,
+      "reviewCount": 294,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/200530563.jpg?k=9945650ad7a55033124fcc57c24419ee597b95b2630b91888d432aa882c0b827&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 294건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.4</b> · 실제 투숙객 리뷰 294건 기반.",
+      "reviews": [
+        {
+          "text": "단기 체류에 필요한 모든 것이 제공됩니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "위치에 비해 가격이 좋은 기본 모텔입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "꼭 다시 여기로 예약하겠습니다 ☺️",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "목적에 적합한 소규모 그룹을 위한 숙소입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "깔끔하고 깨끗한 숙소.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "William MacIntosh Motor Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/william-macintosh-motor-lodge_3/hotel/naracoorte-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 1372,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/70813/-1/75fd4e289605048fabf784c0cf9d4770.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 1,372건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 1,372건 기반.",
+      "reviews": [
+        {
+          "text": "동굴 근처와 애들레이드를 오가는 길에 위치가 좋습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "완벽한 객실, 편안한 침대, 흠잡을 데 없는 욕실.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "10/10 매우 깨끗하고 모던한 인테리어",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "레스토랑 분위기는 아늑하고 아름답게 장식되었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "동굴을 방문할 때 머물기에 좋은 곳입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Country Roads Motor Inn Naracoorte",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/country-roads-motor-inn-naracoorte/hotel/all/naracoorte-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 50,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/405053633.jpg?k=d5a49ba8d5a75f3b852686ab99c1fcb0cd1f9f03bd455392cb8f8138b5e253c5&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 50건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 50건 기반.",
+      "reviews": [
+        {
+          "text": "방이 깨끗하고 매우 친절함",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "관리가 잘 되어 있고, 방도 깨끗하고, TV도 훌륭했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "주인분이 매우 유쾌하고 친절하셔서 기분이 좋아집니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "접근성이 좋은 위치와 주차공간이 좋습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "Country Roads Motel Inn을 환대해 주셔서 감사합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-06T16:39:49.812Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
