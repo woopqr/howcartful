@@ -1,0 +1,376 @@
+{
+  "slug": "australia-narrabri",
+  "title": "나라브리 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 나라브리 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "narrabri-au",
+  "cityName": "나라브리",
+  "cityId": 7373,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "나라브리",
+  "heroImg": "https://pix8.agoda.net/hotelImages/566973/-1/5d86e5d8ef24b27fec455e1eef785354.jpg?ce=0",
+  "heroAlt": "나라브리",
+  "heroTitleHtml": "나라브리 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>카푸타 모텔</b>(평점 8.6·리뷰 235건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>카푸타 모텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/566973/-1/5d86e5d8ef24b27fec455e1eef785354.jpg?ce=0",
+  "outroTitle": "🌙 나라브리, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 나라브리 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 나라브리 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "카푸타 모텔 (Kaputar Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kaputar-motel/hotel/narrabri-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 235,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/566973/-1/5d86e5d8ef24b27fec455e1eef785354.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 235건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 235건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 작은 모텔, 매우 깨끗하고 친절한 주인",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "업무를 위해 전시장과 가까운 훌륭한 위치,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "우리가 그 지역에 있다면 꼭 다시 예약할 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "여행할 때 우리가 머무는 유일한 장소.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "Kaputar 모텔은 최고와 직원이 훌륭했습니다 🙌",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Narrabri Motel and Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/narrabri-motel-and-caravan-park/hotel/all/narrabri-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 429,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/184501897.jpg?k=be21bc46d2f3b9cd3614e7f13f881faaa7aeb96b29a7806ae57a40fde12f7581&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 429건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 429건 기반.",
+      "reviews": [
+        {
+          "text": "관리자는 믿을 수 없을만큼 이해하고 촉진했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "The Tourist Hotel Narrabri",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-tourist-hotel-narrabri/hotel/narrabri-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 41,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/72658366/0/ab3f66aa26c32a75263baf912f49ff53.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 41건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 41건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Highway Tourist Village",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/highway-tourist-village/hotel/all/narrabri-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.6,
+      "reviewCount": 31,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/544586485.jpg?k=49d2b7e43ba374584d171e6387922c0a24ca362ab870c15c576f82cb13f180ee&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 31건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 31건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 위치, 가격 대비 가치",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "좋은 객실, 편안한 침대, 좋은 직원",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 필요한 모든 편의 시설을 갖추고 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "오두막 자체는 사랑스러웠고…깨끗하고 편안하며 현대적이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "우수한 2박 숙박, 5성급 캐빈",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Bellview Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bellview-motel/hotel/all/narrabri-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 822,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/641312526.jpg?k=92459d4131d2561d1eb74da1d605df56dce57c05db2c4342517f79aefda16fed&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 822건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 822건 기반.",
+      "reviews": [
+        {
+          "text": "매우 친절하고 전체 직원을 도와줍니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "수영장은 훌륭했습니다. 객실은 깔끔하고 직원들은 사랑스러웠습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "수영장은 사랑스럽고 방은 깨끗하고 편안했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "여행 내내 우리가 머물렀던 최고의 숙소입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "전반적인 숙박은 편리하고 즐거웠습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "미드 타운 인 (Mid Town Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mid-town-inn/hotel/narrabri-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 116,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/730281/0/6b34b6af5665fb9433d41e14c7d8ff03.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 116건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 116건 기반.",
+      "reviews": [
+        {
+          "text": "시내와 가까운 편안하고 깨끗하며 넓은 모텔 객실입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "미드 타운 인(Mid Town Inn)은 하룻밤 묵기에 아주 좋았습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 직원들은 정말 사랑스럽습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "머물기 가장 좋은 곳이며 정말 아름다운 도시입니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 것에 가깝고 도보 거리에 있습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "클럽 모터 인 (Club Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/club-motor-inn/hotel/narrabri-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 43,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/546/546954/546954_17061409180053667501.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 43건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 43건 기반.",
+      "reviews": [
+        {
+          "text": "그것을 운영하는 사람들은 매우 사랑 스럽습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "13시간 운전 후 스파는 딱 티켓이었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "대체로 훌륭한 발견입니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "풀 사이즈 냉장고 냉동고.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "매우 즐거운 숙박",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-06T13:29:12.960Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
