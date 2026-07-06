@@ -1,0 +1,185 @@
+{
+  "slug": "australia-nanango",
+  "title": "나낭고 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 나낭고 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "나낭고",
+  "cityId": 710731,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "나낭고",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/113917432.jpg?k=b9f93f7dd34ed96ff9f152113d053175001aab3de23f2faa2d695dd9656a2370&o=",
+  "heroAlt": "나낭고",
+  "heroTitleHtml": "나낭고 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>The Block Vista B&B</b>(평점 9.7·리뷰 145건·1박 약 15만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>The Block Vista B&B</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/113917432.jpg?k=b9f93f7dd34ed96ff9f152113d053175001aab3de23f2faa2d695dd9656a2370&o=",
+  "outroTitle": "🌙 나낭고, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 나낭고 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 나낭고 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Block Vista B&B",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-block-vista-b-b/hotel/all/nanango-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 145,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/113917432.jpg?k=b9f93f7dd34ed96ff9f152113d053175001aab3de23f2faa2d695dd9656a2370&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 145건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 145건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Blackbutt The Shack at Gilinlea",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/blackbutt-the-shack-at-gilinlea/hotel/all/nanango-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 70,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/659268467.jpg?k=b5b16ebaf59ef5d1df2287d7402b38b31fbced3d97ad8af44d8e9a79138ac5db&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 70건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 70건 기반.",
+      "reviews": [
+        {
+          "text": "캐닌은 아늑하고 시설이 잘 갖춰져 있었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "벽난로가 마음에 들었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Homestead Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/homestead-caravan-park/hotel/all/nanango-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 194,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/76364076.jpg?k=97155a578273ad2bbcf102663ec3362ada0034872a2e9fa57b11687a590ec362&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 194건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 194건 기반.",
+      "reviews": [
+        {
+          "text": "시설과 가까움",
+          "score": "8",
+          "country": "Spain",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 뛰어난 가치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "좋은 곳",
+          "score": "8",
+          "country": "Spain",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "편안하고 친절함",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Nanango Antler Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nanango-antler-motel/hotel/all/nanango-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.8,
+      "reviewCount": 104,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/430655545.jpg?k=b49dbdc8f3693b414193748ae423a2520f217866858d7b90bb515ec48cecd336&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 104건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 104건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "3 bed cottage nestled at centre of 21 acres in Blackbutt",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/3-bed-cottage-nestled-at-centre-of-18-acres-in-blackbutt/hotel/all/nanango-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.8,
+      "reviewCount": 52,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 35만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/467884221.jpg?k=58d0163e5de4d06e68712ff7888d8010077a87db9d59c2d0e1f31cda9a011703&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 35만원",
+        "📝 리뷰 52건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 52건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-06T09:39:55.010Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}
