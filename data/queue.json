@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-05T18:43:18.804Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 10,
-  "postedDate": "2026-07-05",
+  "lastPostedAt": "2026-07-06T01:11:23.203Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-07-06",
   "queue": [
-    "australia-glen-innes",
     "australia-gloucester",
     "australia-gingin",
-    "australia-gilgandra"
+    "australia-gilgandra",
+    "australia-gippsland-region"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 43,
+    "cityIndex": 44,
     "regionFails": 0,
     "skippedIds": [
       513016
@@ -92,6 +92,7 @@
     "australia-great-ocean-road-port-campbell",
     "australia-griffith",
     "australia-greens-beach",
-    "australia-gladstone"
+    "australia-gladstone",
+    "australia-glen-innes"
   ]
 }

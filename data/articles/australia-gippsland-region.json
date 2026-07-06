@@ -1,0 +1,439 @@
+{
+  "slug": "australia-gippsland-region",
+  "title": "깁스랜드 지역 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 깁스랜드 지역 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "깁스랜드 지역",
+  "cityId": 513003,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "깁스랜드 지역",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/215150451.jpg?k=c8d01b4f03a20a32e2d42d8c4e184cf29444b9186efd714f61473ea02a8f1d4f&o=",
+  "heroAlt": "깁스랜드 지역",
+  "heroTitleHtml": "깁스랜드 지역 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>At Home Apartments</b>(평점 9.2·리뷰 557건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>베언즈데일역 도보 12분</b>의 <b>NRMA Bairnsdale Riverside Holiday Park</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/215150451.jpg?k=c8d01b4f03a20a32e2d42d8c4e184cf29444b9186efd714f61473ea02a8f1d4f&o=",
+  "outroTitle": "🌙 깁스랜드 지역, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 깁스랜드 지역 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 깁스랜드 지역 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "At Home Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/at-home-apartments/hotel/all/gippsland-region-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 557,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/215150451.jpg?k=c8d01b4f03a20a32e2d42d8c4e184cf29444b9186efd714f61473ea02a8f1d4f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 557건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 557건 기반.",
+      "reviews": [
+        {
+          "text": "간편한 전용 주차 공간.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "넓고 편안한 객실, 라운지룸이 훌륭했습니다.",
+          "score": "10",
+          "country": "Papua New Guinea",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "호텔방보다 훨씬 좋아요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "침대가 너무 편안했어요.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "우리의 하룻밤 숙박을 좋아했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Fish Creek Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/fish-creek-hotel_2/hotel/gippsland-region-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.6,
+      "reviewCount": 1116,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 7.6,
+      "img": "//pix8.agoda.net/hotelImages/78759335/0/a66b5f00081dca5b2a4a8d163e6d011d.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 1,116건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 1,116건 기반.",
+      "reviews": [
+        {
+          "text": "침대는 정말 편안했고, 잠도 정말 잘 잤습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "방에는 긴 주말 동안 필요한 모든 것이 갖춰져 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "길가에 있음에도 불구하고 방은 조용했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "가격은 당신이 얻는 것에 대해 매우 합리적이었습니다.",
+          "score": "7.2",
+          "country": "ออสเตรเลีย",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "Wilson Prom을 위한 완벽한 장소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "시티 가든 모텔 (City Garden Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/city-garden-motel/hotel/gippsland-region-au.html?cid=1925461",
+      "walkMin": 13,
+      "score": 9.2,
+      "reviewCount": 108,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/303708/0/6ab5793750ce96e034798247ee32c93e.jpeg?ce=0",
+      "distanceNote": "약 1037.33m · Traralgon Railway station 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 108건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 108건 기반.",
+      "reviews": [
+        {
+          "text": "모든 것이 흠잡을 곳이 없었고 침대도 편안했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 사랑스러운 직원과 훌륭한 위치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "좋은 가격에 아주 좋은 숙박을 했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 직원, 친절하고 도움이 되었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "편안한 숙박을 위해 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Bairnsdale Main Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bairnsdale-main-motel/hotel/all/gippsland-region-au.html?cid=1925461",
+      "walkMin": 26,
+      "score": 8.7,
+      "reviewCount": 1442,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 8만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/530181158.jpg?k=35885ea2492427f1de23ed950329f2eed941638fe4bffcb43495c3650fd61344&o=",
+      "distanceNote": "약 2112.14m · 베언즈데일역 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 1,442건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,442건 기반.",
+      "reviews": [
+        {
+          "text": "Main Motel Bairnsdale은 필요한 모든 시설을 갖추고 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "좋은 가격에 모든 면에서 편안하고 기능적입니다.",
+          "score": "9.2",
+          "country": "New Zealand",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "작지만 매우 친절한 직원과 함께 필요한 모든 것",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안하며 가격도 합리적입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "훌륭하고 기본적이고 깨끗한 작은 모텔, 시내에서 멀지 않음",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "세일의 아파트먼트 (40m², 침실 1개, 프라이빗 욕실 1개) (Stay at the historic Star Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/stay-at-the-historic-star-hotel/hotel/gippsland-region-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 270,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 8만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/38396492/0/f8934208e29269f4b698c105e47c80b4.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 270건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 270건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 편안한 객실과 맛있는 음식",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "내가 다시 거기에 머물 것인가? 그럴 거예요, 분명 그럴 거예요.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "하룻밤 머물기에 완벽한 장소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절하고 도움이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "우리는 스타에서 정말 즐거운 시간을 보냈습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Ship Inn Motel Yarram",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ship-inn-motel/hotel/all/gippsland-region-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 76,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/775189138.jpg?k=3340e74bb15272be4aabd73b3f0efe0e49f88ab3e747f12c9ed8651f35051174&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 76건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 76건 기반.",
+      "reviews": [
+        {
+          "text": "그들은 내 오토바이를 건조하게 유지하기 위해 실내에 보관했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "좋은 사람들, 좋은 시설, 매우 깨끗합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗한 방, 화장실, 주전자, 유틸리티 및 냉장고.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "모텔 방은 흠잡을 곳이 없었고 매트리스도 매우 편안했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 직원, 훌륭한 수영장, 매우 깨끗하고 가격도 적당합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "NRMA Bairnsdale Riverside Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nrma-bairnsdale-riverside-holiday-park_2/hotel/all/gippsland-region-au.html?cid=1925461",
+      "walkMin": 12,
+      "score": 8.7,
+      "reviewCount": 449,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 8만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/290980/0/1b10644902f3229fa91ec57fbe6ee910.jpeg?ce=0",
+      "distanceNote": "약 974.08m · 베언즈데일역 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 449건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 449건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 위치에 있는 친근한 공간입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "가격대비 매우 훌륭하고 깔끔하고 분위기도 좋습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "우리의 세 번째 숙박이며 꼭 다시 올 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 직원이 있는 훌륭한 가치의 숙소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "캐빈에는 필요한 조리 시설이 갖춰져 있어 편안했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-06T01:12:05.895Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
