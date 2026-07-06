@@ -1,0 +1,339 @@
+{
+  "slug": "australia-nagambie",
+  "title": "나감비 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 나감비 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "nagambie-au",
+  "cityName": "나감비",
+  "cityId": 143200,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "나감비",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/397027519.jpg?k=4cea03b882fb727c001015e865302c7f3e6d2e78a898dfccb591abdb1aa578de&o=",
+  "heroAlt": "나감비",
+  "heroTitleHtml": "나감비 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Discovery Parks - Nagambie Lakes</b>(평점 9.1·리뷰 612건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Discovery Parks - Nagambie Lakes</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/397027519.jpg?k=4cea03b882fb727c001015e865302c7f3e6d2e78a898dfccb591abdb1aa578de&o=",
+  "outroTitle": "🌙 나감비, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 나감비 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 나감비 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Discovery Parks - Nagambie Lakes",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/discovery-parks-nagambie-lakes/hotel/nagambie-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 612,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/397027519.jpg?k=4cea03b882fb727c001015e865302c7f3e6d2e78a898dfccb591abdb1aa578de&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 612건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 612건 기반.",
+      "reviews": [
+        {
+          "text": "놀라운 가격으로 모든 것이 새롭고 깨끗합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "캐빈은 잘 갖춰져 있었고 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "놀라운 전망을 갖춘 놀라운 위치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "정말 완벽했어요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "발코니와 라운지에서 보이는 전망은 정말 아름답습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Nagambie Lifestyle Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nagambie-caravan-park-motel/hotel/all/nagambie-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 290,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/80878831.jpg?k=d5216c35df14460f36d57e6c74d83db01742cc7dac26ba837bd66e69ebbf8b32&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 290건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 290건 기반.",
+      "reviews": [
+        {
+          "text": "매우 친절하고 도움이 되는 직원.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "나감비 모터 인 (Nagambie Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nagambie-motor-inn/hotel/nagambie-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 439,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/286201/-1/8df38fe584190a0fe48783be4e6e67cc.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 439건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 439건 기반.",
+      "reviews": [
+        {
+          "text": "이보다 더 도움이 되고 친절할 수는 없습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "편안하게 앉을 수 있는 침대와 소파.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 방, 친절한 직원, 편안함!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "개조된 욕실을 갖춘 깨끗한 객실입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "정원과 수영장 지역은 멋져 보였습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Luxury Lake Nagambie Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bord-du-lac-nagambie/hotel/all/nagambie-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 34,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/598855687.jpg?k=83c3eacc453fa437676eb70968a99220964fce02c61c8f7e796e30a99961e62a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 34건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 34건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Nagambie Waterfront Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nagambie-waterfront-motel/hotel/all/nagambie-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 37,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 20만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/603744280.jpg?k=ba2c81a1267a8997ddf60d87f55e377326f509b166e2dfe506101192e906864c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 37건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 37건 기반.",
+      "reviews": [
+        {
+          "text": "호수 바로 옆에 있고 상점까지 도보로 짧은 거리에 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "방은 잘 갖추어져 있었고 매우 깨끗하고 깔끔했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "호수 전망이 보이는 깔끔하고 편안한 객실에서 즐거운 시간을 보내세요.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "크고 편안한 침대를 갖춘 현대적이고 깨끗한 객실입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "멋진 아파트는 호수 전망 방을 얻으려고 노력합니다",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Centre Town Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/centretown-motel/hotel/nagambie-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 353,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/718574644.jpg?k=65fb29be18d7ea9202594734b9b1da15625ce4d38758d849e0987577ef36bfb9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 353건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 353건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 가격",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "좋은 예산",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "잠들기 편한 침대.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "냉장고, 전자레인지, 수영장, 공용 주방.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "좋은 크기의 방, 넓은 욕실.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "The Mitchelton Hotel Nagambie",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-mitchelton-hotel-nagambie-mgallery-by-sofitel/hotel/all/nagambie-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 167,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 33만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/228284712.jpg?k=56e0709521dc83118f69f4a7fdd608ee80c4d62419f3097c990aeaffaca6d403&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 33만원",
+        "📝 리뷰 167건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 167건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-06T05:36:44.917Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

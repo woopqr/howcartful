@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-06T02:20:16.748Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 2,
+  "lastPostedAt": "2026-07-06T05:36:31.745Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 3,
   "postedDate": "2026-07-06",
   "queue": [
-    "australia-gingin",
     "australia-gilgandra",
     "australia-gippsland-region",
-    "australia-gypsy-point"
+    "australia-gypsy-point",
+    "australia-nagambie"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 45,
+    "cityIndex": 46,
     "regionFails": 0,
     "skippedIds": [
       513016
@@ -94,6 +94,7 @@
     "australia-greens-beach",
     "australia-gladstone",
     "australia-glen-innes",
-    "australia-gloucester"
+    "australia-gloucester",
+    "australia-gingin"
   ]
 }
