@@ -1,0 +1,303 @@
+{
+  "slug": "australia-nannup",
+  "title": "난눕 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 난눕 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "난눕",
+  "cityId": 143499,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "난눕",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/127556622.jpg?k=d5d880cb7d5e0458d5d6f85ffb847e3cab8a0a91e9fa9f13cfd6bf81dfc955d2&o=",
+  "heroAlt": "난눕",
+  "heroTitleHtml": "난눕 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Centre of Town</b>(평점 9.5·리뷰 131건·1박 약 17만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Centre of Town</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/127556622.jpg?k=d5d880cb7d5e0458d5d6f85ffb847e3cab8a0a91e9fa9f13cfd6bf81dfc955d2&o=",
+  "outroTitle": "🌙 난눕, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 난눕 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 난눕 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Centre of Town",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/centre-of-town/hotel/all/nannup-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 131,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/127556622.jpg?k=d5d880cb7d5e0458d5d6f85ffb847e3cab8a0a91e9fa9f13cfd6bf81dfc955d2&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 131건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 131건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 아늑한 장소.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "우리의 하룻밤 체류는 집의 편안함과 비슷했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "장소는 깨끗하고 잘 관리되어 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "편안한 숙박",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "비욘더업 폴스 어덜트 리트리트 (Beyonderup Falls Adult Retreat)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beyonderup-falls-adult-retreat_2/hotel/nannup-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 336,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/226/2260243/2260243_17051609520053007564.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 336건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 336건 기반.",
+      "reviews": [
+        {
+          "text": "발코니에 밖에 앉아 있거나 뜨거운 스파를 받는 것은 마법이었습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "사랑스럽고 잘 꾸며진 객실, 훌륭한 스파, 훌륭한 침대.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "스파는 믿을 수 없을 정도로 훌륭했고 모든 것을 마무리할 수 있는 무료 장작이 있었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "우리는 그것을 정말 좋아했고 다시 돌아올 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "휴식을 취할 수 있는 특별한 장소였습니다. 곧 돌아올 예정입니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Brodie's Farm",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/brodie-s-farm/hotel/all/nannup-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.8,
+      "reviewCount": 36,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/645840828.jpg?k=22917807d8753702bc8a78d669e18554383b050bc386b00f17f14b07de4ab161&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 36건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 36건 기반.",
+      "reviews": [
+        {
+          "text": "우리가 이곳을 선택해서 다행이에요!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "모든 것에서 벗어날 수 있는 아름다운 곳!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Holberry House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/holberry-house_2/hotel/all/nannup-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 257,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/67072118.jpg?k=a2c427cfe438dffaa9240bbbb1f5d228dec82c6cdabf838bb2b2410c6f0b676c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 257건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 257건 기반.",
+      "reviews": [
+        {
+          "text": "가구가 잘 갖춰진 라운지 공간과 온실.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "확실히 나는 미래에 다시 올 것이다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "직원들은 훌륭하고 열심히 일합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "시내 돌아다니기 좋은 위치.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Nannup Hotel Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nannup-hotel-motel/hotel/all/nannup-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.4,
+      "reviewCount": 33,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/784568246.jpg?k=671945f4a87098d0a97948a96d8c225b19c32f2af3218b5d564445ec5fc683d0&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 33건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.4</b> · 실제 투숙객 리뷰 33건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "난눕의  (50m², 침실 3개, 프라이빗 욕실 1개) (Lewana Cottages)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lewana-cottages_3/hotel/nannup-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 42,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 29만원",
+      "valueIndex": 5.2,
+      "img": "//pix8.agoda.net/hotelImages/4985553/-1/92581e14f4c75c0283c5048728609649.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 29만원",
+        "📝 리뷰 42건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 42건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Our Humble Home Nannup",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/our-humble-home-nannup/hotel/all/nannup-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 36,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 48만원",
+      "valueIndex": 4.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/419785887.jpg?k=75b0293f30d19585cf9aaebc2ffeede3531bf246b6830b94de4fe3c41714cb78&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 48만원",
+        "📝 리뷰 36건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 36건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-06T23:05:14.547Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
