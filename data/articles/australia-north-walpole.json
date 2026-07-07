@@ -1,0 +1,316 @@
+{
+  "slug": "australia-north-walpole",
+  "title": "노스 월폴 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 노스 월폴 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "노스 월폴",
+  "cityId": 720460,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "노스 월폴",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/153339285.jpg?k=5834390ff8a7e386074a44360c0b447716f8f83d2c56e2abcf9f62dddd902c0c&o=",
+  "heroAlt": "노스 월폴",
+  "heroTitleHtml": "노스 월폴 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Tinglewood Cabins</b>(평점 9.4·리뷰 256건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Tinglewood Cabins</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/153339285.jpg?k=5834390ff8a7e386074a44360c0b447716f8f83d2c56e2abcf9f62dddd902c0c&o=",
+  "outroTitle": "🌙 노스 월폴, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 노스 월폴 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 노스 월폴 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Tinglewood Cabins",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tinglewood-cabins_2/hotel/all/north-walpole-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 256,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/153339285.jpg?k=5834390ff8a7e386074a44360c0b447716f8f83d2c56e2abcf9f62dddd902c0c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 256건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 256건 기반.",
+      "reviews": [
+        {
+          "text": "평화로운 가족 휴가",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Walpole Rest Point Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rest-point-holiday-village/hotel/all/walpole-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 853,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/670750024.jpg?k=706985c6863c71ce1fc37306a160268e581d4c55ececeb324870885886849ed1&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 853건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 853건 기반.",
+      "reviews": [
+        {
+          "text": "다음에 WA를 방문하면 꼭 다시 이곳에 묵을 것입니다.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 넓고 사랑스러운 직원, 아름다운 환경.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "머물기 좋은 곳... 주변 환경도 아름답습니다.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "가장 좋은 보상은 우리 숙소 바로 밖에서 일출을 보는 것입니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 쾌적한 숙박을 위한 모든 시설이 갖춰져 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Tree Top Walk Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tree-top-walk-motel_5/hotel/all/walpole-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 844,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/69093898.jpg?k=0d4da1083c73058ea02d32545fd1c3189ad5f68bdb78fe374b4d0d89547c1156&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 844건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 844건 기반.",
+      "reviews": [
+        {
+          "text": "가격 대비 매우 훌륭한 호텔입니다.",
+          "score": "8.8",
+          "country": "Indonesia",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "지역을 탐험하는 동안 머물기에 좋은 곳!",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "넓고 편안한 객실.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "체크인과 체크아웃이 쉽습니다.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "그들은 집에 레스토랑이 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "빌라 빌라 팜 코티지 (Billa Billa Farm Cottages)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/billa-billa-farm-cottages/hotel/north-walpole-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 36,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/567883/-1/27007d84e242c7b661a48b33b4f13d81.jpg?ca=8&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 36건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 36건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "콜마인 비치 홀리데이 파크 (Coalmine Beach Holiday Park)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/coalmine-beach-holiday-park/hotel/walpole-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 266,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/908692/0/0afc8d6897a8db168fbc12e0be0eeb59.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 266건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 266건 기반.",
+      "reviews": [
+        {
+          "text": "Walpole 및 주변 지역을 방문할 때 머물기에 좋은 장소",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "월폴 방문시 머물기 좋은 숙소였습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "우리는 추천하고 다시 머물 것입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "매우 편안하고 깨끗합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "글램핑 최고!!!!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Bayside Villas",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bayside-villas/hotel/all/walpole-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.7,
+      "reviewCount": 484,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/363920969.jpg?k=1d38ad17961790e2fc954816de2127273493cbd77f63ea67bff95cc908f3068a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 484건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 484건 기반.",
+      "reviews": [
+        {
+          "text": "주방은 잘 갖추어져 있었고 편의 시설도 제공되었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "다음에 월폴을 다시 방문한다면 이곳에 묵을 예정입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "주인은 매우 친절하고 최고의 서비스를 제공합니다!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "우리는 빌라에서 즐거운 시간을 보냈습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 시트와 수건, 편안한 잠",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-07T11:14:46.656Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}
