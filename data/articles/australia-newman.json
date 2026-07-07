@@ -1,0 +1,252 @@
+{
+  "slug": "australia-newman",
+  "title": "뉴먼 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 뉴먼 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "newman-au",
+  "cityName": "뉴먼",
+  "cityId": 21464,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "뉴먼",
+  "heroImg": "https://pix8.agoda.net/hotelImages/89635/0/236aee8fcc6708bb8777b4f57614b72a.jpeg?ce=0",
+  "heroAlt": "뉴먼",
+  "heroTitleHtml": "뉴먼 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>시즌스 호텔 뉴만</b>(평점 7.5·리뷰 31건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>시즌스 호텔 뉴만</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/89635/0/236aee8fcc6708bb8777b4f57614b72a.jpeg?ce=0",
+  "outroTitle": "🌙 뉴먼, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 뉴먼 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 뉴먼 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "시즌스 호텔 뉴만 (Seasons Hotel Newman)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/seasons-hotel-newman/hotel/newman-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.5,
+      "reviewCount": 31,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 5.5,
+      "img": "//pix8.agoda.net/hotelImages/89635/0/236aee8fcc6708bb8777b4f57614b72a.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 31건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 31건 기반.",
+      "reviews": [
+        {
+          "text": "편안한 침대, 훌륭한 직원, 넓은 객실, 멋진 아침 식사.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 레스토랑과 멋진 수영장을 갖춘 편안한 객실",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "좋은 호텔",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "The Lodge Motel Newman",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-lodge-newman/hotel/all/newman-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.6,
+      "reviewCount": 197,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 4.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/662292879.jpg?k=f003049134f69806fee036d8f488b24a8d8898b5eebd9782e0ea8d2a9120969a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 197건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 197건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 아침 식사.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "카프리콘 빌리지 (Capricorn Village)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/capricorn-village/hotel/newman-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.5,
+      "reviewCount": 105,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 4.9,
+      "img": "//pix8.agoda.net/hotelImages/661/661122/661122_15071311370032157921.jpg?ca=4&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 105건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 105건 기반.",
+      "reviews": [
+        {
+          "text": "매우 편안하고 깨끗하며 수납 공간이 넓습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "아침과 저녁(뷔페)이 포함되어 있습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 곳입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "엉망진창의 음식은 최고 수준입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "레드 샌즈 어커머데이션 뉴먼 (Red Sands Accommodation Newman)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-red-sands-accomodation-park/hotel/newman-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 6.9,
+      "reviewCount": 291,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 4.5,
+      "img": "//pix8.agoda.net/hotelImages/37372594/0/717274b2529c3aac049e50724a058c97.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 291건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>6.9</b> · 실제 투숙객 리뷰 291건 기반.",
+      "reviews": [
+        {
+          "text": "친절하고 도움이 되는 직원이 있는 좋은 가치의 숙박 시설입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 편안하며 컴팩트합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "멋진 장소와 좋은 서비스",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "직원들은 환상적이었고 매우 친절했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "편안한 침대가 있는 전반적으로 좋은 숙소",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Oasis Newman",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oasis-newman/hotel/all/newman-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.7,
+      "reviewCount": 69,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 33만원",
+      "valueIndex": 4.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/848609730.jpg?k=0ddd8408604e3b8611c5705ed6c78c4c7652897d7e02767b65da5ee6cd4a2c24&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 33만원",
+        "📝 리뷰 69건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 69건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗함 편안함 조용함",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "좋은 음식을 제공하는 훌륭한 위치",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-07T21:42:08.943Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}
