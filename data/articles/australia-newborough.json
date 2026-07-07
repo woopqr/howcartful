@@ -1,0 +1,132 @@
+{
+  "slug": "australia-newborough",
+  "title": "뉴버러 가성비 호텔 2곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 뉴버러 가성비 호텔 2곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "뉴버러",
+  "cityId": 717735,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "뉴버러",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/131981975.jpg?k=19dbdd9154caae772673cda9c19402b420a9db26fe7a887ab1e71c988cca77f1&o=",
+  "heroAlt": "뉴버러",
+  "heroTitleHtml": "뉴버러 가성비 호텔 2곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Moe Motor Inn - After Hours Check Inn Available</b>(평점 7.9·리뷰 55건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Moe Motor Inn - After Hours Check Inn Available</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/131981975.jpg?k=19dbdd9154caae772673cda9c19402b420a9db26fe7a887ab1e71c988cca77f1&o=",
+  "outroTitle": "🌙 뉴버러, 어디에 묵어도 후회없이",
+  "outroText": "위 2곳은 모두 뉴버러 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 뉴버러 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Moe Motor Inn - After Hours Check Inn Available",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/moe-motor-inn-contactless-24-hour-checkinn-available/hotel/all/gippsland-region-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 55,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/131981975.jpg?k=19dbdd9154caae772673cda9c19402b420a9db26fe7a887ab1e71c988cca77f1&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 55건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 55건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 저예산 모텔, 깨끗하고 큽니다.",
+          "score": "7.6",
+          "country": "Austria",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "객실은 매우 잘 갖추어져 있으며 침대는 매우 편안합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "Moe Heritage Park를 보기 위해 1N 동안 잠시 머물기에 적합합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 만족하고 100% 추천합니다 👌",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 도움이 되고 친절합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Moe Parklands Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/moe-parklands-motel/hotel/newborough-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 272,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/174635970.jpg?k=2b04eced0a03f391ef2ae72ddb92bece63b18bb53bd7b4e171a0ac0b940b8450&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 272건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 272건 기반.",
+      "reviews": [
+        {
+          "text": "우리의 비즈니스 요구 사항에 완벽하게 부합했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "처음으로 여기에 머물렀고 우리는 돌아올 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-07T22:44:01.270Z",
+    "source": "agoda citySearch",
+    "count": 2
+  }
+}
