@@ -1,0 +1,272 @@
+{
+  "slug": "australia-nubina",
+  "title": "누비나 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 누비나 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "누비나",
+  "cityId": 513451,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "누비나",
+  "heroImg": "https://pix8.agoda.net/hotelImages/289644/0/ee08c9ffea74f1fc1784be2c84170e98.jpeg",
+  "heroAlt": "누비나",
+  "heroTitleHtml": "누비나 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>NRMA Port Arthur Holiday Park</b>(평점 9·리뷰 1,799건·1박 약 3만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>NRMA Port Arthur Holiday Park</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/289644/0/ee08c9ffea74f1fc1784be2c84170e98.jpeg",
+  "outroTitle": "🌙 누비나, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 누비나 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 누비나 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "NRMA Port Arthur Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nrma-port-arthur-holiday-park/hotel/all/port-arthur-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 1799,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 9,
+      "img": "//pix8.agoda.net/hotelImages/289644/0/ee08c9ffea74f1fc1784be2c84170e98.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 1,799건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,799건 기반.",
+      "reviews": [
+        {
+          "text": "텐트 컨셉이 너무 멋지고 실행력도 훌륭했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "텐트는 놀라웠고, 매우 아늑하고 세심하게 배치되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 객실 - 크지는 않지만 .. 흠집 하나 없이 깨끗하고 새것입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "우리 가족의 휴가를 위한 매우 깨끗하고 깔끔하고 아늑한 샬레입니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "위치에 도착하면 커플이 머물기에 매우 좋은 장소",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "The Fox and Hounds Historic Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/fox-and-hounds-inn/hotel/port-arthur-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 244,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/50149/-1/240e04f448f920c96b05551b5c0e5493.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 244건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 244건 기반.",
+      "reviews": [
+        {
+          "text": "내 방은 편안하고 넓었으며, 아늑한 침대가 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "펍은 저녁 식사를 하고 잠자리에 들기 전에 술을 마시기에 좋았습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "다음에 포트아서에 가면 꼭 여기서 예약하겠습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "웅장한 전망을 갖춘 거대한 객실.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원과 방의 놀라운 전망.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "파슨스 베이 리트리트 (Parsons Bay Retreat)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/parsons-bay-retreat/hotel/nubeena-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 111,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/305/305841/305841_17092409280056771546.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 111건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 111건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Chill Tasmania",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/chill-tasmania/hotel/all/white-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 220,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/121365989.jpg?k=9521688c6e6f2899444987282522f078450bc3d45fd4caa5bbea1e934b6c44f0&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 220건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 220건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 확실히 여기로 돌아올 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 완벽해요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "가격대비 매우 크고 편안한 숙소",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "모든 것에 대해 로드에게 감사드립니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "좋은 숙박!",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "라루스 워터프론트 코티지 (Larus Waterfront Cottage)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/larus-waterfront-cottage/hotel/white-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 142,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 30만원",
+      "valueIndex": 5.1,
+      "img": "//pix8.agoda.net/hotelImages/255764/0/ef3bdf9786fe7cb2901fa1b8193da06a.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 30만원",
+        "📝 리뷰 142건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 142건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 숙소이며 지역을 탐험하기에 완벽한 위치입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "확실히 5성급 숙소입니다!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 완벽했어요",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-07T18:09:47.473Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}

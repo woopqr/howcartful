@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-07T16:01:24.074Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 6,
+  "lastPostedAt": "2026-07-07T18:09:26.974Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 7,
   "postedDate": "2026-07-07",
   "queue": [
-    "australia-north-lake",
     "australia-north-walpole",
     "australia-north-haven",
-    "australia-noorunbai"
+    "australia-noorunbai",
+    "australia-nubina"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 59,
+    "cityIndex": 60,
     "regionFails": 0,
     "skippedIds": [
       513016
@@ -108,6 +108,7 @@
     "australia-nauru",
     "australia-nannup",
     "australia-nambucca-heads",
-    "australia-normanville"
+    "australia-normanville",
+    "australia-north-lake"
   ]
 }
