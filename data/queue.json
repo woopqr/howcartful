@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-07T00:17:51.505Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 1,
+  "lastPostedAt": "2026-07-07T04:28:00.075Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 2,
   "postedDate": "2026-07-07",
   "queue": [
-    "australia-narooma",
     "australia-nauru",
     "australia-nannup",
-    "australia-nambucca-heads"
+    "australia-nambucca-heads",
+    "australia-normanville"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 54,
+    "cityIndex": 55,
     "regionFails": 0,
     "skippedIds": [
       513016
@@ -103,6 +103,7 @@
     "australia-nanango",
     "australia-narrabri",
     "australia-naracoorte",
-    "australia-narrandera"
+    "australia-narrandera",
+    "australia-narooma"
   ]
 }

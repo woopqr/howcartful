@@ -1,0 +1,268 @@
+{
+  "slug": "australia-normanville",
+  "title": "노르만빌 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 노르만빌 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "normanville-au",
+  "cityName": "노르만빌",
+  "cityId": 102391,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "노르만빌",
+  "heroImg": "https://pix8.agoda.net/hotelImages/305/305451/305451_14041413540019067549.jpg?ca=2&ce=1",
+  "heroAlt": "노르만빌",
+  "heroTitleHtml": "노르만빌 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>링크 레이디 베이 리조트</b>(평점 8.8·리뷰 1,093건·1박 약 16만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>링크 레이디 베이 리조트</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/305/305451/305451_14041413540019067549.jpg?ca=2&ce=1",
+  "outroTitle": "🌙 노르만빌, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 노르만빌 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 노르만빌 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "링크 레이디 베이 리조트 (Links Lady Bay Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/links-lady-bay-resort/hotel/normanville-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 1093,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/305/305451/305451_14041413540019067549.jpg?ca=2&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 1,093건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,093건 기반.",
+      "reviews": [
+        {
+          "text": "레스토랑/바에는 다양한 음식, 맥주, 와인이 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "아파트는 흠잡을 곳이 없었고 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "킹 스파 스위트룸은 매우 넓고 편안합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "객실에서는 골프장과 바다 전망을 감상하실 수 있습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절하고 전문적이며 이해심이 많았습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Big4 Normanville Jetty Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-normanville-jetty-holiday-park/hotel/all/normanville-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 108,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/888893764.jpg?k=374233cbb71ec80dc8ace3c3444c688e0a1cd3d74f3f786424d3203e3b031156&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 108건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 108건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "BreakFree Wirrina Cove",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wirrina-cove-resort_2/hotel/wirrina-cove-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 33,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.7,
+      "img": "//pix8.agoda.net/hotelImages/26890297/0/0d52f6fd68e555b7aa18e8164104361c.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 33건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 33건 기반.",
+      "reviews": [
+        {
+          "text": "빠르고 편안하게 지낼 수 있는 훌륭한 작은 숙소",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "스파는 따뜻했고 한 번에 5분 동안 거품이 나더군요.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 넓은 객실, 편안합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "레스토랑에서 맛있는 중국 음식.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "머물기에 가장 좋은 곳",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "뉴 테리 호텔 앤 골프 리조트 (New Terry Hotel and Golf Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/new-terry-hotel-and-golf-resort/hotel/wirrina-cove-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.6,
+      "reviewCount": 140,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/337/337800/337800_14042211270019149481.jpg?ca=2&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 140건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 140건 기반.",
+      "reviews": [
+        {
+          "text": "방은 넓었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치에 있는 좋은 리조트",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "수영장과 사우나가 좋아요.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "The Bunker Normanville",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-bunker-normanville/hotel/all/normanville-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 50,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 42만원",
+      "valueIndex": 5.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/453126831.jpg?k=20285389ee97d6b5e2fdecfb5c3eec96ac47c110f3276b9d427a22c310db0be8&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 42만원",
+        "📝 리뷰 50건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 50건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Belle Vista",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/belle-vista/hotel/all/wirrina-cove-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 51,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 62만원",
+      "valueIndex": 4.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/331617958.jpg?k=2f5cebeb6373d2bfafd472f835b09edff1127934ebb6c437ada98b3f4b4d3840&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 62만원",
+        "📝 리뷰 51건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 51건 기반.",
+      "reviews": [
+        {
+          "text": "이름만큼 뷰가 좋아요.",
+          "score": "8.8",
+          "country": "Australie",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-07T04:28:17.201Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}
