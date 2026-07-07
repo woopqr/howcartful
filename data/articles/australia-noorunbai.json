@@ -1,0 +1,87 @@
+{
+  "slug": "australia-noorunbai",
+  "title": "누룬바이 가성비 호텔 1곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 누룬바이 가성비 호텔 1곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "nhulunbuy-au",
+  "cityName": "누룬바이",
+  "cityId": 21425,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "누룬바이",
+  "heroImg": "https://pix8.agoda.net/hotelImages/569401/-1/163179e70a37d3b3a3ee9c6363e82107.jpg?ca=8&ce=1",
+  "heroAlt": "누룬바이",
+  "heroTitleHtml": "누룬바이 가성비 호텔 1곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>워크어바웃 로지 앤 태번</b>(평점 8.2·리뷰 87건·1박 약 50만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>워크어바웃 로지 앤 태번</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/569401/-1/163179e70a37d3b3a3ee9c6363e82107.jpg?ca=8&ce=1",
+  "outroTitle": "🌙 누룬바이, 어디에 묵어도 후회없이",
+  "outroText": "위 1곳은 모두 누룬바이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 누룬바이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "워크어바웃 로지 앤 태번 (Walkabout Lodge and Tavern)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/walkabout-lodge-and-tavern/hotel/nhulunbuy-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 87,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 50만원",
+      "valueIndex": 4.7,
+      "img": "//pix8.agoda.net/hotelImages/569401/-1/163179e70a37d3b3a3ee9c6363e82107.jpg?ca=8&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 50만원",
+        "📝 리뷰 87건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 87건 기반.",
+      "reviews": [
+        {
+          "text": "주방과 리셉션의 훌륭한 서비스",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 수영장과 실내/야외 식사 공간, 커피 주류 판매 공간",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "꼭 여기에 머무르는 것이 좋습니다",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "다시 머물 예정입니다 💯",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "깔끔하고 정갈하며 훌륭한 음식과 친절한 직원",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-07T16:01:30.387Z",
+    "source": "agoda citySearch",
+    "count": 1
+  }
+}
