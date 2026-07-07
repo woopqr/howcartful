@@ -1,0 +1,242 @@
+{
+  "slug": "australia-new-norfolk",
+  "title": "뉴 노퍽 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 뉴 노퍽 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "뉴 노퍽",
+  "cityId": 102388,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "뉴 노퍽",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/104565652.jpg?k=ce6ba4265b8cea569236865246588b7eef5cb363b7064204a24e0a6e62544060&o=",
+  "heroAlt": "뉴 노퍽",
+  "heroTitleHtml": "뉴 노퍽 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>New Norfolk Junction Motel</b>(평점 8.4·리뷰 36건·1박 약 11만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Derwent Valley Railway New Norfolk Station 도보 5분</b>의 <b>The Woodbridge Waterfront Rooms</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/104565652.jpg?k=ce6ba4265b8cea569236865246588b7eef5cb363b7064204a24e0a6e62544060&o=",
+  "outroTitle": "🌙 뉴 노퍽, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 뉴 노퍽 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 뉴 노퍽 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "New Norfolk Junction Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/new-norfolk-junction-motel/hotel/all/new-norfolk-au.html?cid=1925461",
+      "walkMin": 14,
+      "score": 8.4,
+      "reviewCount": 36,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/104565652.jpg?k=ce6ba4265b8cea569236865246588b7eef5cb363b7064204a24e0a6e62544060&o=",
+      "distanceNote": "약 1113.44m · Derwent Valley Railway New Norfolk Station 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 36건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 36건 기반.",
+      "reviews": [
+        {
+          "text": "방은 편안했고 내 요구를 충족했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 좋았습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "기발한 숙박 시설",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 좋은 호텔, 친절한 직원,",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 방과 좋은 서비스",
+          "score": "8",
+          "country": "中國香港",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "더 싱글즈 리버사이드 코티지 (The Shingles Riverside Cottages)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-shingles-riverside-cottages/hotel/new-norfolk-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 9.3,
+      "reviewCount": 335,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/281/281038/281038_15073112080033412213.jpg?ca=5&ce=1",
+      "distanceNote": "약 508.9m · Derwent Valley Railway New Norfolk Station 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 335건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 335건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 Derwent 강이 내려다보이는 Paddy's Flat에 묵었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "완비된 주방, 아름다운 욕실, 따뜻하고 편안한 침대.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "정말 완벽하고 평화로우며 모든 것이 정말 마음에 들었습니다! 🥰",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "흠잡을 데 없이 깨끗하고 완비된 주방.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "숙소는 흠잡을 곳이 없었고 잘 표현되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "올드 콜로니 인 (Old Colony Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/old-colony-inn/hotel/new-norfolk-au.html?cid=1925461",
+      "walkMin": 10,
+      "score": 9,
+      "reviewCount": 562,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/334/334596/334596_14040910160019012585.jpg?ca=2&ce=1",
+      "distanceNote": "약 774.84m · Derwent Valley Railway New Norfolk Station 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 562건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 562건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 친절한 직원, 적당한 크기의 객실, 환상적인 아침 식사",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "우리가 거기에 있었던 두 날 아침에 멋진 아침 식사가 제공되었습니다.",
+          "score": "9.5",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "옛날 패션 B&B 서비스를 즐겨보세요",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "기회가 주어진다면 우리는 다시 돌아갈 것입니다.",
+          "score": "9.5",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "The Woodbridge Waterfront Rooms",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/woodbridge-on-the-derwent/hotel/new-norfolk-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 9.2,
+      "reviewCount": 32,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/256902/0/624920308745827fd683a5c1d9886ed3.jpg?ce=2",
+      "distanceNote": "약 405.18m · Derwent Valley Railway New Norfolk Station 인근",
+      "metaTags": [
+        "📝 리뷰 32건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 32건 기반.",
+      "reviews": [
+        {
+          "text": "모든 것이 깨끗하고 깔끔했어요",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치와 좋은 환대",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "아름다운 위치",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-07T20:13:16.457Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}
