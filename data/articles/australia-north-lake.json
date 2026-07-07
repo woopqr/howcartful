@@ -1,0 +1,382 @@
+{
+  "slug": "australia-north-lake",
+  "title": "노스 레이크 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 노스 레이크 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "brisbane-au",
+  "cityName": "노스 레이크",
+  "cityId": 710750,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "노스 레이크",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/348732811.jpg?k=0e5c855e7ee30864a80e8ab5fd60edf014f97cc39dcb0606f1c9eb8ce91c9ff1&o=",
+  "heroAlt": "노스 레이크",
+  "heroTitleHtml": "노스 레이크 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>페트리 밀 모텔</b>(평점 9.1·리뷰 1,168건·1박 약 14만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Petrie 도보 8분</b>의 <b>페트리 밀 모텔</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/348732811.jpg?k=0e5c855e7ee30864a80e8ab5fd60edf014f97cc39dcb0606f1c9eb8ce91c9ff1&o=",
+  "outroTitle": "🌙 노스 레이크, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 노스 레이크 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 노스 레이크 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "페트리 밀 모텔 (Petrie Mill Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/petrie-mill-motel/hotel/brisbane-au.html?cid=1925461",
+      "walkMin": 8,
+      "score": 9.1,
+      "reviewCount": 1168,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/348732811.jpg?k=0e5c855e7ee30864a80e8ab5fd60edf014f97cc39dcb0606f1c9eb8ce91c9ff1&o=",
+      "distanceNote": "약 621.37m · Petrie 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 1,168건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 1,168건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 친절했고 시설은 최고 수준이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 깔끔한 시설은 내 요구에 완벽하게 들어맞았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "Petrie Mill Motel은 제가 브리즈번에 있을 때 가장 먼저 가고 싶은 곳입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "빠른 체크인, 친절한 직원, 객실은 깨끗하고 좋았습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "방은 정말 사랑스럽고 깨끗하고 깔끔했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "불러바드 노스 레이크스 (Boulevard North Lakes)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/boulevard-north-lakes/hotel/brisbane-au.html?cid=1925461",
+      "walkMin": 20,
+      "score": 9.3,
+      "reviewCount": 310,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/75935323/0/08b452f605bda046cf7beb01cf7d0907.jpg?ce=2",
+      "distanceNote": "약 1581.93m · Mango Hill 인근",
+      "metaTags": [
+        "📝 리뷰 310건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 310건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 이 숙소를 좋아했고 직원들은 훌륭했습니다.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "장치 자체는 완벽하며 필요한 모든 것을 갖추고 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "쇼핑, 놀이 센터, 공원, 산책에 이상적인 위치입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "노스 레이크스 최고의 숙소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "가장 중요한 것은 가격 대비 가치입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Private Room with Separate Bath in Shared Accommodation with Private Access",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/private-room-with-separate-bath-in-shared-accommodation/hotel/all/brisbane-au.html?cid=1925461",
+      "walkMin": 15,
+      "score": 7.8,
+      "reviewCount": 74,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/461321133.jpg?k=0930f6b623ef3be76b35d6cfa0ec5bddfeb3d12d18174ea837f7495a8bc5bbf7&o=",
+      "distanceNote": "약 1225.61m · Rothwell Railway Station 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 74건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 74건 기반.",
+      "reviews": [
+        {
+          "text": "나는 머물 것을 권하고 싶습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 광고된 대로였습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "밤에 잠을 자기에 좋은 저렴한 장소",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "호스트는 친절했어요",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Raven Studio Griffin",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/raven-studio-griffin-h64469663/hotel/all/strathpine-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 45,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/631254077.jpg?k=738dfc701c4853c12470396b837798cce380aa8782eef2ea1d397fde1b84b600&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 45건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 45건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Entire Studio Apartment - self check-in",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/entire-studio-apartment-self-check-in/hotel/all/brisbane-au.html?cid=1925461",
+      "walkMin": 21,
+      "score": 8.9,
+      "reviewCount": 120,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/637937499.jpg?k=79c1eefeee535a10f7aa9ded3a624f5cf5eae136f7628e6b608dbe351a8e0c18&o=",
+      "distanceNote": "약 1680.59m · Kippa-Ring 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 120건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 120건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 기본 객실, 훌륭한 위치, 편안한 침대",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 좋은 방 좋은 위치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "모든 것에 가깝고 깨끗하고 조용하게 머물기에 좋은 숙소",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "칼랑구르 모텔 (Kallangur Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kallangur-motel/hotel/brisbane-au.html?cid=1925461",
+      "walkMin": 9,
+      "score": 8.2,
+      "reviewCount": 2667,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/1160638/0/942806930cd6f23d0f3a8e664420c178.jpeg?ce=0",
+      "distanceNote": "약 699.48m · Kallangur 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 2,667건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 2,667건 기반.",
+      "reviews": [
+        {
+          "text": "침대는 매우 편안했고 적당한 크기의 TV가 있었습니다!",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "매우 좋은 호텔입니다. 직원들은 매우 친절합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "방은 환상적이었고 매우 깔끔하고 깨끗했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "이곳에 머무를 때 정말 집처럼 편안한 느낌이 듭니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 훌륭하고 도움이 되고 친절했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "베스트웨스턴 플러스 노스 레이크스 호텔 (Best Western Plus North Lakes Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-plus-north-lakes-hotel/hotel/brisbane-au.html?cid=1925461",
+      "walkMin": 17,
+      "score": 9,
+      "reviewCount": 2142,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/3190346/-1/6f3aace93ba1bf853e285645b5500fac.jpg?ca=0&ce=1",
+      "distanceNote": "약 1351.72m · Mango Hill 인근",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 2,142건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,142건 기반.",
+      "reviews": [
+        {
+          "text": "우수한 호텔, 직원 고객 서비스가 뛰어났습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 편안하며 주차 공간도 좋습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "놀랍도록 현대적이고 깨끗하며 위치가 좋은 호텔입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "사랑스럽고 도움이 되는 직원과 사랑스러운 객실이 있는 사랑스러운 지역입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원 훌륭한 위치와 아름다운 객실",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-07T07:59:32.320Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
