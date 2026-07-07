@@ -1,0 +1,332 @@
+{
+  "slug": "australia-north-haven",
+  "title": "노스 헤이븐 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 노스 헤이븐 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "bonny-hills-au",
+  "cityName": "노스 헤이븐",
+  "cityId": 141809,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "노스 헤이븐",
+  "heroImg": "https://pix8.agoda.net/hotelImages/561917/0/6bf007fe0e0e61ecd70f355da19500fb.jpeg?ce=0",
+  "heroAlt": "노스 헤이븐",
+  "heroTitleHtml": "노스 헤이븐 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>리플렉션 홀리데이 파크 보니 힐스</b>(평점 9.2·리뷰 205건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>리플렉션 홀리데이 파크 보니 힐스</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/561917/0/6bf007fe0e0e61ecd70f355da19500fb.jpeg?ce=0",
+  "outroTitle": "🌙 노스 헤이븐, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 노스 헤이븐 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 노스 헤이븐 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "리플렉션 홀리데이 파크 보니 힐스 (Reflections Holiday Parks Bonny Hills)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/reflections-holiday-parks-bonny-hills/hotel/bonny-hills-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 205,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.6,
+      "img": "//pix8.agoda.net/hotelImages/561917/0/6bf007fe0e0e61ecd70f355da19500fb.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 205건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 205건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "North Haven Holiday Village",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/gateway-lifestyle-north-haven/hotel/north-haven-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 433,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 8만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/64003989/0/b346b8df58ec67bfac0f70a07c54887b.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 433건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 433건 기반.",
+      "reviews": [
+        {
+          "text": "홀리데이 파크는 해변과 카페와 가깝습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 곳",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "즐거운 시간을 보냈습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절하고 도움이 됩니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "해변과 가까운 좋은 장소",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Haven Waters Motel & Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/haven-waters-motel-apartments_3/hotel/all/north-haven-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 730,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/295891/0/eebf13a0b352f41bfbb024c5d72140a8.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 730건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 730건 기반.",
+      "reviews": [
+        {
+          "text": "장거리 운전을 마치고 밤에 잠을 잘 잤습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "객실과 욕실은 매우 깨끗했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 사랑스러운 직원",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "침대에서 너무 잘 잤어요.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 리셉션.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "웅가라 모텔 (Woongarra Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/woongarra-motel/hotel/all/north-haven-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 977,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/77666554.jpg?k=11620a13767866969846ed5cdb72427a9fb27a513ccc227782b8d853fc19d008&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 977건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 977건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 가치의 훌륭한 숙박 시설과 가치는 다시 멈출 것입니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "나는 더 나은 방을 요구할 수 없습니다. 넓고 깨끗합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "머물기에 완벽한 장소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "그는 필요한 사항을 기꺼이 수용했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "앞으로도 항상 여기에 머물 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Mariner Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mariner-motel/hotel/all/laurieton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 182,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/271210638.jpg?k=46fd063ab7ac0f2acba3a761e53e3e2774c16bff5ee9db0dc0d23e131e546a9d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 182건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 182건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 직원, 매우 깨끗한 객실 및 모텔.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원, 매우 깨끗하고 깔끔한 객실, 훌륭한 위치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "매우 좋은 모텔, 상점과 레스토랑까지 도보 거리.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "침대, 퀸 사이즈 침대는 편안하고 전기 담요가 있습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "우리는 깨끗하고 편안한 방에 만족했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Bella Vista B @ B",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bella-vista-b-b/hotel/all/north-haven-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 40,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/173678751.jpg?k=b598c29cf6cf4d5c76e8970340881b8f061cf1ad6fc58557ebd0f2ed1128e168&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 40건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 40건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Royal Hotel Kew",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/royal-hotel-kew/hotel/all/laurieton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 218,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/520948331.jpg?k=20b6c36833ec77aef3dfb54660df341ac3d8e3e5ab4ff0c01974f5b96daf12e8&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 218건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 218건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-07T13:27:24.520Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
