@@ -1,0 +1,440 @@
+{
+  "slug": "australia-darwin",
+  "title": "다윈 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 다윈 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "darwin-au",
+  "cityName": "다윈",
+  "cityId": 7138,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "다윈",
+  "heroImg": "https://pix8.agoda.net/hotelImages/60363/-1/8cab994c5ec63293762afdb5bbe29658.jpg?ca=7&ce=1",
+  "heroAlt": "다윈",
+  "heroTitleHtml": "다윈 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>MOM - 다윈 YHA</b>(평점 7.3·리뷰 475건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>컬렌 베이 806 버스정류장 도보 22분</b>의 <b>The Cozy Hostel - Motel</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/60363/-1/8cab994c5ec63293762afdb5bbe29658.jpg?ca=7&ce=1",
+  "outroTitle": "🌙 다윈, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 다윈 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 다윈 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "MOM - 다윈 YHA (MOM – Darwin YHA)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/melaleuca-on-mitchell-darwin-yha/hotel/darwin-au.html?cid=1925461",
+      "walkMin": 30,
+      "score": 7.3,
+      "reviewCount": 475,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/60363/-1/8cab994c5ec63293762afdb5bbe29658.jpg?ca=7&ce=1",
+      "distanceNote": "약 2422.98m · 컬렌 베이 806 버스정류장 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 475건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.3</b> · 실제 투숙객 리뷰 475건 기반.",
+      "reviews": [
+        {
+          "text": "다윈에 오면 그곳에 머물겠습니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "내 최고의 백패커 호스텔 중 하나입니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "위치가 훌륭하고 인근 명소와 가깝습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "이 모든 것들이 숙박을 훨씬 더 좋게 만들었습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "하지만 수영장과 바가 있어서 필요한 건 다 갖췄어요!",
+          "score": "8",
+          "country": "Norway",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "더 카베나 호텔 (The Cavenagh Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-cavenagh-hotel/hotel/darwin-au.html?cid=1925461",
+      "walkMin": 35,
+      "score": 8.5,
+      "reviewCount": 2135,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/886035/-1/03846bfa79ab97f8ea338b290e732db7.jpg?ca=10&ce=1",
+      "distanceNote": "약 2831.74m · 컬렌 베이 806 버스정류장 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 2,135건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 2,135건 기반.",
+      "reviews": [
+        {
+          "text": "위치, 음식, 서비스가 기대보다 훨씬 뛰어납니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원, 깨끗한 객실, 훌륭한 음식!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "수영장이 추가된 좋은 예산 옵션입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "일반적으로 위치가 좋으며 외부에 주차할 수 있습니다.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "여기에 두 번 머물렀고 꼭 다시 머물 것입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "The Cozy Hostel - Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-cozy-hostel-motel/hotel/all/darwin-au.html?cid=1925461",
+      "walkMin": 22,
+      "score": 7.2,
+      "reviewCount": 472,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 7.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/368976208.jpg?k=400ff0e733e35c023f5b4234a2b31331b8fc7435d5100f3cc45fcc0af8a09a62&o=",
+      "distanceNote": "약 1750.24m · 컬렌 베이 806 버스정류장 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 472건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.2</b> · 실제 투숙객 리뷰 472건 기반.",
+      "reviews": [
+        {
+          "text": "위치는 시내 중심가를 탐험하기에 좋습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "이곳에서 하룻밤 묵으며 즐거운 경험을 했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박으로 추천합니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치에 9일 동안 머물렀습니다. 매우 기뻤습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "위치는 훌륭합니다.",
+          "score": "8.8",
+          "country": "Cambodia",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "유스 샤크 백패커 (Youth Shack Backpackers)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/youth-shack-backpackers/hotel/darwin-au.html?cid=1925461",
+      "walkMin": 29,
+      "score": 7.1,
+      "reviewCount": 451,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/290/290110/290110_16062813170044175547.jpg?ca=6&ce=1",
+      "distanceNote": "약 2308.39m · 컬렌 베이 806 버스정류장 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 451건",
+        "⭐ 1성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.1</b> · 실제 투숙객 리뷰 451건 기반.",
+      "reviews": [
+        {
+          "text": "매우 유연하며 장기 체류도 제공합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "워킹비자 소지자에게 적극 추천합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "시설과 위치가 좋습니다.",
+          "score": "10",
+          "country": "Türkiye",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "편안하고 깨끗하며 친절함",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "아옥 레이크 리조트 카라반 파크 (AAOK Lakes Resort Caravan Park)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/aaok-lakes-resort-caravan-park/hotel/darwin-au.html?cid=1925461",
+      "walkMin": 41,
+      "score": 8.1,
+      "reviewCount": 361,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/1094977/0/6a9093f9eeb52f61cc10d7e9b8a76419.jpeg?ce=0",
+      "distanceNote": "약 3269.11m · 베리 스프링스 자연 보호구역 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 361건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 361건 기반.",
+      "reviews": [
+        {
+          "text": "AAOK 레이크 리조트를 적극 추천합니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "꼭 확인해 보아야 할 아름다운 장소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "객실 내부는 새것처럼 깨끗하고 깨끗해 보입니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "놀라운 작은 휴식! 강력히 추천합니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절하고 협조적입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "코코넛 그루브 홀리데이 아파트먼트 (Coconut Grove Holiday Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/coconut-grove-holiday-apartments/hotel/darwin-au.html?cid=1925461",
+      "walkMin": 91,
+      "score": 7.9,
+      "reviewCount": 640,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/11714/-1/b16cbd6378b824927f3132b4bac16e96.jpg?ca=24&ce=0",
+      "distanceNote": "약 7251.63m · 컬렌 베이 806 버스정류장 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 640건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 640건 기반.",
+      "reviews": [
+        {
+          "text": "방은 깨끗하고 무료 샴푸, 컨디셔너 및 비누가 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안하고 강력한 샤워를 즐깁니다 🥳.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "제가 다윈을 방문할 때 머물고 싶은 곳입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "합리적인 가격으로 정말 머물기에 좋은 곳입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 머무는 동안 넓고 조용했습니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "아구스 호텔 다윈 (Argus Hotel Darwin)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/argus-hotel-darwin/hotel/darwin-au.html?cid=1925461",
+      "walkMin": 28,
+      "score": 8.7,
+      "reviewCount": 3498,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/1064311/-1/93cd48440d3bba151eb3904925650be4.jpg?ca=24&ce=0",
+      "distanceNote": "약 2250.78m · 컬렌 베이 806 버스정류장 인근",
+      "metaTags": [
+        "📝 리뷰 3,498건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 3,498건 기반.",
+      "reviews": [
+        {
+          "text": "가격 대비 객실이 너무 깨끗해서 이 호텔이 마음에 듭니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 배려심이 깊어서 그들이 할 수 있는 모든 방법으로 도움을 줄 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "편안한 침대, 도심과 슈퍼마켓까지 도보로 쉽게 이동 가능",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "위치는 완벽했고 우리가 가야 할 곳의 중심이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "호텔은 훌륭하고 깨끗했으며 훌륭한 고객 서비스를 제공했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-08T11:26:16.992Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

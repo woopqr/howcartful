@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-08T09:32:46.858Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 4,
+  "lastPostedAt": "2026-07-08T11:25:40.892Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 5,
   "postedDate": "2026-07-08",
   "queue": [
-    "australia-newell-beach",
     "australia-newcastle",
     "australia-nhill",
-    "australia-nimbin"
+    "australia-nimbin",
+    "australia-darwin"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 67,
+    "cityIndex": 68,
     "regionFails": 0,
     "skippedIds": [
       513016
@@ -116,6 +116,7 @@
     "australia-nubina",
     "australia-new-norfolk",
     "australia-newman",
-    "australia-newborough"
+    "australia-newborough",
+    "australia-newell-beach"
   ]
 }
