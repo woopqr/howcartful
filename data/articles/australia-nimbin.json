@@ -1,0 +1,138 @@
+{
+  "slug": "australia-nimbin",
+  "title": "님빈 가성비 호텔 2곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 님빈 가성비 호텔 2곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "님빈",
+  "cityId": 390161,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "님빈",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/60663884.jpg?k=93d32d145adbabb2333b47feb180196b8c9e50ac35f2fdbc9dbb94f5779fb0c0&o=",
+  "heroAlt": "님빈",
+  "heroTitleHtml": "님빈 가성비 호텔 2곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Grey Gum Lodge</b>(평점 9.6·리뷰 185건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Grey Gum Lodge</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/60663884.jpg?k=93d32d145adbabb2333b47feb180196b8c9e50ac35f2fdbc9dbb94f5779fb0c0&o=",
+  "outroTitle": "🌙 님빈, 어디에 묵어도 후회없이",
+  "outroText": "위 2곳은 모두 님빈 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 님빈 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Grey Gum Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/grey-gum-lodge/hotel/all/nimbin-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 185,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/60663884.jpg?k=93d32d145adbabb2333b47feb180196b8c9e50ac35f2fdbc9dbb94f5779fb0c0&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 185건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 185건 기반.",
+      "reviews": [
+        {
+          "text": "아름다운 가구와 아름다운 전망을 갖춘 매우 깨끗한 객실입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "이 숙소에 꼭 다시 묵으세요. 부정적인 점은 전혀 없습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "이번 숙박에 정말 감사드립니다 🙏",
+          "score": "10",
+          "country": "France",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "환상적인 휴식을 취해보세요",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "실크 파빌리온스 (Silk Pavilions)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/silk-pavilions-resorts/hotel/mount-burrell-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 290,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/746553/-1/8f696dfa2b590844a10dee1b5ec6fc7d.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 290건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 290건 기반.",
+      "reviews": [
+        {
+          "text": "텐트는 사랑스럽고 침대는 매우 편안합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "첫 번째 휴식은 완벽했고 놀라운 장소였습니다. 감사합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "사파리 텐트에서의 우리 숙소는 정말 완벽했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "2박 숙박에는 아침 식사 조항이 충분했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "숙소가 정말 깨끗하고 호스트가 정말 세심하게 배려해 주셨네요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-08T09:33:02.087Z",
+    "source": "agoda citySearch",
+    "count": 2
+  }
+}
