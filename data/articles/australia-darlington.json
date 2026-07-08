@@ -1,0 +1,432 @@
+{
+  "slug": "australia-darlington",
+  "title": "달링턴 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 달링턴 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "달링턴",
+  "cityId": 143443,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "달링턴",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/838264968.jpg?k=b9773b2d2bab7eb77c33152de7a9fbc38da59b4437b1bfd2c961588e67861b7f&o=",
+  "heroAlt": "달링턴",
+  "heroTitleHtml": "달링턴 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Sweet Home Property Forrestfield</b>(평점 9.4·리뷰 44건·1박 약 10만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Midland 도보 5분</b>의 <b>퀘스트 미들랜드</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/838264968.jpg?k=b9773b2d2bab7eb77c33152de7a9fbc38da59b4437b1bfd2c961588e67861b7f&o=",
+  "outroTitle": "🌙 달링턴, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 달링턴 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 달링턴 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Sweet Home Property Forrestfield",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sweet-home-property-forrestfield/hotel/all/perth-au.html?cid=1925461",
+      "walkMin": 30,
+      "score": 9.4,
+      "reviewCount": 44,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/838264968.jpg?k=b9773b2d2bab7eb77c33152de7a9fbc38da59b4437b1bfd2c961588e67861b7f&o=",
+      "distanceNote": "약 2423.36m · High Wycombe Station 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 44건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 44건 기반.",
+      "reviews": [
+        {
+          "text": "Convenient and reasonably priced.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "편리하고 좋은 가치",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "Hosts are friendly and helpful",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Nice and comfortable",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "BIG4 퍼스 미들랜드 투어리스트 파크 (BIG4 Perth Midland Tourist Park)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-perth-midland-tourist-park/hotel/middle-swan-au.html?cid=1925461",
+      "walkMin": 26,
+      "score": 8.3,
+      "reviewCount": 1218,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/123466775.jpg?k=76a098b927fcbb846820a5bea8576cb9881d2312376b336bce39e786c0741bd9&o=",
+      "distanceNote": "약 2094.03m · Midland 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,218건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 1,218건 기반.",
+      "reviews": [
+        {
+          "text": "Worth every dollar, will certainly book again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Staff where excellant, room was modern and very clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Second time weve stayed here and love it each time",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Will recommend this place for everyone.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Great facilities and excellent location",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "퀘스트 미들랜드 (Quest Midland)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quest-midland_2/hotel/perth-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.8,
+      "reviewCount": 1912,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/5251751/0/e12e001532161b5f07f5a7dee7d2fc30.jpeg?ce=3",
+      "distanceNote": "약 379.73m · Midland 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 1,912건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,912건 기반.",
+      "reviews": [
+        {
+          "text": "The room was spacious, very clean, and comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "I stayed for 9 days and the rooms and staff was excellent.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "I like this hotel very much and it feels like home",
+          "score": "8.4",
+          "country": "澳大利亚",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Best Quest we have stayed at so far in terms of facilities.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Amazing service clean and just great ill be back",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "샬레 온 스톤빌 (Chalets on Stoneville)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/chalets-on-stoneville/hotel/perth-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 101,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/621169/-1/d281615f5a650c72b11826c5d3a371e1.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 101건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 101건 기반.",
+      "reviews": [
+        {
+          "text": "Beautiful towelv, nflat screen TV and a comfy and clean bed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "The chalet was cozy and clean and spa was wonderful.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "We had a delightful night away at the Chalets on Stoneville.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Great location if you have something happening in the area!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Bathroom was nice, big shower with good water pressure.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "The Morrison Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-morrison-motel/hotel/all/perth-au.html?cid=1925461",
+      "walkMin": 47,
+      "score": 9.2,
+      "reviewCount": 39,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/547186349.jpg?k=a3b5394463adc125c0b2d6a2c94284e2ae2f9043bfaa2befaa1ed7cf5482fcaf&o=",
+      "distanceNote": "약 3741.67m · Midland 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 39건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 39건 기반.",
+      "reviews": [
+        {
+          "text": "Extremely Clean, Very Friendly and Great Food",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Unexpected very clean highly reccommend",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Room and bathroom were both spotless!",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Great place to stay, safe and clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "She made sure we were looked after.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "빅4 퍼스 미들랜드 투어리스트 파크 (BIG4 Perth Midland Tourist Park)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/midland-tourist-park-accommodation/hotel/perth-au.html?cid=1925461",
+      "walkMin": 26,
+      "score": 8.3,
+      "reviewCount": 446,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/hotelImages/798651/-1/00e936437743eba25190de4093255acc.jpg?ca=7&ce=1",
+      "distanceNote": "약 2084.76m · Midland 인근",
+      "metaTags": [
+        "📝 리뷰 446건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 446건 기반.",
+      "reviews": [
+        {
+          "text": "Quiet and good location to head north or east of Perth.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Absolutely excellent accommodation and facilities.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Stayed in the family suite had great facilities and clean",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The delaxe studio has everything you need and more!",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Amenity is very close to cabin, clean and convenient to use.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "뱅크시아 투어리스트 파크 (Banksia Tourist Park)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/banksia-tourist-park/hotel/perth-au.html?cid=1925461",
+      "walkMin": 50,
+      "score": 8.3,
+      "reviewCount": 108,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/431846132.jpg?k=93174964fdbb9c944f5dbaecdfd355bf91055b76c9f00b7ae351b28d60649511&o=",
+      "distanceNote": "약 3997.54m · High Wycombe Station 인근",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 108건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 108건 기반.",
+      "reviews": [
+        {
+          "text": "This is a beautiful and well maintained caravan park.",
+          "score": "8.8",
+          "country": "Brunei Darussalam",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Staff were very accomodating and friendly.",
+          "score": "8.8",
+          "country": "Brunei Darussalam",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Super clean and friendly everytime I say there.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Was a nice chalet, clean, warm and had everything we needed.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Cabin was very clean, has all the necessities.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-08T15:29:38.814Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
