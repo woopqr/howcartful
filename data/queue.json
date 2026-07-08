@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-08T01:09:13.768Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 1,
+  "lastPostedAt": "2026-07-08T04:30:21.176Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 2,
   "postedDate": "2026-07-08",
   "queue": [
-    "australia-new-norfolk",
     "australia-newman",
     "australia-newborough",
-    "australia-newell-beach"
+    "australia-newell-beach",
+    "australia-newcastle"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 64,
+    "cityIndex": 65,
     "regionFails": 0,
     "skippedIds": [
       513016
@@ -113,6 +113,7 @@
     "australia-north-walpole",
     "australia-north-haven",
     "australia-noorunbai",
-    "australia-nubina"
+    "australia-nubina",
+    "australia-new-norfolk"
   ]
 }

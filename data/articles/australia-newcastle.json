@@ -1,0 +1,440 @@
+{
+  "slug": "australia-newcastle",
+  "title": "뉴캐슬 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 뉴캐슬 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "newcastle-au",
+  "cityName": "뉴캐슬",
+  "cityId": 18058,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "뉴캐슬",
+  "heroImg": "https://pix8.agoda.net/hotelImages/433066/-1/b0427024a9ef880100c71c1ac046a9de.jpg?ce=0",
+  "heroAlt": "뉴캐슬",
+  "heroTitleHtml": "뉴캐슬 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>YHA 뉴캐슬 비치</b>(평점 8.6·리뷰 1,239건·1박 약 6만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Broadmeadow Railway Station 도보 20분</b>의 <b>Nags Head Hotel</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/433066/-1/b0427024a9ef880100c71c1ac046a9de.jpg?ce=0",
+  "outroTitle": "🌙 뉴캐슬, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 뉴캐슬 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 뉴캐슬 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "YHA 뉴캐슬 비치 (YHA Newcastle Beach)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/newcastle-beach-yha-hostel/hotel/newcastle-au.html?cid=1925461",
+      "walkMin": 60,
+      "score": 8.6,
+      "reviewCount": 1239,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/433066/-1/b0427024a9ef880100c71c1ac046a9de.jpg?ce=0",
+      "distanceNote": "약 4787.48m · Broadmeadow Railway Station 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 1,239건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,239건 기반.",
+      "reviews": [
+        {
+          "text": "머물기 좋은 숙소, 개성이 가득한 사랑스럽고 오래된 건물.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 최고의 위치, 해변에서 몇 분 거리.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "+ 휴식, 사교 활동, 독서 또는 업무를 위한 다양한 휴게실",
+          "score": "9.6",
+          "country": "Deutschland",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭하고 매우 친절하며 도움이 되는 직원",
+          "score": "10",
+          "country": "Ireland",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "위치도 숙소도 완벽했어요!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Seven Seas Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/seven-seas-hotel/hotel/all/newcastle-au.html?cid=1925461",
+      "walkMin": 39,
+      "score": 8.6,
+      "reviewCount": 119,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/406049131.jpg?k=8dff104cff6b249f274b40a9efc43644d2f86783316d40a293f4801438802fde&o=",
+      "distanceNote": "약 3149.28m · Broadmeadow Railway Station 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 119건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 119건 기반.",
+      "reviews": [
+        {
+          "text": "이 아름답고 오래된 문화유산 등록 호텔을 적극 추천합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 오래된 유산 호텔 & 나는 여기에 다시 머무는 것을 즐겼습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "편안한 침대와 필요한 모든 것을 갖춘 멋진 객실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "또한 각 객실에 냉장고, 전자레인지, 주전자가 있다는 점도 마음에 듭니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "멋진 큰 방, 스마트 TV, 냉장고 및 전자레인지가 방에 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "백패커스 뉴캐슬 (Backpackers Newcastle)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/backpackers-newcastle/hotel/all/newcastle-au.html?cid=1925461",
+      "walkMin": 23,
+      "score": 8,
+      "reviewCount": 73,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 7.9,
+      "img": "//pix8.agoda.net/hotelImages/761/761584/761584_14102806250022991263.jpg?ca=3&ce=1",
+      "distanceNote": "약 1868.88m · Broadmeadow Railway Station 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 73건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 73건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 깔끔해요 또오고싶네요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 직원들은 친절했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "나는 이곳에 머무르는 것을 확실히 추천할 수 있습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "나는 그 호스텔에서의 숙박을 정말 즐겼습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "장소는 잘 관리되어 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "General Roberts Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/general-roberts-hotel/hotel/newcastle-au.html?cid=1925461",
+      "walkMin": 22,
+      "score": 7.8,
+      "reviewCount": 383,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 7.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/644476492.jpg?k=885042fbde6dadb2bbe6151844904271f538e231aa2d6987f024ebfbb55c104c&o=",
+      "distanceNote": "약 1785.65m · Broadmeadow Railway Station 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 383건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 383건 기반.",
+      "reviews": [
+        {
+          "text": "위치, 직원, 시설 등 모두 환상적입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 펍 멋진 야외 공간 좋은 방",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 새 것처럼 보였던 공용 욕실",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "General Roberts Hotel에서 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "澳大利亚",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "시설도 깨끗하고 버스정류장도 가깝습니다.",
+          "score": "10",
+          "country": "澳大利亚",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Surf Beach Motel Newcastle",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/newcastle-motel_2/hotel/newcastle-au.html?cid=1925461",
+      "walkMin": 63,
+      "score": 8.9,
+      "reviewCount": 3690,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/66758403/0/7b978c0aeeb63277f7b2d170cf2e2d7e.jpg?ce=0",
+      "distanceNote": "약 5061.62m · Broadmeadow Railway Station 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 3,690건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 3,690건 기반.",
+      "reviews": [
+        {
+          "text": "지금까지 묵어본 모텔 중 가장 깨끗하고 좋았습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 작은 숙소, 그것에 대해 아무것도 잘못할 수 없습니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고 깨끗하고 직원도 친절하고.....",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "직원들은 훌륭하고, 도착하자마자 방은 좋았고 따뜻했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "아주 좋은 방. 훌륭한 편의 시설. 매우 현대적입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Nags Head Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nags-head-hotel/hotel/newcastle-au.html?cid=1925461",
+      "walkMin": 20,
+      "score": 8.7,
+      "reviewCount": 545,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/118586146.jpg?k=0b204c54a78b0483b2832afd41532e132eec6cd0f67ece278eebf93477ba19f0&o=",
+      "distanceNote": "약 1570.38m · Broadmeadow Railway Station 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 545건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 545건 기반.",
+      "reviews": [
+        {
+          "text": "나는 이 장소에 충격을 받았다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 장소, 매우 깨끗하고 신선한 린넨.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "편안한 침대와 차단 커튼을 갖춘 훌륭한 객실입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 좋았습니다. 사진처럼요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "방이 깨끗했고 우리만의 싱크대가 있어서 좋았어요",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "쇼트랜드 호텔 (Shortland Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/shortland-hotel/hotel/newcastle-au.html?cid=1925461",
+      "walkMin": 47,
+      "score": 7.3,
+      "reviewCount": 443,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/1095089/-1/ccf38fb7e46f4066a4fb19a519cf5818.jpg?ca=16&ce=1",
+      "distanceNote": "약 3796.11m · Waratah Railway Station 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 443건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.3</b> · 실제 투숙객 리뷰 443건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 깨끗한 객실, 저렴한 가격, 정말 친절한 직원.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "정말 친절한 직원, 좋은 가격, 깨끗하고 편안한 객실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "호텔 레스토랑에서 저렴한 가격의 식사/간식 제공",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "여러번 묵었는데 방이 깨끗하고 편안합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "과도한 지출 없이 편안한 숙박을 위한 좋은 옵션입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-08T04:30:56.914Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
