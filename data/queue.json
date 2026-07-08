@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-08T18:20:18.318Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 9,
+  "lastPostedAt": "2026-07-08T19:58:51.598Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 10,
   "postedDate": "2026-07-08",
   "queue": [
-    "australia-diamond-beach",
     "australia-darlington",
     "australia-dalby",
-    "australia-dampier-peninsula"
+    "australia-dampier-peninsula",
+    "australia-the-gemfields"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 73,
+    "cityIndex": 74,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -122,6 +122,7 @@
     "australia-newcastle",
     "australia-nhill",
     "australia-nimbin",
-    "australia-darwin"
+    "australia-darwin",
+    "australia-diamond-beach"
   ]
 }

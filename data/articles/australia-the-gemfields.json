@@ -1,0 +1,355 @@
+{
+  "slug": "australia-the-gemfields",
+  "title": "더 젬필드 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 더 젬필드 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "emerald-au",
+  "cityName": "더 젬필드",
+  "cityId": 720468,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "더 젬필드",
+  "heroImg": "https://pix8.agoda.net/hotelImages/4755263/0/8398484c3391cc3bbb4fc031791c4799.jpg?ca=9&ce=1",
+  "heroAlt": "더 젬필드",
+  "heroTitleHtml": "더 젬필드 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>나이트캡 앳 에메랄드 스타 호텔</b>(평점 8.2·리뷰 687건·1박 약 11만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>나이트캡 앳 에메랄드 스타 호텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/4755263/0/8398484c3391cc3bbb4fc031791c4799.jpg?ca=9&ce=1",
+  "outroTitle": "🌙 더 젬필드, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 더 젬필드 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 더 젬필드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "나이트캡 앳 에메랄드 스타 호텔 (Nightcap at Emerald Star Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nightcap-at-emerald-star-hotel/hotel/emerald-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 687,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/4755263/0/8398484c3391cc3bbb4fc031791c4799.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 687건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 687건 기반.",
+      "reviews": [
+        {
+          "text": "Emerlad에 머물기에 좋은 숙소 적극 추천",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗한 방과 친절한 직원.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "편안한 침대와 넓은 객실.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "직원들은 훌륭했고 아무 문제도 없었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 패밀리룸(방 2개에 침대 3개)을 예약했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "에메랄드 파크 모텔 (Emerald Park Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/emerald-park-motel/hotel/emerald-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 407,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/536012/0/2f6bafba4cf71a2931007e7847c1ac35.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 407건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 407건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 깔끔함",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Rubyvale Motel & Holiday Units - An Adults Only Getaway",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rubyvale-motel-holiday-units_2/hotel/all/the-gemfields-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 131,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/351394076.jpg?k=fa55dfe2f64562be33dc6facd1d60b5f8bb85af1b33096f64240454ec27255c8&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 131건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 131건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Abode37 Motel Emerald",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/abode37-motel-emerald/hotel/all/emerald-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 530,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/882914177.jpg?k=d5b689b51dc2291389b69d0c37e975a0dd1eec46a2dbaa850ca5455b1ad27cfe&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 530건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 530건 기반.",
+      "reviews": [
+        {
+          "text": "나는 에메랄드를 여행할 때 항상 이 모텔에 묵는다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 직원, 넓은 방, 매우 편안한 침대와 흠잡을 곳이 없습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "업데이트된 객실, 편안한 매트리스, 깨끗한 욕실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "현대적인 객실이 잘 표현되어 있습니다. 침대가 매우 푹신함",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "좋은 크기의 객실을 갖춘 훌륭하고 깨끗하며 현대적인 (새) 모텔입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Emerald Inn by Travellers",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/emerald-inn/hotel/emerald-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 95,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/503152/-1/4d73f574b0b8eb3a2f61eacc7eac324b.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 95건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 95건 기반.",
+      "reviews": [
+        {
+          "text": "이 장치는 필요한 모든 것을 갖춘 럭셔리 플러스입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고 시설도 좋고 직원들도 정말 친절했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "조용하고 요리에 필요한 모든 편의 시설을 갖추고 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 주방, 세탁기와 건조기가 있는 큰 욕실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 것을 갖춘 훌륭한 규모의 숙소",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "에메랄드 모텔 아파트먼트 (Emerald Motel Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/emerald-motel-apartments/hotel/emerald-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 342,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/109/1095254/1095254_16060111550042981029.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 342건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 342건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 가치와 시설",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "아주 아주 좋은 숙소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Emerald Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/emerald-tourist-park_5/hotel/all/emerald-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 1215,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/684224908.jpg?k=19568511835aea9099fbc85b2805f1875428df7f99af7d25c15233a1a084967d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 1,215건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,215건 기반.",
+      "reviews": [
+        {
+          "text": "세탁시설도 너무 잘 되어있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 The Emerald Tourist Park에서 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "여기서 이틀 밤을 묵었는데 정말 좋았습니다.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 모텔 방을 가지고 있었고 그것은 우리의 요구에 매우 적합했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 매우 기능적이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-08T19:59:14.393Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
