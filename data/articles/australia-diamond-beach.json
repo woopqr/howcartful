@@ -1,0 +1,241 @@
+{
+  "slug": "australia-diamond-beach",
+  "title": "다이아몬드 비치 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 다이아몬드 비치 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "다이아몬드 비치",
+  "cityId": 78903,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "다이아몬드 비치",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/148957498.jpg?k=1d4cd45d9aec35cd62a1dee70230b45a24ecae07742520a9fff5fd6388d9eb60&o=",
+  "heroAlt": "다이아몬드 비치",
+  "heroTitleHtml": "다이아몬드 비치 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Palmyra B&B</b>(평점 9.5·리뷰 496건·1박 약 14만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Palmyra B&B</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/148957498.jpg?k=1d4cd45d9aec35cd62a1dee70230b45a24ecae07742520a9fff5fd6388d9eb60&o=",
+  "outroTitle": "🌙 다이아몬드 비치, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 다이아몬드 비치 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 다이아몬드 비치 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Palmyra B&B",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/palmyra-b-b/hotel/all/rainbow-flat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 496,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/148957498.jpg?k=1d4cd45d9aec35cd62a1dee70230b45a24ecae07742520a9fff5fd6388d9eb60&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 496건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 496건 기반.",
+      "reviews": [
+        {
+          "text": "가장 편안한 침대.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "나는 Palmyray에서 즐거운 시간을 보냈습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "놀라운 재산",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "친절한 호스트.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "아름다운 풍경과 휴식 공간",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "서레너티 다이아몬드 비치 (포멀리 라마다 리조트 다이아몬드 비치) (Serenity Diamond Beach (formerly Ramada Resort Diamond Beach))",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/serenity-diamond-beach-formerly-ramada-resort-diamond-beach/hotel/diamond-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 30,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/148/148763/148763_18010407060060746714.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 30건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 30건 기반.",
+      "reviews": [
+        {
+          "text": "가족 오두막은 넓고 매우 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "이 장소가 너무 마음에 들어서 밤을 더 묵었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "해변과 수영장에 가까움",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "확실히 돌아올 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Finns at Old Bar",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/finns-at-old-bar/hotel/all/old-bar-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 271,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/320313178.jpg?k=f14ddaa6a660302d1e3699a650767ad1d52fee5f4d2e0609a2eaac49cc180731&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 271건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 271건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Meridian Beachside Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/meridian-beachside-apartments/hotel/all/old-bar-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 302,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/273787116.jpg?k=38bd0593e7d2499f86fdbd126eea248e6cec8bca5bd69f19af4f52dccf7f2cfc&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 302건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 302건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗한 아파트로 해변에 쉽게 접근할 수 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "좋은 장소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "관리가 훌륭해요.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Boogie Woogie Beach House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/boogie-woogie-beach-house/hotel/all/old-bar-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 214,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.7,
+      "img": "//pix8.agoda.net/hotelImages/929449/0/d1377c6aad64045f5993bac69236fdfe.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 214건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 214건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-08T13:00:26.593Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}
