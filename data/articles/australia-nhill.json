@@ -1,0 +1,376 @@
+{
+  "slug": "australia-nhill",
+  "title": "니힐 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 니힐 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "니힐",
+  "cityId": 7816,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "니힐",
+  "heroImg": "https://pix8.agoda.net/hotelImages/89510/0/d402f147f74a182d5df59208e6faeb0a.jpeg",
+  "heroAlt": "니힐",
+  "heroTitleHtml": "니힐 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Zero Inn Motel</b>(평점 8.5·리뷰 69건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Zero Inn Motel</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/89510/0/d402f147f74a182d5df59208e6faeb0a.jpeg",
+  "outroTitle": "🌙 니힐, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 니힐 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 니힐 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Zero Inn Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/zero-inn-motel/hotel/all/nhill-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 69,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/89510/0/d402f147f74a182d5df59208e6faeb0a.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 69건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 69건 기반.",
+      "reviews": [
+        {
+          "text": "편안한 숙박을 위해 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "다른 모텔 객실에 비해 넓고 좋습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "도착하자마자 방은 흠 하나 없고 시원했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 넓었고 테이블과 의자가 포함되어 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "하룻밤 쉬고 싶은 여행자에게 완벽한 장소",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Nhill Oasis Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nhill-oasis-motel/hotel/all/nhill-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 658,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/27343375.jpg?k=4c4429b39e2719871774b09c703894cb1c6d6198b5d032393030d4009baa3ffa&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 658건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 658건 기반.",
+      "reviews": [
+        {
+          "text": "즐거운 리셉션과 합리적인 가격의 무료 아침 식사를 즐겨보세요.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "The Willery Guesthouse",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-willery-guesthouse/hotel/all/dimboola-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 205,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 20만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/568662826.jpg?k=c5f41df808313e15aae3a53484f6959c1a3336960c76b60a363b7110e211c223&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 205건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 205건 기반.",
+      "reviews": [
+        {
+          "text": "독특하고 편안합니다.... 가격 대비 훌륭한 가치",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "Dimboola에 위치한 멋진 1베드룸 아파트입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 조용하며 매우 친절한 호스트!",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "놀라운 집과 호스트!",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "크고 깨끗하며 조용합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Wimmera Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wimmera-motel/hotel/all/nhill-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.7,
+      "reviewCount": 31,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/440248998.jpg?k=60ab6f81fc6d297d9fceeaadf73dd8f03e0f6942bf61eb8aa8397327f7427d2d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 31건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 31건 기반.",
+      "reviews": [
+        {
+          "text": "내가 지불한 가격에 비해 이 모텔에 매우 만족합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 가격의 오래된 모텔이지만 깨끗하고 매력적입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "우리가 머물렀던 방은 매우 깨끗하고 넓었습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "우리를 체크인한 남자는 사랑스럽고 수다스러웠습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "직원들은 예약 과정에서 매우 도움이 되었습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Motel Dimboola",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/motel-dimboola/hotel/all/dimboola-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.6,
+      "reviewCount": 54,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/37354559.jpg?k=5a4373763aa85ce7c5285eba6a6d348ea3d9e7178d09889e7ac89a7b61752a6e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 54건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 54건 기반.",
+      "reviews": [
+        {
+          "text": "멜버른에서 애들레이드까지 중간에 완벽한 중간 기착",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "그 외에는 이 호텔이 머물기에 좋은 곳이라고 생각했습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 객실과 훌륭한 시설.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "길가 모텔에 대해 예상보다 훨씬 좋습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 도움이 되고 필요한 경우 기꺼이 도와드립니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "COMMERCIAL HOTEL KANIVA call to save dollars",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/commercial-hotel-kaniva/hotel/all/kaniva-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 168,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/631284118.jpg?k=599a523d8b2834da7db7b3004b8e89706d3280a70c18c495c0ba87a16d793ddb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 168건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 168건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "트래블러스 인 카니바 (Travellers Inn Kaniva )",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/travellers-inn-kaniva/hotel/kaniva-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 43,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/746/7467484/7467484_19062213310076645172.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 43건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 43건 기반.",
+      "reviews": [
+        {
+          "text": "청결함, 시설, 보안이 최고였습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "기회가 생기면 꼭 다시 그곳에 머물겠습니다.",
+          "score": "10",
+          "country": "China",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "훌륭하고 깨끗한 객실, 좋은 시설, 찾기 쉬운 곳",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "모텔 주인은 매우 친절하고 친절합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "조용하고 친절하고 직원도 친절해요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-08T07:06:46.595Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
