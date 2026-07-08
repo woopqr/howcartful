@@ -1,0 +1,368 @@
+{
+  "slug": "australia-dalby",
+  "title": "달비 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 달비 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "달비",
+  "cityId": 142191,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "달비",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/879873038.jpg?k=606feac15865c06753c0e8471b78d14d47ef02c59d6125b28ae3b2f4523601af&o=",
+  "heroAlt": "달비",
+  "heroTitleHtml": "달비 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Pioneer Caravan Park</b>(평점 8.8·리뷰 411건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Pioneer Caravan Park</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/879873038.jpg?k=606feac15865c06753c0e8471b78d14d47ef02c59d6125b28ae3b2f4523601af&o=",
+  "outroTitle": "🌙 달비, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 달비 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 달비 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Pioneer Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pioneer-caravan-park/hotel/all/dalby-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 411,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/879873038.jpg?k=606feac15865c06753c0e8471b78d14d47ef02c59d6125b28ae3b2f4523601af&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 411건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 411건 기반.",
+      "reviews": [
+        {
+          "text": "새롭게 단장된 캐빈, 가격 대비 매우 좋은 가치.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 신선한 숙소, 친절한 직원.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안하며 편리함",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "막판 예약은 소란 없이 수용되었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "캐빈에는 우리에게 필요한 모든 것이 갖춰져 있었습니다",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Dalby Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dalby-tourist-park/hotel/all/dalby-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 553,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/706845962.jpg?k=d6e0157eaacafe5e865f75157e5eef083fcb0155a76475943085f2f0dfe4a406&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 553건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 553건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 이곳이 너무 좋아서 1박을 더 묵었습니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙소...모두에게 추천합니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "토스터, 전자레인지, 쿡탑, 대형 냉장고!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "넓은 세면대와 세면대가 있는 넓은 욕실!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "우리는 난방, 냉방 및 조명이 훌륭했습니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Windsor Hotel Motel Dalby",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/windsor-hotel-motel-dalby/hotel/all/dalby-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.7,
+      "reviewCount": 133,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/699253/0/5ed9df3cd45930420d0617e605e80766.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 133건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 133건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Dalby Homestead Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dalby-homestead-motel/hotel/all/dalby-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 129,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 20만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/376996961.jpg?k=dc5a1154cbff14ed934cfb10ae3a82bc50b0aac3dc6949b3eeb50900ac22a9b7&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 129건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 129건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 직원.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "친절하고 환영하며 도움이 됨",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "컨트리 패스파인더 모터 인 (Country Pathfinder Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/country-pathfinder-motor-inn_4/hotel/dalby-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 379,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/308033047.jpg?k=b47b1e711a1978a78b5034bfa94702d3d539c3372abce8aef882a19818387394&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 379건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 379건 기반.",
+      "reviews": [
+        {
+          "text": "매우 친절한 직원, 객실은 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 깔끔한 것을 발견했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "돌아가서 추천하겠습니다",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 하룻밤 숙박",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "나는 돌아올 것이다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Jubri's Hideaway",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/jubri-s-hideaway/hotel/all/dalby-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.8,
+      "reviewCount": 32,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/560595091.jpg?k=1015fe955cb7af979926f714c5e069156a597382545ba17dc6bf4de0a7a1ec5c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 32건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 32건 기반.",
+      "reviews": [
+        {
+          "text": "이 곳이 정말 마음에 들어서 꼭 다시 갈 거예요",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "놀랍도록 평화로움",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "달비 매너 모토 인 (Dalby Manor Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dalby-manor-motor-inn/hotel/dalby-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 599,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/869/869638/869638_16091005350046317908.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 599건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 599건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 친절했고 편의시설도 좋았습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "그리고 혼자 여행하는 사람으로서 저는 이곳이 항상 안전하다고 느낍니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "우리의 방문을 기억에 남게 해준 팀에게 감사드립니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 조용하며 현지적입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "항상 깨끗하고 조용해요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-08T16:58:26.436Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
