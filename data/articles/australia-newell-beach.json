@@ -1,0 +1,401 @@
+{
+  "slug": "australia-newell-beach",
+  "title": "뉴웰 비치 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 뉴웰 비치 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "port-douglas-au",
+  "cityName": "뉴웰 비치",
+  "cityId": 710743,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "뉴웰 비치",
+  "heroImg": "https://pix8.agoda.net/hotelImages/1164760/0/53edce61f7cabb6bdf9b356a16a6b7fb.jpeg?ce=0",
+  "heroAlt": "뉴웰 비치",
+  "heroTitleHtml": "뉴웰 비치 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>포트 더글라스 백패커스</b>(평점 7.9·리뷰 79건·1박 약 4만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Marina Mirage Station 도보 5분</b>의 <b>글로벌 백패커 포트 더글라스</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/1164760/0/53edce61f7cabb6bdf9b356a16a6b7fb.jpeg?ce=0",
+  "outroTitle": "🌙 뉴웰 비치, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 뉴웰 비치 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 뉴웰 비치 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "포트 더글라스 백패커스 (Port Douglas Backpackers)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/port-douglas-backpackers/hotel/port-douglas-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 7.9,
+      "reviewCount": 79,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 7.8,
+      "img": "//pix8.agoda.net/hotelImages/1164760/0/53edce61f7cabb6bdf9b356a16a6b7fb.jpeg?ce=0",
+      "distanceNote": "약 494.46m · Marina Mirage Station 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 79건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 79건 기반.",
+      "reviews": [
+        {
+          "text": "오늘 그들은 나를 다른 방으로 옮겼는데 정말 놀랍습니다 🙌🏻🙏🏻🙏🏻",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "리셉션과 하우스키핑 직원은 친절하고 도움이 됩니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "좋은 숙박과 좋은 사람들",
+          "score": "9.2",
+          "country": "Australië",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "매우 중앙에 위치하고 있으며 친절한 직원.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치와 가치",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "글로벌 백패커 포트 더글라스 (Global Backpackers Port Douglas)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/global-backpackers-port-douglas/hotel/port-douglas-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 7.5,
+      "reviewCount": 94,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/283743/-1/bc37c06dba432459cd428dbabed18600.jpg?ca=9&ce=1",
+      "distanceNote": "약 424.9m · Marina Mirage Station 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 94건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 94건 기반.",
+      "reviews": [
+        {
+          "text": "이곳에서의 숙박이 마음에 들었습니다. 깨끗하고 편안한 방입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "르 세르 드 몬데 호텔 (Le Cher Du Monde Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/le-cher-du-monde-hotel/hotel/port-douglas-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.9,
+      "reviewCount": 581,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/70875/-1/79ef0ac785a75bb63d080452772d8cd5.jpg?ca=14&ce=1",
+      "distanceNote": "약 421.52m · Marina Mirage Station 인근",
+      "metaTags": [
+        "📝 리뷰 581건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 581건 기반.",
+      "reviews": [
+        {
+          "text": "사랑스러운 예술 작품, 적당한 크기의 스파 욕조, 환상적인 호스트.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "아파트는 깨끗하고 매우 편안했습니다",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "이곳은 머물기에 좋은 곳이었습니다!",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치와 좋은 가치의 숙박",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "여기에 머무르는 것을 적극 권장합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Meridian Port Douglas",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/meridian-port-douglas-hotel/hotel/port-douglas-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8.6,
+      "reviewCount": 431,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/50006/0/88af2edec4f8a09fba79a386ae7a7e3e.jpg?ce=3",
+      "distanceNote": "약 472.87m · Marina Mirage Station 인근",
+      "metaTags": [
+        "📝 리뷰 431건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 431건 기반.",
+      "reviews": [
+        {
+          "text": "포트 더글라스 타운과 가까운 훌륭한 위치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "메리덴을 좋아했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "확실히 돌아올 것이다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Coral Beach Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/coral-beach/hotel/all/port-douglas-au.html?cid=1925461",
+      "walkMin": 11,
+      "score": 8.5,
+      "reviewCount": 695,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/74579205.jpg?k=e555d36a704d6509dadba0ca326be7476d9397bea63aec3ed58639286a7c0b44&o=",
+      "distanceNote": "약 866.08m · Marina Mirage Station 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 695건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 695건 기반.",
+      "reviews": [
+        {
+          "text": "지금까지 묵어본 호스텔 중 가장 깔끔하고 고급스러운 호스텔입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "코랄 비치 롯지를 적극 추천합니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "잘 관리된 주방과 멋진 수영장",
+          "score": "8.4",
+          "country": "India",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 직원이 이곳을 최상의 상태로 유지합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "멋진 휴식을 취하는 데 필요한 모든 것이 거기에 있습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "만트라 헤리티지 포트 더글라스 (Mantra Heritage Port Douglas)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mantra-heritage-hotel/hotel/port-douglas-au.html?cid=1925461",
+      "walkMin": 8,
+      "score": 8.5,
+      "reviewCount": 585,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/833166350.jpg?k=5dd0a5d2c3c1c28e5b7de8a3b026e0287a0af4f266fa962418094698ac8e7440&o=",
+      "distanceNote": "약 622.65m · Marina Mirage Station 인근",
+      "metaTags": [
+        "📝 리뷰 585건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 585건 기반.",
+      "reviews": [
+        {
+          "text": "수영장은 훌륭했고 방과 데크에서 수영하는 것은 굉장했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "직원들은 이보다 더 친절하고 도움이 될 수 없었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치 깔끔하고 깔끔하고 깨끗한 객실 필요한 모든 것",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 수영장 공간과 환상적인 고객 서비스.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치 - 훌륭한 숙소",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "베이 빌라 리조트 (Bay Villas Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bay-villas-resort/hotel/port-douglas-au.html?cid=1925461",
+      "walkMin": 8,
+      "score": 8.6,
+      "reviewCount": 121,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/631/63190/63190_14061810060019898719.jpg?ca=2&ce=1",
+      "distanceNote": "약 641.55m · Marina Mirage Station 인근",
+      "metaTags": [
+        "📝 리뷰 121건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 121건 기반.",
+      "reviews": [
+        {
+          "text": "스튜디오 룸은 예상보다 훨씬 넓습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "훨씬 더 오래 머물 수 있을 만큼 크다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "베이 빌라 리조트를 100% 추천하고 싶습니다. 매우 기뻤습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "세탁 시설을 갖춘 독립형 아파트입니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원, 깨끗하고 편안한 객실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-08T01:09:47.531Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
