@@ -1,0 +1,433 @@
+{
+  "slug": "australia-dubbo",
+  "title": "더보 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 더보 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "dubbo-au",
+  "cityName": "더보",
+  "cityId": 11312,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "더보",
+  "heroImg": "https://pix8.agoda.net/hotelImages/293/293068/293068_16100805240047548627.jpg?ca=6&ce=1",
+  "heroAlt": "더보",
+  "heroTitleHtml": "더보 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>블루 검 모터 인</b>(평점 9.4·리뷰 553건·1박 약 18만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Dubbo 도보 8분</b>의 <b>덥보 RSL 클럽 모텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/293/293068/293068_16100805240047548627.jpg?ca=6&ce=1",
+  "outroTitle": "🌙 더보, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 더보 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 더보 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "블루 검 모터 인 (Blue Gum Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-bluegum-motel/hotel/dubbo-au.html?cid=1925461",
+      "walkMin": 14,
+      "score": 9.4,
+      "reviewCount": 553,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/293/293068/293068_16100805240047548627.jpg?ca=6&ce=1",
+      "distanceNote": "약 1082.82m · Dubbo 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 553건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 553건 기반.",
+      "reviews": [
+        {
+          "text": "침대는 편안하고 Wi-Fi는 환상적이며 넷플릭스도 갖춰져 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "침대는 크고 편안하며 품질이 매우 좋습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "주인분들이 너무 친절하고 좋았습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 객실, 최고의 위치, 친절한 서비스",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 것을 갖춘 작은 주방.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "덥보 RSL 클럽 모텔 (Dubbo RSL Club Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dubbo-rsl-club-motel/hotel/dubbo-au.html?cid=1925461",
+      "walkMin": 8,
+      "score": 9.2,
+      "reviewCount": 1091,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/286764/0/898c64b7af5100a4b9e5f7caefe65a9d.jpeg?ce=0",
+      "distanceNote": "약 669.55m · Dubbo 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 1,091건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 1,091건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗한 객실은 잘 갖춰진 보안 간이 차고를 갖추고 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "객실은 새로 개조되었으며 티끌 하나 없이 깨끗합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "모든 면에서 더보 최고의 모텔이라고 생각합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "룸 서비스 아침 식사는 맛있고 많았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 세련되었으며 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "아틀라스 모텔 (Atlas Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/atlas-motel/hotel/dubbo-au.html?cid=1925461",
+      "walkMin": 12,
+      "score": 7.9,
+      "reviewCount": 235,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/517691/-1/138565659b007015bd40286f6c9b8753.jpg?ca=13&ce=1",
+      "distanceNote": "약 920.89m · Dubbo 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 235건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 235건 기반.",
+      "reviews": [
+        {
+          "text": "방은 깨끗했고 침대는 매우 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "매우 편안한 매트리스. 잘 잤습니다. 다시 거기에 머물게되어 기쁩니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "방은 꽤 크고 편안한 퀸 사이즈 침대가 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 객실, 기본적인 세면도구는 모두 제공됩니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 좋은 가치를 지니고 있어 기꺼이 이곳에 다시 머물고 싶습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Abel Tasman Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/abel-tasman-motor-inn_2/hotel/all/dubbo-au.html?cid=1925461",
+      "walkMin": 27,
+      "score": 9,
+      "reviewCount": 846,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/154586846.jpg?k=b9b3f78c7eab533083e7f026ae1d95185ba97d931a5796c81217613aadd5278c&o=",
+      "distanceNote": "약 2188.39m · Dubbo 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 846건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 846건 기반.",
+      "reviews": [
+        {
+          "text": "친절한 직원",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "매우 따뜻한 환영과 유용한 현지 정보를 제공합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 훌륭한 직원",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 호텔",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "위치가 좋고 찾기 쉽습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "올 시즌스 모토 로지 (All Seasons Motor Lodge)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/all-seasons-motor-lodge/hotel/dubbo-au.html?cid=1925461",
+      "walkMin": 25,
+      "score": 9.1,
+      "reviewCount": 264,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/772/772307/772307_14110512350023194358.jpg?ca=3&ce=1",
+      "distanceNote": "약 1963.71m · Dubbo 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 264건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 264건 기반.",
+      "reviews": [
+        {
+          "text": "방은 정말 편안하고 깔끔하며 시설이 잘 갖추어져 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안한 객실, 좋은 위치.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원, 편안한 숙박",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "다시 머물 것입니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Nightcap at Macquarie Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/macquarie-inn_2/hotel/dubbo-au.html?cid=1925461",
+      "walkMin": 29,
+      "score": 8.8,
+      "reviewCount": 1583,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/517/517848/517848_16021912170040024181.jpg?ca=6&ce=1",
+      "distanceNote": "약 2320.03m · Dubbo 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 1,583건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,583건 기반.",
+      "reviews": [
+        {
+          "text": "객실은 완벽하고 깨끗하며 현대적이며 필요한 모든 시설을 갖추고 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "더보(Dubbo)에서 스톱오버할 때 이 숙소를 적극 추천합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "옵션이 잘 설명되어 있는 훌륭한 서비스가 제공됩니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "Dubbo를 방문하면 꼭 다시 이곳에 머물고 싶습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "외부 도로 소음이 없어 굉장한 방 방음!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Hermitage Hill Country Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hermitage-hill-country-retreat/hotel/all/dubbo-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 299,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 20만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/748136783.jpg?k=50dc9381361c05ca05d25bbf925543db38f0424164c0001129fa27713f9bff6f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 299건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 299건 기반.",
+      "reviews": [
+        {
+          "text": "이 유서 깊은 숙박 시설에 머무르는 좋은 경험입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "객실 내 무료 차, 커피, 비스킷.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "수건이 많고 침대가 편안합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "수영장, 정원, 잔디가 있는 멋진 주변 환경.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 깔끔했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-09T05:12:02.936Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
