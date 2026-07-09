@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-09T18:25:26.931Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 7,
+  "lastPostedAt": "2026-07-09T20:17:07.555Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 8,
   "postedDate": "2026-07-09",
   "queue": [
-    "australia-derby-wa",
     "australia-donnelly",
     "australia-denham",
-    "australia-deniliquin"
+    "australia-deniliquin",
+    "australia-devonport"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 81,
+    "cityIndex": 82,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -130,6 +130,7 @@
     "australia-the-gemfields",
     "australia-the-cave",
     "australia-dubbo",
-    "australia-derby"
+    "australia-derby",
+    "australia-derby-wa"
   ]
 }

@@ -1,0 +1,371 @@
+{
+  "slug": "australia-devonport",
+  "title": "데번포트 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 데번포트 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "devonport-au",
+  "cityName": "데번포트",
+  "cityId": 11069,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "데번포트",
+  "heroImg": "https://pix8.agoda.net/hotelImages/548614/0/34289047ff52ae95a9b76950581cd86b.jpeg?ce=0",
+  "heroAlt": "데번포트",
+  "heroTitleHtml": "데번포트 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>루신다 비앤비</b>(평점 9.4·리뷰 357건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>루신다 비앤비</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/548614/0/34289047ff52ae95a9b76950581cd86b.jpeg?ce=0",
+  "outroTitle": "🌙 데번포트, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 데번포트 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 데번포트 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "루신다 비앤비 (Lucinda Bed and Breakfast)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lucinda-bed-and-breakfast/hotel/devonport-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 357,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.8,
+      "img": "//pix8.agoda.net/hotelImages/548614/0/34289047ff52ae95a9b76950581cd86b.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 357건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 357건 기반.",
+      "reviews": [
+        {
+          "text": "유쾌한 호스트와 긴 보트 여행 후 편리한 숙박이 가능합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "Lucinda Bed and Breajfast를 적극 추천합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "머물기 좋은 숙소, 사랑스러운 호스트.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "Fiona, 주인은 매우 도움이 되었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 숙소, 메인 스트리트까지 도보로 짧은 거리.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Comfort Inn Devonport",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sunrise-devonport_2/hotel/all/devonport-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 1525,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/675380971.jpg?k=fc5d1a4db650a9edbeb3d2cda58f84a58180eefd9706ae829625da2b44c8bfa7&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,525건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 1,525건 기반.",
+      "reviews": [
+        {
+          "text": "화려하지 않고 모든 것이 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "가족으로서 필요한 모든 것을 갖춘 넓은 방 2개.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "매우 환영받는 느낌을 주는 매우 친절한 직원.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 매우 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "이곳은 가격과 위치면에서 훌륭한 가치를 지닌 곳입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Latrobe Mersey River Cabin and Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/latrobe-mersey-river-cabin-and-caravan-park/hotel/all/devonport-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.4,
+      "reviewCount": 88,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/227343548.jpg?k=bbe453d0dc39531b9661e324bd7278a24934c77630ea78f3ff824cf88ee4e8ba&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 88건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.4</b> · 실제 투숙객 리뷰 88건 기반.",
+      "reviews": [
+        {
+          "text": "욕실은 욕조가 최고예요",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "귀여운 작은 오두막",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Nightelier Devonport Gateway Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quality-hotel-gateway-inn-devonport_2/hotel/devonport-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 2433,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/11722/-1/de5d0cc9fbbb22c51bec5d113d1a1e24.jpg?ca=8&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 2,433건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 2,433건 기반.",
+      "reviews": [
+        {
+          "text": "방과 호텔은 깨끗하고 깔끔하며 잘 관리되어 있었습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "뛰어난 주변 환경과 매우 잘 갖춰진 객실.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 편안한 침대를 갖추고 있으며, 훌륭한 아침 식사와 커피를 제공합니다.",
+          "score": "8",
+          "country": "New Zealand",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "야간 탑승 및 주차가 용이합니다.",
+          "score": "8",
+          "country": "New Zealand",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "방은 나와 아들이 지내기에 아주 좋은 크기입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "호텔 아벨 타스맨 카라반 파크 (Hotel Abel Tasman Caravan Park)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-abel-tasman-caravan-park/hotel/devonport-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 872,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/334346/0/9233ffabc2f809e06a335cd85353c2f7.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 872건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 872건 기반.",
+      "reviews": [
+        {
+          "text": "객실은 잘 갖추어져 있었고 매우 조용했습니다.",
+          "score": "9.6",
+          "country": "Australie",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 좋은 숙소와 편안한 밤을 보냈습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "셀프 체크인 및 편리한 시설 이용",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 작은 캐러밴 공원, 샬레는 완벽했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "우리는 짧은 통지를 했고, 곧바로 수용되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Meander Country Cabins",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/meander-country-cabins-vans/hotel/all/devonport-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 107,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/608391255.jpg?k=91e1f8bda31f27e94ddb0f73dcf5bfdc6abaf2a4fa90b2aed55575ada6c56f4e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 107건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 107건 기반.",
+      "reviews": [
+        {
+          "text": "우리를 위해 집에서 만든 음식과 아침 식사가 준비되어 있었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "기억에 남는 숙박",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "글렌코 컨트리 비앤비 (Glencoe Country Bed and Breakfast)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/glencoe-country-bed-and-breakfast/hotel/devonport-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 202,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/2347255/-1/061d5e4f5040196c30162d77f930ec92.jpg?ca=7&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 202건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 202건 기반.",
+      "reviews": [
+        {
+          "text": "친절한 호스트와 함께하는 훌륭한 아침 식사",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-09T20:17:36.220Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
