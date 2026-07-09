@@ -1,0 +1,322 @@
+{
+  "slug": "australia-denham",
+  "title": "데넘 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 데넘 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "데넘",
+  "cityId": 21391,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "데넘",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/622509951.jpg?k=84faf0884afcde4e6955a7b96a4a67794aa3dc6f4e80cba984b7d64c1554f6b5&o=",
+  "heroAlt": "데넘",
+  "heroTitleHtml": "데넘 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Shark Bay Cottages</b>(평점 7.3·리뷰 532건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Shark Bay Cottages</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/622509951.jpg?k=84faf0884afcde4e6955a7b96a4a67794aa3dc6f4e80cba984b7d64c1554f6b5&o=",
+  "outroTitle": "🌙 데넘, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 데넘 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 데넘 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Shark Bay Cottages",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/shark-bay-cottages/hotel/all/denham-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.3,
+      "reviewCount": 532,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/622509951.jpg?k=84faf0884afcde4e6955a7b96a4a67794aa3dc6f4e80cba984b7d64c1554f6b5&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 532건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.3</b> · 실제 투숙객 리뷰 532건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 위치가 좋았습니다(해변 바로 옆)",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "또한 체크인과 체크아웃이 원활하다는 것을 알았습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "코티지는 깨끗하고 시설이 잘 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "110%는 다시 그곳으로 돌아가기를 기다릴 수 없습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "즐거운 시간을 보냈습니다",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Shark Bay Seafront Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/shark-bay-seafront-apartments/hotel/all/denham-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 95,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/299265805.jpg?k=e066ee4a520e1be2a76186cf5985c027aea85e04098920e4852a4781341ef63c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 95건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 95건 기반.",
+      "reviews": [
+        {
+          "text": "우리 자신의 발코니가 있는 앞쪽 아파트에 묵었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "Denham에 머물 수 있는 완벽한 시설을 갖춘 독립형 숙소입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "숙박에 필요한 모든 것",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "완벽하고 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "우리 앞 베란다에서 보이는 놀라운 전망.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "허리테이지 리조트 샤크 베이 (Heritage Resort Shark Bay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/heritage-resort-shark-bay/hotel/denham-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 541,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/178576/0/21d5c0c2fea1eb786cdfb85d8efad724.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 541건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 541건 기반.",
+      "reviews": [
+        {
+          "text": "방에는 필요한 모든 것이 갖추어져 있으며 침대는 편안합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "나는 이 호텔에서 가장 좋은 잠을 쉽게 잘 수 있었다고 말할 수 있다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "레스토랑에서 먹었는데, 음식은 훌륭했고 가격도 정말 좋았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "나는 방이 매우 편안하고 아무것도 부족하지 않다고 생각합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "바다 전망 객실에서 본 최고의 전망 중 하나입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Bay Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bay-lodge_2/hotel/denham-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.7,
+      "reviewCount": 1026,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 5.7,
+      "img": "//pix8.agoda.net/hotelImages/50199016/0/832c6b55d8601e6354d260fcec8bc40a.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 1,026건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 1,026건 기반.",
+      "reviews": [
+        {
+          "text": "71/2미터 크기의 캠핑카를 주차할 수 있을 만큼 충분한 주차 공간.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안했고 위치는 훌륭했습니다.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "숙소가 깨끗하고 깔끔해요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "완벽한 위치와 편안한 숙소..",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "바다 바로 옆 최고의 위치에 있는 기본 해변 아파트입니다.",
+          "score": "9.2",
+          "country": "Schweiz",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "와일드사이츠 빌라 (Wildsights Villas)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wildsights-villas/hotel/denham-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 188,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 31만원",
+      "valueIndex": 4.8,
+      "img": "//pix8.agoda.net/hotelImages/286921/0/2999b8937d918656f0d22aed18025a8e.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 188건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 188건 기반.",
+      "reviews": [
+        {
+          "text": "남편과 저는 원 베드룸 빌라에 머물게 되어 기뻤습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "물가와 쇼핑가, 레스토랑과 매우 가깝습니다.",
+          "score": "8.8",
+          "country": "India",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "방은 넓었고 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 시설이 갖추어져 있고 깨끗합니다.",
+          "score": "8.8",
+          "country": "United Kingdom",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "숙박시설은 기본적이지만 깨끗하고 침대도 편안했습니다.",
+          "score": "8.4",
+          "country": "United Kingdom",
+          "date": "2022.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-09T16:40:13.775Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}
