@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-09T11:33:42.625Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 4,
+  "lastPostedAt": "2026-07-09T14:10:12.458Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 5,
   "postedDate": "2026-07-09",
   "queue": [
-    "australia-the-cave",
     "australia-dubbo",
     "australia-derby",
-    "australia-derby-wa"
+    "australia-derby-wa",
+    "australia-donnelly"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 78,
+    "cityIndex": 79,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -127,6 +127,7 @@
     "australia-darlington",
     "australia-dalby",
     "australia-dampier-peninsula",
-    "australia-the-gemfields"
+    "australia-the-gemfields",
+    "australia-the-cave"
   ]
 }

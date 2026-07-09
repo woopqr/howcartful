@@ -1,0 +1,214 @@
+{
+  "slug": "australia-donnelly",
+  "title": "던엘리 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 던엘리 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "던엘리",
+  "cityId": 513480,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "던엘리",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/672943924.jpg?k=acef6df1645fdd42e4b7ecbd46debded915fed670a14c75a0fbdd6e08bb43af4&o=",
+  "heroAlt": "던엘리",
+  "heroTitleHtml": "던엘리 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>The Sounds</b>(평점 9.9·리뷰 145건·1박 약 17만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>The Sounds</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/672943924.jpg?k=acef6df1645fdd42e4b7ecbd46debded915fed670a14c75a0fbdd6e08bb43af4&o=",
+  "outroTitle": "🌙 던엘리, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 던엘리 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 던엘리 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Sounds",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-sounds/hotel/all/murdunna-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.9,
+      "reviewCount": 145,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/672943924.jpg?k=acef6df1645fdd42e4b7ecbd46debded915fed670a14c75a0fbdd6e08bb43af4&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 145건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.9</b> · 실제 투숙객 리뷰 145건 기반.",
+      "reviews": [
+        {
+          "text": "나는 이곳을 방문하는 모든 사람에게 이 장소를 적극 추천하고 싶습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "이곳은 제가 머물렀던 최고의 장소 중 하나였습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "정말 완벽한 숙소였습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "완비된 객실",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "멋진 바다 풍경을 갖춘 세련된 아파트입니다.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Flotsam Seaside Studio Dunalley",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/flotsam-studio-dunalley/hotel/all/dunalley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 155,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/659557026.jpg?k=495d3f41e3f519a97fff57a189ae221c4d523d19e38ccefae662217c4154f041&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 155건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 155건 기반.",
+      "reviews": [
+        {
+          "text": "바다에 가깝고 잠재적인 오로라를 볼 수 있는 남쪽을 향하고 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "9월에도 이미 다시 예약했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "우리는 스튜디오에서 겨울의 짧은 휴가를 즐겼습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "전체 장소는 정말 아늑하고 사적입니다!",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "놀라움이 많은 사랑스러운 위치.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Waterfront Casilda Guesthouse",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/waterfront-casilda-guesthouse/hotel/all/dunalley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 58,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/618989223.jpg?k=294dc094f536ed67f738b1bd90bbf3aed8513f811a0f734bfdea52c70a91cf43&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 58건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 58건 기반.",
+      "reviews": [
+        {
+          "text": "편안한 침대, 흠잡을 데 없이 깨끗함.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 게스트하우스.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "집에서 멀리 떨어진 집",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "St Martins of Tasmania - converted heritage listed church",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/st-martin-s-of-tasmania-converted-church-bnb/hotel/all/dunalley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 47,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 42만원",
+      "valueIndex": 5.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/545939893.jpg?k=df50dfa560149f89ba06a6c740064478aff483a7f61905bbebbd9bfdd03df934&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 42만원",
+        "📝 리뷰 47건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 47건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-09T14:10:23.294Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}
