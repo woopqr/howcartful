@@ -1,0 +1,87 @@
+{
+  "slug": "australia-derby-wa",
+  "title": "더비 (WA) 가성비 호텔 1곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 더비 (WA) 가성비 호텔 1곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "derby-wa-au",
+  "cityName": "더비 (WA)",
+  "cityId": 671553,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "더비 (WA)",
+  "heroImg": "https://pix8.agoda.net/hotelImages/393/393576/393576_15081618160034371568.jpg?ca=5&ce=1",
+  "heroAlt": "더비 (WA)",
+  "heroTitleHtml": "더비 (WA) 가성비 호텔 1곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>스피니펙스 호텔</b>(평점 8·리뷰 100건·1박 약 17만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>스피니펙스 호텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/393/393576/393576_15081618160034371568.jpg?ca=5&ce=1",
+  "outroTitle": "🌙 더비 (WA), 어디에 묵어도 후회없이",
+  "outroText": "위 1곳은 모두 더비 (WA) 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 더비 (WA) 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "스피니펙스 호텔 (Spinifex Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/spinifex-hotel/hotel/derby-wa-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 100,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/393/393576/393576_15081618160034371568.jpg?ca=5&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 100건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 100건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 Wi-Fi와 호텔 레스토랑의 음식이 정말 맛있었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 것을 갖춘 매우 깨끗하고 편안한 호텔입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안했고 샤워시설도 좋았으며 숙소는 조용하고 좋았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치의 레스토랑 바와 탭이 모두 거기에 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "두 숙박 모두 훌륭했고 모든 것이 깨끗하고 현대적이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-09T11:33:46.969Z",
+    "source": "agoda citySearch",
+    "count": 1
+  }
+}
