@@ -1,0 +1,434 @@
+{
+  "slug": "australia-daylesford-and-macedon-ranges",
+  "title": "데일스포드 & 마케돈 산맥 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 데일스포드 & 마케돈 산맥 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "데일스포드 & 마케돈 산맥",
+  "cityId": 6460,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "데일스포드 & 마케돈 산맥",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/665154961.jpg?k=c783c6c6fb34da6b6d0a9e406d484d704e2ea16c19e0387197ce7cd586ecf5e6&o=",
+  "heroAlt": "데일스포드 & 마케돈 산맥",
+  "heroTitleHtml": "데일스포드 & 마케돈 산맥 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Shamrock Hotel Kyneton</b>(평점 8.5·리뷰 267건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Shamrock Hotel Kyneton</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/665154961.jpg?k=c783c6c6fb34da6b6d0a9e406d484d704e2ea16c19e0387197ce7cd586ecf5e6&o=",
+  "outroTitle": "🌙 데일스포드 & 마케돈 산맥, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 데일스포드 & 마케돈 산맥 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 데일스포드 & 마케돈 산맥 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Shamrock Hotel Kyneton",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/shamrock-hotel-h69154484/hotel/all/daylesford-and-macedon-ranges-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 267,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/665154961.jpg?k=c783c6c6fb34da6b6d0a9e406d484d704e2ea16c19e0387197ce7cd586ecf5e6&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 267건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 267건 기반.",
+      "reviews": [
+        {
+          "text": "공용 욕실과 화장실은 매우 깨끗했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 도움이 되고 친절했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "좋은 경험이었습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "새로 개조된 매우 편안한 펍 숙소입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "이 개조된 숙소의 스타일이 마음에 들었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Clifftop at Hepburn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/clifftop-at-hepburn_16/hotel/all/daylesford-and-macedon-ranges-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 925,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/416668587.jpg?k=c6e3cf062abbfa9bdd1c5d38cd26432b1ceb7c9bad795ded074032218fd23b7a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 925건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 925건 기반.",
+      "reviews": [
+        {
+          "text": "숨막히는 전망을 갖춘 놀라운 숙박",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "꼭 머물러야 할 곳",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "멋진 주말 휴가",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 정말 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "잘못할 건 없어",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Central Highlands Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/central-highlands-motor-inn_3/hotel/all/daylesford-and-macedon-ranges-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 607,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/500144022.jpg?k=b7fc0dd9603fb2bd71b89322e8004bc4501383b28f6dca1281573cac79ef412a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 607건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 607건 기반.",
+      "reviews": [
+        {
+          "text": "정말 훌륭한 모터 인, 흠잡을 데 없이 깨끗하고 직원이 훌륭합니다.",
+          "score": "8.8",
+          "country": "Thailand",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "보너스였던 뒤쪽의 멋진 작은 게스트 정원.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "위치가 좋고 Wi-Fi가 안정적입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "방도 깨끗하고 시설도 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "더 로얄 데일스퍼드 호텔 (The Royal Daylesford Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/daylesford-royal-hotel/hotel/daylesford-and-macedon-ranges-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 560,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/1193568/-1/35c7fc4a29c528a92da38e2957183b45.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 560건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 560건 기반.",
+      "reviews": [
+        {
+          "text": "욕실도 매우 현대적이었고 주변이 매우 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "호텔은 매일 아침 우리를 위한 아침 식사 키트도 제공했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 모든 편의시설을 갖춘 멋진 스파룸.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "우리가 있었던 방에는 아름답고 편안한 욕조가 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "Royal Daylesford Hotel에 다시 묵을 예정입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Mineral Springs Hotel Hepburn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/peppers-mineral-springs-hotel/hotel/daylesford-and-macedon-ranges-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 1005,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/69407/0/37c209249243eba9ddcb389c37c7d364.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 1,005건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,005건 기반.",
+      "reviews": [
+        {
+          "text": "아침 식사가 훌륭하고 발코니에 스파 욕조가 있어 손길이 좋았습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "미네랄 스파는 매우 편안하고 레스토랑은 훌륭합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 깨끗하고 편안했고 밤에는 조용했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 완벽한 시설 및 서비스.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "우리 기념일을 위한 최고의 휴양지",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "시즈카 료칸 재패니즈 컨트리 스파 앤 웰네스 (Shizuka Ryokan Japanese Country Spa & Wellness Retreat)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/shizuka-ryokan-japanese-country-spa-wellness-retreat/hotel/daylesford-and-macedon-ranges-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 128,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/256699/3984192/5da1c435b2cab4670e80dcb679b84cb4.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 128건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 128건 기반.",
+      "reviews": [
+        {
+          "text": "정말 일본의 전통 여관에 머무는 듯한 느낌이 듭니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "직원들은 너무 많은 관심을 갖고 있으며 잘못될 수 없습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "예약하는 순간부터 모든 것이 훌륭합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "Shizuka Ryokan에서의 또 다른 정말 멋진 숙박입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "화려한 방과 걷기 좋은 지역 장소.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "The Manse",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-manse-h15620443/hotel/daylesford-and-macedon-ranges-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 91,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/property/83665908/0/da64c865098a80bbc6ca79e2126a596e.jpeg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 91건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 91건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 시간을 거슬러 올라가서 얼룩말 방에 있는 것을 좋아했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 가치가 높으며 Daylesford의 모든 시설과 가깝습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "얼룩말은 우리 방이었고 사랑스러웠어요",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "방이 몇 개 있는 정말 사랑스러운 오래된 집입니다.",
+          "score": "10",
+          "country": "Sweden",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "매력이 있는 사랑스러운 오래된 집.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-09T21:51:03.527Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
