@@ -1,0 +1,228 @@
+{
+  "slug": "australia-the-cave",
+  "title": "더 케이브 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 더 케이브 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "rockhampton-au",
+  "cityName": "더 케이브",
+  "cityId": 102401,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "더 케이브",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/643791460.jpg?k=dab575d0512785f6b21a80efd9e68668c672f2052db4237c8f0604e93d14e368&o=",
+  "heroAlt": "더 케이브",
+  "heroTitleHtml": "더 케이브 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Casa Nostra Motel</b>(평점 9.1·리뷰 1,330건·1박 약 17만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Park Avenue 도보 94분</b>의 <b>Quality Resort Parkhurst</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/643791460.jpg?k=dab575d0512785f6b21a80efd9e68668c672f2052db4237c8f0604e93d14e368&o=",
+  "outroTitle": "🌙 더 케이브, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 더 케이브 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 더 케이브 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Casa Nostra Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/casa-nostra-motel/hotel/rockhampton-au.html?cid=1925461",
+      "walkMin": 98,
+      "score": 9.1,
+      "reviewCount": 1330,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/643791460.jpg?k=dab575d0512785f6b21a80efd9e68668c672f2052db4237c8f0604e93d14e368&o=",
+      "distanceNote": "약 7811.02m · Park Avenue 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 1,330건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 1,330건 기반.",
+      "reviews": [
+        {
+          "text": "매우 편안한 매트리스를 갖춘 거대한 킹 사이즈 침대.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "와, 방은 거대하고, 새롭고, 깨끗하고, 정말 잘 꾸며져 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "솔직히 내가 머물렀던 최고의 장소 중 하나입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "4인용 테이블과 평면 스크린을 향한 소파.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "나는 확실히 추천합니다. 직원은 사랑스럽고 소란스럽지 않았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Quality Resort Parkhurst",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/korte-s-resort/hotel/rockhampton-au.html?cid=1925461",
+      "walkMin": 94,
+      "score": 9,
+      "reviewCount": 1629,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/890033009.jpg?k=b311a455da084489fccf8dbb0f3877a12d43a8262a3dbf1a6d317e5013c6134f&o=",
+      "distanceNote": "약 7558.42m · Park Avenue 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 1,629건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,629건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗했고 숙박에 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 여기에 여러 번 머물렀고 결코 실망하지 않았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "기회가 주어진다면 꼭 다시 올 것이다",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "우리가 Rocky에 있을 때마다 꼭 가는 호텔이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗한 인테리어를 갖춘 매우 쾌적한 직원.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "트루 블루 모토 인 (True Blue Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/true-blue-motor-inn/hotel/rockhampton-au.html?cid=1925461",
+      "walkMin": 96,
+      "score": 7.9,
+      "reviewCount": 51,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/523144/0/dfbf96a3173039450b48ec2e83765aa5.jpeg?ce=0",
+      "distanceNote": "약 7716.3m · Park Avenue 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 51건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 51건 기반.",
+      "reviews": [
+        {
+          "text": "머물기 좋은 숙소이며 편안함을 위한 훌륭한 크기의 객실입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "가격대비 아주 넓고 깨끗하고..",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "아주 좋은 크기의 방",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "방은 단순했지만 넓었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 도움이 되었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "카프리콘 케이브 (Capricorn Caves)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/capricorn-caves/hotel/the-caves-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 307,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/178595/0/33a8f87072a1acb31c391b3010bc5cc8.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 307건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 307건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-09T01:12:53.220Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}
