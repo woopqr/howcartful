@@ -1,0 +1,133 @@
+{
+  "slug": "australia-derby",
+  "title": "더비 가성비 호텔 3곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 더비 가성비 호텔 3곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "더비",
+  "cityId": 17898,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "더비",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/344645655.jpg?k=473802db0ea77c1adf839b57eadf3f2b9833a705f559de184220516a553d208f&o=",
+  "heroAlt": "더비",
+  "heroTitleHtml": "더비 가성비 호텔 3곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Pilgrim Blue, Derby - Two charming apartments in the heart of Derby</b>(평점 9.3·리뷰 135건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Pilgrim Blue, Derby - Two charming apartments in the heart of Derby</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/344645655.jpg?k=473802db0ea77c1adf839b57eadf3f2b9833a705f559de184220516a553d208f&o=",
+  "outroTitle": "🌙 더비, 어디에 묵어도 후회없이",
+  "outroText": "위 3곳은 모두 더비 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 더비 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Pilgrim Blue, Derby - Two charming apartments in the heart of Derby",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pilgrim-blue-derby-two-charming-apartments-in-the-heart-of-derby/hotel/all/derby-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 135,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/344645655.jpg?k=473802db0ea77c1adf839b57eadf3f2b9833a705f559de184220516a553d208f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 135건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 135건 기반.",
+      "reviews": [
+        {
+          "text": "요청 시 조기 체크인도 해주었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "환상적인 밤을 보냈습니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "추천합니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Derby Bank House- Heritage listed two bedroom old school B&B suite or a self contained cabin",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/derby-bank-house-heritage-listed-two-bedroom-old-school-b-b-suite-or-a-self-contained-cabin/hotel/all/derby-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 114,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/544467678.jpg?k=20c8a933a0c8e0d76ebf98c5bac8d472eadb00168d3de4c5aac1eba443dc3dc3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 114건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 114건 기반.",
+      "reviews": [
+        {
+          "text": "나는 여기에 머물 것을 적극 권장합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "놀라운 숙소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Just Down the Road",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/just-down-the-road/hotel/all/derby-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 48,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/605882146.jpg?k=9c415d4d6624792d3121d293308a7fc28ed0c8ae3e268037dbcb087d8a19a516&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 48건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 48건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-09T08:39:26.403Z",
+    "source": "agoda citySearch",
+    "count": 3
+  }
+}
