@@ -1,0 +1,389 @@
+{
+  "slug": "australia-dixon-creek",
+  "title": "딕슨 크릭 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 딕슨 크릭 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "딕슨 크릭",
+  "cityId": 142987,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "딕슨 크릭",
+  "heroImg": "https://pix8.agoda.net/hotelImages/548631/0/dc62725d3cbda792a8ed2eb2d9d08d30.jpeg?ce=0",
+  "heroAlt": "딕슨 크릭",
+  "heroTitleHtml": "딕슨 크릭 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>De'Vine Escape</b>(평점 8.6·리뷰 818건·1박 약 10만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>De'Vine Escape</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/548631/0/dc62725d3cbda792a8ed2eb2d9d08d30.jpeg?ce=0",
+  "outroTitle": "🌙 딕슨 크릭, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 딕슨 크릭 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 딕슨 크릭 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "De'Vine Escape",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/de-vine-escape/hotel/all/dixons-creek-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 818,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/548631/0/dc62725d3cbda792a8ed2eb2d9d08d30.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 818건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 818건 기반.",
+      "reviews": [
+        {
+          "text": "숙소는 생각보다 훨씬 좋았습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "숙박의 위치와 느낌은 여전히 ​​가치가 있었습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "도전적으로 다시 머물 것입니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "웨딩 숙소로 예약했습니다.",
+          "score": "7.6",
+          "country": "Brunei Darussalam",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "객실도 좋고 깨끗합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "The Yarra Valley Couple Escape",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-yarra-valley-couple-escape/hotel/all/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 185,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/495243403.jpg?k=77c3aafe793bd3f33bad58fc72588e07e83904869894f49d021a7dd2c6b02e75&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 185건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 185건 기반.",
+      "reviews": [
+        {
+          "text": "집에 있는 것처럼 거의 모든 것을 갖추고 있습니다.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2024.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Araluen Lodge Yarra Valley",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/araluen-boutique-accommodation/hotel/all/steels-creek-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 151,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/70381/0/3c9021f35c351afe672e05536b960d9b.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 151건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 151건 기반.",
+      "reviews": [
+        {
+          "text": "머무는 동안 세심한 편의시설과 음식이 제공됩니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "무슨 말을 더 해야 할까요...모든 면에서 정말 천국 같은 곳입니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 호스트와 아름다운 숙소입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "커플을 위한 평화롭고 아늑한 숙소",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "Rachel님이 호스팅하는 사랑스러운 장소",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "마이어 크릭 카스케이드 코티지 (Myers Creek Cascades Cottages)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/myers-creek-cascades-cottages/hotel/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 45,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/264160/0/d8fb2d19e94309aa3f893f186a1a2c90.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 45건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 45건 기반.",
+      "reviews": [
+        {
+          "text": "주방에는 모든 것이 갖춰져 있어 나갈 필요도 없습니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "너무 한적하고 프라이빗해서 정말 완벽해요.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "나는 그것을 충분히 추천할 수 없다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "완벽한 로맨틱 휴양지",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "야라 글렌 비앤비 (Yarra Glen Bed and Breakfast)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/yarra-glen-bed-and-breakfast/hotel/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 99,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/294/294591/294591_15031414160026091042.jpg?ca=3&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 99건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 99건 기반.",
+      "reviews": [
+        {
+          "text": "우리가 그 지역을 방문하면 돌아올 것입니다👍🏼.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "무엇보다도 저는 이곳을 추천하고 싶습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "호스트는 매우 친절하고 도움이 됩니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "샤토 예링 호텔 (Chateau Yering Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/chateau-yering-hotel_4/hotel/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 1314,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/49818/0/9c42751c828555eba83513f46d3997f4.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 1,314건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,314건 기반.",
+      "reviews": [
+        {
+          "text": "무료 와인 한병은 정말 좋은 감동이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "직원, 객실, 서비스 등 모두 훌륭합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "음식은 맛있고 객실은 아름답습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "음식은 맛있었고 직원들은 훌륭했습니다!",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "우리는 Chateau Yering에서 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "야라 밸리 그랜드 호텔 (Yarra Valley Grand Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/yarra-valley-grand-hotel/hotel/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 954,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/49979/0/95344523d0c26a8a335b577c8e8224fb.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 954건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 954건 기반.",
+      "reviews": [
+        {
+          "text": "맛있는 아침 식사와 따뜻한 음료가 포함되어 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 침대도 편안했고 직원들도 친절했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "넓고 조용한 객실, 친절한 직원, 유럽식 아침 식사.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "정말 사랑스러운 숙소와 훌륭한 직원",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "복고풍 외관, 사랑스러운 직원, 완벽한 크리스마스 숙박",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-10T20:16:56.096Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
