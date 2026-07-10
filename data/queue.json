@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-10T20:16:25.078Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 9,
+  "lastPostedAt": "2026-07-10T21:29:47.735Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 10,
   "postedDate": "2026-07-10",
   "queue": [
-    "australia-dulohein",
     "australia-dinner-plain",
     "australia-deception-bay",
-    "australia-dixon-creek"
+    "australia-dixon-creek",
+    "australia-la-trobe"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 94,
+    "cityIndex": 95,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -143,6 +143,7 @@
     "australia-dents-point",
     "australia-dongara",
     "australia-dunolly",
-    "australia-drouin"
+    "australia-drouin",
+    "australia-dulohein"
   ]
 }
