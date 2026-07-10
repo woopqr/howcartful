@@ -1,0 +1,205 @@
+{
+  "slug": "australia-dongara",
+  "title": "동가라 가성비 호텔 3곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 동가라 가성비 호텔 3곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "동가라",
+  "cityId": 702246,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "동가라",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/373502229.jpg?k=c10868629e765c06a15eac79c602b27c580c2efd288199c18b31f1fd9d14c708&o=",
+  "heroAlt": "동가라",
+  "heroTitleHtml": "동가라 가성비 호텔 3곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Leander Reef Holiday Park</b>(평점 8.6·리뷰 358건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Leander Reef Holiday Park</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/373502229.jpg?k=c10868629e765c06a15eac79c602b27c580c2efd288199c18b31f1fd9d14c708&o=",
+  "outroTitle": "🌙 동가라, 어디에 묵어도 후회없이",
+  "outroText": "위 3곳은 모두 동가라 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 동가라 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Leander Reef Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/leander-reef-holiday-park/hotel/all/port-denison-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 358,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/373502229.jpg?k=c10868629e765c06a15eac79c602b27c580c2efd288199c18b31f1fd9d14c708&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 358건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 358건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗한 시설과 객실은 일반적으로 집 같은 느낌을 줍니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "가족 친화적인 완벽한 숙소와 훌륭한 가치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "특히 화장실이 꽤 크고 깨끗해요.",
+          "score": "10",
+          "country": "호주",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "좋은 직원과 머물 곳! 따뜻하고 깨끗해요!",
+          "score": "9.6",
+          "country": "台灣",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "간단하게 체크인하고 편안하게 지낼 수 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "씨스프레이 비치 홀리데이 파크 아파트먼트 (Seaspray Beach Holiday Park Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/seaspray-beach-holiday-park-apartments/hotel/dongara-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 766,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/hotelImages/625/625777/625777_14052308010019539863.jpg?ca=2&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 766건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 766건 기반.",
+      "reviews": [
+        {
+          "text": "작은 선실에는 편안한 숙박에 필요한 모든 것이 갖춰져 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "해변 근처에 머물기에 가장 좋은 곳입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "수영장은 훌륭했고 거기의 카페도 마찬가지였습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "시내까지 도보로 짧은 거리에 있고 멋진 펍도 있습니다!",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 환영합니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "동가라 호텔 모텔 (Dongara Hotel Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dongara-hotel-motel/hotel/dongara-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 750,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 30만원",
+      "valueIndex": 4.9,
+      "img": "//pix8.agoda.net/hotelImages/567/567719/567719_16092616460046944336.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 30만원",
+        "📝 리뷰 750건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 750건 기반.",
+      "reviews": [
+        {
+          "text": "방은 비교적 깨끗하고 깔끔했으며, 침대도 편안했고,",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "우리는 호텔이 편안하고 깨끗하다는 것을 알았습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "호텔의 아름다운 음식, 친절한 직원, 훌륭한 위치",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "깔끔하고 정돈되어 있고 조용하고 친절합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "물면 쪼그라들도록 구운 삼겹살을 먹었어요",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-10T07:53:19.566Z",
+    "source": "agoda citySearch",
+    "count": 3
+  }
+}
