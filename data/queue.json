@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-09T22:58:55.772Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 10,
-  "postedDate": "2026-07-09",
+  "lastPostedAt": "2026-07-10T00:10:41.501Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-07-10",
   "queue": [
-    "australia-deniliquin",
     "australia-devonport",
     "australia-daylesford-and-macedon-ranges",
-    "australia-daintree"
+    "australia-daintree",
+    "australia-denmark"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 84,
+    "cityIndex": 85,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -133,6 +133,7 @@
     "australia-derby",
     "australia-derby-wa",
     "australia-donnelly",
-    "australia-denham"
+    "australia-denham",
+    "australia-deniliquin"
   ]
 }

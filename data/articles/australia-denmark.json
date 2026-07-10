@@ -1,0 +1,440 @@
+{
+  "slug": "australia-denmark",
+  "title": "덴마크 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 덴마크 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "덴마크",
+  "cityId": 18939,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "덴마크",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/155705482.jpg?k=161eb41243c6fb428698d2d25f0d1f0a59609f5f5167cf0eb8ee5d58401a1d68&o=",
+  "heroAlt": "덴마크",
+  "heroTitleHtml": "덴마크 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Denmark Scenic Tourist Park</b>(평점 9·리뷰 555건·1박 약 19만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Denmark Scenic Tourist Park</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/155705482.jpg?k=161eb41243c6fb428698d2d25f0d1f0a59609f5f5167cf0eb8ee5d58401a1d68&o=",
+  "outroTitle": "🌙 덴마크, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 덴마크 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 덴마크 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Denmark Scenic Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/karri-aura/hotel/all/denmark-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 555,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/155705482.jpg?k=161eb41243c6fb428698d2d25f0d1f0a59609f5f5167cf0eb8ee5d58401a1d68&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 555건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 555건 기반.",
+      "reviews": [
+        {
+          "text": "레몬과 오렌지 나무가 많은 아름다운 주변 환경!",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "Karri Aura Suites는 덴마크에서 훌륭한 숙박 시설입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고 아늑하고 친절해요 :)",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "A+ 훌륭한 가치와 매우 깨끗함",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "평화로운 카리 아우라",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "카르마 찰렛 앤 카리스마 스파 (Karma Chalets and Karisma Spa)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/karma-chalets-and-karisma-spa/hotel/denmark-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 292,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/255947/-1/b14fc10ac8e386090f788dfcfa7e7d86.jpg?ca=7&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 292건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 292건 기반.",
+      "reviews": [
+        {
+          "text": "매우 평화롭고 조용하며 놀라운 샬레이며 직원이 매우 친절합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "우리 샬레는 편안하고 넓었으며 필요한 모든 것을 갖추고 있었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "작고 아늑하며 깨끗한 숙박이었으며 기대에 부응했습니다!",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "위치가 매우 편리하고 아름다운 해변과 가깝습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "전망, 아늑한 코티지 및 위치를 이길 수 없습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "The Koorabup Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-koorabup-motel/hotel/denmark-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 1697,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/55357123.jpg?k=cd0e847225666c3033b06b97f90e5f47f4515577a068fc92e0c703fe5e8a931f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 1,697건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,697건 기반.",
+      "reviews": [
+        {
+          "text": "정말 머물기 좋은 곳이에요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 침구도 좋았으며 욕실도 괜찮았습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "와이파이, 세탁, 건조기, 매우 깨끗한 욕실",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 침실 1개에서 침실 2개 아파트로 업그레이드되었습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 우리에게 딱 맞는 1베드 아파트에 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "31 온 더 테라스 (31 on the Terrace)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/31-on-the-terrace/hotel/denmark-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 319,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/337914/0/d0d215c372e683b9936d2d486bc6b263.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 319건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 319건 기반.",
+      "reviews": [
+        {
+          "text": "우리가 이 호텔에 묵은 것은 이번이 3번째입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "하이라이트는 환영하는 직원과 지원이었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "위치는 매우 중앙에 있으며 잘 표현되어 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "발코니 냉장고를 갖춘 편안한 침대 훌륭한 객실",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 훌륭합니다. 우리는 꼭 돌아올 것입니다 😃",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "The Lodge At The Denmark Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/denmark-hotel/hotel/all/denmark-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 43,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/782683467.jpg?k=f52da1ca3eae404efb6ef95d60cc9bd2e853b941f5de75172487738a4dda6409&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 43건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 43건 기반.",
+      "reviews": [
+        {
+          "text": "펍이 바로 옆에 있으며 강 옆에 있어 위치가 좋습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "냉장고와 평면 TV를 갖춘 매우 깨끗하고 깔끔한 객실입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 오후 7시 이후에 도착했는데 방은 좋고 침대는 편안합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 신선한 느낌입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "정말 마음에 들고 Lodge를 적극 추천합니다😍",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Spring Bay Villas, Denmark, WA",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/spring-bay-villas-denmark-wa/hotel/all/denmark-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 218,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.7,
+      "img": "//pix8.agoda.net/hotelImages/336101/0/d5199c4bc8620c7ef61b59e1fd6ea2a4.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 218건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 218건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 스프링 베이에서 즐거운 시간을 보냈습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "휴가지로 꼭 추천하고 싶습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 매우 쉽고 원활했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "평화로운 휴가를 보내기에 좋은 곳",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "적극 추천합니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "차임스 스파 리트리트 (Chimes Spa Retreat)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/chimes-spa-retreat/hotel/denmark-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 520,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 36만원",
+      "valueIndex": 5.2,
+      "img": "//pix8.agoda.net/hotelImages/528845/0/2ba23a361f939b01a3270f2838a84ca7.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 36만원",
+        "📝 리뷰 520건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 520건 기반.",
+      "reviews": [
+        {
+          "text": "이 아름다운 숙소를 적극 추천합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "편안하게 몸을 담글 수 있는 큰 욕조가 정말 마음에 들었습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "우리가 머물렀던 정원 방과 아침 식사가 마음에 들었습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "새 리조트라 서비스가 훌륭합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "아늑하고 편안하며 좋은 유럽식 아침 식사.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-10T00:11:15.959Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
