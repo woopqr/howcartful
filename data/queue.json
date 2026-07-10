@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-10T12:58:22.049Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 5,
+  "lastPostedAt": "2026-07-10T15:34:01.820Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 6,
   "postedDate": "2026-07-10",
   "queue": [
-    "australia-dents-point",
     "australia-dongara",
     "australia-dunolly",
-    "australia-drouin"
+    "australia-drouin",
+    "australia-dulohein"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 90,
+    "cityIndex": 91,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -139,6 +139,7 @@
     "australia-devonport",
     "australia-daylesford-and-macedon-ranges",
     "australia-daintree",
-    "australia-denmark"
+    "australia-denmark",
+    "australia-dents-point"
   ]
 }
