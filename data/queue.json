@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-11T13:03:09.146Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 7,
+  "lastPostedAt": "2026-07-11T14:24:43.327Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 8,
   "postedDate": "2026-07-11",
   "queue": [
-    "australia-lancelin",
     "australia-lamington",
     "australia-lancefield",
-    "australia-lennox-head"
+    "australia-lennox-head",
+    "australia-red-rock"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 102,
+    "cityIndex": 103,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -151,6 +151,7 @@
     "australia-la-trobe",
     "australia-rasmussen",
     "australia-ridley-grandchester",
-    "australia-rockingham"
+    "australia-rockingham",
+    "australia-lancelin"
   ]
 }

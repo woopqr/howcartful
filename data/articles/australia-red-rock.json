@@ -1,0 +1,74 @@
+{
+  "slug": "australia-red-rock",
+  "title": "레드 록 가성비 호텔 2곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 레드 록 가성비 호텔 2곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "corindi-beach-au",
+  "cityName": "레드 록",
+  "cityId": 141856,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "레드 록",
+  "heroImg": "https://pix8.agoda.net/hotelImages/561913/0/0605cee364aa38a90b6c5f7fdbadd7ea.jpeg?ce=0",
+  "heroAlt": "레드 록",
+  "heroTitleHtml": "레드 록 가성비 호텔 2곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Reflections Holiday Parks Corindi Beach</b>(평점 9.1·리뷰 149건·1박 약 16만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Reflections Holiday Parks Corindi Beach</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/561913/0/0605cee364aa38a90b6c5f7fdbadd7ea.jpeg?ce=0",
+  "outroTitle": "🌙 레드 록, 어디에 묵어도 후회없이",
+  "outroText": "위 2곳은 모두 레드 록 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 레드 록 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Reflections Holiday Parks Corindi Beach",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/reflections-holiday-parks-corindi-beach/hotel/corindi-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 149,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/561913/0/0605cee364aa38a90b6c5f7fdbadd7ea.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 149건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 149건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "리플렉션 홀리데이 마크 레드 록 (Reflections Holiday Parks Red Rock)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/reflections-holiday-parks-red-rock/hotel/red-rock-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 75,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/561911/0/4ff157c0cb8308dc31fb39a6a782fdd8.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 75건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 75건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-11T14:24:43.857Z",
+    "source": "agoda citySearch",
+    "count": 2
+  }
+}
