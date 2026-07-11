@@ -1,0 +1,434 @@
+{
+  "slug": "australia-redcliffe",
+  "title": "레드클리프 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 레드클리프 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "brisbane-au",
+  "cityName": "레드클리프",
+  "cityId": 142388,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "레드클리프",
+  "heroImg": "https://pix8.agoda.net/hotelImages/6495304/0/dc792621932019ba6db40730531675f9.jpg?ce=0",
+  "heroAlt": "레드클리프",
+  "heroTitleHtml": "레드클리프 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>브라이튼 호텔</b>(평점 8.2·리뷰 641건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Rothwell Railway Station 도보 15분</b>의 <b>Private Room with Separate Bath in Shared Accommodation with Private Access</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/6495304/0/dc792621932019ba6db40730531675f9.jpg?ce=0",
+  "outroTitle": "🌙 레드클리프, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 레드클리프 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 레드클리프 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "브라이튼 호텔 (Brighton Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/brighton-hotel_2/hotel/brisbane-au.html?cid=1925461",
+      "walkMin": 24,
+      "score": 8.2,
+      "reviewCount": 641,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/6495304/0/dc792621932019ba6db40730531675f9.jpg?ce=0",
+      "distanceNote": "약 1936.54m · Sandgate 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 641건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 641건 기반.",
+      "reviews": [
+        {
+          "text": "밤새 잠을 자러 다시 오기에 좋은 곳입니다.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "이곳에 머무는 것은 이번이 두 번째이며 적극 추천합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "직원은 훌륭하고 음식은 훌륭합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 최고의 경험은 친절한 직원들과 함께한 것이었습니다",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "환상적인 저예산 숙박 시설",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "더 세벨 브리즈번 마게이트 비치 (The Sebel Brisbane Margate Beach)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-sebel-brisbane-margate-beach/hotel/brisbane-au.html?cid=1925461",
+      "walkMin": 43,
+      "score": 8.9,
+      "reviewCount": 1782,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/4936709/-1/08d3109d0cff621999ecc7fea354c0ce.jpg?ce=0",
+      "distanceNote": "약 3474.84m · Kippa-Ring 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 1,782건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,782건 기반.",
+      "reviews": [
+        {
+          "text": "그리고 옥상에 있는 작은 수영장에서도 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "발코니가 있는 해변 전망으로 업그레이드했는데 아름다웠어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "샤워는 훌륭했고 침대는 믿을 수 없을 정도로 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "추가 비용을 지불하면 훌륭한 아침 식사 선택이 가능합니다(꼭 하세요)",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "직원들은 훌륭했고, 객실은 깨끗했고, 침대는 매우 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Private Room with Separate Bath in Shared Accommodation with Private Access",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/private-room-with-separate-bath-in-shared-accommodation/hotel/all/brisbane-au.html?cid=1925461",
+      "walkMin": 15,
+      "score": 7.7,
+      "reviewCount": 71,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/461321133.jpg?k=0930f6b623ef3be76b35d6cfa0ec5bddfeb3d12d18174ea837f7495a8bc5bbf7&o=",
+      "distanceNote": "약 1225.61m · Rothwell Railway Station 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 71건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 71건 기반.",
+      "reviews": [
+        {
+          "text": "나는 머물 것을 권하고 싶습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 광고된 대로였습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "밤에 잠을 자기에 좋은 저렴한 장소",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "호스트는 친절했어요",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "베스트웨스턴 플러스 노스 레이크스 호텔 (Best Western Plus North Lakes Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-plus-north-lakes-hotel/hotel/brisbane-au.html?cid=1925461",
+      "walkMin": 17,
+      "score": 9,
+      "reviewCount": 2145,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/3190346/-1/6f3aace93ba1bf853e285645b5500fac.jpg?ca=0&ce=1",
+      "distanceNote": "약 1351.72m · Mango Hill 인근",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 2,145건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,145건 기반.",
+      "reviews": [
+        {
+          "text": "우수한 호텔, 직원 고객 서비스가 뛰어났습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 편안하며 주차 공간도 좋습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "놀랍도록 현대적이고 깨끗하며 위치가 좋은 호텔입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "사랑스럽고 도움이 되는 직원과 사랑스러운 객실이 있는 사랑스러운 지역입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원 훌륭한 위치와 아름다운 객실",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "오크스 레드클리프 몬 코모 스위트 (Oaks Redcliffe Mon Komo Suites)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oaks-mon-komo-apartments/hotel/brisbane-au.html?cid=1925461",
+      "walkMin": 44,
+      "score": 8.8,
+      "reviewCount": 3329,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.7,
+      "img": "//pix8.agoda.net/hotelImages/48791919/0/6bee9d4be4f6ebd9e288978dcbb243f5.jpeg?ce=0",
+      "distanceNote": "약 3525.69m · Kippa-Ring 인근",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 3,329건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 3,329건 기반.",
+      "reviews": [
+        {
+          "text": "완벽한 위치, 훌륭한 크기의 객실, 훌륭한 시설.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "아파트는 가구가 정말 잘 갖춰져 있었고 매우 깨끗했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "매우 넓은 침실과 넓은 개방형 거실이 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안했고 아파트는 시설이 잘 갖춰져 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "매우 넓고 상점과 해변에 가까운 훌륭한 객실입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "레드뷰 홀리데이 아파트먼트 (Redvue Holiday Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/redvue-luxury-apartments/hotel/brisbane-au.html?cid=1925461",
+      "walkMin": 44,
+      "score": 8.8,
+      "reviewCount": 951,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/401509436.jpg?k=7ac63d76249f6c34cfd5f161522e02c8f005247a84c70a64c3808ea2e2f46c07&o=",
+      "distanceNote": "약 3494.51m · Kippa-Ring 인근",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 951건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 951건 기반.",
+      "reviews": [
+        {
+          "text": "이곳은 훌륭하고, 공간도 많고, 매우 깨끗합니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "다음에 이 지역에 방이 필요할 때 다시 예약하겠습니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "바다 전망을 갖춘 현대적이고 깨끗한 숙소입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 시설을 갖춘 훌륭한 숙소입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "거대한 베란다와 아름다운 욕실.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "스카보루그 비치 리조트  (Scarborough Beach Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/scarborough-beach-resort/hotel/brisbane-au.html?cid=1925461",
+      "walkMin": 53,
+      "score": 8.1,
+      "reviewCount": 330,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 28만원",
+      "valueIndex": 5.2,
+      "img": "//pix8.agoda.net/hotelImages/149/149203/149203_15030411440025777827.jpg?ca=3&ce=1",
+      "distanceNote": "약 4276.83m · Kippa-Ring 인근",
+      "metaTags": [
+        "💰 약 28만원",
+        "📝 리뷰 330건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 330건 기반.",
+      "reviews": [
+        {
+          "text": "아름다운 전망, 가격 대비 훌륭한 가치, 완벽한 위치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "모튼 베이 지역 전체에서 단연 최고의 숙소입니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "매우 멋진 호텔로 깨끗하고 현대적이며 계단 아래에 카페가 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "상점이 근처에 있어 위치가 매우 좋습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "철저히 추천하고 다시 머물 것입니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-11T17:30:17.999Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
