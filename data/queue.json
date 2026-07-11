@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-11T08:22:39.328Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 4,
+  "lastPostedAt": "2026-07-11T09:54:13.260Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 5,
   "postedDate": "2026-07-11",
   "queue": [
-    "australia-rasmussen",
     "australia-ridley-grandchester",
     "australia-rockingham",
-    "australia-lancelin"
+    "australia-lancelin",
+    "australia-lamington"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 99,
+    "cityIndex": 100,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -148,6 +148,7 @@
     "australia-dinner-plain",
     "australia-deception-bay",
     "australia-dixon-creek",
-    "australia-la-trobe"
+    "australia-la-trobe",
+    "australia-rasmussen"
   ]
 }
