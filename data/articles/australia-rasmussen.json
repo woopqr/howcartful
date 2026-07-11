@@ -1,0 +1,205 @@
+{
+  "slug": "australia-rasmussen",
+  "title": " 가성비 호텔 3곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해  가성비 호텔 3곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "townsville-au",
+  "cityName": "",
+  "cityId": 702031,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "",
+  "heroImg": "https://pix8.agoda.net/hotelImages/517726/4008830/48d5560ab089c7506cb3aaa2ef0b7f7a.jpg?ce=0",
+  "heroAlt": "",
+  "heroTitleHtml": " 가성비 호텔 3곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Nightcap at Dalrymple Hotel</b>(평점 8.6·리뷰 631건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Townsville Train Station 도보 54분</b>의 <b>Nightcap at Dalrymple Hotel</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/517726/4008830/48d5560ab089c7506cb3aaa2ef0b7f7a.jpg?ce=0",
+  "outroTitle": "🌙 , 어디에 묵어도 후회없이",
+  "outroText": "위 3곳은 모두  역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서  전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Nightcap at Dalrymple Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dalrymple-hotel/hotel/townsville-au.html?cid=1925461",
+      "walkMin": 54,
+      "score": 8.6,
+      "reviewCount": 631,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/517726/4008830/48d5560ab089c7506cb3aaa2ef0b7f7a.jpg?ce=0",
+      "distanceNote": "약 4319.01m · Townsville Train Station 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 631건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 631건 기반.",
+      "reviews": [
+        {
+          "text": "올 4월에 방문하면 또 묵을 계획이에요 :)",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원들과 함께 안전하고 안전하게 지내세요.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "항상 깨끗한 사랑스러운 레인 샤워기.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "욕실은 사랑스럽고 새롭게 개조되었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 도움이 되고 사랑스러웠습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "시더 라지 모텔 타운즈빌 (Cedar Lodge Motel Townsville)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cedar-lodge-motel-townsville/hotel/townsville-au.html?cid=1925461",
+      "walkMin": 76,
+      "score": 8.4,
+      "reviewCount": 382,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/hotelImages/234407/0/69d8c8bd53091bbcf30b686172ee393a.jpeg?ce=0",
+      "distanceNote": "약 6090.97m · Townsville Train Station 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 382건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 382건 기반.",
+      "reviews": [
+        {
+          "text": "좋고 편안한 모텔이며 가격 대비 좋은 가치를 지니고 있습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "위치가 훌륭하고,",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "다시 머물기를 고대하고 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "별 다섯 개 - 추천합니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "편안한 주말",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "베일 호텔 에이트켄베일 (Vale Hotel Aitkenvale)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/vale-hotel-aitkenvale/hotel/townsville-au.html?cid=1925461",
+      "walkMin": 58,
+      "score": 7.9,
+      "reviewCount": 1286,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/517/517814/517814_14111212010023302965.jpg?ca=3&ce=1",
+      "distanceNote": "약 4671.8m · Townsville Train Station 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 1,286건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 1,286건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 장소, 안전하고 안전하며 중앙 위치가 훌륭합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "숙소는 깨끗했고 침대도 편안했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 방, 가족 친화적이고 깨끗한 방.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "객실 내 시설이 훌륭했어요",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "호텔에는 훌륭한 레스토랑이 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-11T01:03:23.858Z",
+    "source": "agoda citySearch",
+    "count": 3
+  }
+}
