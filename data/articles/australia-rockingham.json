@@ -1,0 +1,403 @@
+{
+  "slug": "australia-rockingham",
+  "title": "락킹햄 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 락킹햄 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "rockingham-au",
+  "cityName": "락킹햄",
+  "cityId": 23686,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "락킹햄",
+  "heroImg": "https://pix8.agoda.net/hotelImages/2992509/-1/b8adef0989998ad93edb998804ca8294.jpg?ce=0",
+  "heroAlt": "락킹햄",
+  "heroTitleHtml": "락킹햄 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>팜 비치 게스트 하우스</b>(평점 9.6·리뷰 64건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Warnbro Station 도보 18분</b>의 <b>AC 1 Bed Studio Apartment 25+ Non Smokers</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/2992509/-1/b8adef0989998ad93edb998804ca8294.jpg?ce=0",
+  "outroTitle": "🌙 락킹햄, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 락킹햄 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 락킹햄 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "팜 비치 게스트 하우스 (Palm Beach Guest House)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/palm-beach-bed-breakfast_2/hotel/rockingham-au.html?cid=1925461",
+      "walkMin": 41,
+      "score": 9.6,
+      "reviewCount": 64,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/2992509/-1/b8adef0989998ad93edb998804ca8294.jpg?ce=0",
+      "distanceNote": "약 3275.5m · Rockingham Railway Station 인근",
+      "metaTags": [
+        "📝 리뷰 64건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 64건 기반.",
+      "reviews": [
+        {
+          "text": "침대와 베개의 편안함은 누구에게도 뒤지지 않았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "방에 주어진 개인적인 손길은 놀라웠습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 아름다운 색상으로 차분하고 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗한 침실과 모두 업그레이드된 욕실을 갖추고 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 퍼스행 기차와 가까움, 해변과 가까움.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "AC 1 Bed Studio Apartment 25+ Non Smokers",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ac-1-bed-studio-apartment-25-non-smokers/hotel/all/rockingham-au.html?cid=1925461",
+      "walkMin": 18,
+      "score": 8.8,
+      "reviewCount": 38,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/662825874.jpg?k=bc960c07bb34adf534bc42d9dfdd718200193fbbdbbf0927b2986741a8a28fe4&o=",
+      "distanceNote": "약 1474.17m · Warnbro Station 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 38건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 38건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "a perfect weekend getaway",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/a-perfect-weekend-getaway/hotel/all/rockingham-au.html?cid=1925461",
+      "walkMin": 29,
+      "score": 9.5,
+      "reviewCount": 137,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/753296355.jpg?k=7fa6952385212dda2f6726263abc2e2566eb4e0068a274c011cb01d6c70bcd83&o=",
+      "distanceNote": "약 2313.93m · Rockingham Railway Station 인근",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 137건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 137건 기반.",
+      "reviews": [
+        {
+          "text": "방은 잘 꾸며져 있었고 매우 깨끗하고 편안했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "적극 추천하고 다시 여기에 머물고 싶습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "사랑스럽고 조용한 위치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "아늑하게 잘 꾸며진 객실",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "완벽한 휴양지",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "퀘스트 로킹엄 (Quest Rockingham)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quest-rockingham/hotel/rockingham-au.html?cid=1925461",
+      "walkMin": 38,
+      "score": 8.9,
+      "reviewCount": 1386,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/979/979205/979205_16111608560048755369.jpg?ca=6&ce=1",
+      "distanceNote": "약 3036.5m · Rockingham Railway Station 인근",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 1,386건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,386건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 시설과 편안하고 넓은 객실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "매우 깔끔하고 현대적인 핏입니다. 언제든지 다시 묵을 거예요",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치의 직원은 훌륭하고 친절하며 도움이 됩니다.",
+          "score": "9.2",
+          "country": "Brazil",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "친절하고 세심한 직원이 있는 깨끗하고 편안한 객실.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원들이 서비스를 제공하고 깨끗한 좋은 객실.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Rockingham Holiday Village",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rockingham-holiday-village/hotel/rockingham-au.html?cid=1925461",
+      "walkMin": 32,
+      "score": 7.9,
+      "reviewCount": 59,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.7,
+      "img": "//pix8.agoda.net/hotelImages/79901616/0/f302d793795ad09fa5d175be209d8ca4.jpg?ce=2",
+      "distanceNote": "약 2553.38m · Rockingham Railway Station 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 59건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 59건 기반.",
+      "reviews": [
+        {
+          "text": "Rockingham 및 Kwinana와 가까운 훌륭한 위치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "집에서 멀리 떨어진 훌륭한 집.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "가족을 위한 넉넉한 공간을 갖춘 깨끗하고 깔끔한 객실입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "언제나처럼 정말 놀랍습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "나는 확실히 다시 머물 것이다",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "레져 인 (Leisure Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/leisure-inn/hotel/rockingham-au.html?cid=1925461",
+      "walkMin": 24,
+      "score": 7.7,
+      "reviewCount": 130,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/519/519452/519452_16051312530042300432.jpg?ca=6&ce=1",
+      "distanceNote": "약 1944.3m · Rockingham Railway Station 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 130건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 130건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 무료 환영 음료와 할인된 식사를 즐겼습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 것을 갖춘 넓은 객실입니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "친구들을 따라잡기에 완벽한 위치입니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭하고 정직한 숙박 시설이며 그에 따라 가격이 책정됩니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "빠른 하룻밤 여행에 적합합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "호텔 클리퍼 (Hotel Clipper)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-clipper/hotel/rockingham-au.html?cid=1925461",
+      "walkMin": 38,
+      "score": 8,
+      "reviewCount": 159,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5.1,
+      "img": "//pix8.agoda.net/hotelImages/1182372/0/7ae90a5c8f1caea49eedd0d0ff9562ea.jpeg?ce=0",
+      "distanceNote": "약 3023.13m · Rockingham Railway Station 인근",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 159건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 159건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 직원이 서비스를 제공하는 퍼스의 좋은 호텔입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 협조적입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "머물기 좋은 곳, 아름다운 위치",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "공동 객실 이용이 가능하며 호텔 객실 바로 앞에 주차하실 수 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "그곳에서 즐거운 시간을 보냈고 다시 머물 수 있었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-11T06:31:11.457Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
