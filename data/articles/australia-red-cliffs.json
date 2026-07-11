@@ -1,0 +1,88 @@
+{
+  "slug": "australia-red-cliffs",
+  "title": "레드 클리프 가성비 호텔 2곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 레드 클리프 가성비 호텔 2곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "레드 클리프",
+  "cityId": 143261,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "레드 클리프",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/610849747.jpg?k=0236c44e4528f0e4ba7b539cd0f746cbed5217b71959a0107226781d390a67ba&o=",
+  "heroAlt": "레드 클리프",
+  "heroTitleHtml": "레드 클리프 가성비 호텔 2곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>BIG4 Red Cliffs Caravan Park</b>(평점 9.3·리뷰 94건·1박 약 14만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>밀두라역 도보 82분</b>의 <b>3107 Estate</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/610849747.jpg?k=0236c44e4528f0e4ba7b539cd0f746cbed5217b71959a0107226781d390a67ba&o=",
+  "outroTitle": "🌙 레드 클리프, 어디에 묵어도 후회없이",
+  "outroText": "위 2곳은 모두 레드 클리프 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 레드 클리프 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "BIG4 Red Cliffs Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-red-cliffs-caravan-park/hotel/all/billabong-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 94,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/610849747.jpg?k=0236c44e4528f0e4ba7b539cd0f746cbed5217b71959a0107226781d390a67ba&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 94건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 94건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 시설과 직원",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 친절한 직원",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "3107 Estate",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/3107-estate/hotel/all/mildura-au.html?cid=1925461",
+      "walkMin": 82,
+      "score": 9.3,
+      "reviewCount": 58,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/115136526.jpg?k=c61ff8823d44beb51a5a68c855790be2bc94bd16b412516047f67de0f99d9724&o=",
+      "distanceNote": "약 6599.68m · 밀두라역 인근",
+      "metaTags": [
+        "📝 리뷰 58건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 58건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-11T15:29:29.230Z",
+    "source": "agoda citySearch",
+    "count": 2
+  }
+}
