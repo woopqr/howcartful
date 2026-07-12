@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-12T10:14:05.653Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 5,
+  "lastPostedAt": "2026-07-12T11:32:37.040Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 6,
   "postedDate": "2026-07-12",
   "queue": [
-    "australia-ravensbourn",
     "australia-lake-macquarie",
     "australia-lake-bennett",
-    "australia-lake-boga"
+    "australia-lake-boga",
+    "australia-lake-cathie"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 110,
+    "cityIndex": 111,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -159,6 +159,7 @@
     "australia-red-rock",
     "australia-red-cliffs",
     "australia-redcliffe",
-    "australia-raymond-island"
+    "australia-raymond-island",
+    "australia-ravensbourn"
   ]
 }
