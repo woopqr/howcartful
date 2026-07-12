@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-12T00:10:40.639Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 1,
+  "lastPostedAt": "2026-07-12T03:55:57.104Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 2,
   "postedDate": "2026-07-12",
   "queue": [
-    "australia-red-rock",
     "australia-red-cliffs",
     "australia-redcliffe",
-    "australia-raymond-island"
+    "australia-raymond-island",
+    "australia-ravensbourn"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 106,
+    "cityIndex": 107,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -155,6 +155,7 @@
     "australia-lancelin",
     "australia-lamington",
     "australia-lancefield",
-    "australia-lennox-head"
+    "australia-lennox-head",
+    "australia-red-rock"
   ]
 }
