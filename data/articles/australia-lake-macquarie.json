@@ -1,0 +1,404 @@
+{
+  "slug": "australia-lake-macquarie",
+  "title": "레이크 맥쿼리 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 레이크 맥쿼리 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "newcastle-au",
+  "cityName": "레이크 맥쿼리",
+  "cityId": 372478,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "레이크 맥쿼리",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/99016887.jpg?k=98d9681b7aee94626daac7d391705b93db9797ca917f8b2f58779b3d1442cda3&o=",
+  "heroAlt": "레이크 맥쿼리",
+  "heroTitleHtml": "레이크 맥쿼리 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Gateshead Tavern & Motel</b>(평점 8.3·리뷰 137건·1박 약 11만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Warners at the Bay</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/99016887.jpg?k=98d9681b7aee94626daac7d391705b93db9797ca917f8b2f58779b3d1442cda3&o=",
+  "outroTitle": "🌙 레이크 맥쿼리, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 레이크 맥쿼리 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 레이크 맥쿼리 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Gateshead Tavern & Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/gateshead-tavern-motel/hotel/newcastle-au.html?cid=1925461",
+      "walkMin": 103,
+      "score": 8.3,
+      "reviewCount": 137,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/99016887.jpg?k=98d9681b7aee94626daac7d391705b93db9797ca917f8b2f58779b3d1442cda3&o=",
+      "distanceNote": "약 8254.46m · Broadmeadow Railway Station 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 137건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 137건 기반.",
+      "reviews": [
+        {
+          "text": "항상 좋은 가격, 친절한 직원, 청소부",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고 서비스도 좋고 방도 깨끗하고 깔끔했어요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "청소 직원은 훌륭했고 매일 방을 정리했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안했고 TV에는 넷플릭스가 있었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "항상 깨끗하고 좋은 가격에 여기에 머무는 것을 좋아합니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Warners at the Bay",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/warners-at-the-bay/hotel/all/lake-macquarie-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 1406,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/465540215.jpg?k=ec7b4750306a4ffc27f11204dc067ebc735b990ce7894d6a8616f0ff619255af&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 1,406건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 1,406건 기반.",
+      "reviews": [
+        {
+          "text": "넓고 깨끗했으며 침대도 매우 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "이것은 내가 잤던 침대 중 가장 편안한 침대입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 모텔은 꼭 다시 여기에 머물고 싶습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "매우 훌륭한 직원과 업그레이드된 객실은 높은 수준입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 완전히 휴식을 취한 채 깨어나 여행을 계속할 준비를 마쳤습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Gunyah Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/gunyah-hotel/hotel/all/lake-macquarie-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 912,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/158848420.jpg?k=f62be17408b221831c06d3e5743a3756bf4a9c36d31071d17bc8d987979371ff&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 912건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 912건 기반.",
+      "reviews": [
+        {
+          "text": "체크인과 체크아웃이 쉬웠고 직원들도 친절했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 잘 관리되어 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "아주 좋은 곳, 매우 친절함",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "전체적으로 머물기 좋은 곳입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "지나갈 때 꼭 다시 머물 것입니다",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Paradise Palms Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/paradise-palms-caravan-park/hotel/rathmines-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 227,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/88458628/0/ab70dae65023853ac72bd95d4c40e56d.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 227건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 227건 기반.",
+      "reviews": [
+        {
+          "text": "즐거운 시간을 보냈습니다. 다시 머물고 싶습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "좋은 해안가 유닛.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Swansea Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/swansea-hotel/hotel/all/lake-macquarie-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.8,
+      "reviewCount": 424,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 8만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/153694039.jpg?k=9538351ea9225379b48d44480b8545081e53a7c85c66652c720c888a48693107&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 424건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 424건 기반.",
+      "reviews": [
+        {
+          "text": "이 곳에서 가장 좋은 방이 이 방을 정말 좋아했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 가치",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "스완지 호텔",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "카탈리나 모텔 레이크 맥커리 (Catalina Motel Lake Macquarie)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/catalina-motel-lake-macquarie/hotel/lake-macquarie-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 587,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/630/630011/630011_16071111150044557681.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 587건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 587건 기반.",
+      "reviews": [
+        {
+          "text": "편안함과 평화",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "거기가 정말 마음에 들었어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "시설과 객실은 환상적이었습니다. 강력히 추천합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "주인은 매우 수용적이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "편리하게 청소하세요",
+          "score": "8",
+          "country": "澳洲",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "The Belmont Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/belmont-hotel-lake-macquarie/hotel/all/lake-macquarie-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 620,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/623119575.jpg?k=2f2b7cec36a22f39c71e1b6645dabd9f65bffbc3dc9bececd0044e0ccf38aae4&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 620건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 620건 기반.",
+      "reviews": [
+        {
+          "text": "방은 매우 잘 정돈되어 있었고, 침대도 흠 하나 없이 깨끗했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 Belmont Hotel에서 또 다른 멋진 숙박을 보냈습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "미리 전화해서 얼리체크인도 가능했어요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "편안한 침대와 훌륭한 음식, 합리적인 가격",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안했고 방은 넓었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-12T06:32:45.486Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
