@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-12T06:32:12.952Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 3,
+  "lastPostedAt": "2026-07-12T08:40:30.074Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 4,
   "postedDate": "2026-07-12",
   "queue": [
-    "australia-redcliffe",
     "australia-raymond-island",
     "australia-ravensbourn",
-    "australia-lake-macquarie"
+    "australia-lake-macquarie",
+    "australia-lake-bennett"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 108,
+    "cityIndex": 109,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -157,6 +157,7 @@
     "australia-lancefield",
     "australia-lennox-head",
     "australia-red-rock",
-    "australia-red-cliffs"
+    "australia-red-cliffs",
+    "australia-redcliffe"
   ]
 }
