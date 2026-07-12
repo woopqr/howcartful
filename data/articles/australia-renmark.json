@@ -1,0 +1,345 @@
+{
+  "slug": "australia-renmark",
+  "title": "렌마크 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 렌마크 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "렌마크",
+  "cityId": 236,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "렌마크",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/89963493.jpg?k=2376909cc5fbff279919ef9dd2a0f3ca239d8cd67096fc46405aef5455b4a453&o=",
+  "heroAlt": "렌마크",
+  "heroTitleHtml": "렌마크 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Renmark Motor Inn</b>(평점 8.6·리뷰 34건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Renmark Motor Inn</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/89963493.jpg?k=2376909cc5fbff279919ef9dd2a0f3ca239d8cd67096fc46405aef5455b4a453&o=",
+  "outroTitle": "🌙 렌마크, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 렌마크 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 렌마크 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Renmark Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/renmark-motor-inn_2/hotel/all/renmark-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 34,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/89963493.jpg?k=2376909cc5fbff279919ef9dd2a0f3ca239d8cd67096fc46405aef5455b4a453&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 34건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 34건 기반.",
+      "reviews": [
+        {
+          "text": "직원들이 친절하고 모텔방이 편안했어요",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "방은 우리가 머물렀던 일부 4/5성급 숙소보다 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 서비스. 객실은 기본적으로 매우 깨끗하고 편안합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "비누, 샴푸, 커피, 차 비스킷, 그리고 매우 깨끗합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "우리는 추천하고 꼭 다시 머물고 싶습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Discovery Parks – Renmark Riverfront",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-renmark-riverfront-holiday-park/hotel/renmark-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 258,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/76258619/0/4e0ea35bd23da0ab42fafef9b303072a.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 258건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 258건 기반.",
+      "reviews": [
+        {
+          "text": "꼭 다시 묵을 거예요. 완벽한 장소예요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "우리 객실은 당신이 필요로 하거나 원하는 모든 것을 갖춘 적당한 크기였습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "환상적인 숙박을 강력히 추천합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "아주 좋은 숙소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 친절함",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Echo Holiday Parks - Renmark",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/riverbend-caravan-park-renmark/hotel/all/renmark-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 353,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/521536964.jpg?k=bea5f66f66950ff9e50fbc4ce8ca8aebc40c177372ee4610ec49a5c8fe30577c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 353건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 353건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 이곳에서 매우 편안했습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Hotel Renmark",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-renmark/hotel/all/renmark-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 76,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/863238680.jpg?k=ef2ee39bb34c7b31e2734e0683459f1d19712b2e1fb5ab767bb76a304b797706&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 76건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 76건 기반.",
+      "reviews": [
+        {
+          "text": "내가 오랫동안 누린 밤 중 최고의 잠을 잤습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 전에 여기에 머물렀고 다시 방문을 즐겼습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 매우 넓고 깨끗하고 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "환상적인 위치에 있는 훌륭한 작은 모텔 객실입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "이 호텔과 강가에 있는 곳이 마음에 듭니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "렌마크 리조트 (Renmark Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/renmark-resort/hotel/renmark-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.1,
+      "reviewCount": 162,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/hotelImages/112/1120607/1120607_15110211150037354037.jpg?ca=&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 162건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.1</b> · 실제 투숙객 리뷰 162건 기반.",
+      "reviews": [
+        {
+          "text": "Renmark 리조트는 Renmark에 머물기에 가장 좋은 장소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "직원들은 훌륭하고 레스토랑은 별 5개입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "우리 객실에서는 수영장과 넓은 골프장의 전망을 감상하실 수 있습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "별 다섯 개 이상을 평가할 수 있다면 그렇게 할 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "Renmark에 오는 사람은 누구나 여기에 머무르는 것이 좋습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Renmark Holiday Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/renmark-holiday-apartments_9/hotel/all/renmark-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 530,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/103896794.jpg?k=f71dc8ad58da68adf93ef7b513658d0429ae9e0db890c95c9f4cb8bd34c3b1f1&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 530건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 530건 기반.",
+      "reviews": [
+        {
+          "text": "렌마크(Renmark) 중심부에 위치한 훌륭한 아파트입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "다시 여기에 머물 것입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "정말 훌륭한 아파트예요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안했어요!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-12T15:12:26.155Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}
