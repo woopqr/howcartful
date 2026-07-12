@@ -1,0 +1,353 @@
+{
+  "slug": "australia-roma",
+  "title": "로마 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 로마 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "로마",
+  "cityId": 78913,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "로마",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/692401530.jpg?k=d6b0cf06e532e977529ca240609b321275bd5e23f379cc07c697611bcc461476&o=",
+  "heroAlt": "로마",
+  "heroTitleHtml": "로마 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Federal hotel 30 may st WALLUMBILLA NOT ROMA</b>(평점 8.2·리뷰 35건·1박 약 4만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Federal hotel 30 may st WALLUMBILLA NOT ROMA</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/692401530.jpg?k=d6b0cf06e532e977529ca240609b321275bd5e23f379cc07c697611bcc461476&o=",
+  "outroTitle": "🌙 로마, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 로마 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 로마 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Federal hotel 30 may st WALLUMBILLA NOT ROMA",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/federal-hotel-wallumbilla/hotel/all/roma-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 35,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 7.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/692401530.jpg?k=d6b0cf06e532e977529ca240609b321275bd5e23f379cc07c697611bcc461476&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 35건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 35건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 숙소와 훌륭한 직원",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Queens Arms Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/queens-arms-hotel-h24022240/hotel/roma-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7,
+      "reviewCount": 64,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/property/15638433/0/f8b039c94f96e722020d27b5788b051b.jpg?ca=18&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 64건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7</b> · 실제 투숙객 리뷰 64건 기반.",
+      "reviews": [
+        {
+          "text": "호텔에 일찍 도착했는데 체크인하는데 문제가 없었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "마을에 바로 머물 수 있는 환상적인 장소.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "호텔은 도시 중심에 완벽합니다 👌.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Athena Studio Units",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/athena-studio-units/hotel/all/roma-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 1253,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/82200791.jpg?k=7c9316414dfe17c1fa63b80e4be490896c2f4156f3f8ec2a216c1af3bd1dc858&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 1,253건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 1,253건 기반.",
+      "reviews": [
+        {
+          "text": "방은 정말 좋았습니다. 깨끗하고 현대적이며 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "직원들이 친절하고 방이 너무 집처럼 느껴졌어요❤️",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "Athena에 머무르는 것은 항상 훌륭합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "놀라운 방, 훌륭한 시설.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "위치와 편의시설이 뛰어남",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Roma Big Rig Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/roma-big-rig-tourist-park_2/hotel/all/roma-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 273,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/58830936.jpg?k=8209b274ab3c7e907f612df949da4fd45fb189ae74a2626a06d00bc63c2aebeb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 273건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 273건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Starlight Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/starlight-motor-inn/hotel/all/roma-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 464,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/60710215.jpg?k=231a71c79252f2183f4f827f1a770547ba9dbb07c2c52a4143f6d6ae209d65a3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 464건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 464건 기반.",
+      "reviews": [
+        {
+          "text": "우리가 다시 그 마을에 가면 우리가 어디에 머물 것인지 알고 있습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 깔끔하며 중앙에 있고 도움이 되는 직원.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "카운터의 직원들은 매우 친절하고 환영해주었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "하룻밤 머물기에 완벽한 장소입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "로마 익스플로러 인 (Roma Explorers Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/roma-explorers-inn/hotel/roma-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 708,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/116/1160209/1160209_16012213130039329666.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 708건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 708건 기반.",
+      "reviews": [
+        {
+          "text": "이 호텔/모텔에 관한 모든 것이 매우 좋았습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 레스토랑 친절한 직원 깨끗한 객실",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "직원분들도 친절하시고 전체적으로 깔끔하고 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "머물기 좋은 숙소, 가격이 적당하고 위치도 좋습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "리셉션 직원은 훌륭했고 주차 공간도 많았습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "로마 센트럴 모텔 (Roma Central Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/roma-central-motel/hotel/roma-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 56,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/114/1148587/1148587_16012413420039360443.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 56건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 56건 기반.",
+      "reviews": [
+        {
+          "text": "환상적인 서비스와 전체 장소가 흠잡을 곳이 없습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 곳",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "좋고 깨끗함",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "전혀 흠집 하나 없이",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-12T17:18:10.781Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

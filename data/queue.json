@@ -1,23 +1,24 @@
 {
-  "lastPostedAt": "2026-07-12T15:11:58.355Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 8,
+  "lastPostedAt": "2026-07-12T17:17:43.902Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 9,
   "postedDate": "2026-07-12",
   "queue": [
-    "australia-lake-boga",
     "australia-lake-cathie",
     "australia-rainbow-beach",
-    "australia-renmark"
+    "australia-renmark",
+    "australia-roma"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 113,
+    "cityIndex": 115,
     "regionFails": 0,
     "skippedIds": [
       513016,
       142741,
-      141542
+      141542,
+      11723
     ]
   },
   "publishedSlugs": [
@@ -162,6 +163,7 @@
     "australia-raymond-island",
     "australia-ravensbourn",
     "australia-lake-macquarie",
-    "australia-lake-bennett"
+    "australia-lake-bennett",
+    "australia-lake-boga"
   ]
 }
