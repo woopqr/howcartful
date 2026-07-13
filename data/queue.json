@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-13T10:01:15.645Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 4,
+  "lastPostedAt": "2026-07-13T12:37:27.605Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 5,
   "postedDate": "2026-07-13",
   "queue": [
-    "australia-ross",
     "australia-roseville",
     "australia-low-head",
-    "australia-rosebears"
+    "australia-rosebears",
+    "australia-rottnest-island"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 120,
+    "cityIndex": 121,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -169,6 +169,7 @@
     "australia-rainbow-beach",
     "australia-renmark",
     "australia-roma",
-    "australia-robe"
+    "australia-robe",
+    "australia-ross"
   ]
 }
