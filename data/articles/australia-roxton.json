@@ -1,0 +1,139 @@
+{
+  "slug": "australia-roxton",
+  "title": "록스턴 가성비 호텔 2곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 록스턴 가성비 호텔 2곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "록스턴",
+  "cityId": 688614,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "록스턴",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/93985117.jpg?k=f82dc9198f05580638625bcc292b7223d9d3d6724da3b01819ea055a56e51d9b&o=",
+  "heroAlt": "록스턴",
+  "heroTitleHtml": "록스턴 가성비 호텔 2곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Loxton Courthouse Apartments</b>(평점 9.2·리뷰 233건·1박 약 19만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Loxton Courthouse Apartments</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/93985117.jpg?k=f82dc9198f05580638625bcc292b7223d9d3d6724da3b01819ea055a56e51d9b&o=",
+  "outroTitle": "🌙 록스턴, 어디에 묵어도 후회없이",
+  "outroText": "위 2곳은 모두 록스턴 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 록스턴 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Loxton Courthouse Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/loxton-courthouse-apartments/hotel/all/loxton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 233,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/93985117.jpg?k=f82dc9198f05580638625bcc292b7223d9d3d6724da3b01819ea055a56e51d9b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 233건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 233건 기반.",
+      "reviews": [
+        {
+          "text": "그 외에도 훌륭한 숙박이었습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "확실히 다시 머물 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "좋은 숙박!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "록스턴 커뮤니티 호텔 모텔 (Loxton Community Hotel Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/loxton-community-hotel-motel/hotel/loxton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 584,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/463119/-1/45a282c850ab39ca348f8fc306488e23.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 584건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 584건 기반.",
+      "reviews": [
+        {
+          "text": "중앙에 위치하여 다른 곳에 머물지 않을 것입니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "호텔 객실에는 모두 욕실이 딸려 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "모텔 객실에서는 머레이 강(Murray River)의 멋진 전망을 즐기실 수 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "호텔/모텔은 환상적입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗했고 직원들은 훌륭했습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-13T19:00:17.071Z",
+    "source": "agoda citySearch",
+    "count": 2
+  }
+}
