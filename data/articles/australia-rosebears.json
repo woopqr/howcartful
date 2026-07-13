@@ -1,0 +1,404 @@
+{
+  "slug": "australia-rosebears",
+  "title": "로즈베어즈 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 로즈베어즈 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "launceston-au",
+  "cityName": "로즈베어즈",
+  "cityId": 23670,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "로즈베어즈",
+  "heroImg": "https://pix8.agoda.net/hotelImages/44936/-1/1ac0a502b82a406596b089c134ccfe40.jpg?ca=14&ce=1",
+  "heroAlt": "로즈베어즈",
+  "heroTitleHtml": "로즈베어즈 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>나이트캡 앳 리버사이드 호텔</b>(평점 8.4·리뷰 1,523건·1박 약 10만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>East Tamar 도보 78분</b>의 <b>나이트캡 앳 리버사이드 호텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/44936/-1/1ac0a502b82a406596b089c134ccfe40.jpg?ca=14&ce=1",
+  "outroTitle": "🌙 로즈베어즈, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 로즈베어즈 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 로즈베어즈 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "나이트캡 앳 리버사이드 호텔 (Nightcap at Riverside Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/riverside-hotel-motel/hotel/launceston-au.html?cid=1925461",
+      "walkMin": 78,
+      "score": 8.4,
+      "reviewCount": 1523,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/44936/-1/1ac0a502b82a406596b089c134ccfe40.jpg?ca=14&ce=1",
+      "distanceNote": "약 6270.9m · East Tamar 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 1,523건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 1,523건 기반.",
+      "reviews": [
+        {
+          "text": "충분한 주차 공간, 크고 편안한 킹 사이즈 침대.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "체크인은 바에서 했고 직원들은 친절했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "우리 5인 가족에게 딱 맞고 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "내 체류에 매우 만족했으며 여기를 추천합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "숙박 시설과 제공되는 모든 것에 매우 만족합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Launceston Holiday Park Legana",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/launceston-holiday-park-legana_4/hotel/all/legana-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 684,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/5539061.jpg?k=64e1ebb34471bf1976aedd4939eb341fe43c27bbee45618ca004ab7435a0a5c1&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 684건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 684건 기반.",
+      "reviews": [
+        {
+          "text": "즐거운 시간을 보냈으며 적극 추천합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "캐빈은 잘 관리되고 깨끗했습니다.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "캐빈은 단기 체류에 적합합니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 숙소, 친절한 직원",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "이 캐빈에서 즐거운 시간을 보냈습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Tamar Ridge Winery Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/armalong-winery-chalets/hotel/all/launceston-au.html?cid=1925461",
+      "walkMin": 100,
+      "score": 9.5,
+      "reviewCount": 637,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/883547719.jpg?k=61349c4bcbbc8eae8078979c6955323f168b6ab6af45a10ee594ae7da57539f1&o=",
+      "distanceNote": "약 7992.39m · 타마르섬 습지 인근",
+      "metaTags": [
+        "📝 리뷰 637건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 637건 기반.",
+      "reviews": [
+        {
+          "text": "고급스럽고 편안한 푹신한 침대 (전기담요 포함!)",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "포도원의 멋진 계곡 전망을 즐기며 2박을 묵었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "적극 추천하며 이곳에 꼭 다시 머물고 싶습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "2박을 묵었는데 정말 아름다운 곳이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "특히 욕실의 레이아웃이 매우 잘 생각되었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "아스펙트 타마 밸리 리조트 (Aspect Tamar Valley Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/aspect-tamar-valley-resort/hotel/launceston-au.html?cid=1925461",
+      "walkMin": 97,
+      "score": 8,
+      "reviewCount": 404,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/453/45300/45300_15082215520034833628.jpg?ca=5&ce=1",
+      "distanceNote": "약 7788.03m · 타마르섬 습지 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 404건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 404건 기반.",
+      "reviews": [
+        {
+          "text": "위치도 좋고 직원도 훌륭하고 깨끗하고 깔끔해요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "우리는 다소 늦게 예약했지만 여전히 놀라운 서비스를 받았습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "늦은 체크인에 큰 도움을 준 놀라운 직원",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고, 멋지고, 조용한 숙소로 훌륭한 휴식을 제공합니다",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "개인 예약으로 1~2박을 보내기에 매우 좋은 숙소입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Ou+look BnB",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ou-look-bnb/hotel/all/rosevears-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 136,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/135816337.jpg?k=28cb2849aa3c1219e9f7b73c82e528347e487df1d3dbf791550ed6d2a7c715a6&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 136건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 136건 기반.",
+      "reviews": [
+        {
+          "text": "아파트는 따뜻하고 매우 깨끗하며 넓습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "그림 같은 위치에 있는 놀라운 아파트입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "접근이 용이하고 많은 관심 장소에 쉽게 접근할 수 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "매우 세련되게 장식되어 있으며 잘 꾸며져 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "숙박할 가치가 있는 숙소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Rosevears Riverview Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rosevears-hotel/hotel/all/rosevears-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 30,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/559917362.jpg?k=255aa548f716c1c32d86b098f2f376cd3ae038dc66d605e078afc9b1fa54bb9b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 30건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 30건 기반.",
+      "reviews": [
+        {
+          "text": "정말 멋진 전망을 갖춘 멋진 작은 방",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "강 전망이 좋은 방.",
+          "score": "10",
+          "country": "中國",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "놀라운 경험",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "우리의 체류를 좋아했습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Panoramic views from your stunning 'Treehouse'",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/panoramic-views-from-your-stunning-treehouse/hotel/all/launceston-au.html?cid=1925461",
+      "walkMin": 97,
+      "score": 9.6,
+      "reviewCount": 37,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 42만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/644216842.jpg?k=8b44c89077e705a63d260043e95af1811cb8aba48257d1d80a183c58c7ff0c19&o=",
+      "distanceNote": "약 7726.04m · 타마르섬 습지 인근",
+      "metaTags": [
+        "💰 약 42만원",
+        "📝 리뷰 37건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 37건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-13T10:01:48.565Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
