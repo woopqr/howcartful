@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-13T00:06:36.047Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 1,
+  "lastPostedAt": "2026-07-13T03:53:35.120Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 2,
   "postedDate": "2026-07-13",
   "queue": [
-    "australia-renmark",
     "australia-roma",
     "australia-robe",
-    "australia-ross"
+    "australia-ross",
+    "australia-roseville"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 117,
+    "cityIndex": 118,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -166,6 +166,7 @@
     "australia-lake-bennett",
     "australia-lake-boga",
     "australia-lake-cathie",
-    "australia-rainbow-beach"
+    "australia-rainbow-beach",
+    "australia-renmark"
   ]
 }

@@ -1,0 +1,222 @@
+{
+  "slug": "australia-roseville",
+  "title": "로스빌 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 로스빌 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "로스빌",
+  "cityId": 718492,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "로스빌",
+  "heroImg": "https://pix8.agoda.net/hotelImages/11706/0/d9a370ff25094859325289d2cae31ef7.jpeg",
+  "heroAlt": "로스빌",
+  "heroTitleHtml": "로스빌 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>소버린 리조트 호텔</b>(평점 9·리뷰 33건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>소버린 리조트 호텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/11706/0/d9a370ff25094859325289d2cae31ef7.jpeg",
+  "outroTitle": "🌙 로스빌, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 로스빌 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 로스빌 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "소버린 리조트 호텔 (Sovereign Resort Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sovereign-resort-hotel/hotel/all/cooktown-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 33,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/hotelImages/11706/0/d9a370ff25094859325289d2cae31ef7.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 33건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 33건 기반.",
+      "reviews": [
+        {
+          "text": "욕실에는 충분한 양의 뜨거운 물과 푹신한 수건이 있습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "모두에게 별 4개를 줄 자격이 있습니다.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "뛰어난",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "전체적으로 쿡타운에서 이 호텔을 추천합니다",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "위치가 좋고 깨끗하고 깔끔한 객실",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Cooktown Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cooktown-motel_5/hotel/all/cooktown-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.1,
+      "reviewCount": 332,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/362571131.jpg?k=9606f0f745f54e878ca63b0dd86069633403fcd2a049f95d9f5f69f398c574fa&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 332건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.1</b> · 실제 투숙객 리뷰 332건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 위치, 매우 조용하고 매우 편안한 침대.. 훌륭한 가치",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 가치.. 매우 편안한 침대",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 좋은 가치.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Cooktown Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cooktown-holiday-park/hotel/all/hope-vale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.5,
+      "reviewCount": 85,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/652806938.jpg?k=544adc3b5143b56f5f0bfb4eb55c009ee086e263d0e121b9f5e35764f52973c1&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 85건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 85건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "122 on Charlotte",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/122-on-charlotte/hotel/all/cooktown-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 57,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 31만원",
+      "valueIndex": 5.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/519048748.jpg?k=f85b48b3bd7eb9544e7a9841b6ce2fcf3759881a15f43a3a4d757fbd278a5f28&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 57건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 57건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Coral Sea Allure - Your Home Away From Home",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/coral-sea-allure-your-home-away-from-home/hotel/all/cooktown-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 36,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 68만원",
+      "valueIndex": 4.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/497466219.jpg?k=9aba96504191b518596fd3e7164186ed4762412dd991913c0e8eb561de502c78&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 68만원",
+        "📝 리뷰 36건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 36건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗하고 훌륭하며 가족이 머물기에 넓습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "특히 일몰과 일출이 정말 환상적입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "최고의 위치!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-13T03:53:45.270Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}
