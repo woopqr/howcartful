@@ -1,0 +1,177 @@
+{
+  "slug": "australia-loffly",
+  "title": "로플리 가성비 호텔 3곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 로플리 가성비 호텔 3곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "gatton-au",
+  "cityName": "로플리",
+  "cityId": 710843,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "로플리",
+  "heroImg": "https://pix8.agoda.net/hotelImages/1155073/0/9569729fc3c257c65824f01e49c7b7e4.jpeg?ce=0",
+  "heroAlt": "로플리",
+  "heroTitleHtml": "로플리 가성비 호텔 3곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>로얄 호텔 개튼</b>(평점 8.1·리뷰 325건·1박 약 10만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>로얄 호텔 개튼</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/1155073/0/9569729fc3c257c65824f01e49c7b7e4.jpeg?ce=0",
+  "outroTitle": "🌙 로플리, 어디에 묵어도 후회없이",
+  "outroText": "위 3곳은 모두 로플리 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 로플리 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "로얄 호텔 개튼 (Royal Hotel Gatton)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/royal-hotel-gatton_4/hotel/gatton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 325,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/1155073/0/9569729fc3c257c65824f01e49c7b7e4.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 325건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 325건 기반.",
+      "reviews": [
+        {
+          "text": "최고의 직원과 서비스, 매우 깨끗한 방.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "객실에는 냉장고, 주전자, 싱크대와 책상이 마련되어 있습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "정말 훌륭한 펍 숙소입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "상점, ATM, 레스토랑에 편리한 거리의 위치 시작",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "매니저인 Lisa는 매우 따뜻하고 도움이 되었습니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Trip Motel Gatton",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/room-motels-gatton/hotel/all/gatton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 1292,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/89371497.jpg?k=abe9fc2049c968d9b48d09cdef78b480bedf88b32b506582e7918df07952e8f9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 1,292건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,292건 기반.",
+      "reviews": [
+        {
+          "text": "욕실도 훌륭하고 방도 전반적으로 좋았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 것을 갖춘 넓고 깨끗한 객실입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 매우 깨끗했으며 침대는 매우 편안했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 넓은 객실과 매우 편안한 침대.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "매우 조용하고 멋지고 깨끗한 객실에 머무르는 것이 좋았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Gatton Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/gatton-motel/hotel/all/gatton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 250,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/88746895.jpg?k=760ca62cf4cb40aa2df7b3b0e204a0e1103c41023999b4043abe796a5a4d6248&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 250건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 250건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 숙박",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-13T15:33:10.477Z",
+    "source": "agoda citySearch",
+    "count": 3
+  }
+}
