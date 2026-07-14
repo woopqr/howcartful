@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-14T05:55:06.579Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 3,
+  "lastPostedAt": "2026-07-14T07:54:09.095Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 4,
   "postedDate": "2026-07-14",
   "queue": [
-    "australia-launceston",
     "australia-long-jetty",
     "australia-longreach",
-    "australia-longford"
+    "australia-longford",
+    "australia-lucinda"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 129,
+    "cityIndex": 130,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -178,6 +178,7 @@
     "australia-loffly",
     "australia-roxby-downs",
     "australia-roxton",
-    "australia-rockhampton"
+    "australia-rockhampton",
+    "australia-launceston"
   ]
 }
