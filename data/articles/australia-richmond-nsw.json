@@ -1,0 +1,390 @@
+{
+  "slug": "australia-richmond-nsw",
+  "title": "리치먼드 (뉴 사우스 웨일스) 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 리치먼드 (뉴 사우스 웨일스) 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "리치먼드 (뉴 사우스 웨일스)",
+  "cityId": 720462,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "리치먼드 (뉴 사우스 웨일스)",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/37874194.jpg?k=b42cabe9c562729136d7c849cca691f8b87314f8219d73b50afa9a492fdddce9&o=",
+  "heroAlt": "리치먼드 (뉴 사우스 웨일스)",
+  "heroTitleHtml": "리치먼드 (뉴 사우스 웨일스) 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Alexander The Great Motel</b>(평점 9·리뷰 667건·1박 약 14만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Clarendon 도보 5분</b>의 <b>화케스버리 레이스 클럽 모텔</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/37874194.jpg?k=b42cabe9c562729136d7c849cca691f8b87314f8219d73b50afa9a492fdddce9&o=",
+  "outroTitle": "🌙 리치먼드 (뉴 사우스 웨일스), 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 리치먼드 (뉴 사우스 웨일스) 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 리치먼드 (뉴 사우스 웨일스) 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Alexander The Great Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/alexander-the-great-motel/hotel/all/sydney-au.html?cid=1925461",
+      "walkMin": 17,
+      "score": 9,
+      "reviewCount": 667,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/37874194.jpg?k=b42cabe9c562729136d7c849cca691f8b87314f8219d73b50afa9a492fdddce9&o=",
+      "distanceNote": "약 1344.31m · 멀그레이브역 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 667건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 667건 기반.",
+      "reviews": [
+        {
+          "text": "에어컨이 훌륭하고 도로 소음이 너무 시끄럽지 않습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "모든 면에서 훌륭함",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원과 고객 서비스.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "T&V Suites",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/t-v-suites/hotel/all/sydney-au.html?cid=1925461",
+      "walkMin": 11,
+      "score": 8.3,
+      "reviewCount": 313,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/643466513.jpg?k=d5f8c030a4f347915f94700a4b9c5d5cf094de10b837caf537f4a8f19c1a3b26&o=",
+      "distanceNote": "약 848.75m · 윈저역 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 313건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 313건 기반.",
+      "reviews": [
+        {
+          "text": "정말 깔끔하고 깔끔하며 체크인 시 번거로움이 없습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "좋은 곳!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "정말 환상적인 숙소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "환상적인 직원, 친절하고 깨끗하며 수영장이 환상적입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "호스트는 사랑스러웠습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "화케스버리 레이스 클럽 모텔 (Hawkesbury Race Club Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hawkesbury-race-club-motel/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 9.1,
+      "reviewCount": 1201,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/274332/-1/60e8ae33f336ca91f88791a13767296b.jpg?ca=12&ce=1",
+      "distanceNote": "약 367.08m · Clarendon 인근",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 1,201건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 1,201건 기반.",
+      "reviews": [
+        {
+          "text": "지하 주차장과 모든 것을 매우 합리적인 가격에 제공",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "장소는 매우 깨끗하고 좋았습니다.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "객실은 조용하고 깨끗하며 편안합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 모든 Foxtell 케이블 채널을 사용할 수 있습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "합리적인 가격의 최고의 숙박 시설",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "크라운 플라자 혹스버리 밸리 바이 IHG (Crowne Plaza Hawkesbury Valley By IHG)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/crowne-plaza-hawkesbury-valley/hotel/richmond-new-south-wales-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 2510,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.7,
+      "img": "//pix8.agoda.net/hotelImages/2531783/-1/6874ee0416dbdba6248d71d272199a24.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 2,510건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 2,510건 기반.",
+      "reviews": [
+        {
+          "text": "편안한 침대, 적당한 크기의 객실, 맛있는 아침 식사가 제공됩니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절하고 위치는 상점 중심에 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "놀라운 주말",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "다음에 이 지역을 방문할 때 다시 머물고 싶습니다..",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "Hawkesbury에 있는 동안 머물기에 완벽한 장소입니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "윈저 리버뷰 인 (Windsor River View Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/windsor-terrace-motel/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 20,
+      "score": 7,
+      "reviewCount": 799,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 5.2,
+      "img": "//pix8.agoda.net/hotelImages/222575/0/8a64b6b022622136c48dae81fffd6edd.jpg?ce=2",
+      "distanceNote": "약 1632.76m · 윈저역 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 799건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7</b> · 실제 투숙객 리뷰 799건 기반.",
+      "reviews": [
+        {
+          "text": "리셉션은 매우 도움이 되었고 친절했습니다",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "좋은 샤워 수압, 편안한 침대, 매우 넓은 객실.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "항상 평화롭고 편안한 숙박을 제공합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "전망이 좋은 좋은 위치에 있는 곳입니다.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "두 번째 숙박이며 다시 머물고 싶습니다",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "A place to be",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/a-place-to-be/hotel/all/grose-vale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 37,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 36만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/407180662.jpg?k=a2c866191b778281b35319190bef4e9cf580041ce7675f8e9e66e6e0f51378bc&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 36만원",
+        "📝 리뷰 37건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 37건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "윈저 헤리티지 모텔 (Windsor Heritage Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/windsor-motel/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 20,
+      "score": 5.2,
+      "reviewCount": 583,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 4.5,
+      "img": "//pix8.agoda.net/hotelImages/196048/0/b5d72c78c2bf9188d4c21256a1e310ae.jpg?ce=2",
+      "distanceNote": "약 1608.07m · 윈저역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 583건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>5.2</b> · 실제 투숙객 리뷰 583건 기반.",
+      "reviews": [
+        {
+          "text": "작년에 여기에 머물렀고 내년에도 같은 방을 예약할 예정입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안하며 저렴한 숙소.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "이 모텔은 우리의 요구를 잘 충족시켰고 가격도 적당했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 도움이 되고 수용적이었습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "매우 친절하고 협조적입니다. 이곳에 머무르는 것을 추천합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-14T15:59:56.519Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
