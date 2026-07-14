@@ -1,0 +1,139 @@
+{
+  "slug": "australia-lukhurst",
+  "title": "루크허스트 가성비 호텔 3곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 루크허스트 가성비 호텔 3곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "루크허스트",
+  "cityId": 718495,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "루크허스트",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/290620825.jpg?k=43eb48492d6d889ba4eeb58d773bab91d1ae46f4359d5b7d56385185557c4db7&o=",
+  "heroAlt": "루크허스트",
+  "heroTitleHtml": "루크허스트 가성비 호텔 3곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Copeland House</b>(평점 9.9·리뷰 97건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Copeland House</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/290620825.jpg?k=43eb48492d6d889ba4eeb58d773bab91d1ae46f4359d5b7d56385185557c4db7&o=",
+  "outroTitle": "🌙 루크허스트, 어디에 묵어도 후회없이",
+  "outroText": "위 3곳은 모두 루크허스트 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 루크허스트 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Copeland House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/copeland-house/hotel/all/copeland-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.9,
+      "reviewCount": 97,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/290620825.jpg?k=43eb48492d6d889ba4eeb58d773bab91d1ae46f4359d5b7d56385185557c4db7&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 97건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.9</b> · 실제 투숙객 리뷰 97건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 이곳을 정말 칭찬할 수가 없습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "감각적인 숙박 장소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "\"Mansfield\" Cottage Barrington - Quality Holidays for over 25 Years",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mansfield-cottage-barrington/hotel/all/barrington-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 41,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/292961/0/580bcc3bb8a94f779c37358ca4e9bbae.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 41건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 41건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "배링턴 리버사이드 코티지 (Barrington Riverside Cottages)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/barrington-riverside-cottages/hotel/all/barrington-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 242,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 34만원",
+      "valueIndex": 4.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/529236938.jpg?k=47cae2e647e8e37e9c157c122aaf409a337f451359ca55fe1e7930e05c591619&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 34만원",
+        "📝 리뷰 242건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 242건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 작은 별장에서 2박을 즐겼습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "머물기에 아름다운 작은 장소.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "우리는 확실히 돌아올 것입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "정말 평화로운 곳이에요.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-14T09:49:38.133Z",
+    "source": "agoda citySearch",
+    "count": 3
+  }
+}
