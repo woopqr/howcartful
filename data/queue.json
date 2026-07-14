@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-14T12:40:34.914Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 7,
+  "lastPostedAt": "2026-07-14T14:28:48.445Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 8,
   "postedDate": "2026-07-14",
   "queue": [
-    "australia-lucinda",
     "australia-lukhurst",
     "australia-rutherglen",
-    "australia-lithgow"
+    "australia-lithgow",
+    "australia-lismore"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 133,
+    "cityIndex": 134,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -182,6 +182,7 @@
     "australia-launceston",
     "australia-long-jetty",
     "australia-longreach",
-    "australia-longford"
+    "australia-longford",
+    "australia-lucinda"
   ]
 }
