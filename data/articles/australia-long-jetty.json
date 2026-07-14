@@ -1,0 +1,375 @@
+{
+  "slug": "australia-long-jetty",
+  "title": "롱 제티 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 롱 제티 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "central-coast-au",
+  "cityName": "롱 제티",
+  "cityId": 141716,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "롱 제티",
+  "heroImg": "https://pix8.agoda.net/hotelImages/550/5509595/5509595_18080114530067224854.jpg?ca=0&ce=1",
+  "heroAlt": "롱 제티",
+  "heroTitleHtml": "롱 제티 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>더 레이크 호텔</b>(평점 8.4·리뷰 305건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Bay House Motel</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/550/5509595/5509595_18080114530067224854.jpg?ca=0&ce=1",
+  "outroTitle": "🌙 롱 제티, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 롱 제티 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 롱 제티 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 레이크 호텔 (The Lakes Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-lakes-hotel_4/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 103,
+      "score": 8.4,
+      "reviewCount": 305,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.3,
+      "img": "//pix8.agoda.net/hotelImages/550/5509595/5509595_18080114530067224854.jpg?ca=0&ce=1",
+      "distanceNote": "약 8228.08m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 305건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 305건 기반.",
+      "reviews": [
+        {
+          "text": "아름다운 숙박, 깨끗하고 조용하며 매우 친절하고 도움이 되는 직원.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 뛰어난 가치를 자랑하며 여기에 다시 묵을 예정입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "호텔은 매우 깨끗하고 모든 편의시설의 중심에 있습니다 👍.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "나는 그곳의 분위기를 정말 좋아하고 호텔은 너무 깨끗합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "방도 좋고, 위치도 좋고, 가격도 좋고, 깨끗합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "엔트런스 백패커스 (The Entrance Backpackers)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-entrance-backpackers/hotel/all/central-coast-au.html?cid=1925461",
+      "walkMin": 102,
+      "score": 8.5,
+      "reviewCount": 97,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.3,
+      "img": "//pix8.agoda.net/hotelImages/920/920773/920773_15042810320027125650.jpg?ca=4&ce=1",
+      "distanceNote": "약 8187.91m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 97건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 97건 기반.",
+      "reviews": [
+        {
+          "text": "잘 관리되는 호스텔",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Bay House Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bay-house-motel/hotel/bateau-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 1115,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/858850213.jpg?k=d71c39fd0697fdc9b019dc34791114c7f969093d940fea592351088f082c178e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,115건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 1,115건 기반.",
+      "reviews": [
+        {
+          "text": "아름다운 객실과 특별한 아침 식사에 감사드립니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "심지어 무료 아침 식사도 제공해줍니다👍",
+          "score": "10",
+          "country": "澳洲",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "시설이 새것이라 깨끗해요",
+          "score": "10",
+          "country": "澳洲",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 깔끔해서 잠을 잘 잘 수 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 방, 깨끗하고 잘 꾸며져 있고 아늑합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "이비스 스타일 디 엔트랜스 (ibis Styles The Entrance)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ibis-styles-the-entrance-hotel/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 102,
+      "score": 8.7,
+      "reviewCount": 1747,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/879208726.jpg?k=ad4c342cda3d374c991b552704c2583f8b51b831bd159e7483f9ba671c649398&o=",
+      "distanceNote": "약 8195.84m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,747건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,747건 기반.",
+      "reviews": [
+        {
+          "text": "항상 깨끗하고 잘 관리된 곳에서 지내는 것이 좋습니다!",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "Netflix와 YouTube를 이용할 수 있는 대형 더블 침대와 TV가 마련되어 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 객실, 편안한 침대, 탁월한 고객 서비스.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 호텔에서의 짧은 체류를 완전히 즐겼습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 더 나은 호텔을 예약할 수 없었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Venus Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/venus-resort/hotel/long-jetty-au.html?cid=1925461",
+      "walkMin": 102,
+      "score": 8.7,
+      "reviewCount": 730,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/56032952/-1/e4b1856e9b0dfa3d18c88c0472a75676.jpg?ce=0",
+      "distanceNote": "약 8172.65m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 730건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 730건 기반.",
+      "reviews": [
+        {
+          "text": "4성급 호텔 느낌의 객실 내부",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "금성에서는 항상 그 이상으로 나아갑니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안하며 도움이되는 직원.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "청결도가 마음에 들고, 직원들이 친절합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "어떤 요청도 번거롭지 않습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "2 bedrooms private bathroom 2 queen beds own entry",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/2-bedrooms-private-bathroom-2-queen-beds-own-entry/hotel/all/long-jetty-au.html?cid=1925461",
+      "walkMin": 104,
+      "score": 8.6,
+      "reviewCount": 38,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/698154150.jpg?k=6e78c4a26751f1fd4ec23c94ced54bc1294c48f42688656552c32c71cfc852d0&o=",
+      "distanceNote": "약 8333.25m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 38건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 38건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Encore by Mingara",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/encore-by-mingara/hotel/berkeley-vale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 1185,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/892939159.jpg?k=bc33d08e96355cb4b89d2276443322dce0e10a771f0c4551a78d4e98fd21bb08&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 1,185건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 1,185건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 숙소를 좋아합니다. 모든 것이 새롭고 아름답습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "숙박 기간에 실내 수영장과 피트니스 센터가 포함되어 있습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "앙코르 바이 밍가라(Encore by Mingara)는 머물기에 좋은 숙소였습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 객실, 편안한 침대, 다양한 편의 시설.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "직원도 친절하고 리조트 전체가 너무 예뻤어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-14T00:14:07.980Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
