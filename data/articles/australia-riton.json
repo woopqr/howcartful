@@ -1,0 +1,257 @@
+{
+  "slug": "australia-riton",
+  "title": "리톤 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 리톤 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "리톤",
+  "cityId": 512861,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "리톤",
+  "heroImg": "https://pix8.agoda.net/hotelImages/406975/0/1623a79791065d91c560c4666a2ea7f7.jpeg?ce=0",
+  "heroAlt": "리톤",
+  "heroTitleHtml": "리톤 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Hydro Hotel</b>(평점 9.4·리뷰 455건·1박 약 15만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Hydro Hotel</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/406975/0/1623a79791065d91c560c4666a2ea7f7.jpeg?ce=0",
+  "outroTitle": "🌙 리톤, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 리톤 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 리톤 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Hydro Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hydro-hotel/hotel/all/leeton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 455,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/406975/0/1623a79791065d91c560c4666a2ea7f7.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 455건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 455건 기반.",
+      "reviews": [
+        {
+          "text": "매우 친절한 직원이 있는 놀랍도록 아름다운 호텔입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "Leeton의 훌륭한 호텔!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "리셉션 여직원이 너무 친절하고 좋았습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "하이드로 호텔을 다시 방문하고 싶습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "처음 거기 머물렀을 때 정말 놀라웠어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Leeton Centre Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/leeton-centre-motel/hotel/leeton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 63,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/38676684/0/e1a6838a535910c529557ce202c92fd7.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 63건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 63건 기반.",
+      "reviews": [
+        {
+          "text": "모두가 귀하의 숙박을 최대한 즐겁게 만들어 드리겠습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원과 훌륭한 시설을 갖춘 가격 대비 가치!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "많은 모텔에 묵었는데 여기가 최고였어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "방은 훌륭했고, 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "시내 한복판에 새롭게 단장되어 깨끗하고 친절한 직원",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Motel Riverina",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/motel-riverina/hotel/all/leeton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 408,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/499001178.jpg?k=e7a1cdeb46fd8f23b7ca44c21890844df490d9d4b8250f04c2fddeccbf6b67c3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 408건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 408건 기반.",
+      "reviews": [
+        {
+          "text": "가격 대비 훌륭한 가치를 지니고 있으며 꼭 다시 이곳에 머물 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "이 방은 내 기대를 완전히 뛰어 넘었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "이 모텔의 훌륭한 객실이 매우 깨끗하고 수영장도 마음에 들었습니다..",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "넓고 친절한 수업과 훌륭한 시설.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "Leeton의 좋은 위치이며 가족에게 적합합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Leeton Heritage Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/leeton-heritage-motor-inn/hotel/all/leeton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 455,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/207711834.jpg?k=32b410a828fcb4141391179f39da46a73163e63c8b3ab9df424aff5b4322ed52&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 455건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 455건 기반.",
+      "reviews": [
+        {
+          "text": "가장 좋아하는 숙박 장소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 방과 친절한 직원.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "친절하고 사랑스러운 직원",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "적극 추천합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-14T17:21:46.165Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}
