@@ -1,0 +1,346 @@
+{
+  "slug": "australia-lithgow",
+  "title": "리스고우 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 리스고우 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "blue-mountains-au",
+  "cityName": "리스고우",
+  "cityId": 141712,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "리스고우",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/143282678.jpg?k=7aac53e14b29cbeabfd0c345ae9730ac8e20d20b8fab1d0e15c62a0bc17b7703&o=",
+  "heroAlt": "리스고우",
+  "heroTitleHtml": "리스고우 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Commercial Hotel Motel Lithgow</b>(평점 7.6·리뷰 91건·1박 약 6만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Lithgow 도보 6분</b>의 <b>Commercial Hotel Motel Lithgow</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/143282678.jpg?k=7aac53e14b29cbeabfd0c345ae9730ac8e20d20b8fab1d0e15c62a0bc17b7703&o=",
+  "outroTitle": "🌙 리스고우, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 리스고우 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 리스고우 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Commercial Hotel Motel Lithgow",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/commercial-hotel-motel-lithgow/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 7.6,
+      "reviewCount": 91,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 7.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/143282678.jpg?k=7aac53e14b29cbeabfd0c345ae9730ac8e20d20b8fab1d0e15c62a0bc17b7703&o=",
+      "distanceNote": "약 484.37m · Lithgow 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 91건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 91건 기반.",
+      "reviews": [
+        {
+          "text": "방에 있는 침대는 거대했지만!!!하지만 너무 편안했어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 좋은 가치",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "멋지고 편안한 방, 중앙 난방 - 지금 겨울에도 좋습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 음식, 친절한 직원, 편안하고 깨끗한 객실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "합리적인 가격",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Bowen Inn - Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bowen-inn-motel_3/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 45,
+      "score": 9,
+      "reviewCount": 1255,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/390755040.jpg?k=630136cdef27d24529e6c20677400c6cea314a0ae9b86b56240d93b3f887f149&o=",
+      "distanceNote": "약 3615.98m · Lithgow 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 1,255건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,255건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 넓은 객실, 깨끗한 옷장과 욕실을 갖추고 있습니다.",
+          "score": "9.2",
+          "country": "中國香港",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "침대는 매우 편안했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 직원이 매우 친절합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "여기서 객실을 예약하는 것이 좋습니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "확실히 다시 여기에 머물 것입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "The Flat on Ordnance",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-flat-on-ordnance/hotel/all/lithgow-au.html?cid=1925461",
+      "walkMin": 18,
+      "score": 7.8,
+      "reviewCount": 98,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/592300024.jpg?k=e6c743b8b7b05b5f43724957f15f4f3431708e9c960c28235d2112bd1d06f476&o=",
+      "distanceNote": "약 1420.68m · Lithgow 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 98건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 98건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "이글 뷰 이스케이프 (Eagle View Escape)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/eagle-view-escape/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 44,
+      "score": 9.3,
+      "reviewCount": 1360,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/276180/-1/77795f10dfd4d68cad4d8f6b4ec7532c.jpg?ce=0",
+      "distanceNote": "약 3487.42m · Rydal 인근",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 1,360건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 1,360건 기반.",
+      "reviews": [
+        {
+          "text": "체크인은 원활했고, 방은 깨끗했고 설명대로였습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "단순하지만 편안하며, 연결을 끊기에 좋은 장소입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "이 한적한 오두막은 진정으로 평화로운 휴양지를 제공했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗했고 강 전망이 훌륭했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "매우 한적하여 성인 휴양을 위한 충분한 프라이버시가 제공됩니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Lithgow Workies Club Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lithgow-workies-club-motel/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 9.3,
+      "reviewCount": 990,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/462669701.jpg?k=3132efde23ce4ad987103321fd637c319a704d4748d4b97106d2321740912188&o=",
+      "distanceNote": "약 488.56m · Lithgow 인근",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 990건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 990건 기반.",
+      "reviews": [
+        {
+          "text": "여행자를 위한 고품격 숙박!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 고급 제품, 시트 및 가구.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "모텔은 매우 새롭고 깨끗합니다. 적극 추천합니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "그 이상으로 내 업무 요구 사항에 매우 적합합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "매우 편안하고 편리한 숙박.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "지그재그 모텔 (Zig Zag Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/zig-zag-motel/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 18,
+      "score": 8.7,
+      "reviewCount": 1136,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 33만원",
+      "valueIndex": 5,
+      "img": "//pix8.agoda.net/hotelImages/444876/0/a4e73326b8da0c1d633ec7a1c65f0346.jpeg?ce=0",
+      "distanceNote": "약 1430.06m · Lithgow 인근",
+      "metaTags": [
+        "💰 약 33만원",
+        "📝 리뷰 1,136건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,136건 기반.",
+      "reviews": [
+        {
+          "text": "침대는 매우 편안하고 욕실도 좋으며 수영장도 이용했습니다..",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "객실 크기가 매우 좋음, 샤워실 크기가 좋음, 침대가 편안함",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "리스고우에서의 숙박을 적극 권장합니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 깔끔하며 광고된 모든 것이 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "지그재그 모텔은 머물기에 좋은 곳이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-14T12:40:59.350Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}
