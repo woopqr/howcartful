@@ -1,0 +1,383 @@
+{
+  "slug": "australia-rutherglen",
+  "title": "루터글렌 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 루터글렌 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "corowa-au",
+  "cityName": "루터글렌",
+  "cityId": 513446,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "루터글렌",
+  "heroImg": "https://pix8.agoda.net/hotelImages/169/1695456/1695456_16122310080049885638.jpg?ca=6&ce=1",
+  "heroAlt": "루터글렌",
+  "heroTitleHtml": "루터글렌 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>코로와 게이트웨이 모텔</b>(평점 9.1·리뷰 273건·1박 약 10만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>코로와 게이트웨이 모텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/169/1695456/1695456_16122310080049885638.jpg?ca=6&ce=1",
+  "outroTitle": "🌙 루터글렌, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 루터글렌 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 루터글렌 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "코로와 게이트웨이 모텔 (Corowa Gateway Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/corowa-gateway-motel/hotel/corowa-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 273,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.6,
+      "img": "//pix8.agoda.net/hotelImages/169/1695456/1695456_16122310080049885638.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 273건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 273건 기반.",
+      "reviews": [
+        {
+          "text": "사랑스러운 호스트가 있는 매우 깨끗하고 편안한 숙소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 모텔에서 머레이까지 걸어갈 수 있다는 것을 즐깁니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "친절한 사장님과 깔끔하고 깨끗한 방과 시설",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "장소는 깨끗했고 직원들은 다루기가 좋았습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "몇 달에 한 번씩 코로와를 방문할 때 이곳에 머무르는 것을 좋아합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Barklysuites Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/barklysuites-apartments/hotel/all/rutherglen-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.8,
+      "reviewCount": 116,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/399233941.jpg?k=541fe08d441f07bd773d9d1d1bec34d35991241400b0f7c9b1d0d6ffa6ea11f7&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 116건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 116건 기반.",
+      "reviews": [
+        {
+          "text": "편안하고 개 친화적이며 훌륭한 아침 식사.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 경유지이며 확실히 애완동물과 손님 친화적입니다 :-)",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "놀라운 크기, 레이아웃, 포함.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "아름답게 위치한 아파트.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭하고 잘 생각한 별 5개.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "모텔 메네레스 (Motel Meneres)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/motel-meneres/hotel/corowa-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 544,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/488/488350/488350_15030407510025767178.jpg?ca=3&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 544건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 544건 기반.",
+      "reviews": [
+        {
+          "text": "메인 스트리트에서 약 1km 떨어진 좋은 가치의 모텔입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "다들 이 모텔을 이용해보세요. 실망하지 않을 거예요..",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "매우 친절한 직원이 있는 매우 깨끗한 모텔",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "친절하고 수용적인 직원.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "머물기 좋은 숙소와 사랑스러운 호스트",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Poachers Paradise",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/poachers-paradise/hotel/all/rutherglen-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 505,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/545226/0/b0da150372921676ba8d21df3b374ef5.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 505건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 505건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗하고 위치가 훌륭하며 침대가 매우 편안합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "호스트가 이보다 더 도움이 될 수는 없습니다",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "메인 스트리트와 가까운 훌륭한 위치.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "완벽한 숙소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "토스터, 접시 및 약간의 추가 사항에 감사드립니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Wine Village Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wine-village-motor-inn_2/hotel/all/rutherglen-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 380,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/160070753.jpg?k=5c13d7646ecb55acf6479a6940f861ad92072421b9fcdf976da83a1d637931b0&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 380건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 380건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "BIG4 Rutherglen Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rutherglen-holiday-park/hotel/all/rutherglen-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 218,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/733887282.jpg?k=a56f78267f989f80c0c126845da2b0229253b4c328cce1d12d39de6b204f696f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 218건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 218건 기반.",
+      "reviews": [
+        {
+          "text": "머물기에 좋은 곳",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 가족 여행에 적합",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "페더레이션 모토 인 (Federation Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/federation-motor-inn/hotel/corowa-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 553,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/215/215746/215746_121107132731220.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 553건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 553건 기반.",
+      "reviews": [
+        {
+          "text": "적극 권장되며 해당 지역에 있으면 다시 예약할 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "현대적인 욕실이 우리에게 잘 어울렸습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "객실은 크고 깔끔하고 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 친절한 직원",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "환상적인 숙소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-14T11:14:00.626Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
