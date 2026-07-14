@@ -1,0 +1,418 @@
+{
+  "slug": "australia-longford",
+  "title": "롱포드 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 롱포드 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "롱포드",
+  "cityId": 5757,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "롱포드",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/820889767.jpg?k=fac2f8dd2139d04a49dd512d8d94c769740d62b4682da2f00b853159e6043013&o=",
+  "heroAlt": "롱포드",
+  "heroTitleHtml": "롱포드 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>The Fenway</b>(평점 8.8·리뷰 145건·1박 약 4만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>East Tamar 도보 17분</b>의 <b>론서스턴 시티의 빌라</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/820889767.jpg?k=fac2f8dd2139d04a49dd512d8d94c769740d62b4682da2f00b853159e6043013&o=",
+  "outroTitle": "🌙 롱포드, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 롱포드 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 롱포드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Fenway",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-fenway/hotel/all/launceston-au.html?cid=1925461",
+      "walkMin": 24,
+      "score": 8.8,
+      "reviewCount": 145,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/820889767.jpg?k=fac2f8dd2139d04a49dd512d8d94c769740d62b4682da2f00b853159e6043013&o=",
+      "distanceNote": "약 1929.67m · East Tamar 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 145건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 145건 기반.",
+      "reviews": [
+        {
+          "text": "욕실은 정말 좋았고 모든 것이 깨끗했습니다.",
+          "score": "8.8",
+          "country": "Deutschland",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "정말 멋진 경험을 해주셔서 감사합니다!",
+          "score": "10",
+          "country": "中国",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치 - 도시와 강변 모두에 가깝습니다.",
+          "score": "9.2",
+          "country": "China",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 넓었습니다(개인 더블에서 묵었습니다)",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "그렇지 않으면 나중에 방문할 때 기꺼이 다시 여기에 머물 것입니다",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "론서스턴 시티의 빌라 (m², 침실 1개, 프라이빗 욕실 2개) (1 Mountain view house room 1 Direct check-in)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/1-mountain-view-house-room-1-direct-check-in/hotel/launceston-au.html?cid=1925461",
+      "walkMin": 17,
+      "score": 9,
+      "reviewCount": 77,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/80184701/0/4dcca0bc4ff0dc4c410b1878a1aae5f3.jpg?ce=2",
+      "distanceNote": "약 1349.09m · East Tamar 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 77건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 77건 기반.",
+      "reviews": [
+        {
+          "text": "가격 대비 가치 있는 숙박",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "집은 매우 넓었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "팟 인 (Pod Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pod-inn_2/hotel/launceston-au.html?cid=1925461",
+      "walkMin": 28,
+      "score": 8.6,
+      "reviewCount": 583,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.5,
+      "img": "//pix8.agoda.net/hotelImages/5823547/-1/c82e2188314f975a3d77bfff2b0de9c4.jpg?ca=7&ce=1",
+      "distanceNote": "약 2224.56m · East Tamar 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 583건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 583건 기반.",
+      "reviews": [
+        {
+          "text": "이번에는 더블 숙박을 했고 Lonnie에 다시 묵을 예정입니다 :)",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "머물기 좋은 숙소, 깨끗하고 직원들이 매우 도움이 되었습니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 깨끗하고 독특했고 우리는 매우 편안하게 잤습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "이번 숙박이 최고의 숙박이 될 것이라고는 예상하지 못했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "\"방\"은 깨끗했고 욕실용 수건이 갖춰져 있었습니다!",
+          "score": "8.8",
+          "country": "Australie",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Beautiful hill side house",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beautiful-hill-side-house-room2/hotel/all/royal-park-au.html?cid=1925461",
+      "walkMin": 42,
+      "score": 8.1,
+      "reviewCount": 53,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 7.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/753683474.jpg?k=0d2e6e1ca7ea86ae6231f73e99bbbd60c5e422c61b5e2e61a1c271337aaf76ad&o=",
+      "distanceNote": "약 3345.29m · East Tamar 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 53건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 53건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 넓은 방.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "집은 훌륭하고,",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "꼭 다시 오고 싶습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "아주 깔끔하고 모던해요",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Hotel Grand Chancellor Launceston",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/grand-chancellor-launceston/hotel/default-city-km.html?cid=1925461",
+      "walkMin": 21,
+      "score": 8.6,
+      "reviewCount": 8240,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/46758471/0/e760183d0ba7e66aa7204c3861ca88ad.jpeg?ce=0",
+      "distanceNote": "약 1662.1m · East Tamar 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 8,240건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 8,240건 기반.",
+      "reviews": [
+        {
+          "text": "위치, 시설, 직원, 청결도는 최고입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 현대적이며 편안하고 안전하며 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 편안하며 잘 꾸며져 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "Hotel Grand Chancellor Launceston에서 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "청결도와 시설면에서 호텔을 잘못 평가할 수 없습니다.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "더 뮤즈 모텔 (The Mews Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-mews-motel/hotel/launceston-au.html?cid=1925461",
+      "walkMin": 32,
+      "score": 8.7,
+      "reviewCount": 621,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/546/546294/546294_14033107030018908652.jpg?ca=2&ce=1",
+      "distanceNote": "약 2532.64m · East Tamar 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 621건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 621건 기반.",
+      "reviews": [
+        {
+          "text": "야외 주방 공간에서 햇빛을 받으며 앉아 있는 것을 좋아했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "이 기발하면서도 깨끗한 숙소는 훌륭했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "객실은 아늑하고 시설은 깨끗하고 유용합니다.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "모텔은 깨끗하고 영국의 매력이 뛰어납니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "방도 아늑하고 침대도 너무 따뜻하고 편해요.",
+          "score": "10",
+          "country": "澳洲",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "레저 인 페니 로얄 호텔 앤 아파트먼트 (Leisure Inn Penny Royal Hotel and Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/leisure-inn-penny-royal-hotel-and-apartments/hotel/launceston-au.html?cid=1925461",
+      "walkMin": 34,
+      "score": 8.5,
+      "reviewCount": 4143,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/449/44935/44935_16030406100040448765.jpg?ca=6&ce=1",
+      "distanceNote": "약 2724.9m · East Tamar 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 4,143건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 4,143건 기반.",
+      "reviews": [
+        {
+          "text": "프론트 직원은 친절하고 환영해주었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고 넓고 깨끗하고 전망도 좋아요.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "Penny Royal은 독특하고 사랑스러운 숙소입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 코티지 스타일 아파트로 도시와 매우 가깝습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "지역 명소 근처의 훌륭한 위치에 있는 객실입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-14T05:55:37.511Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
