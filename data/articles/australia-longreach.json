@@ -1,0 +1,374 @@
+{
+  "slug": "australia-longreach",
+  "title": "롱리치 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 롱리치 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "롱리치",
+  "cityId": 21452,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "롱리치",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/121017286.jpg?k=3d536e8ed40df73367645e5be26bf112dc39d4b812bbfa823a386cbdf1a4334b&o=",
+  "heroAlt": "롱리치",
+  "heroTitleHtml": "롱리치 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Saltbush Retreat</b>(평점 9.4·리뷰 1,568건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Saltbush Retreat</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/121017286.jpg?k=3d536e8ed40df73367645e5be26bf112dc39d4b812bbfa823a386cbdf1a4334b&o=",
+  "outroTitle": "🌙 롱리치, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 롱리치 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 롱리치 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Saltbush Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/saltbush-retreat_3/hotel/all/longreach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 1568,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/121017286.jpg?k=3d536e8ed40df73367645e5be26bf112dc39d4b812bbfa823a386cbdf1a4334b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 1,568건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 1,568건 기반.",
+      "reviews": [
+        {
+          "text": "아마도 이 도시에 머물기에 가장 좋은 곳일 것입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "직원들은 늦은 체크인이 원활하게 이루어졌는지 확인했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "심지어 히터를 켜서 감사했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "특별한 숙박을 위해 모든 것이 제공되었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "게다가 호스트분들이 너무 친절하고 따뜻하게 대해주셔서.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Longreach Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/longreach-tourist-park-h24984354/hotel/longreach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.8,
+      "reviewCount": 30,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/84384144/0/aabef7dba8b0a9fc693a112753270c29.png?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 30건",
+        "⭐ 1성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 30건 기반.",
+      "reviews": [
+        {
+          "text": "장거리 여행을 할 때 여기에 머무르는 것이 좋습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "캐빈에는 모든 시설이 완비되어 있으며 정말 아늑합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "멋진 숙박, 훌륭한 직원",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "리셉션에는 음료와 스낵이 완비되어 있습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Longreach Most Central Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/central-cbd-motel/hotel/all/longreach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.7,
+      "reviewCount": 304,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/264008804.jpg?k=3d7b6fbf758655210d27a5bcaced94b86cf703aa91418729ed18b5a078590b16&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 304건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 304건 기반.",
+      "reviews": [
+        {
+          "text": "신선하고 깨끗하며 레인 샤워기는 순수한 럭셔리였습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "편안하고 좋은 호텔",
+          "score": "9.2",
+          "country": "New Zealand",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "잘못할 수 없습니다. 우리는 캐서린으로 가는 길에 여기에 묵었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "거기에서 우리 방을 업그레이드해",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "하룻밤 숙박에 딱 맞습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Mitchell Grass Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mitchell-grass-retreat/hotel/all/longreach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 165,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 43만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/356645959.jpg?k=42e455871b47dea71fcef2535f3da9289b64a7eca3b1e71af6c32f67b094c3b7&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 43만원",
+        "📝 리뷰 165건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 165건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "알버트 파크 모토 인 (Albert Park Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/albert-park-motor-inn/hotel/longreach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.7,
+      "reviewCount": 756,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5,
+      "img": "//pix8.agoda.net/hotelImages/263975/-1/d030fea9c5a3c37d48f3c4c1765a0160.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 756건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 756건 기반.",
+      "reviews": [
+        {
+          "text": "우리 방은 적당한 크기였고 매우 편안했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "시설도 좋고 직원도 친절하고 다시 묵고 싶습니다",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 Albert Park Motor Inn에 머물면서 매우 기뻤습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "우리는 Albert Park Hotel에서 7박을 묵었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "우리는 언젠가 돌아올 것이다. 우리는 Longreach를 사랑했다!!",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Jumbuck Motel - Oil Friendly Price",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/jumbuck-motor-inn-with-shaded-pool-and-bbq-pet-friendly-king-bed-in-every-room/hotel/all/longreach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.3,
+      "reviewCount": 631,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 4.7,
+      "img": "//pix8.agoda.net/hotelImages/837/837275/837275_15032705560026515650.jpg?ca=3&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 631건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.3</b> · 실제 투숙객 리뷰 631건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 환영, 훌륭한 크기의 캐빈, 저렴한 가격.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "멋진 롱리치(Longreach)에 머물기에 좋은 숙소",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "객실이 넓고 레스토랑과 상점이 가깝습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "늦은 시간에 도착했을 때 직원들은 매우 도움이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "러블리 호텔",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Outback Adventures Backpackers",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/stork-rd-accomm-private-rooms-with-shared-bathrooms-access-to-pool/hotel/all/longreach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 5.8,
+      "reviewCount": 162,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 4.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/264696323.jpg?k=372b0ed3d97061fb2c70f9586de1194a8c9809da473ee854178f99615d4fd0db&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 162건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>5.8</b> · 실제 투숙객 리뷰 162건 기반.",
+      "reviews": [
+        {
+          "text": "공용 시설을 갖춘 저예산 객실에 적합합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "좋은 예산 숙박",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-14T03:36:08.580Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
