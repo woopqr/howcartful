@@ -1,0 +1,31 @@
+{
+  "_comment": "카테고리 시즌 태그. region 기본값 + 도시 슬러그 override. 값: 봄/여름/가을/겨울. 727개 도시에 자동 적용(지역 기본값), 유명 도시만 override.",
+  "regionSeasons": {
+    "japan": ["봄", "가을"],
+    "korea": ["봄", "가을"],
+    "taiwan": ["가을", "겨울", "봄"],
+    "thailand": ["겨울", "여름"],
+    "vietnam": ["여름", "겨울"],
+    "singapore": ["여름", "겨울"],
+    "malaysia": ["여름", "겨울"],
+    "indonesia": ["여름", "겨울"],
+    "philippines": ["여름", "겨울"],
+    "hongkong": ["가을", "겨울", "봄"],
+    "australia": ["봄", "가을"]
+  },
+  "cityOverrides": {
+    "sapporo": ["겨울", "여름"],
+    "okinawa": ["여름"],
+    "otaru": ["겨울"],
+    "hakodate": ["겨울", "가을"],
+    "kyoto": ["봄", "가을"],
+    "jeju": ["봄", "여름", "가을"],
+    "danang": ["여름"],
+    "nha-trang": ["여름"],
+    "bali": ["여름"],
+    "phuket": ["여름", "겨울"],
+    "boracay": ["여름"],
+    "cebu": ["여름"],
+    "chiangmai": ["겨울"]
+  }
+}
