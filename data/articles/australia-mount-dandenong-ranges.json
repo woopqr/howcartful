@@ -1,0 +1,344 @@
+{
+  "slug": "australia-mount-dandenong-ranges",
+  "title": "마운트 단데농 지역 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 마운트 단데농 지역 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "마운트 단데농 지역",
+  "cityId": 143180,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "마운트 단데농 지역",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/157539310.jpg?k=bcdf29376446f99e5c8a0ba82a342bff8c9728c390ed5086311a704cc3188928&o=",
+  "heroAlt": "마운트 단데농 지역",
+  "heroTitleHtml": "마운트 단데농 지역 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Rustic Refuge Guesthouse</b>(평점 8.8·리뷰 284건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Fielder Railway Station - Puffing Billy Railway 도보 23분</b>의 <b>Cock or Two Kink House</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/157539310.jpg?k=bcdf29376446f99e5c8a0ba82a342bff8c9728c390ed5086311a704cc3188928&o=",
+  "outroTitle": "🌙 마운트 단데농 지역, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 마운트 단데농 지역 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 마운트 단데농 지역 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Rustic Refuge Guesthouse",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rustic-refuge-guesthouse/hotel/all/mount-dandenong-ranges-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 284,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/157539310.jpg?k=bcdf29376446f99e5c8a0ba82a342bff8c9728c390ed5086311a704cc3188928&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 284건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 284건 기반.",
+      "reviews": [
+        {
+          "text": "아름다운 풍경과 훌륭한 편의 시설은 훌륭한 숙박을 의미합니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "Rod는 매우 친절했고 그의 숙소는 이상적이었습니다!",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치에 머물기에 좋은 곳",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 이곳에 머무는 동안 스파에서 휴식을 취했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "머물기를 적극 권장하는 곳입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Avoca Park Equestrian Farmstay",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/avoca-park/hotel/all/macclesfield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 44,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/396349621.jpg?k=0b5e5b7f7c7f27b0cf65271eff56f027ddc69ba6d67714a9dd6795050119b707&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 44건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 44건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "코모 코티지 베드 엔 브랙퍼스트 (Como Cottages Bed & Breakfast)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/como-cottages-bed-breakfast/hotel/mount-dandenong-ranges-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 231,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/289349/-1/21373eac9e4387cde4645baee68b2020.jpg?ca=7&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 231건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 231건 기반.",
+      "reviews": [
+        {
+          "text": "별장과 정원에 대한 놀라운 작업입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "브렛은 매우 친절하고 협조적입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "완비된 간이 주방과 아침 식사 용품을 갖춘 멋진 코티지입니다.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "소유자 Bret는 매우 도움이 되고 문제에 세심한 주의를 기울입니다.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "낭만적인 휴가",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "린덴 가든 레인포레스트 리트리트 (Linden Gardens Rainforest Retreat)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/linden-gardens-rainforest-retreat/hotel/mount-dandenong-ranges-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 177,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/296591/0/c8b95364b285f0e0e7644d32b2865198.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 177건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 177건 기반.",
+      "reviews": [
+        {
+          "text": "침대는 매우 편안했고 직원들은 매우 친절하고 도움이 되었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "시설은 깨끗하고 dpa bsth는 환상적입니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "매우 편안하고 방은 매우 아늑하고 매력적입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 즉시 제공되며 따뜻하고 푸짐합니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "숲속의 조용한 휴양지",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "8 Heather",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/8-heather/hotel/all/sherbrooke-au.html?cid=1925461",
+      "walkMin": 33,
+      "score": 9.4,
+      "reviewCount": 63,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/505164641.jpg?k=c381488303e20a754491e18b9072e00ef687fe05dbb29a5398d7f366e542dbd4&o=",
+      "distanceNote": "약 2623.82m · Selby Station 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 63건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 63건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "The Fernglen Forest Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/fernglen-forest-retreat_4/hotel/all/mount-dandenong-ranges-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 242,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/816616050.jpg?k=d33a66d47d853a2bb8d097b90793fae88f60028b2028e37be6806d855073979c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 242건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 242건 기반.",
+      "reviews": [
+        {
+          "text": "낭만적인 주말을 위한 놀라운 휴양지!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "커플이나 가족을 위한 완벽한 탈출구",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Cock or Two Kink House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cock-or-two-kink-house/hotel/all/melbourne-au.html?cid=1925461",
+      "walkMin": 23,
+      "score": 9.5,
+      "reviewCount": 103,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/518109632.jpg?k=4182ddf2df89338cb03b68d5fc086cf8e60aaa874a4aa72137e63b188379dbc4&o=",
+      "distanceNote": "약 1813.26m · Fielder Railway Station - Puffing Billy Railway 인근",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 103건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 103건 기반.",
+      "reviews": [
+        {
+          "text": "이곳의 전망과 고요함은 평화로운 휴식을 선사합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "그는 나에게 인사하고 주변을 보여주었다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "이곳에 머물게 되어 정말 기쁩니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안하고 따뜻했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "연인과 함께 휴식을 취하고 즐거운 시간을 보낼 수 있는 환상적인 장소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-15T15:12:43.109Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

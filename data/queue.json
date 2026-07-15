@@ -1,24 +1,25 @@
 {
-  "lastPostedAt": "2026-07-15T13:44:28.222Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 7,
+  "lastPostedAt": "2026-07-15T15:12:19.615Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 8,
   "postedDate": "2026-07-15",
   "queue": [
-    "australia-magnetic-island",
     "australia-maracai",
     "australia-maruta",
-    "australia-mount-gambier"
+    "australia-mount-gambier",
+    "australia-mount-dandenong-ranges"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 143,
+    "cityIndex": 145,
     "regionFails": 0,
     "skippedIds": [
       513016,
       142741,
       141542,
-      11723
+      11723,
+      512947
     ]
   },
   "publishedSlugs": [
@@ -192,6 +193,7 @@
     "australia-riton",
     "australia-little-river",
     "australia-limpinwood",
-    "australia-margaret-river-wine-region"
+    "australia-margaret-river-wine-region",
+    "australia-magnetic-island"
   ]
 }
