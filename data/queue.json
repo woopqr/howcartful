@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-15T00:54:42.406Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 1,
+  "lastPostedAt": "2026-07-15T03:54:24.502Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 2,
   "postedDate": "2026-07-15",
   "queue": [
-    "australia-lismore",
     "australia-richmond-nsw",
     "australia-riton",
-    "australia-little-river"
+    "australia-little-river",
+    "australia-limpinwood"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 137,
+    "cityIndex": 138,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -186,6 +186,7 @@
     "australia-lucinda",
     "australia-lukhurst",
     "australia-rutherglen",
-    "australia-lithgow"
+    "australia-lithgow",
+    "australia-lismore"
   ]
 }
