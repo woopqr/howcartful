@@ -1,0 +1,73 @@
+{
+  "slug": "australia-little-river",
+  "title": "리틀 리버 가성비 호텔 2곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 리틀 리버 가성비 호텔 2곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "리틀 리버",
+  "cityId": 143122,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "리틀 리버",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/93356825.jpg?k=6df336d912e7cde3ac42f67db906c7d3c90039984fcee3bd50393e69de018415&o=",
+  "heroAlt": "리틀 리버",
+  "heroTitleHtml": "리틀 리버 가성비 호텔 2곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Little River Bed and Breakfast</b>(평점 9·리뷰 236건·1박 약 19만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Little River Bed and Breakfast</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/93356825.jpg?k=6df336d912e7cde3ac42f67db906c7d3c90039984fcee3bd50393e69de018415&o=",
+  "outroTitle": "🌙 리틀 리버, 어디에 묵어도 후회없이",
+  "outroText": "위 2곳은 모두 리틀 리버 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 리틀 리버 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Little River Bed and Breakfast",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/little-river-bed-and-breakfast/hotel/all/little-river-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 236,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/93356825.jpg?k=6df336d912e7cde3ac42f67db906c7d3c90039984fcee3bd50393e69de018415&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 236건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 236건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "라라 로지 (Lara Lodge)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lara-lodge_2/hotel/lara-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 217,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/90034471.jpg?k=e62f9b9896f520e6e09b4b2f6331d101b5f7d7970fc9e559e951a4c38739131f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 217건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 217건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-15T00:54:43.085Z",
+    "source": "agoda citySearch",
+    "count": 2
+  }
+}
