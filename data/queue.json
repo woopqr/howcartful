@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-15T10:25:52.661Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 5,
+  "lastPostedAt": "2026-07-15T11:57:11.832Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 6,
   "postedDate": "2026-07-15",
   "queue": [
-    "australia-limpinwood",
     "australia-margaret-river-wine-region",
     "australia-magnetic-island",
-    "australia-maracai"
+    "australia-maracai",
+    "australia-maruta"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 141,
+    "cityIndex": 142,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -190,6 +190,7 @@
     "australia-lismore",
     "australia-richmond-nsw",
     "australia-riton",
-    "australia-little-river"
+    "australia-little-river",
+    "australia-limpinwood"
   ]
 }
