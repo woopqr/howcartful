@@ -1,0 +1,438 @@
+{
+  "slug": "australia-margaret-river-wine-region",
+  "title": "마가렛 리버 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 마가렛 리버 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "margaret-river-au",
+  "cityName": "마가렛 리버",
+  "cityId": 1816,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "마가렛 리버",
+  "heroImg": "https://pix8.agoda.net/hotelImages/45886734/0/672a0e129cc53b252fd9b80f668165e5.jpeg?ce=0",
+  "heroAlt": "마가렛 리버",
+  "heroTitleHtml": "마가렛 리버 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Karriview</b>(평점 9.4·리뷰 892건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>케이프 내추럴리스트 빈야드 도보 28분</b>의 <b>씨쉘 얄링굽</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/45886734/0/672a0e129cc53b252fd9b80f668165e5.jpeg?ce=0",
+  "outroTitle": "🌙 마가렛 리버, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 마가렛 리버 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 마가렛 리버 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Karriview",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/karriview-margaret-river/hotel/margaret-river-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 892,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/45886734/0/672a0e129cc53b252fd9b80f668165e5.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 892건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 892건 기반.",
+      "reviews": [
+        {
+          "text": "방은 깨끗하고 평화로웠으며, 훌륭한 아침 식사와 커피를 제공했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "갓 만든 라떼와 함께 하루를 시작해 보세요.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "멋진 경험, 아름다운 환경을 가졌습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "마가렛 리버에 가면 꼭 다시 묵을 거예요.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "매우 친절하고 도움이 되는 직원, 깨끗하고 좋은 위치.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "에지 오브 더 포레스트 (Edge Of The Forest)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/edge-of-the-forest/hotel/margaret-river-wine-region-au.html?cid=1925461",
+      "walkMin": 70,
+      "score": 9.3,
+      "reviewCount": 553,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/301/301558/301558_16100414050047343869.jpg?ca=6&ce=1",
+      "distanceNote": "약 5576.08m · 보이저 에스테이트 셀러 세일 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 553건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 553건 기반.",
+      "reviews": [
+        {
+          "text": "이곳은 깨끗하고 조용하며 잘 관리된 곳입니다.",
+          "score": "8.4",
+          "country": "대한민국",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "나는 아무 문제없이 이틀 밤을 묵었습니다.",
+          "score": "8.4",
+          "country": "대한민국",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 장소, 친절한 주인/관리자.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "마가렛 리버에 있는 이 모텔은 정말 마음에 들었습니다!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "마가렛리버 최고의 숙소",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "마가렛 리버 모텔 (Margaret River Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/comfort-inn-grange-on-farrelly_3/hotel/margaret-river-wine-region-au.html?cid=1925461",
+      "walkMin": 53,
+      "score": 9,
+      "reviewCount": 1737,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 20만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/280785/0/441e4bab3b85f5e120bc634fc8c55fd0.jpg?ce=2",
+      "distanceNote": "약 4271m · 보이저 에스테이트 셀러 세일 인근",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 1,737건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,737건 기반.",
+      "reviews": [
+        {
+          "text": "고풍스럽고 잘 꾸며져 있으며 매우 깨끗하고 피곤합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "방과 욕실 크기 모두 매우 넓고 깨끗합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "킹사이즈 침대가 매우 편안하고 넓은 객실입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 그것을 정말로 좋아했고 꼭 다시 머물고 싶습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "레스토랑과 바에 가까운 이상적인 위치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Riverview Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/riverview-tourist-park_3/hotel/all/margaret-river-au.html?cid=1925461",
+      "walkMin": 61,
+      "score": 8.9,
+      "reviewCount": 2257,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/592230355.jpg?k=2977cca59e9bbbef46bc6bf422a2f5b5c9a5a83445f2a41c1fe41694aad8280c&o=",
+      "distanceNote": "약 4853.81m · 보이저 에스테이트 셀러 세일 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 2,257건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 2,257건 기반.",
+      "reviews": [
+        {
+          "text": "위치가 훌륭하고, 메인 스트리트와 상점까지 도보로 10분 거리에 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "시내 중심가에서 차로 5분 거리에 있는 훌륭한 캐빈 스테이.",
+          "score": "9.2",
+          "country": "台灣",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "마을 근처 및 강 옆에 있는 훌륭한 위치입니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 평화롭고 편안하며 매우 즐거운 숙박이었습니다!",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "방은 흠잡을 곳이 없었고 시설도 잘 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "마가렛 리버 투어리스트 파크 (Margaret River Tourist Park)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/margaret-river-tourist-park/hotel/all/margaret-river-au.html?cid=1925461",
+      "walkMin": 43,
+      "score": 8.8,
+      "reviewCount": 2423,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/69556182.jpg?k=027337ecb5241026942e79ac1cfeb7cc13a951f1096a458b5ca2951507479597&o=",
+      "distanceNote": "약 3442.5m · 보이저 에스테이트 셀러 세일 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 2,423건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 2,423건 기반.",
+      "reviews": [
+        {
+          "text": "마가렛 리버에서 휴가를 보내기에 완벽한 장소",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "주방과 기구, 세탁실, 수영장이 갖춰져 있습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "우리는 즐거운 시간을 보냈습니다! 매우 깨끗하고 위치가 좋습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "우리는 별장에 머물렀고 다시 별장에 머물고 싶습니다!",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "마가렛 리버 지역을 방문하고 싶다면 훌륭한 위치입니다.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "씨쉘 얄링굽 (Seashells Yallingup)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/seashells-yallingup/hotel/margaret-river-wine-region-au.html?cid=1925461",
+      "walkMin": 28,
+      "score": 8.9,
+      "reviewCount": 756,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/161523/-1/d49909bfe54b937309731c744e9e8605.jpg?ca=25&ce=0",
+      "distanceNote": "약 2218.4m · 케이프 내추럴리스트 빈야드 인근",
+      "metaTags": [
+        "📝 리뷰 756건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 756건 기반.",
+      "reviews": [
+        {
+          "text": "편안하고 필요한 모든 것이 잘 갖추어져 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "내가 묵어본 호텔 중 가장 훌륭하고, 멋지고 매우 큰 방.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "Caves House 바로 옆에 머물기에 훌륭한 장소입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했습니다. 우리가 기대했던 모든 것이 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "즐거운 시간을 보냈고 호텔은 깨끗했고 직원들은 친절했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "마가렛 리버 리조트 (Margaret River Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/margaret-river-resort_2/hotel/margaret-river-wine-region-au.html?cid=1925461",
+      "walkMin": 50,
+      "score": 8.7,
+      "reviewCount": 590,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/118482658.jpg?k=eb7df8b5837ee4c57da0044d6877d21129b08c6a52eca8b7ea3c0793e1c5f375&o=",
+      "distanceNote": "약 4034.69m · 보이저 에스테이트 셀러 세일 인근",
+      "metaTags": [
+        "📝 리뷰 590건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 590건 기반.",
+      "reviews": [
+        {
+          "text": "넓은 침대는 좋은 베개와 시트로 매우 편안합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "구내 River Restaurant에서는 훌륭한 음식과 바를 제공했습니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "우리는 비스트로에서 몇 번 먹었는데, 생선은 모두 정말 훌륭했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "모텔 스타일 숙박 시설에서 기대할 수 있는 모든 것...",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "대가족 여행에 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-15T06:10:11.009Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

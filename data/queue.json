@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-15T03:54:24.502Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 2,
+  "lastPostedAt": "2026-07-15T06:09:33.186Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 3,
   "postedDate": "2026-07-15",
   "queue": [
-    "australia-richmond-nsw",
     "australia-riton",
     "australia-little-river",
-    "australia-limpinwood"
+    "australia-limpinwood",
+    "australia-margaret-river-wine-region"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 138,
+    "cityIndex": 139,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -187,6 +187,7 @@
     "australia-lukhurst",
     "australia-rutherglen",
     "australia-lithgow",
-    "australia-lismore"
+    "australia-lismore",
+    "australia-richmond-nsw"
   ]
 }

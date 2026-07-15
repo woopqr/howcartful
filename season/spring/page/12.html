@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>봄 여행 가성비 호텔 — howcartful · 12페이지</title>
+  <meta name="description" content="AI가 실제 호텔 리뷰 데이터를 분석해 가성비 좋은 호텔을 근거기반으로 비교·추천하는 모음 사이트.">
+  <link rel="canonical" href="https://howcartful.com/season/spring/page/12">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <script>(function(){try{var t=localStorage.getItem('hc-theme');if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','light');}})();</script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9152627772468202" crossorigin="anonymous"></script>
+  <style>
+    /* 라이트 기본값 */
+    :root{
+      --bg:#fbfbfe; --text:#15171c; --muted:#5b6470; --line:#e6e8ef; --p1:#a855f7; --p2:#3b82f6;
+      --glow:rgba(124,92,246,.10);
+      --card-bg:#ffffff; --card-sh:0 8px 24px rgba(30,30,60,.08); --card-sh-h:0 16px 40px rgba(124,92,246,.18);
+      --border-op:.55; --foot:#8a93a3; --input-bg:#f4f5f9; --input-bd:#e0e3ec; --ph:#9aa3b2;
+    }
+    /* 다크 값 (시스템 다크 + 수동 다크) */
+    @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+      --bg:#0a0a12; --text:#eef0f5; --muted:#9aa3b2; --line:#1c1c28; --glow:rgba(124,92,246,.18);
+      --card-bg:linear-gradient(180deg,#14141f,#101019); --card-sh:0 10px 30px rgba(0,0,0,.5); --card-sh-h:0 18px 50px rgba(124,92,246,.38);
+      --foot:#6b7280; --input-bg:#12121c; --input-bd:#262633; --ph:#6b7280;
+    }}
+    :root[data-theme="dark"]{
+      --bg:#0a0a12; --text:#eef0f5; --muted:#9aa3b2; --line:#1c1c28; --glow:rgba(124,92,246,.18);
+      --card-bg:linear-gradient(180deg,#14141f,#101019); --card-sh:0 10px 30px rgba(0,0,0,.5); --card-sh-h:0 18px 50px rgba(124,92,246,.38);
+      --foot:#6b7280; --input-bg:#12121c; --input-bd:#262633; --ph:#6b7280;
+    }
+    *{ box-sizing:border-box; margin:0; padding:0; }
+    body{ font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans KR',sans-serif;
+      color:var(--text); line-height:1.6; min-height:100vh;
+      background:radial-gradient(1100px 560px at 50% -220px, var(--glow), transparent 70%), var(--bg); }
+    .wrap{ max-width:1080px; margin:0 auto; padding:56px 20px; }
+    header h1{ font-size:2rem; font-weight:900; letter-spacing:-.02em;
+      background:linear-gradient(90deg, var(--p1), var(--p2)); -webkit-background-clip:text; background-clip:text; color:transparent; }
+    header p{ color:var(--muted); margin-top:8px; }
+    /* 카드: 동일 크기(같은 행 높이 일치) · 보라 패널 4장 그리드 · 호버 보라 테두리 · CTA 블랙→보라 */
+    .grid{ margin-top:36px; display:grid; gap:22px; grid-template-columns:repeat(auto-fill, minmax(300px, 1fr)); align-items:stretch; }
+    .card{ display:flex; flex-direction:column; text-decoration:none; color:var(--text);
+      background:var(--card-bg); border:2px solid var(--line); border-radius:22px; padding:16px;
+      box-shadow:var(--card-sh); transition:border-color .2s ease, transform .2s ease, box-shadow .2s ease; }
+    .card:hover{ border-color:#6366f1; transform:translateY(-4px); box-shadow:var(--card-sh-h); }
+    /* 보라 그라데이션 + 흰 연기 배경 */
+    .cpanel{ position:relative; overflow:hidden; border-radius:18px; aspect-ratio:4/3;
+      background:
+        radial-gradient(58% 50% at 22% 16%, rgba(255,255,255,.60), transparent 60%),
+        radial-gradient(50% 45% at 86% 84%, rgba(255,255,255,.32), transparent 60%),
+        linear-gradient(150deg,#d2d2fb 0%,#aa9cf4 38%,#7c6cf0 70%,#5b4fe0 100%); }
+    /* 흰 맥 윈도우(신호등 3점 + 4장 그리드) */
+    .cwin{ position:absolute; background:#fff; border-radius:14px; overflow:hidden;
+      box-shadow:0 20px 44px rgba(40,28,90,.30); display:flex; flex-direction:column; }
+    .cwin .bar{ flex:0 0 auto; height:22px; display:flex; align-items:center; gap:5px; padding:0 11px; }
+    .cwin .bar i{ width:8px; height:8px; border-radius:50%; background:#e2e2ea; }
+    .cgrid{ flex:1; display:grid; grid-template-columns:1fr 1fr; grid-template-rows:1fr 1fr; gap:3px; padding:0 4px 4px; min-height:0; }
+    .cgrid img{ width:100%; height:100%; min-width:0; min-height:0; object-fit:cover; border-radius:5px; display:block; background:#ececf2; }
+    /* 윈도우 위치 3종 번갈아: 1=오른쪽 / 2=가운데(아래→위) / 3=왼쪽(위→아래) */
+    .card:nth-child(3n+1) .cwin{ top:13%; left:24%; right:-8%; bottom:13%; }
+    .card:nth-child(3n+2) .cwin{ left:14%; right:14%; top:20%; bottom:-12%; }
+    .card:nth-child(3n)   .cwin{ left:-8%; right:24%; top:-12%; bottom:20%; }
+    .cbody{ padding:16px 6px 10px; }
+    .card h2{ font-size:1.06rem; font-weight:800; line-height:1.42; }
+    .card p{ color:var(--muted); margin-top:8px; font-size:.9rem; }
+    .cbtn{ margin-top:auto; display:block; text-align:center; background:#0d0d12; color:#fff;
+      font-weight:800; font-size:.95rem; padding:15px; border-radius:18px; transition:background .2s ease, box-shadow .2s ease; }
+    .card:hover .cbtn{ background:linear-gradient(95deg,#6366f1,#7c5cf6); box-shadow:0 8px 20px rgba(99,102,241,.4); }
+    footer{ margin-top:52px; color:var(--foot); font-size:.82rem; border-top:1px solid var(--line); padding-top:20px; }
+    a{ color:var(--p2); text-decoration:none; }
+    /* 검색창: 기본은 그라데이션 CTA, 클릭/입력 시 깔끔한 입력창으로 전환 */
+    .search{ position:relative; margin-top:30px; max-width:640px; }
+    .search input{ width:100%; padding:17px 18px 17px 52px; font-size:1.05rem; font-weight:600; color:#fff;
+      border:0; border-radius:16px; outline:none; cursor:text; -webkit-appearance:none;
+      background:linear-gradient(95deg,#22d3ee,#6366f1 46%,#a855f7);
+      box-shadow:0 12px 28px rgba(124,92,246,.34);
+      transition:background .25s, box-shadow .25s, color .2s, transform .15s, font-weight .2s; }
+    .search input::placeholder{ color:rgba(255,255,255,.94); font-weight:600; }
+    .search input:hover{ transform:translateY(-1px); box-shadow:0 16px 34px rgba(124,92,246,.45); }
+    .search input:focus{ background:var(--input-bg); color:var(--text); font-weight:500; box-shadow:0 0 0 3px rgba(168,85,247,.30); }
+    .search input:focus::placeholder{ color:var(--ph); font-weight:400; }
+    .search .ic{ position:absolute; left:18px; top:50%; transform:translateY(-50%); color:#fff; display:flex; pointer-events:none; transition:color .2s; }
+    .search input:focus ~ .ic{ color:var(--ph); }
+    .noresult{ display:none; color:var(--muted); margin-top:26px; text-align:center; font-size:.95rem; }
+    /* 더보기(누적) 버튼 */
+    .loadmore{ display:block; margin:38px auto 0; padding:13px 32px; font-size:1rem; font-weight:800; color:#fff;
+      border:0; border-radius:999px; cursor:pointer; background:linear-gradient(95deg,#22d3ee,#6366f1 46%,#a855f7);
+      box-shadow:0 10px 26px rgba(124,92,246,.32); transition:transform .15s, box-shadow .2s; }
+    .loadmore:hover{ transform:translateY(-2px); box-shadow:0 14px 32px rgba(124,92,246,.45); }
+    .loadmore .cnt{ opacity:.85; font-weight:700; }
+    /* 칩(국가·시즌 카테고리) */
+    .chips{ margin-top:18px; display:flex; flex-direction:column; gap:9px; }
+    .chiprow{ display:flex; flex-wrap:wrap; gap:8px; align-items:center; }
+    .chlab{ flex:0 0 auto; font-size:.76rem; font-weight:800; color:var(--muted); margin-right:2px; }
+    .chip{ display:inline-flex; align-items:center; gap:5px; padding:7px 14px; border-radius:999px; font-size:.86rem; font-weight:700;
+      background:var(--input-bg); color:var(--text); border:1px solid var(--input-bd); text-decoration:none; transition:border-color .15s, color .15s, background .15s; }
+    .chip:hover{ border-color:var(--p1); color:var(--p1); }
+    .chip.on{ background:linear-gradient(95deg,#6366f1,#a855f7); color:#fff; border-color:transparent; }
+    .chip b{ font-weight:800; opacity:.65; }
+    .chip .now{ font-size:.64rem; background:#ef4444; color:#fff; padding:1px 5px; border-radius:6px; }
+    /* 페이지네이션 */
+    .pager{ display:flex; justify-content:center; flex-wrap:wrap; gap:6px; margin:40px 0 0; }
+    .pg{ min-width:38px; height:38px; padding:0 11px; display:inline-flex; align-items:center; justify-content:center; border-radius:11px;
+      font-weight:700; font-size:.95rem; color:var(--text); background:var(--card-bg); border:1px solid var(--line); text-decoration:none; transition:border-color .15s, color .15s; }
+    .pg:hover{ border-color:var(--p1); color:var(--p1); }
+    .pg.cur{ background:linear-gradient(95deg,#6366f1,#a855f7); color:#fff; border-color:transparent; }
+    .pg.gap{ border:0; background:transparent; cursor:default; }
+    /* 검색 결과 그리드(간단 카드) */
+    .sgrid{ margin-top:36px; display:grid; gap:18px; grid-template-columns:repeat(auto-fill,minmax(230px,1fr)); }
+    .scard{ display:block; text-decoration:none; color:var(--text); background:var(--card-bg); border:1px solid var(--line); border-radius:16px; overflow:hidden; box-shadow:var(--card-sh); transition:transform .15s, box-shadow .15s; }
+    .scard:hover{ transform:translateY(-3px); box-shadow:var(--card-sh-h); }
+    .scard .th{ aspect-ratio:16/10; background:var(--input-bg); }
+    .scard .th img{ width:100%; height:100%; object-fit:cover; display:block; }
+    .scard .sb{ padding:12px 14px 14px; }
+    .scard h3{ font-size:.98rem; font-weight:800; line-height:1.42; }
+    .scard .sm{ margin-top:5px; font-size:.8rem; color:var(--muted); }
+    /* 테마 토글 버튼 */
+    .theme-toggle{ position:fixed; top:14px; right:14px; z-index:50; width:40px; height:40px; border-radius:50%;
+      border:1px solid var(--line); background:var(--card-bg); color:var(--text); cursor:pointer; display:flex; align-items:center; justify-content:center; box-shadow:var(--card-sh); }
+  </style>
+</head>
+<body>
+  <button id="themeToggle" class="theme-toggle" aria-label="다크/라이트 전환" onclick="__hcToggle()">
+    <svg width="20" height="20" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3a9 9 0 010 18z" fill="currentColor"/></svg>
+  </button>
+  <div class="wrap">
+    <header><!--CATHEAD_START--><h1>🌸 봄 여행 가성비 호텔</h1><p>봄에 어울리는 여행지의 가성비 호텔을 실제 리뷰로 비교했습니다.</p><!--CATHEAD_END--></header>
+    <div class="search">
+      <input id="q" type="search" placeholder="어디로 떠나세요? 도시로 검색 (예: 오사카, 방콕, 다낭)" autocomplete="off" aria-label="도시 검색">
+      <span class="ic"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="20" y1="20" x2="16.65" y2="16.65"/></svg></span>
+    </div>
+    <div class="chips" id="chips"><!--CHIPS_START--><div class="chiprow"><span class="chlab">시즌</span><a class="chip" href="/">전체</a><a class="chip on" href="/season/spring">🌸 봄</a><a class="chip" href="/season/summer">🏖️ 여름<span class="now">지금</span></a><a class="chip" href="/season/autumn">🍁 가을</a><a class="chip" href="/season/winter">❄️ 겨울</a></div><div class="chiprow"><span class="chlab">국가</span><a class="chip" href="/country/australia">호주 <b>128</b></a><a class="chip" href="/country/japan">일본 <b>9</b></a><a class="chip" href="/country/korea">한국 <b>7</b></a><a class="chip" href="/country/vietnam">베트남 <b>6</b></a><a class="chip" href="/country/taiwan">대만 <b>4</b></a><a class="chip" href="/country/thailand">태국 <b>4</b></a><a class="chip" href="/country/philippines">필리핀 <b>3</b></a><a class="chip" href="/country/indonesia">인도네시아 <b>2</b></a><a class="chip" href="/country/malaysia">말레이시아 <b>2</b></a><a class="chip" href="/country/hongkong">홍콩 <b>1</b></a><a class="chip" href="/country/singapore">싱가포르 <b>1</b></a></div><!--CHIPS_END--></div>
+    <main class="grid" id="article-list">
+      <!--ARTICLES_START-->
+      <a class="card" href="/articles/daegu">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/18933996/-1/e438719e0b8e885e3a257ecbec1ef20e.png?ca=15&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/18933996/-1/e438719e0b8e885e3a257ecbec1ef20e.png?ca=15&ce=1'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/77637834/0/e294fd6614d3617819d341dac8bcdc8d.jpg?ce=2&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/77637834/0/e294fd6614d3617819d341dac8bcdc8d.jpg?ce=2'" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/857289975.jpg?k=963c7ae817ca0b25b7cd6a9a519f42db32c0afeb3cc470013edbf0a74ef78e8f&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/857289975.jpg?k=963c7ae817ca0b25b7cd6a9a519f42db32c0afeb3cc470013edbf0a74ef78e8f&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/455/4558137/4558137_18031617510062827112.jpg?ca=6&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/455/4558137/4558137_18031617510062827112.jpg?ca=6&ce=1'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[한국 대구] 역세권 숙소 7개 — 한눈에 비교</h2><p>대구, 평점 9.4에 약 7만원. 역세권만 비교했습니다.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/yokohama">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/53818795/-1/1fda2bc367aa00cf462bfa0a1b864670.jpg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/53818795/-1/1fda2bc367aa00cf462bfa0a1b864670.jpg?ce=0'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/410959/0/d07852644a22d583a91d7d321c455bb0.jpg?ce=2&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/410959/0/d07852644a22d583a91d7d321c455bb0.jpg?ce=2'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/14092825/-1/ff9668e77417a220dca096030a69c167.jpg?ca=17&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/14092825/-1/ff9668e77417a220dca096030a69c167.jpg?ca=17&ce=1'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/5946705/-1/cb4dc2693f27644980a1de1026e04d70.jpg?ca=11&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/5946705/-1/cb4dc2693f27644980a1de1026e04d70.jpg?ca=11&ce=1'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[일본 요코하마] 위치 좋은 호텔 7개 — 총정리</h2><p>글로벌 캐빈 요코하마 차이나타운, 1박 약 4만원. 요코하마 가성비 7개 비교.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/incheon">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/61434550/-1/e174452bcd78cd2e326409f86a5f2ae4.jpg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/61434550/-1/e174452bcd78cd2e326409f86a5f2ae4.jpg?ce=0'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/55289353/0/27476338212b4f127a8efccfacd0b3b2.jpg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/55289353/0/27476338212b4f127a8efccfacd0b3b2.jpg?ce=0'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/995811/-1/364375da8e47ffbf54731b6ee0e323ae.jpg?ca=19&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/995811/-1/364375da8e47ffbf54731b6ee0e323ae.jpg?ca=19&ce=1'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/55823003/0/9d227b923fae7f1eeee75a09675cd331.jpg?ce=2&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/55823003/0/9d227b923fae7f1eeee75a09675cd331.jpg?ce=2'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[한국 인천] 코스파 좋은 호텔 7개 — 역세권만 골랐다</h2><p>후기 좋은 곳만 추렸어요 — 인천공항 게스트하우스 엘 외 6개</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/taichung">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/6915990/-1/9943e6e4c320d70336f1b69b9e30f756.jpg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/6915990/-1/9943e6e4c320d70336f1b69b9e30f756.jpg?ce=0'" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/875114950.jpg?k=c53a3b52ec39e7d6050baafce0f95220f03a963448f1c84cadccd4fadfcee2ba&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/875114950.jpg?k=c53a3b52ec39e7d6050baafce0f95220f03a963448f1c84cadccd4fadfcee2ba&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/35441673/0/7f6af6dc97ea4268504c89f7fc337a00.png?ce=3&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/35441673/0/7f6af6dc97ea4268504c89f7fc337a00.png?ce=3'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/1179332/0/e4e9d5b8c2860ba6235c9b31856cd2e3.png?ce=3&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/1179332/0/e4e9d5b8c2860ba6235c9b31856cd2e3.png?ce=3'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[대만 타이중] 가격 착한 호텔 7개 — 떠나기 전 필독</h2><p>평점 9.4·도보 1분, 1박 약 3만원 — 타이중 가성비 1위는?</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/jeju">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/36805458/-1/dfe4bc642e9539d2c44b7333538d5554.jpg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/36805458/-1/dfe4bc642e9539d2c44b7333538d5554.jpg?ce=0'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/6587786/-1/3e3eee5e5c1c20c149c8050cbfb53a60.jpg?ca=8&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/6587786/-1/3e3eee5e5c1c20c149c8050cbfb53a60.jpg?ca=8&ce=1'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/37787162/0/4b9fa1fca87cce239cf5e1778cf95808.jpeg?s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/37787162/0/4b9fa1fca87cce239cf5e1778cf95808.jpeg'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/2266863/-1/1c28407d6190239fac79346859f32bdd.jpg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/2266863/-1/1c28407d6190239fac79346859f32bdd.jpg?ce=0'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[한국 제주] 재방문 많은 숙소 7개 — 떠나기 전 필독</h2><p>후기 좋은 곳만 추렸어요 — 호텔 더 그랑 서귀포 외 6개</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/kaohsiung">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/1504829/0/63fde64b908d179779f2cef49a1b2b4d.jpeg?s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/1504829/0/63fde64b908d179779f2cef49a1b2b4d.jpeg'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/862067/0/035477e85109eed694be5f396e79ead2.jpeg?ce=2&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/862067/0/035477e85109eed694be5f396e79ead2.jpeg?ce=2'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/931489/0/5a3e036c0b59206b89d7f6916491b46c.jpg?ce=3&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/931489/0/5a3e036c0b59206b89d7f6916491b46c.jpg?ce=3'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/2985159/-1/5ab7e4910c76100ba096efc1f2eb3d06.jpg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/2985159/-1/5ab7e4910c76100ba096efc1f2eb3d06.jpg?ce=0'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[대만 가오슝] 가격 착한 호텔 7개 — 역세권만 골랐다</h2><p>가오슝, 평점 8.9에 약 3만원. 역세권만 비교했습니다.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/busan">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/64627051/0/e4abac4bdb250ca3afdb0977d64df10a.jpg?va=1&ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/64627051/0/e4abac4bdb250ca3afdb0977d64df10a.jpg?va=1&ce=0'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/4576021/-1/541a573f49867bafa93fa5840b6c1e6c.jpg?va=1&ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/4576021/-1/541a573f49867bafa93fa5840b6c1e6c.jpg?va=1&ce=0'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/63063347/0/7a95b2bebd2895797af172186e15b3a6.jpg?va=1&ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/63063347/0/7a95b2bebd2895797af172186e15b3a6.jpg?va=1&ce=0'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/206/20615204/20615204_20121014060093591022.jpg?va=1&ca=16&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/206/20615204/20615204_20121014060093591022.jpg?va=1&ca=16&ce=1'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[한국 부산] 실속형 호텔 7개 — 한눈에 비교</h2><p>실제 투숙객 리뷰로 검증한 부산 7개. 가격 대비 만족도 1위가 궁금하다면.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/nagoya">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/property/46431429/0/c351693742fa3c38179a8d1b15423f55.jpeg?ce=3&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/property/46431429/0/c351693742fa3c38179a8d1b15423f55.jpeg?ce=3'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/9891910/0/c9cbe8d21680bd1bf57ac3e701a8c4c6.jpeg?s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/9891910/0/c9cbe8d21680bd1bf57ac3e701a8c4c6.jpeg'" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/795379560.jpg?k=f53d8aaac2a19f3d572ee9a9333000b2667428cb7e37aba083132ab373752db9&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/795379560.jpg?k=f53d8aaac2a19f3d572ee9a9333000b2667428cb7e37aba083132ab373752db9&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/64171597/0/0286acbd4ac841696ff07e4e2425ef5f.jpeg?ce=2&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/64171597/0/0286acbd4ac841696ff07e4e2425ef5f.jpeg?ce=2'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[일본 나고야] 가심비 좋은 숙소 7개 — 한눈에 비교</h2><p>Hotel Abc Nagoya Eki Shinkansenguchi, 1박 약 7만원. 나고야 가성비 7개 비교.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/hongkong">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/7406638/-1/7b1d5ad542ef71f247dc758113a567c2.jpg?ca=9&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/7406638/-1/7b1d5ad542ef71f247dc758113a567c2.jpg?ca=9&ce=1'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/9829023/-1/331727fd25d22eadbf71633111f00e54.jpg?ca=16&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/9829023/-1/331727fd25d22eadbf71633111f00e54.jpg?ca=16&ce=1'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/36820409/-1/66f9e8841b7bc7659b358feaf452443c.jpg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/36820409/-1/66f9e8841b7bc7659b358feaf452443c.jpg?ce=0'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/35055407/0/2c51c7636800b1ebc5e458fe447e8655.jpeg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/35055407/0/2c51c7636800b1ebc5e458fe447e8655.jpeg?ce=0'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[홍콩] 가심비 좋은 호텔 7개 — 떠나기 전 필독</h2><p>후기 좋은 곳만 추렸어요 — 하이 백패커스 외 6개</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/taipei">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/59425219/0/aef99f8ae2bc0faaeb35e6b4b88f6d48.jpg?ce=2&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/59425219/0/aef99f8ae2bc0faaeb35e6b4b88f6d48.jpg?ce=2'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/1620123/-1/95993304e1b6178a77076d273f5a2ddb.jpg?ca=0&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/1620123/-1/95993304e1b6178a77076d273f5a2ddb.jpg?ca=0&ce=1'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/55287011/-1/f89600950c809fada46e100423d999df.jpg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/55287011/-1/f89600950c809fada46e100423d999df.jpg?ce=0'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/1023680/0/7e78f68adbdfc81ce8738b1d17587419.jpeg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/1023680/0/7e78f68adbdfc81ce8738b1d17587419.jpeg?ce=0'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[대만 타이베이] 손꼽히는 숙소 7개 — 후회 없는 선택</h2><p>실제 투숙객 리뷰로 검증한 타이베이 7개. 가격 대비 만족도 1위가 궁금하다면.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/seoul">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/75205622/0/4ca3f8d8b32a8a59d8f3c4ff491df355.jpg?va=1&ce=3&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/75205622/0/4ca3f8d8b32a8a59d8f3c4ff491df355.jpg?va=1&ce=3'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/35655571/0/78506651301cc0ad47913e8e149a4770.jpg?va=1&ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/35655571/0/78506651301cc0ad47913e8e149a4770.jpg?va=1&ce=0'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/84545995/0/74d766cef33ec4112474fc0043786ce4.jpg?va=1&ce=3&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/84545995/0/74d766cef33ec4112474fc0043786ce4.jpg?va=1&ce=3'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/51931909/-1/ed8ed8265924c6c2a361cb875763ac68.jpg?va=1&ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/51931909/-1/ed8ed8265924c6c2a361cb875763ac68.jpg?va=1&ce=0'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[한국 서울] 리뷰 좋은 호텔 BEST 7</h2><p>실제 투숙객 리뷰로 검증한 서울 7개. 가격 대비 만족도 1위가 궁금하다면.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/fukuoka">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/65747029/0/5109d17d1558a5e826ef93ac69fdf1fd.jpg?ce=3&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/65747029/0/5109d17d1558a5e826ef93ac69fdf1fd.jpg?ce=3'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/409710/0/67d7e65f870c466b5511eaf962aac02d.jpeg?ce=3&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/409710/0/67d7e65f870c466b5511eaf962aac02d.jpeg?ce=3'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/2429693/0/c8f90415f4eecac155fe9333b3b12ccb.jpeg?ce=2&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/2429693/0/c8f90415f4eecac155fe9333b3b12ccb.jpeg?ce=2'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/7616486/0/b439ddda74586c3a21062a4fcab0e3a9.jpeg?ce=2&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/7616486/0/b439ddda74586c3a21062a4fcab0e3a9.jpeg?ce=2'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[일본 후쿠오카] 손꼽히는 호텔 7개 — 역세권만 골랐다</h2><p>후쿠오카 게스트하우스 짓카, 1박 약 5만원. 후쿠오카 가성비 7개 비교.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <!--ARTICLES_END-->
+    </main>
+    <div class="sgrid" id="searchResults" style="display:none"></div>
+    <nav class="pager" id="pager" aria-label="페이지"><!--PAGER_START--><a class="pg nav" href="/season/spring/page/11" aria-label="이전">‹</a><a class="pg" href="/season/spring">1</a><span class="pg gap">…</span><a class="pg" href="/season/spring/page/10">10</a><a class="pg" href="/season/spring/page/11">11</a><span class="pg cur" aria-current="page">12</span><a class="pg" href="/season/spring/page/13">13</a><a class="pg nav" href="/season/spring/page/13" aria-label="다음">›</a><!--PAGER_END--></nav>
+    <p class="noresult" id="noresult">검색 결과가 없습니다.</p>
+    <footer>
+      <p>본 사이트의 일부 링크는 제휴(어필리에이트) 링크이며, 구매 시 수수료를 받을 수 있습니다. 평점·리뷰는 실제 데이터에 근거합니다.</p>
+    </footer>
+  </div>
+  <script>
+    function __hcToggle(){var r=document.documentElement;var cur=r.getAttribute('data-theme');var eff=cur||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');var next=eff==='dark'?'light':'dark';r.setAttribute('data-theme',next);try{localStorage.setItem('hc-theme',next);}catch(e){}}
+    (function(){
+      var q=document.getElementById('q');
+      var grid=document.getElementById('article-list');
+      var chips=document.getElementById('chips');
+      var pager=document.getElementById('pager');
+      var sr=document.getElementById('searchResults');
+      var nr=document.getElementById('noresult');
+      if(!q) return;
+      var idx=null, timer=null;
+      function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+      function scard(a){
+        return '<a class="scard" href="/articles/'+a.slug+'">'
+          +'<div class="th">'+(a.img?'<img src="'+esc(a.img)+'" alt="" loading="lazy">':'')+'</div>'
+          +'<div class="sb"><h3>'+esc(a.title)+'</h3><div class="sm">'+esc([a.country,a.city].filter(Boolean).join(' · '))+'</div></div></a>';
+      }
+      function browse(){ sr.style.display='none'; sr.innerHTML=''; nr.style.display='none';
+        grid.style.display=''; if(pager)pager.style.display=''; if(chips)chips.style.display=''; }
+      function results(v){
+        var lc=v.toLowerCase();
+        var hits=(idx||[]).filter(function(a){return (a.title+' '+(a.city||'')+' '+(a.country||'')).toLowerCase().indexOf(lc)>=0;});
+        sr.innerHTML=hits.map(scard).join('');
+        grid.style.display='none'; if(pager)pager.style.display='none'; if(chips)chips.style.display='none';
+        sr.style.display=''; nr.style.display=hits.length?'none':'block';
+      }
+      function run(v){ if(!v){browse();return;} if(idx){results(v);return;}
+        fetch('/articles.json').then(function(r){return r.json();}).then(function(d){idx=d;results(v);}).catch(function(){}); }
+      q.addEventListener('input',function(){clearTimeout(timer);var v=q.value.trim();timer=setTimeout(function(){run(v);},120);});
+    })();
+  </script>
+</body>
+</html>

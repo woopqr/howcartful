@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>가을 여행 가성비 호텔 — howcartful · 8페이지</title>
+  <meta name="description" content="AI가 실제 호텔 리뷰 데이터를 분석해 가성비 좋은 호텔을 근거기반으로 비교·추천하는 모음 사이트.">
+  <link rel="canonical" href="https://howcartful.com/season/autumn/page/8">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <script>(function(){try{var t=localStorage.getItem('hc-theme');if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','light');}})();</script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9152627772468202" crossorigin="anonymous"></script>
+  <style>
+    /* 라이트 기본값 */
+    :root{
+      --bg:#fbfbfe; --text:#15171c; --muted:#5b6470; --line:#e6e8ef; --p1:#a855f7; --p2:#3b82f6;
+      --glow:rgba(124,92,246,.10);
+      --card-bg:#ffffff; --card-sh:0 8px 24px rgba(30,30,60,.08); --card-sh-h:0 16px 40px rgba(124,92,246,.18);
+      --border-op:.55; --foot:#8a93a3; --input-bg:#f4f5f9; --input-bd:#e0e3ec; --ph:#9aa3b2;
+    }
+    /* 다크 값 (시스템 다크 + 수동 다크) */
+    @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+      --bg:#0a0a12; --text:#eef0f5; --muted:#9aa3b2; --line:#1c1c28; --glow:rgba(124,92,246,.18);
+      --card-bg:linear-gradient(180deg,#14141f,#101019); --card-sh:0 10px 30px rgba(0,0,0,.5); --card-sh-h:0 18px 50px rgba(124,92,246,.38);
+      --foot:#6b7280; --input-bg:#12121c; --input-bd:#262633; --ph:#6b7280;
+    }}
+    :root[data-theme="dark"]{
+      --bg:#0a0a12; --text:#eef0f5; --muted:#9aa3b2; --line:#1c1c28; --glow:rgba(124,92,246,.18);
+      --card-bg:linear-gradient(180deg,#14141f,#101019); --card-sh:0 10px 30px rgba(0,0,0,.5); --card-sh-h:0 18px 50px rgba(124,92,246,.38);
+      --foot:#6b7280; --input-bg:#12121c; --input-bd:#262633; --ph:#6b7280;
+    }
+    *{ box-sizing:border-box; margin:0; padding:0; }
+    body{ font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans KR',sans-serif;
+      color:var(--text); line-height:1.6; min-height:100vh;
+      background:radial-gradient(1100px 560px at 50% -220px, var(--glow), transparent 70%), var(--bg); }
+    .wrap{ max-width:1080px; margin:0 auto; padding:56px 20px; }
+    header h1{ font-size:2rem; font-weight:900; letter-spacing:-.02em;
+      background:linear-gradient(90deg, var(--p1), var(--p2)); -webkit-background-clip:text; background-clip:text; color:transparent; }
+    header p{ color:var(--muted); margin-top:8px; }
+    /* 카드: 동일 크기(같은 행 높이 일치) · 보라 패널 4장 그리드 · 호버 보라 테두리 · CTA 블랙→보라 */
+    .grid{ margin-top:36px; display:grid; gap:22px; grid-template-columns:repeat(auto-fill, minmax(300px, 1fr)); align-items:stretch; }
+    .card{ display:flex; flex-direction:column; text-decoration:none; color:var(--text);
+      background:var(--card-bg); border:2px solid var(--line); border-radius:22px; padding:16px;
+      box-shadow:var(--card-sh); transition:border-color .2s ease, transform .2s ease, box-shadow .2s ease; }
+    .card:hover{ border-color:#6366f1; transform:translateY(-4px); box-shadow:var(--card-sh-h); }
+    /* 보라 그라데이션 + 흰 연기 배경 */
+    .cpanel{ position:relative; overflow:hidden; border-radius:18px; aspect-ratio:4/3;
+      background:
+        radial-gradient(58% 50% at 22% 16%, rgba(255,255,255,.60), transparent 60%),
+        radial-gradient(50% 45% at 86% 84%, rgba(255,255,255,.32), transparent 60%),
+        linear-gradient(150deg,#d2d2fb 0%,#aa9cf4 38%,#7c6cf0 70%,#5b4fe0 100%); }
+    /* 흰 맥 윈도우(신호등 3점 + 4장 그리드) */
+    .cwin{ position:absolute; background:#fff; border-radius:14px; overflow:hidden;
+      box-shadow:0 20px 44px rgba(40,28,90,.30); display:flex; flex-direction:column; }
+    .cwin .bar{ flex:0 0 auto; height:22px; display:flex; align-items:center; gap:5px; padding:0 11px; }
+    .cwin .bar i{ width:8px; height:8px; border-radius:50%; background:#e2e2ea; }
+    .cgrid{ flex:1; display:grid; grid-template-columns:1fr 1fr; grid-template-rows:1fr 1fr; gap:3px; padding:0 4px 4px; min-height:0; }
+    .cgrid img{ width:100%; height:100%; min-width:0; min-height:0; object-fit:cover; border-radius:5px; display:block; background:#ececf2; }
+    /* 윈도우 위치 3종 번갈아: 1=오른쪽 / 2=가운데(아래→위) / 3=왼쪽(위→아래) */
+    .card:nth-child(3n+1) .cwin{ top:13%; left:24%; right:-8%; bottom:13%; }
+    .card:nth-child(3n+2) .cwin{ left:14%; right:14%; top:20%; bottom:-12%; }
+    .card:nth-child(3n)   .cwin{ left:-8%; right:24%; top:-12%; bottom:20%; }
+    .cbody{ padding:16px 6px 10px; }
+    .card h2{ font-size:1.06rem; font-weight:800; line-height:1.42; }
+    .card p{ color:var(--muted); margin-top:8px; font-size:.9rem; }
+    .cbtn{ margin-top:auto; display:block; text-align:center; background:#0d0d12; color:#fff;
+      font-weight:800; font-size:.95rem; padding:15px; border-radius:18px; transition:background .2s ease, box-shadow .2s ease; }
+    .card:hover .cbtn{ background:linear-gradient(95deg,#6366f1,#7c5cf6); box-shadow:0 8px 20px rgba(99,102,241,.4); }
+    footer{ margin-top:52px; color:var(--foot); font-size:.82rem; border-top:1px solid var(--line); padding-top:20px; }
+    a{ color:var(--p2); text-decoration:none; }
+    /* 검색창: 기본은 그라데이션 CTA, 클릭/입력 시 깔끔한 입력창으로 전환 */
+    .search{ position:relative; margin-top:30px; max-width:640px; }
+    .search input{ width:100%; padding:17px 18px 17px 52px; font-size:1.05rem; font-weight:600; color:#fff;
+      border:0; border-radius:16px; outline:none; cursor:text; -webkit-appearance:none;
+      background:linear-gradient(95deg,#22d3ee,#6366f1 46%,#a855f7);
+      box-shadow:0 12px 28px rgba(124,92,246,.34);
+      transition:background .25s, box-shadow .25s, color .2s, transform .15s, font-weight .2s; }
+    .search input::placeholder{ color:rgba(255,255,255,.94); font-weight:600; }
+    .search input:hover{ transform:translateY(-1px); box-shadow:0 16px 34px rgba(124,92,246,.45); }
+    .search input:focus{ background:var(--input-bg); color:var(--text); font-weight:500; box-shadow:0 0 0 3px rgba(168,85,247,.30); }
+    .search input:focus::placeholder{ color:var(--ph); font-weight:400; }
+    .search .ic{ position:absolute; left:18px; top:50%; transform:translateY(-50%); color:#fff; display:flex; pointer-events:none; transition:color .2s; }
+    .search input:focus ~ .ic{ color:var(--ph); }
+    .noresult{ display:none; color:var(--muted); margin-top:26px; text-align:center; font-size:.95rem; }
+    /* 더보기(누적) 버튼 */
+    .loadmore{ display:block; margin:38px auto 0; padding:13px 32px; font-size:1rem; font-weight:800; color:#fff;
+      border:0; border-radius:999px; cursor:pointer; background:linear-gradient(95deg,#22d3ee,#6366f1 46%,#a855f7);
+      box-shadow:0 10px 26px rgba(124,92,246,.32); transition:transform .15s, box-shadow .2s; }
+    .loadmore:hover{ transform:translateY(-2px); box-shadow:0 14px 32px rgba(124,92,246,.45); }
+    .loadmore .cnt{ opacity:.85; font-weight:700; }
+    /* 칩(국가·시즌 카테고리) */
+    .chips{ margin-top:18px; display:flex; flex-direction:column; gap:9px; }
+    .chiprow{ display:flex; flex-wrap:wrap; gap:8px; align-items:center; }
+    .chlab{ flex:0 0 auto; font-size:.76rem; font-weight:800; color:var(--muted); margin-right:2px; }
+    .chip{ display:inline-flex; align-items:center; gap:5px; padding:7px 14px; border-radius:999px; font-size:.86rem; font-weight:700;
+      background:var(--input-bg); color:var(--text); border:1px solid var(--input-bd); text-decoration:none; transition:border-color .15s, color .15s, background .15s; }
+    .chip:hover{ border-color:var(--p1); color:var(--p1); }
+    .chip.on{ background:linear-gradient(95deg,#6366f1,#a855f7); color:#fff; border-color:transparent; }
+    .chip b{ font-weight:800; opacity:.65; }
+    .chip .now{ font-size:.64rem; background:#ef4444; color:#fff; padding:1px 5px; border-radius:6px; }
+    /* 페이지네이션 */
+    .pager{ display:flex; justify-content:center; flex-wrap:wrap; gap:6px; margin:40px 0 0; }
+    .pg{ min-width:38px; height:38px; padding:0 11px; display:inline-flex; align-items:center; justify-content:center; border-radius:11px;
+      font-weight:700; font-size:.95rem; color:var(--text); background:var(--card-bg); border:1px solid var(--line); text-decoration:none; transition:border-color .15s, color .15s; }
+    .pg:hover{ border-color:var(--p1); color:var(--p1); }
+    .pg.cur{ background:linear-gradient(95deg,#6366f1,#a855f7); color:#fff; border-color:transparent; }
+    .pg.gap{ border:0; background:transparent; cursor:default; }
+    /* 검색 결과 그리드(간단 카드) */
+    .sgrid{ margin-top:36px; display:grid; gap:18px; grid-template-columns:repeat(auto-fill,minmax(230px,1fr)); }
+    .scard{ display:block; text-decoration:none; color:var(--text); background:var(--card-bg); border:1px solid var(--line); border-radius:16px; overflow:hidden; box-shadow:var(--card-sh); transition:transform .15s, box-shadow .15s; }
+    .scard:hover{ transform:translateY(-3px); box-shadow:var(--card-sh-h); }
+    .scard .th{ aspect-ratio:16/10; background:var(--input-bg); }
+    .scard .th img{ width:100%; height:100%; object-fit:cover; display:block; }
+    .scard .sb{ padding:12px 14px 14px; }
+    .scard h3{ font-size:.98rem; font-weight:800; line-height:1.42; }
+    .scard .sm{ margin-top:5px; font-size:.8rem; color:var(--muted); }
+    /* 테마 토글 버튼 */
+    .theme-toggle{ position:fixed; top:14px; right:14px; z-index:50; width:40px; height:40px; border-radius:50%;
+      border:1px solid var(--line); background:var(--card-bg); color:var(--text); cursor:pointer; display:flex; align-items:center; justify-content:center; box-shadow:var(--card-sh); }
+  </style>
+</head>
+<body>
+  <button id="themeToggle" class="theme-toggle" aria-label="다크/라이트 전환" onclick="__hcToggle()">
+    <svg width="20" height="20" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3a9 9 0 010 18z" fill="currentColor"/></svg>
+  </button>
+  <div class="wrap">
+    <header><!--CATHEAD_START--><h1>🍁 가을 여행 가성비 호텔</h1><p>가을에 어울리는 여행지의 가성비 호텔을 실제 리뷰로 비교했습니다.</p><!--CATHEAD_END--></header>
+    <div class="search">
+      <input id="q" type="search" placeholder="어디로 떠나세요? 도시로 검색 (예: 오사카, 방콕, 다낭)" autocomplete="off" aria-label="도시 검색">
+      <span class="ic"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="20" y1="20" x2="16.65" y2="16.65"/></svg></span>
+    </div>
+    <div class="chips" id="chips"><!--CHIPS_START--><div class="chiprow"><span class="chlab">시즌</span><a class="chip" href="/">전체</a><a class="chip" href="/season/spring">🌸 봄</a><a class="chip" href="/season/summer">🏖️ 여름<span class="now">지금</span></a><a class="chip on" href="/season/autumn">🍁 가을</a><a class="chip" href="/season/winter">❄️ 겨울</a></div><div class="chiprow"><span class="chlab">국가</span><a class="chip" href="/country/australia">호주 <b>128</b></a><a class="chip" href="/country/japan">일본 <b>9</b></a><a class="chip" href="/country/korea">한국 <b>7</b></a><a class="chip" href="/country/vietnam">베트남 <b>6</b></a><a class="chip" href="/country/taiwan">대만 <b>4</b></a><a class="chip" href="/country/thailand">태국 <b>4</b></a><a class="chip" href="/country/philippines">필리핀 <b>3</b></a><a class="chip" href="/country/indonesia">인도네시아 <b>2</b></a><a class="chip" href="/country/malaysia">말레이시아 <b>2</b></a><a class="chip" href="/country/hongkong">홍콩 <b>1</b></a><a class="chip" href="/country/singapore">싱가포르 <b>1</b></a></div><!--CHIPS_END--></div>
+    <main class="grid" id="article-list">
+      <!--ARTICLES_START-->
+      <a class="card" href="/articles/australia-narrabri">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/566973/-1/5d86e5d8ef24b27fec455e1eef785354.jpg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/566973/-1/5d86e5d8ef24b27fec455e1eef785354.jpg?ce=0'" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/184501897.jpg?k=be21bc46d2f3b9cd3614e7f13f881faaa7aeb96b29a7806ae57a40fde12f7581&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/184501897.jpg?k=be21bc46d2f3b9cd3614e7f13f881faaa7aeb96b29a7806ae57a40fde12f7581&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/72658366/0/ab3f66aa26c32a75263baf912f49ff53.jpg?ce=2&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/72658366/0/ab3f66aa26c32a75263baf912f49ff53.jpg?ce=2'" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/544586485.jpg?k=49d2b7e43ba374584d171e6387922c0a24ca362ab870c15c576f82cb13f180ee&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/544586485.jpg?k=49d2b7e43ba374584d171e6387922c0a24ca362ab870c15c576f82cb13f180ee&o='" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 나라브리] 손꼽히는 호텔 BEST 7</h2><p>실제 투숙객 리뷰로 검증한 나라브리 7개. 가격 대비 만족도 1위가 궁금하다면.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-nanango">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/113917432.jpg?k=b9f93f7dd34ed96ff9f152113d053175001aab3de23f2faa2d695dd9656a2370&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/113917432.jpg?k=b9f93f7dd34ed96ff9f152113d053175001aab3de23f2faa2d695dd9656a2370&o='" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/659268467.jpg?k=b5b16ebaf59ef5d1df2287d7402b38b31fbced3d97ad8af44d8e9a79138ac5db&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/659268467.jpg?k=b5b16ebaf59ef5d1df2287d7402b38b31fbced3d97ad8af44d8e9a79138ac5db&o='" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/76364076.jpg?k=97155a578273ad2bbcf102663ec3362ada0034872a2e9fa57b11687a590ec362&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/76364076.jpg?k=97155a578273ad2bbcf102663ec3362ada0034872a2e9fa57b11687a590ec362&o='" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/430655545.jpg?k=b49dbdc8f3693b414193748ae423a2520f217866858d7b90bb515ec48cecd336&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/430655545.jpg?k=b49dbdc8f3693b414193748ae423a2520f217866858d7b90bb515ec48cecd336&o='" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 나낭고] 가격 착한 숙소 BEST 5</h2><p>나낭고, 평점 9.7에 약 15만원. 역세권만 비교했습니다.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-nagambie">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/397027519.jpg?k=4cea03b882fb727c001015e865302c7f3e6d2e78a898dfccb591abdb1aa578de&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/397027519.jpg?k=4cea03b882fb727c001015e865302c7f3e6d2e78a898dfccb591abdb1aa578de&o='" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/80878831.jpg?k=d5216c35df14460f36d57e6c74d83db01742cc7dac26ba837bd66e69ebbf8b32&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/80878831.jpg?k=d5216c35df14460f36d57e6c74d83db01742cc7dac26ba837bd66e69ebbf8b32&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/286201/-1/8df38fe584190a0fe48783be4e6e67cc.jpg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/286201/-1/8df38fe584190a0fe48783be4e6e67cc.jpg?ce=0'" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/598855687.jpg?k=83c3eacc453fa437676eb70968a99220964fce02c61c8f7e796e30a99961e62a&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/598855687.jpg?k=83c3eacc453fa437676eb70968a99220964fce02c61c8f7e796e30a99961e62a&o='" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 나감비] 실속형 호텔 7개 — 실제 후기로 검증</h2><p>실제 투숙객 리뷰로 검증한 나감비 7개. 가격 대비 만족도 1위가 궁금하다면.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-gypsy-point">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/607836729.jpg?k=d6e2045cf98a1ae409d28e7eec0e45c902a6236d1bd6e72f3c3417addb8260a3&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/607836729.jpg?k=d6e2045cf98a1ae409d28e7eec0e45c902a6236d1bd6e72f3c3417addb8260a3&o='" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 깁시 포인트] 손꼽히는 호텔 1개 — 역세권만 골랐다</h2><p>깁시 포인트, 평점 9에 약 18만원. 역세권만 비교했습니다.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-gippsland-region">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/215150451.jpg?k=c8d01b4f03a20a32e2d42d8c4e184cf29444b9186efd714f61473ea02a8f1d4f&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/215150451.jpg?k=c8d01b4f03a20a32e2d42d8c4e184cf29444b9186efd714f61473ea02a8f1d4f&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/78759335/0/a66b5f00081dca5b2a4a8d163e6d011d.jpg?ce=2&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/78759335/0/a66b5f00081dca5b2a4a8d163e6d011d.jpg?ce=2'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/303708/0/6ab5793750ce96e034798247ee32c93e.jpeg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/303708/0/6ab5793750ce96e034798247ee32c93e.jpeg?ce=0'" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/530181158.jpg?k=35885ea2492427f1de23ed950329f2eed941638fe4bffcb43495c3650fd61344&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/530181158.jpg?k=35885ea2492427f1de23ed950329f2eed941638fe4bffcb43495c3650fd61344&o='" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 깁스랜드 리지온] 역세권 숙소 7개 — 총정리</h2><p>실제 투숙객 리뷰로 검증한 깁스랜드 리지온 7개. 가격 대비 만족도 1위가 궁금하다면.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-gilgandra">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/734951221.jpg?k=0412139a4d43508298f443e9c2caa4f048093ab3d6b15669b677d1cbf43ec4d4&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/734951221.jpg?k=0412139a4d43508298f443e9c2caa4f048093ab3d6b15669b677d1cbf43ec4d4&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/674/6748816/6748816_19031311040072956438.jpg?ca=8&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/674/6748816/6748816_19031311040072956438.jpg?ca=8&ce=1'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/32913825/0/f9a92b5557568a63d2e27b10a9fc7236.jpg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/32913825/0/f9a92b5557568a63d2e27b10a9fc7236.jpg?ce=0'" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/372516941.jpg?k=9239e4c0b3e185ba4a6b374bdb909a74f4d1b8f36be6154a2c2476f8933a0dcb&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/372516941.jpg?k=9239e4c0b3e185ba4a6b374bdb909a74f4d1b8f36be6154a2c2476f8933a0dcb&o='" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 길간드라] 코스파 좋은 숙소 6개 — 후회 없는 선택</h2><p>도보 null분 + 가성비 순. 길간드라 6개 한눈에 비교.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-gingin">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/4600370/-1/b11bea23b478191996f24c878ba87ff7.jpg?ca=7&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/4600370/-1/b11bea23b478191996f24c878ba87ff7.jpg?ca=7&ce=1'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 긴긴] 가성비 좋은 호텔 BEST 1</h2><p>평점 7.5·도보 null분, 1박 약 9만원 — 긴긴 가성비 1위는?</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-gloucester">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/702114257.jpg?k=b22bd1c70f22aa15451211ff7acdb8f4009d8efa25eee7f9d6bf3fb80e576575&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/702114257.jpg?k=b22bd1c70f22aa15451211ff7acdb8f4009d8efa25eee7f9d6bf3fb80e576575&o='" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/300350115.jpg?k=750ff1c92e83873db38464440090ff97ecc721e2b6125699c51e2f2536b7d4b8&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/300350115.jpg?k=750ff1c92e83873db38464440090ff97ecc721e2b6125699c51e2f2536b7d4b8&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/255805/-1/50472520027c0e40deb12d5e2b55644d.jpg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/255805/-1/50472520027c0e40deb12d5e2b55644d.jpg?ce=0'" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/608149588.jpg?k=bcaae66746f3b8edc57507b72a3bc56ccc1ce54aaec1b24d2e9a6dc1ccdd0403&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/608149588.jpg?k=bcaae66746f3b8edc57507b72a3bc56ccc1ce54aaec1b24d2e9a6dc1ccdd0403&o='" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 글로우세스터] 깔끔한 호텔 7개 — 후회 없는 선택</h2><p>후기 좋은 곳만 추렸어요 — Avon Valley Inn Hotel 외 6개</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-glen-innes">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/260481839.jpg?k=ed5fd504bed02127221d6c60684fd8d0c2cd29d372c4dd72f6c9ff47ef069ae6&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/260481839.jpg?k=ed5fd504bed02127221d6c60684fd8d0c2cd29d372c4dd72f6c9ff47ef069ae6&o='" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/163604303.jpg?k=f60e70fc00670422ff65a7da39d6301368fe31e9098b065db763939d8c332a14&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/163604303.jpg?k=f60e70fc00670422ff65a7da39d6301368fe31e9098b065db763939d8c332a14&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/685149/0/82c3d480aa8f077a4701c0ec307363cc.jpg?ce=3&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/685149/0/82c3d480aa8f077a4701c0ec307363cc.jpg?ce=3'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/836890/0/3d711f62e78ea40cf6be8aa80c01817a.jpeg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/836890/0/3d711f62e78ea40cf6be8aa80c01817a.jpeg?ce=0'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 글렌 이네스] 가격 착한 호텔 7개 — 솔직 비교</h2><p>도보 null분 + 가성비 순. 글렌 이네스 7개 한눈에 비교.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-gladstone">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/135311888.jpg?k=2105dfc373b5f8d855711d97633b5f597d4b068a6a3bcb6108c47eb3c3a700e3&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/135311888.jpg?k=2105dfc373b5f8d855711d97633b5f597d4b068a6a3bcb6108c47eb3c3a700e3&o='" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/161225290.jpg?k=45f5e43508e762fe45e0f64c058391bed6f0f94581b951ec1fe3365756c7e39d&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/161225290.jpg?k=45f5e43508e762fe45e0f64c058391bed6f0f94581b951ec1fe3365756c7e39d&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/127/1270835/1270835_16082309420045708091.jpg?ca=6&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/127/1270835/1270835_16082309420045708091.jpg?ca=6&ce=1'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/224/22402677/22402677_21020911460094886907.jpg?ca=17&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/224/22402677/22402677_21020911460094886907.jpg?ca=17&ce=1'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 글래드스톤] 재방문 많은 숙소 7개 — 가격 대비 만족도 1위는?</h2><p>글래드스톤, 평점 7.7에 약 4만원. 역세권만 비교했습니다.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-greens-beach">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/724076/0/1554006015534d5a615a1de4062753eb.jpeg?s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/724076/0/1554006015534d5a615a1de4062753eb.jpeg'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/487397/0/a94e535f33a2bb889118d97a2383a286.jpg?ca=0&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/487397/0/a94e535f33a2bb889118d97a2383a286.jpg?ca=0&ce=1'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/161/161944/161944_17101212000057712587.jpg?ca=6&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/161/161944/161944_17101212000057712587.jpg?ca=6&ce=1'" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/652417006.jpg?k=2d2c25c1793e2abf19fc01f70355908e51a4440740eda7b44fcdc769ae44f763&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/652417006.jpg?k=2d2c25c1793e2abf19fc01f70355908e51a4440740eda7b44fcdc769ae44f763&o='" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 그린스 비치] 가성비 좋은 호텔 5개 — 후회 없는 선택</h2><p>뷰티 포인트 투어리스트 파크 캐빈, 1박 약 18만원. 그린스 비치 가성비 5개 비교.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-griffith">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/382577890.jpg?k=0862eeda427ea2ee372f0f496cdfe2261f3a5e8af20a57bb1296e0941b90f767&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/382577890.jpg?k=0862eeda427ea2ee372f0f496cdfe2261f3a5e8af20a57bb1296e0941b90f767&o='" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/858426921.jpg?k=3502a2249be356a6ca006851290da587619176aaa7fef6c3b7b28e0c13f84eff&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/858426921.jpg?k=3502a2249be356a6ca006851290da587619176aaa7fef6c3b7b28e0c13f84eff&o='" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/274356770.jpg?k=0847efcc290a5f55e791c569b330af4efa71323c7587bb7f9c99d7aee891b3e7&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/274356770.jpg?k=0847efcc290a5f55e791c569b330af4efa71323c7587bb7f9c99d7aee891b3e7&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/49847/0/0b96e9b2f158001da02db45423e1fe69.jpeg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/49847/0/0b96e9b2f158001da02db45423e1fe69.jpeg?ce=0'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 그리피스] 코스파 좋은 숙소 7개 — 한눈에 비교</h2><p>Coro Club Motel, 1박 약 12만원. 그리피스 가성비 7개 비교.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <!--ARTICLES_END-->
+    </main>
+    <div class="sgrid" id="searchResults" style="display:none"></div>
+    <nav class="pager" id="pager" aria-label="페이지"><!--PAGER_START--><a class="pg nav" href="/season/autumn/page/7" aria-label="이전">‹</a><a class="pg" href="/season/autumn">1</a><span class="pg gap">…</span><a class="pg" href="/season/autumn/page/6">6</a><a class="pg" href="/season/autumn/page/7">7</a><span class="pg cur" aria-current="page">8</span><a class="pg" href="/season/autumn/page/9">9</a><a class="pg" href="/season/autumn/page/10">10</a><span class="pg gap">…</span><a class="pg" href="/season/autumn/page/13">13</a><a class="pg nav" href="/season/autumn/page/9" aria-label="다음">›</a><!--PAGER_END--></nav>
+    <p class="noresult" id="noresult">검색 결과가 없습니다.</p>
+    <footer>
+      <p>본 사이트의 일부 링크는 제휴(어필리에이트) 링크이며, 구매 시 수수료를 받을 수 있습니다. 평점·리뷰는 실제 데이터에 근거합니다.</p>
+    </footer>
+  </div>
+  <script>
+    function __hcToggle(){var r=document.documentElement;var cur=r.getAttribute('data-theme');var eff=cur||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');var next=eff==='dark'?'light':'dark';r.setAttribute('data-theme',next);try{localStorage.setItem('hc-theme',next);}catch(e){}}
+    (function(){
+      var q=document.getElementById('q');
+      var grid=document.getElementById('article-list');
+      var chips=document.getElementById('chips');
+      var pager=document.getElementById('pager');
+      var sr=document.getElementById('searchResults');
+      var nr=document.getElementById('noresult');
+      if(!q) return;
+      var idx=null, timer=null;
+      function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+      function scard(a){
+        return '<a class="scard" href="/articles/'+a.slug+'">'
+          +'<div class="th">'+(a.img?'<img src="'+esc(a.img)+'" alt="" loading="lazy">':'')+'</div>'
+          +'<div class="sb"><h3>'+esc(a.title)+'</h3><div class="sm">'+esc([a.country,a.city].filter(Boolean).join(' · '))+'</div></div></a>';
+      }
+      function browse(){ sr.style.display='none'; sr.innerHTML=''; nr.style.display='none';
+        grid.style.display=''; if(pager)pager.style.display=''; if(chips)chips.style.display=''; }
+      function results(v){
+        var lc=v.toLowerCase();
+        var hits=(idx||[]).filter(function(a){return (a.title+' '+(a.city||'')+' '+(a.country||'')).toLowerCase().indexOf(lc)>=0;});
+        sr.innerHTML=hits.map(scard).join('');
+        grid.style.display='none'; if(pager)pager.style.display='none'; if(chips)chips.style.display='none';
+        sr.style.display=''; nr.style.display=hits.length?'none':'block';
+      }
+      function run(v){ if(!v){browse();return;} if(idx){results(v);return;}
+        fetch('/articles.json').then(function(r){return r.json();}).then(function(d){idx=d;results(v);}).catch(function(){}); }
+      q.addEventListener('input',function(){clearTimeout(timer);var v=q.value.trim();timer=setTimeout(function(){run(v);},120);});
+    })();
+  </script>
+</body>
+</html>

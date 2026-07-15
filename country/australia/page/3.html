@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>호주 가성비 호텔 총정리 — howcartful · 3페이지</title>
+  <meta name="description" content="AI가 실제 호텔 리뷰 데이터를 분석해 가성비 좋은 호텔을 근거기반으로 비교·추천하는 모음 사이트.">
+  <link rel="canonical" href="https://howcartful.com/country/australia/page/3">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <script>(function(){try{var t=localStorage.getItem('hc-theme');if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','light');}})();</script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9152627772468202" crossorigin="anonymous"></script>
+  <style>
+    /* 라이트 기본값 */
+    :root{
+      --bg:#fbfbfe; --text:#15171c; --muted:#5b6470; --line:#e6e8ef; --p1:#a855f7; --p2:#3b82f6;
+      --glow:rgba(124,92,246,.10);
+      --card-bg:#ffffff; --card-sh:0 8px 24px rgba(30,30,60,.08); --card-sh-h:0 16px 40px rgba(124,92,246,.18);
+      --border-op:.55; --foot:#8a93a3; --input-bg:#f4f5f9; --input-bd:#e0e3ec; --ph:#9aa3b2;
+    }
+    /* 다크 값 (시스템 다크 + 수동 다크) */
+    @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+      --bg:#0a0a12; --text:#eef0f5; --muted:#9aa3b2; --line:#1c1c28; --glow:rgba(124,92,246,.18);
+      --card-bg:linear-gradient(180deg,#14141f,#101019); --card-sh:0 10px 30px rgba(0,0,0,.5); --card-sh-h:0 18px 50px rgba(124,92,246,.38);
+      --foot:#6b7280; --input-bg:#12121c; --input-bd:#262633; --ph:#6b7280;
+    }}
+    :root[data-theme="dark"]{
+      --bg:#0a0a12; --text:#eef0f5; --muted:#9aa3b2; --line:#1c1c28; --glow:rgba(124,92,246,.18);
+      --card-bg:linear-gradient(180deg,#14141f,#101019); --card-sh:0 10px 30px rgba(0,0,0,.5); --card-sh-h:0 18px 50px rgba(124,92,246,.38);
+      --foot:#6b7280; --input-bg:#12121c; --input-bd:#262633; --ph:#6b7280;
+    }
+    *{ box-sizing:border-box; margin:0; padding:0; }
+    body{ font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans KR',sans-serif;
+      color:var(--text); line-height:1.6; min-height:100vh;
+      background:radial-gradient(1100px 560px at 50% -220px, var(--glow), transparent 70%), var(--bg); }
+    .wrap{ max-width:1080px; margin:0 auto; padding:56px 20px; }
+    header h1{ font-size:2rem; font-weight:900; letter-spacing:-.02em;
+      background:linear-gradient(90deg, var(--p1), var(--p2)); -webkit-background-clip:text; background-clip:text; color:transparent; }
+    header p{ color:var(--muted); margin-top:8px; }
+    /* 카드: 동일 크기(같은 행 높이 일치) · 보라 패널 4장 그리드 · 호버 보라 테두리 · CTA 블랙→보라 */
+    .grid{ margin-top:36px; display:grid; gap:22px; grid-template-columns:repeat(auto-fill, minmax(300px, 1fr)); align-items:stretch; }
+    .card{ display:flex; flex-direction:column; text-decoration:none; color:var(--text);
+      background:var(--card-bg); border:2px solid var(--line); border-radius:22px; padding:16px;
+      box-shadow:var(--card-sh); transition:border-color .2s ease, transform .2s ease, box-shadow .2s ease; }
+    .card:hover{ border-color:#6366f1; transform:translateY(-4px); box-shadow:var(--card-sh-h); }
+    /* 보라 그라데이션 + 흰 연기 배경 */
+    .cpanel{ position:relative; overflow:hidden; border-radius:18px; aspect-ratio:4/3;
+      background:
+        radial-gradient(58% 50% at 22% 16%, rgba(255,255,255,.60), transparent 60%),
+        radial-gradient(50% 45% at 86% 84%, rgba(255,255,255,.32), transparent 60%),
+        linear-gradient(150deg,#d2d2fb 0%,#aa9cf4 38%,#7c6cf0 70%,#5b4fe0 100%); }
+    /* 흰 맥 윈도우(신호등 3점 + 4장 그리드) */
+    .cwin{ position:absolute; background:#fff; border-radius:14px; overflow:hidden;
+      box-shadow:0 20px 44px rgba(40,28,90,.30); display:flex; flex-direction:column; }
+    .cwin .bar{ flex:0 0 auto; height:22px; display:flex; align-items:center; gap:5px; padding:0 11px; }
+    .cwin .bar i{ width:8px; height:8px; border-radius:50%; background:#e2e2ea; }
+    .cgrid{ flex:1; display:grid; grid-template-columns:1fr 1fr; grid-template-rows:1fr 1fr; gap:3px; padding:0 4px 4px; min-height:0; }
+    .cgrid img{ width:100%; height:100%; min-width:0; min-height:0; object-fit:cover; border-radius:5px; display:block; background:#ececf2; }
+    /* 윈도우 위치 3종 번갈아: 1=오른쪽 / 2=가운데(아래→위) / 3=왼쪽(위→아래) */
+    .card:nth-child(3n+1) .cwin{ top:13%; left:24%; right:-8%; bottom:13%; }
+    .card:nth-child(3n+2) .cwin{ left:14%; right:14%; top:20%; bottom:-12%; }
+    .card:nth-child(3n)   .cwin{ left:-8%; right:24%; top:-12%; bottom:20%; }
+    .cbody{ padding:16px 6px 10px; }
+    .card h2{ font-size:1.06rem; font-weight:800; line-height:1.42; }
+    .card p{ color:var(--muted); margin-top:8px; font-size:.9rem; }
+    .cbtn{ margin-top:auto; display:block; text-align:center; background:#0d0d12; color:#fff;
+      font-weight:800; font-size:.95rem; padding:15px; border-radius:18px; transition:background .2s ease, box-shadow .2s ease; }
+    .card:hover .cbtn{ background:linear-gradient(95deg,#6366f1,#7c5cf6); box-shadow:0 8px 20px rgba(99,102,241,.4); }
+    footer{ margin-top:52px; color:var(--foot); font-size:.82rem; border-top:1px solid var(--line); padding-top:20px; }
+    a{ color:var(--p2); text-decoration:none; }
+    /* 검색창: 기본은 그라데이션 CTA, 클릭/입력 시 깔끔한 입력창으로 전환 */
+    .search{ position:relative; margin-top:30px; max-width:640px; }
+    .search input{ width:100%; padding:17px 18px 17px 52px; font-size:1.05rem; font-weight:600; color:#fff;
+      border:0; border-radius:16px; outline:none; cursor:text; -webkit-appearance:none;
+      background:linear-gradient(95deg,#22d3ee,#6366f1 46%,#a855f7);
+      box-shadow:0 12px 28px rgba(124,92,246,.34);
+      transition:background .25s, box-shadow .25s, color .2s, transform .15s, font-weight .2s; }
+    .search input::placeholder{ color:rgba(255,255,255,.94); font-weight:600; }
+    .search input:hover{ transform:translateY(-1px); box-shadow:0 16px 34px rgba(124,92,246,.45); }
+    .search input:focus{ background:var(--input-bg); color:var(--text); font-weight:500; box-shadow:0 0 0 3px rgba(168,85,247,.30); }
+    .search input:focus::placeholder{ color:var(--ph); font-weight:400; }
+    .search .ic{ position:absolute; left:18px; top:50%; transform:translateY(-50%); color:#fff; display:flex; pointer-events:none; transition:color .2s; }
+    .search input:focus ~ .ic{ color:var(--ph); }
+    .noresult{ display:none; color:var(--muted); margin-top:26px; text-align:center; font-size:.95rem; }
+    /* 더보기(누적) 버튼 */
+    .loadmore{ display:block; margin:38px auto 0; padding:13px 32px; font-size:1rem; font-weight:800; color:#fff;
+      border:0; border-radius:999px; cursor:pointer; background:linear-gradient(95deg,#22d3ee,#6366f1 46%,#a855f7);
+      box-shadow:0 10px 26px rgba(124,92,246,.32); transition:transform .15s, box-shadow .2s; }
+    .loadmore:hover{ transform:translateY(-2px); box-shadow:0 14px 32px rgba(124,92,246,.45); }
+    .loadmore .cnt{ opacity:.85; font-weight:700; }
+    /* 칩(국가·시즌 카테고리) */
+    .chips{ margin-top:18px; display:flex; flex-direction:column; gap:9px; }
+    .chiprow{ display:flex; flex-wrap:wrap; gap:8px; align-items:center; }
+    .chlab{ flex:0 0 auto; font-size:.76rem; font-weight:800; color:var(--muted); margin-right:2px; }
+    .chip{ display:inline-flex; align-items:center; gap:5px; padding:7px 14px; border-radius:999px; font-size:.86rem; font-weight:700;
+      background:var(--input-bg); color:var(--text); border:1px solid var(--input-bd); text-decoration:none; transition:border-color .15s, color .15s, background .15s; }
+    .chip:hover{ border-color:var(--p1); color:var(--p1); }
+    .chip.on{ background:linear-gradient(95deg,#6366f1,#a855f7); color:#fff; border-color:transparent; }
+    .chip b{ font-weight:800; opacity:.65; }
+    .chip .now{ font-size:.64rem; background:#ef4444; color:#fff; padding:1px 5px; border-radius:6px; }
+    /* 페이지네이션 */
+    .pager{ display:flex; justify-content:center; flex-wrap:wrap; gap:6px; margin:40px 0 0; }
+    .pg{ min-width:38px; height:38px; padding:0 11px; display:inline-flex; align-items:center; justify-content:center; border-radius:11px;
+      font-weight:700; font-size:.95rem; color:var(--text); background:var(--card-bg); border:1px solid var(--line); text-decoration:none; transition:border-color .15s, color .15s; }
+    .pg:hover{ border-color:var(--p1); color:var(--p1); }
+    .pg.cur{ background:linear-gradient(95deg,#6366f1,#a855f7); color:#fff; border-color:transparent; }
+    .pg.gap{ border:0; background:transparent; cursor:default; }
+    /* 검색 결과 그리드(간단 카드) */
+    .sgrid{ margin-top:36px; display:grid; gap:18px; grid-template-columns:repeat(auto-fill,minmax(230px,1fr)); }
+    .scard{ display:block; text-decoration:none; color:var(--text); background:var(--card-bg); border:1px solid var(--line); border-radius:16px; overflow:hidden; box-shadow:var(--card-sh); transition:transform .15s, box-shadow .15s; }
+    .scard:hover{ transform:translateY(-3px); box-shadow:var(--card-sh-h); }
+    .scard .th{ aspect-ratio:16/10; background:var(--input-bg); }
+    .scard .th img{ width:100%; height:100%; object-fit:cover; display:block; }
+    .scard .sb{ padding:12px 14px 14px; }
+    .scard h3{ font-size:.98rem; font-weight:800; line-height:1.42; }
+    .scard .sm{ margin-top:5px; font-size:.8rem; color:var(--muted); }
+    /* 테마 토글 버튼 */
+    .theme-toggle{ position:fixed; top:14px; right:14px; z-index:50; width:40px; height:40px; border-radius:50%;
+      border:1px solid var(--line); background:var(--card-bg); color:var(--text); cursor:pointer; display:flex; align-items:center; justify-content:center; box-shadow:var(--card-sh); }
+  </style>
+</head>
+<body>
+  <button id="themeToggle" class="theme-toggle" aria-label="다크/라이트 전환" onclick="__hcToggle()">
+    <svg width="20" height="20" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3a9 9 0 010 18z" fill="currentColor"/></svg>
+  </button>
+  <div class="wrap">
+    <header><!--CATHEAD_START--><h1>호주 가성비 호텔</h1><p>호주의 도시별 가성비 호텔을 실제 아고다 리뷰로 비교·정리했습니다.</p><!--CATHEAD_END--></header>
+    <div class="search">
+      <input id="q" type="search" placeholder="어디로 떠나세요? 도시로 검색 (예: 오사카, 방콕, 다낭)" autocomplete="off" aria-label="도시 검색">
+      <span class="ic"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="20" y1="20" x2="16.65" y2="16.65"/></svg></span>
+    </div>
+    <div class="chips" id="chips"><!--CHIPS_START--><div class="chiprow"><span class="chlab">시즌</span><a class="chip" href="/">전체</a><a class="chip" href="/season/spring">🌸 봄</a><a class="chip" href="/season/summer">🏖️ 여름<span class="now">지금</span></a><a class="chip" href="/season/autumn">🍁 가을</a><a class="chip" href="/season/winter">❄️ 겨울</a></div><div class="chiprow"><span class="chlab">국가</span><a class="chip on" href="/country/australia">호주 <b>128</b></a><a class="chip" href="/country/japan">일본 <b>9</b></a><a class="chip" href="/country/korea">한국 <b>7</b></a><a class="chip" href="/country/vietnam">베트남 <b>6</b></a><a class="chip" href="/country/taiwan">대만 <b>4</b></a><a class="chip" href="/country/thailand">태국 <b>4</b></a><a class="chip" href="/country/philippines">필리핀 <b>3</b></a><a class="chip" href="/country/indonesia">인도네시아 <b>2</b></a><a class="chip" href="/country/malaysia">말레이시아 <b>2</b></a><a class="chip" href="/country/hongkong">홍콩 <b>1</b></a><a class="chip" href="/country/singapore">싱가포르 <b>1</b></a></div><!--CHIPS_END--></div>
+    <main class="grid" id="article-list">
+      <!--ARTICLES_START-->
+      <a class="card" href="/articles/australia-lake-boga">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/343409340.jpg?k=696a1965245c38195e55fe41aaa150aa2dc42c4de4c5073c2529ea17155f6bb3&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/343409340.jpg?k=696a1965245c38195e55fe41aaa150aa2dc42c4de4c5073c2529ea17155f6bb3&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/344567/-1/415db6cc26acc67196f27ccd44898889.jpg?ca=27&ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/344567/-1/415db6cc26acc67196f27ccd44898889.jpg?ca=27&ce=0'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/267500/-1/7f5399a15dadfe3adc2ada51f4b9073c.jpg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/267500/-1/7f5399a15dadfe3adc2ada51f4b9073c.jpg?ce=0'" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/326002050.jpg?k=95beab81811575349d5bed607158db55fede69136a11990a5b17ac4712d36556&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/326002050.jpg?k=95beab81811575349d5bed607158db55fede69136a11990a5b17ac4712d36556&o='" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 레이크 보가] 후기 좋은 숙소 7개 — 총정리</h2><p>실제 투숙객 리뷰로 검증한 레이크 보가 7개. 가격 대비 만족도 1위가 궁금하다면.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-lake-bennett">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/674971175.jpg?k=e78df25b3efc6266fcb8290c9d9d764469c9fa0f2816d154096cfabfa5b52192&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/674971175.jpg?k=e78df25b3efc6266fcb8290c9d9d764469c9fa0f2816d154096cfabfa5b52192&o='" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/298608500.jpg?k=45437e9d62c7411f572b61c7579534e4339f8db58faf0abd955c6cad9011ad6b&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/298608500.jpg?k=45437e9d62c7411f572b61c7579534e4339f8db58faf0abd955c6cad9011ad6b&o='" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/83728654.jpg?k=0fab53008da516ae8cc235bc0437f0275f857870a322f6d9bc501c4928d94ddb&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/83728654.jpg?k=0fab53008da516ae8cc235bc0437f0275f857870a322f6d9bc501c4928d94ddb&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/49799/-1/57ba1fe075618df573fd58a5eb08cc8a.jpg?ca=15&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/49799/-1/57ba1fe075618df573fd58a5eb08cc8a.jpg?ca=15&ce=1'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 레이크 베넷] 가성비 좋은 숙소 4개 — 실제 후기로 검증</h2><p>실제 투숙객 리뷰로 검증한 레이크 베넷 4개. 가격 대비 만족도 1위가 궁금하다면.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-lake-macquarie">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/99016887.jpg?k=98d9681b7aee94626daac7d391705b93db9797ca917f8b2f58779b3d1442cda3&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/99016887.jpg?k=98d9681b7aee94626daac7d391705b93db9797ca917f8b2f58779b3d1442cda3&o='" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/465540215.jpg?k=ec7b4750306a4ffc27f11204dc067ebc735b990ce7894d6a8616f0ff619255af&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/465540215.jpg?k=ec7b4750306a4ffc27f11204dc067ebc735b990ce7894d6a8616f0ff619255af&o='" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/158848420.jpg?k=f62be17408b221831c06d3e5743a3756bf4a9c36d31071d17bc8d987979371ff&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/158848420.jpg?k=f62be17408b221831c06d3e5743a3756bf4a9c36d31071d17bc8d987979371ff&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/88458628/0/ab70dae65023853ac72bd95d4c40e56d.jpg?ce=3&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/88458628/0/ab70dae65023853ac72bd95d4c40e56d.jpg?ce=3'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 레이크 맥쿼리] 위치 좋은 호텔 7개 — 실제 후기로 검증</h2><p>레이크 맥쿼리, 평점 8.3에 약 11만원. 역세권만 비교했습니다.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-ravensbourn">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/64004003/0/14f0b426ede795c111ee467e4a1b333b.jpg?ce=3&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/64004003/0/14f0b426ede795c111ee467e4a1b333b.jpg?ce=3'" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/285512440.jpg?k=753ea817ea99b1545cbb5e8db86a3daf41ba0461fce2ad1a1720d9bf9e8e0598&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/285512440.jpg?k=753ea817ea99b1545cbb5e8db86a3daf41ba0461fce2ad1a1720d9bf9e8e0598&o='" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 레이번스번] 손꼽히는 숙소 2개 — 역세권만 골랐다</h2><p>레이번스번, 평점 8.2에 약 11만원. 역세권만 비교했습니다.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-raymond-island">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/730110524.jpg?k=a71424d21646c6c80cfc9947208b3fff2f4ea1ab2f8323163040f821528f61be&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/730110524.jpg?k=a71424d21646c6c80cfc9947208b3fff2f4ea1ab2f8323163040f821528f61be&o='" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/503014980.jpg?k=535d5c66f5b797bde988eb0b2c3a1a39cd6ad74e16ee8b922b1b998a6859d41f&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/503014980.jpg?k=535d5c66f5b797bde988eb0b2c3a1a39cd6ad74e16ee8b922b1b998a6859d41f&o='" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/674976932.jpg?k=fc1266ddb0f40c759cc8c6f164e774d21d17fb9aa8f46cd7241a71650078ee09&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/674976932.jpg?k=fc1266ddb0f40c759cc8c6f164e774d21d17fb9aa8f46cd7241a71650078ee09&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/property/37510873/0/a00f090225a05f5099eeeca62bcbc98e.jpeg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/property/37510873/0/a00f090225a05f5099eeeca62bcbc98e.jpeg?ce=0'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 레이먼드 아일랜드] 실속형 숙소 7개 — 떠나기 전 필독</h2><p>평점 9.1·도보 null분, 1박 약 12만원 — 레이먼드 아일랜드 가성비 1위는?</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-redcliffe">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/6495304/0/dc792621932019ba6db40730531675f9.jpg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/6495304/0/dc792621932019ba6db40730531675f9.jpg?ce=0'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/4936709/-1/08d3109d0cff621999ecc7fea354c0ce.jpg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/4936709/-1/08d3109d0cff621999ecc7fea354c0ce.jpg?ce=0'" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/461321133.jpg?k=0930f6b623ef3be76b35d6cfa0ec5bddfeb3d12d18174ea837f7495a8bc5bbf7&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/461321133.jpg?k=0930f6b623ef3be76b35d6cfa0ec5bddfeb3d12d18174ea837f7495a8bc5bbf7&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/3190346/-1/6f3aace93ba1bf853e285645b5500fac.jpg?ca=0&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/3190346/-1/6f3aace93ba1bf853e285645b5500fac.jpg?ca=0&ce=1'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 레드클리프] 만족도 높은 호텔 7개 — 후회 없는 선택</h2><p>도보 24분 + 가성비 순. 레드클리프 7개 한눈에 비교.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-red-cliffs">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/610849747.jpg?k=0236c44e4528f0e4ba7b539cd0f746cbed5217b71959a0107226781d390a67ba&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/610849747.jpg?k=0236c44e4528f0e4ba7b539cd0f746cbed5217b71959a0107226781d390a67ba&o='" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/115136526.jpg?k=c61ff8823d44beb51a5a68c855790be2bc94bd16b412516047f67de0f99d9724&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/115136526.jpg?k=c61ff8823d44beb51a5a68c855790be2bc94bd16b412516047f67de0f99d9724&o='" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 레드 클립스] 재방문 많은 호텔 BEST 2</h2><p>실제 투숙객 리뷰로 검증한 레드 클립스 2개. 가격 대비 만족도 1위가 궁금하다면.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-red-rock">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/561913/0/0605cee364aa38a90b6c5f7fdbadd7ea.jpeg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/561913/0/0605cee364aa38a90b6c5f7fdbadd7ea.jpeg?ce=0'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/561911/0/4ff157c0cb8308dc31fb39a6a782fdd8.jpeg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/561911/0/4ff157c0cb8308dc31fb39a6a782fdd8.jpeg?ce=0'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 레드 록] 리뷰 좋은 호텔 2개 — 데이터로 비교</h2><p>Reflections Holiday Parks Corindi Beach, 1박 약 16만원. 레드 록 가성비 2개 비교.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-lennox-head">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/854687/-1/4fcfb33d838eccf57d95a321f32119f6.jpg?ca=9&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/854687/-1/4fcfb33d838eccf57d95a321f32119f6.jpg?ca=9&ce=1'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/11071075/-1/a37486599398d08d060b97f3a5f78284.jpg?ca=12&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/11071075/-1/a37486599398d08d060b97f3a5f78284.jpg?ca=12&ce=1'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/261/2613130/2613130_17082418230055698420.jpg?ca=6&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/261/2613130/2613130_17082418230055698420.jpg?ca=6&ce=1'" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/296189/0/0e108c8dcdbbc70ad02a07b1a59c96ab.jpeg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/296189/0/0e108c8dcdbbc70ad02a07b1a59c96ab.jpeg?ce=0'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 레녹스 헤드] 코스파 좋은 숙소 BEST 7</h2><p>후기 좋은 곳만 추렸어요 — 알마레 투어리스트 모텔 외 6개</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-lancefield">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/71946176.jpg?k=ecc05073fcba4eb55064312ff9329daecaac885cac768fb0993cb03ef5416b1c&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/71946176.jpg?k=ecc05073fcba4eb55064312ff9329daecaac885cac768fb0993cb03ef5416b1c&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/83157564/0/a529c39865578534842f116559a66108.jpg?ce=3&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/83157564/0/a529c39865578534842f116559a66108.jpg?ce=3'" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/411865040.jpg?k=557dc2c59de205bfb7e9e222c0705c34fd2b76f0a416d8c42461cb1aa26b1452&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/411865040.jpg?k=557dc2c59de205bfb7e9e222c0705c34fd2b76f0a416d8c42461cb1aa26b1452&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/706227/-1/573c7ed8d4c29d0b7280346d58b22d4b.jpg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/706227/-1/573c7ed8d4c29d0b7280346d58b22d4b.jpg?ce=0'" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 랜스필드] 손꼽히는 호텔 5개 — 한눈에 비교</h2><p>도보 null분 + 가성비 순. 랜스필드 5개 한눈에 비교.</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-lamington">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/45354/0/62e8838065c9fd4a1aac61b859872e8c.jpeg?s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/45354/0/62e8838065c9fd4a1aac61b859872e8c.jpeg'" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/154858207.jpg?k=59c72331c857c75bb25b803d2f4c5de63e6289ad453b56ca9bffed2756bca2de&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/154858207.jpg?k=59c72331c857c75bb25b803d2f4c5de63e6289ad453b56ca9bffed2756bca2de&o='" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 래밍턴] 재방문 많은 숙소 2개 — 후회 없는 선택</h2><p>후기 좋은 곳만 추렸어요 — 오레일리스 레인포레스트 리트리트 외 1개</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <a class="card" href="/articles/australia-lancelin">
+        <div class="cpanel"><div class="cwin"><span class="bar"><i></i><i></i><i></i></span><div class="cgrid"><img src="https://pix8.agoda.net/hotelImages/685/685108/685108_14091711460022204560.jpg?ca=3&ce=1&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/685/685108/685108_14091711460022204560.jpg?ca=3&ce=1'" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/579843882.jpg?k=8590fb0ae30c1909919ba48cfb2d0fd1fabf2a2811690f17a2eb9283b4aca9e6&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/579843882.jpg?k=8590fb0ae30c1909919ba48cfb2d0fd1fabf2a2811690f17a2eb9283b4aca9e6&o='" alt="" loading="lazy" decoding="async"><img src="https://pix8.agoda.net/hotelImages/462512/0/82d88b1041aee3777eaf7b488c462341.jpeg?ce=0&s=360x240" onerror="this.onerror=null;this.src='https://pix8.agoda.net/hotelImages/462512/0/82d88b1041aee3777eaf7b488c462341.jpeg?ce=0'" alt="" loading="lazy" decoding="async"><img src="https://q-xx.bstatic.com/xdata/images/hotel/max300/510829559.jpg?k=fbb090292d118995a0f072d9c00dfb0ffb3b5a9eec744db21124035a21bdd13b&o=" onerror="this.onerror=null;this.src='https://q-xx.bstatic.com/xdata/images/hotel/max500/510829559.jpg?k=fbb090292d118995a0f072d9c00dfb0ffb3b5a9eec744db21124035a21bdd13b&o='" alt="" loading="lazy" decoding="async"></div></div></div>
+        <div class="cbody"><h2>[호주 란셀린] 실속형 숙소 4개 — 떠나기 전 필독</h2><p>후기 좋은 곳만 추렸어요 — 란셀린 로지 외 3개</p></div>
+        <span class="cbtn">리뷰 보러가기 →</span>
+      </a>
+      <!--ARTICLES_END-->
+    </main>
+    <div class="sgrid" id="searchResults" style="display:none"></div>
+    <nav class="pager" id="pager" aria-label="페이지"><!--PAGER_START--><a class="pg nav" href="/country/australia/page/2" aria-label="이전">‹</a><a class="pg" href="/country/australia">1</a><a class="pg" href="/country/australia/page/2">2</a><span class="pg cur" aria-current="page">3</span><a class="pg" href="/country/australia/page/4">4</a><a class="pg" href="/country/australia/page/5">5</a><span class="pg gap">…</span><a class="pg" href="/country/australia/page/11">11</a><a class="pg nav" href="/country/australia/page/4" aria-label="다음">›</a><!--PAGER_END--></nav>
+    <p class="noresult" id="noresult">검색 결과가 없습니다.</p>
+    <footer>
+      <p>본 사이트의 일부 링크는 제휴(어필리에이트) 링크이며, 구매 시 수수료를 받을 수 있습니다. 평점·리뷰는 실제 데이터에 근거합니다.</p>
+    </footer>
+  </div>
+  <script>
+    function __hcToggle(){var r=document.documentElement;var cur=r.getAttribute('data-theme');var eff=cur||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');var next=eff==='dark'?'light':'dark';r.setAttribute('data-theme',next);try{localStorage.setItem('hc-theme',next);}catch(e){}}
+    (function(){
+      var q=document.getElementById('q');
+      var grid=document.getElementById('article-list');
+      var chips=document.getElementById('chips');
+      var pager=document.getElementById('pager');
+      var sr=document.getElementById('searchResults');
+      var nr=document.getElementById('noresult');
+      if(!q) return;
+      var idx=null, timer=null;
+      function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+      function scard(a){
+        return '<a class="scard" href="/articles/'+a.slug+'">'
+          +'<div class="th">'+(a.img?'<img src="'+esc(a.img)+'" alt="" loading="lazy">':'')+'</div>'
+          +'<div class="sb"><h3>'+esc(a.title)+'</h3><div class="sm">'+esc([a.country,a.city].filter(Boolean).join(' · '))+'</div></div></a>';
+      }
+      function browse(){ sr.style.display='none'; sr.innerHTML=''; nr.style.display='none';
+        grid.style.display=''; if(pager)pager.style.display=''; if(chips)chips.style.display=''; }
+      function results(v){
+        var lc=v.toLowerCase();
+        var hits=(idx||[]).filter(function(a){return (a.title+' '+(a.city||'')+' '+(a.country||'')).toLowerCase().indexOf(lc)>=0;});
+        sr.innerHTML=hits.map(scard).join('');
+        grid.style.display='none'; if(pager)pager.style.display='none'; if(chips)chips.style.display='none';
+        sr.style.display=''; nr.style.display=hits.length?'none':'block';
+      }
+      function run(v){ if(!v){browse();return;} if(idx){results(v);return;}
+        fetch('/articles.json').then(function(r){return r.json();}).then(function(d){idx=d;results(v);}).catch(function(){}); }
+      q.addEventListener('input',function(){clearTimeout(timer);var v=q.value.trim();timer=setTimeout(function(){run(v);},120);});
+    })();
+  </script>
+</body>
+</html>
