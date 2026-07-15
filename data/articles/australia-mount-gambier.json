@@ -1,0 +1,412 @@
+{
+  "slug": "australia-mount-gambier",
+  "title": "마운트 갬비어 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 마운트 갬비어 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "마운트 갬비어",
+  "cityId": 8165,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "마운트 갬비어",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/677123003.jpg?k=d49f293517b83a9248713898a29d08b19e1e07fead9308985172561910e6befe&o=",
+  "heroAlt": "마운트 갬비어",
+  "heroTitleHtml": "마운트 갬비어 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>The Commercial Hotel</b>(평점 8.3·리뷰 87건·1박 약 8만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>The Commercial Hotel</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/677123003.jpg?k=d49f293517b83a9248713898a29d08b19e1e07fead9308985172561910e6befe&o=",
+  "outroTitle": "🌙 마운트 갬비어, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 마운트 갬비어 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 마운트 갬비어 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Commercial Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-commercial-hotel/hotel/all/mount-gambier-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 87,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/677123003.jpg?k=d49f293517b83a9248713898a29d08b19e1e07fead9308985172561910e6befe&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 87건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 87건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 방, 좋은 음식과 위치",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "좋은 호텔",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "더 올드 마운트 갬비어 골 (The Old Mount Gambier Gaol)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-old-mount-gambier-gaol/hotel/mount-gambier-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 457,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/206178792.jpg?k=8187ce810b8ecc32d44090eaf58621371369774025565bf7c3ee35dc75bbd1e4&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 457건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 457건 기반.",
+      "reviews": [
+        {
+          "text": "가격도 좋고 가격대비 좋습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "시설이 잘 갖춰진 훌륭하고 사교적인 공간입니다.",
+          "score": "8",
+          "country": "United Kingdom",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "구세계 감옥에서의 독특한 경험",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 깔끔했습니다.",
+          "score": "8",
+          "country": "United Kingdom",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "더 코모도 (The Commodore)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/commodore-on-the-park-hotel/hotel/mount-gambier-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 2816,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/626377/-1/68bee93404a59c35ff4f5075c9344abd.jpg?ca=22&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 2,816건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 2,816건 기반.",
+      "reviews": [
+        {
+          "text": "위치는 훌륭하고 시내 중심가와 가깝습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 넓으며 시설이 잘 갖추어져 있습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 전문적입니다. 특히 Darryl이 그렇습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "우리가 산으로 돌아올 때 꼭 다시 여기에 머물 것입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 4박을 묵었는데, 우리 방은 매우 깨끗하고 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "블루 레이크 모텔 (Blue Lake Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/blue-lake-motel/hotel/mount-gambier-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 378,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/296058/-1/d361cca7718183f9b54c6d896bfcf9ef.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 378건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 378건 기반.",
+      "reviews": [
+        {
+          "text": "매우 편안한 숙박과 친절한 직원.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "우리는 몇 시간 후에 체크인했는데 여전히 순조로운 절차였습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "둘 다 원활하게 진행되었으며 직원들은 매우 친절했습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "방과 시설은 깨끗하고 깔끔하며 매일 다시 만들어졌습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "매우 친절한 직원, 깨끗하고 편리한 위치와 조용함.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Nightcap at Federal Hotel Mt Gambier",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nightcap-at-federal-hotel-mt-gambier/hotel/all/mount-gambier-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 1014,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/696488092.jpg?k=d460a8dd34a1d29a53658c449e095e48519f2409a1b7cc60c7d6e6084dea126c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,014건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 1,014건 기반.",
+      "reviews": [
+        {
+          "text": "호텔은 갬비어 산(Mt. Gambier)의 주요 관광 명소와 가깝습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 잘 관리되어 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "Mt Gambier를 지나갈 때 하룻밤 잠을 자기에 좋습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "그것은 아주 작은 장소이고 호텔 음식은 환상적입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "정말 깨끗하고 매우 편안한 침대!!!*",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Mantra Mount Gambier",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-henty/hotel/mount-gambier-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 1863,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/401411624.jpg?k=f029963fd96d248887f8a9eb231104d66950f6477b8b58919c1d0a013cde9654&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,863건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 1,863건 기반.",
+      "reviews": [
+        {
+          "text": "스파 욕조는 놀랍고 크고 편안한 침대였습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "프리미어 스위트룸에 묵었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "여분의 담요와 베개, 전기담요도 제공되었습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "매우 편리한 장소와 훌륭한 직원",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "적극 추천합니다!",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "아카나 모터 인 앤 테라스 아파트먼트 (Arkana Motor Inn & Terrace Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/arkana-motor-inn-terrace-apartments/hotel/mount-gambier-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 1734,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/476860753.jpg?k=bab855232555724e53271f5e3fca71677c39e92d19c74995a7433d4eed3bade1&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 1,734건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 1,734건 기반.",
+      "reviews": [
+        {
+          "text": "방은 현대적이고 매우 편안하고 깨끗했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "머물기 좋은 숙소는 조용한 방이었고 큰 침대가 훌륭했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "이곳은 매우 깨끗하고 편안한 숙소였습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "모텔은 매우 아늑하고 직원들은 친절합니다!",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 매우 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-15T13:45:04.264Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
