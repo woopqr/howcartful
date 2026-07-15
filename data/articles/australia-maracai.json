@@ -1,0 +1,50 @@
+{
+  "slug": "australia-maracai",
+  "title": "마라카이 가성비 호텔 1곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 마라카이 가성비 호텔 1곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "마라카이",
+  "cityId": 711753,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "마라카이",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/159509390.jpg?k=63583cdf616604d0b2ef3ac30191e2a1e1dcc2d7e4486b52715913b76ec3cc3c&o=",
+  "heroAlt": "마라카이",
+  "heroTitleHtml": "마라카이 가성비 호텔 1곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Point Stuart Wilderness Lodge</b>(평점 7.7·리뷰 109건·1박 약 23만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Point Stuart Wilderness Lodge</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/159509390.jpg?k=63583cdf616604d0b2ef3ac30191e2a1e1dcc2d7e4486b52715913b76ec3cc3c&o=",
+  "outroTitle": "🌙 마라카이, 어디에 묵어도 후회없이",
+  "outroText": "위 1곳은 모두 마라카이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 마라카이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Point Stuart Wilderness Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/point-stuart-wilderness-lodge/hotel/all/marrakai-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.7,
+      "reviewCount": 109,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/159509390.jpg?k=63583cdf616604d0b2ef3ac30191e2a1e1dcc2d7e4486b52715913b76ec3cc3c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 109건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 109건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-15T10:25:53.171Z",
+    "source": "agoda citySearch",
+    "count": 1
+  }
+}
