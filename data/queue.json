@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-15T16:44:54.972Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 9,
+  "lastPostedAt": "2026-07-15T17:57:05.081Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 10,
   "postedDate": "2026-07-15",
   "queue": [
-    "australia-maruta",
     "australia-mount-gambier",
     "australia-mount-dandenong-ranges",
-    "australia-mount-barrell"
+    "australia-mount-barrell",
+    "australia-mount-kol"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 146,
+    "cityIndex": 147,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -195,6 +195,7 @@
     "australia-limpinwood",
     "australia-margaret-river-wine-region",
     "australia-magnetic-island",
-    "australia-maracai"
+    "australia-maracai",
+    "australia-maruta"
   ]
 }
