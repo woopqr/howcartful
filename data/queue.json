@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-16T00:59:42.930Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 1,
+  "lastPostedAt": "2026-07-16T04:14:10.013Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 2,
   "postedDate": "2026-07-16",
   "queue": [
-    "australia-mount-dandenong-ranges",
     "australia-mount-barrell",
     "australia-mount-kol",
-    "australia-mount-hotham"
+    "australia-mount-hotham",
+    "australia-mount-isa"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 148,
+    "cityIndex": 149,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -197,6 +197,7 @@
     "australia-magnetic-island",
     "australia-maracai",
     "australia-maruta",
-    "australia-mount-gambier"
+    "australia-mount-gambier",
+    "australia-mount-dandenong-ranges"
   ]
 }
