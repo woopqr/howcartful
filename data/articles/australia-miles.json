@@ -1,0 +1,146 @@
+{
+  "slug": "australia-miles",
+  "title": "마일즈 가성비 호텔 2곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 마일즈 가성비 호텔 2곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "마일즈",
+  "cityId": 142305,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "마일즈",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/326719486.jpg?k=1e9139817519dd09b7328366946b845d1ca6fcbe595fbaf557de31e1a65ca7c6&o=",
+  "heroAlt": "마일즈",
+  "heroTitleHtml": "마일즈 가성비 호텔 2곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Windsor Hotel Miles</b>(평점 7.9·리뷰 327건·1박 약 11만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Windsor Hotel Miles</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/326719486.jpg?k=1e9139817519dd09b7328366946b845d1ca6fcbe595fbaf557de31e1a65ca7c6&o=",
+  "outroTitle": "🌙 마일즈, 어디에 묵어도 후회없이",
+  "outroText": "위 2곳은 모두 마일즈 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 마일즈 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Windsor Hotel Miles",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/windsor-hotel-miles_2/hotel/all/miles-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 327,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/326719486.jpg?k=1e9139817519dd09b7328366946b845d1ca6fcbe595fbaf557de31e1a65ca7c6&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 327건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 327건 기반.",
+      "reviews": [
+        {
+          "text": "객실이 호텔 뒤에 있기 때문에 도로 소음이 없었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치에 있는 훌륭한 작은 모텔.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "하룻밤 숙박에 딱 맞습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "도움이 되는 직원",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 경유지",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "마일스 아웃백 모텔 (Miles Outback Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/miles-outback-motel/hotel/miles-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 884,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/106/1061163/1061163_16011314010039092754.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 884건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 884건 기반.",
+      "reviews": [
+        {
+          "text": "방은 깨끗했고 시설도 좋았으며 침대도 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "여성 혼자 여행하는 사람에게 위치가 좋고 안전합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "나는 이 호텔에 다시 묵는 것을 주저하지 않을 것입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "퀸즈랜드에서 집으로 돌아오는 길에 즐거운 시간을 보냈습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "좋은 모텔 조용한 소음과 좋은 크기의 방",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-16T11:00:03.293Z",
+    "source": "agoda citySearch",
+    "count": 2
+  }
+}
