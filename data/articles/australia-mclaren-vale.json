@@ -1,0 +1,339 @@
+{
+  "slug": "australia-mclaren-vale",
+  "title": "맥라렌 베일 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 맥라렌 베일 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "맥라렌 베일",
+  "cityId": 21413,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "맥라렌 베일",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/48555823.jpg?k=0e4d5bd389cc833e37fb3dbeb2637aa4ab27e5c67e41c96eb06cd8dbd37658db&o=",
+  "heroAlt": "맥라렌 베일",
+  "heroTitleHtml": "맥라렌 베일 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>BIG4 Port Willunga Tourist Park</b>(평점 8.8·리뷰 338건·1박 약 9만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Seaford Railway Station 도보 17분</b>의 <b>Moana Beach Tourist Park</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/48555823.jpg?k=0e4d5bd389cc833e37fb3dbeb2637aa4ab27e5c67e41c96eb06cd8dbd37658db&o=",
+  "outroTitle": "🌙 맥라렌 베일, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 맥라렌 베일 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 맥라렌 베일 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "BIG4 Port Willunga Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-port-willunga-tourist-park/hotel/all/fleurieu-peninsula-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 338,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/48555823.jpg?k=0e4d5bd389cc833e37fb3dbeb2637aa4ab27e5c67e41c96eb06cd8dbd37658db&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 338건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 338건 기반.",
+      "reviews": [
+        {
+          "text": "공원 자체 내에서 할 일이 많아 머물기 좋은 숙소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "오두막은 매우 깨끗하고 잘 꾸며져 있었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 것을 갖춘 훌륭한 객실",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 하룻밤 숙박.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 디럭스 캐빈에서 5박을 묵었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Studio South Port - Lush Private Oceanfront Studio Apartment",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/private-studio-apartment-studio-south-port/hotel/all/adelaide-au.html?cid=1925461",
+      "walkMin": 28,
+      "score": 9.8,
+      "reviewCount": 38,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/577734213.jpg?k=d03f6f53a5aabd8b9c56a27f38c12478fce1af0844bc16c3718b8a997f396907&o=",
+      "distanceNote": "약 2276.74m · Seaford Meadows 인근",
+      "metaTags": [
+        "📝 리뷰 38건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 38건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Esplanade Gateway",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/esplanade-gateway/hotel/all/adelaide-au.html?cid=1925461",
+      "walkMin": 25,
+      "score": 9,
+      "reviewCount": 96,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/529250047.jpg?k=daa7b0c43498b5fc505e09fb8c031e0ffb5c792869ba1ab6b544db71f3fe5394&o=",
+      "distanceNote": "약 2025.69m · Seaford Meadows 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 96건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 96건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Mick O'Sheas",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mick-o-sheas/hotel/default-city-km.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 655,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/90443932.jpg?k=ff6bc92a0b8fb004c3a813152ca3d575682a1b821a1416c5e4991e4de569364a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 655건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 655건 기반.",
+      "reviews": [
+        {
+          "text": "킹스파룸은 깨끗했고,",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "아침 식사 간식도 좋은 감동이었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 훌륭한 가치와 좋은 위치.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "제공된 린넨은 신선하고 깨끗했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 매우 편안하게 머물렀고,",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Moana Beach Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/moana-beach-tourist-park/hotel/all/adelaide-au.html?cid=1925461",
+      "walkMin": 17,
+      "score": 8.6,
+      "reviewCount": 534,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/265073846.jpg?k=72f1d2eb5dde170e6d5c5dc4b93a98a3185eadcd414ed4887da7d2462c939c7a&o=",
+      "distanceNote": "약 1357.13m · Seaford Railway Station 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 534건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 534건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 괜찮은 기본 캐빈을 가지고 있었습니다. 가격 대비 좋은 가치가 있었습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 밝은 객실, 햇빛이 아름답게 들어왔습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 것을 갖춘 편안한 객실을 청소하세요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "침대와 침구가 너무 편안해서 잘 잤습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "씨사이드 빌라는 편안하고 깨끗했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Serafino McLaren Vale",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/serafino-mclaren-vale/hotel/all/mclaren-vale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 1669,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/239405512.jpg?k=8f5dc6e55330632f4abf8f8dad9f30060537406861d2e755f7eac2b29d501dda&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 1,669건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,669건 기반.",
+      "reviews": [
+        {
+          "text": "호텔은 완벽한 조용하고 편안한 휴식 공간에 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "완벽한 위치, 아름다운 설정, 친절하고 매우 깨끗함",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "주요 거리와 와이너리와 가까운 훌륭한 위치.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 주변 환경에 넓고 편안한 객실이 있습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗했고 오늘은 침대가 편안했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "The Grape and Olive at Willunga",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-grape-and-olive-at-willunga/hotel/all/willunga-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 170,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/248120966.jpg?k=41635f444176b442dc44657cfd3f4fd57bbcc0f1993a698e83a970f0a5ddc64a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 170건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 170건 기반.",
+      "reviews": [
+        {
+          "text": "나는 행복하게 다시 여기에 머물고 싶습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-16T18:44:18.190Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
