@@ -1,0 +1,344 @@
+{
+  "slug": "australia-manjimup",
+  "title": "만지멉 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 만지멉 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "manjimup-au",
+  "cityName": "만지멉",
+  "cityId": 143486,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "만지멉",
+  "heroImg": "https://pix8.agoda.net/hotelImages/60666458/0/dabc675164285d691d46d7d9d8f083a6.png?ce=0",
+  "heroAlt": "만지멉",
+  "heroTitleHtml": "만지멉 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Warradale Lodge and Mini Golf</b>(평점 8.5·리뷰 85건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Warradale Lodge and Mini Golf</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/60666458/0/dabc675164285d691d46d7d9d8f083a6.png?ce=0",
+  "outroTitle": "🌙 만지멉, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 만지멉 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 만지멉 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Warradale Lodge and Mini Golf",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/warradale-lodge/hotel/manjimup-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 85,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.2,
+      "img": "//pix8.agoda.net/hotelImages/60666458/0/dabc675164285d691d46d7d9d8f083a6.png?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 85건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 85건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Dingup House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dingup-house/hotel/all/manjimup-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 208,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/91526464.jpg?k=e63d42588dfc3da32ad4f40a401d9c5f71ecc7d1de14db7eac5e0f2a549b3513&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 208건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 208건 기반.",
+      "reviews": [
+        {
+          "text": "너무 편안해요.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙소 - 조용한 위치와 친근한 분위기.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "우리가 머물렀던 방은 매우 깨끗하고 정돈되어 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "숙박비에는 무료 조식이 포함되어 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "화려한 역사적 농가",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "만지멉 모터 인 (Manjimup Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/manjimup-motor-inn/hotel/manjimup-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 791,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/111/1115856/1115856_15121911590038629935.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 791건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 791건 기반.",
+      "reviews": [
+        {
+          "text": "머물기 좋은 곳.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 사람들과 훌륭한 위치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "좋은 방, 깨끗한 환경, 적극 추천합니다",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치와 친절한 직원",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 즐거운 숙박이었습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Gallery Hotel Manjimup",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/gallery-hotel-manjimup/hotel/manjimup-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 32,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/property/64366237/0/c8e4045c9b22acfc0f2f25e1f59f0c2a.jpeg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 32건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 32건 기반.",
+      "reviews": [
+        {
+          "text": "전반적으로 상쾌하고 현대적인 모습을 갖춘 확실한 선택입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 직원들은 친절하고 반응이 좋습니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 깔끔했으며 좋은 수준이었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 이 호텔에 매우 만족했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 친절하며 도움이 되었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "킹슬리 모텔 (Kingsley Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kingsley-motel/hotel/manjimup-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 782,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/546/546737/546737_16101813060047853546.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 782건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 782건 기반.",
+      "reviews": [
+        {
+          "text": "저는 주저 없이 The Kingsley Motel을 추천합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "레스토랑은 아늑한 장작불로 가장 환영받았습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 도움이 되었고 쉽게 이용할 수 있었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "우리의 메인 식사는 맛있었고 사막도 마찬가지였습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "우리는 정말 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Manjimup Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/manjimup-hotel/hotel/all/manjimup-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 6.6,
+      "reviewCount": 239,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/521251169.jpg?k=5c368722d6b1f6112f9882d51a8a56956262069ab2747ce236c8275d0e9a0513&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 239건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>6.6</b> · 실제 투숙객 리뷰 239건 기반.",
+      "reviews": [
+        {
+          "text": "시내 중심에 위치하여 주차공간이 넉넉하고,",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 필요한 모든 것을 갖춘 깨끗한 방.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "모든 것의 중심에 있는 환상적인 위치, 좋은 가격.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "위치가 훌륭하고 객실은 깔끔했지만 욕실은 약간 낡았습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-16T14:32:17.428Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}
