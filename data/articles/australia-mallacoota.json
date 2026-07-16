@@ -1,0 +1,199 @@
+{
+  "slug": "australia-mallacoota",
+  "title": "말라쿠타 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 말라쿠타 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "말라쿠타",
+  "cityId": 512959,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "말라쿠타",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/454637544.jpg?k=b96395364083877af3b635558753846e72d7a9fee0616ff5bbf848662b929981&o=",
+  "heroAlt": "말라쿠타",
+  "heroTitleHtml": "말라쿠타 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Coola studio</b>(평점 9.5·리뷰 157건·1박 약 16만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Coola studio</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/454637544.jpg?k=b96395364083877af3b635558753846e72d7a9fee0616ff5bbf848662b929981&o=",
+  "outroTitle": "🌙 말라쿠타, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 말라쿠타 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 말라쿠타 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Coola studio",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/coola-studio/hotel/all/mallacoota-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 157,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/454637544.jpg?k=b96395364083877af3b635558753846e72d7a9fee0616ff5bbf848662b929981&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 157건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 157건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 정말 즐거운 시간을 보냈습니다",
+          "score": "9.2",
+          "country": "Vietnam",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "아름답고 아늑한 스튜디오입니다.",
+          "score": "9.2",
+          "country": "Vietnam",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "아주 사랑스러운 집",
+          "score": "9.2",
+          "country": "Vietnam",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "주인은 친절합니다.",
+          "score": "9.2",
+          "country": "Vietnam",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Gipsy Point Lakeside",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/gipsy-point-lakeside/hotel/all/gipsy-point-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 57,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/89544/0/cb1f093d9ea5585349311b5a3f2d64be.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 57건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 57건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "The Silver Bream Motel & Self Contained Units",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/motel-bream/hotel/all/mallacoota-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 529,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/734580770.jpg?k=4fab16d1f44cf3198e483618a209dc7d155e3189705b17bc876a0058423db23c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 529건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 529건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 확실히 돌아올 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "중간 기착에 적합",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Mallacoota Hotel Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mallacoota-hotel-motel/hotel/all/mallacoota-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 40,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/742534742.jpg?k=087aa2aeade0c72472c49f586c4b89f079d7f15de70724a673321259679a08a2&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 40건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 40건 기반.",
+      "reviews": [
+        {
+          "text": "이 깨끗하고 좋은 위치와 적당한 객실은 훌륭한 가치를 제공합니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "훌륭하고 매우 깨끗한 방, 정말 친절한 직원",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "우리 사이에는 2개의 방이 있었습니다. 둘 다 편안하고 깨끗했습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "수영장은 훌륭했고 직원들은 친절하고 협조적이었습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "매우 멋진 여유로운 마을에 위치한 멋진 모텔입니다.",
+          "score": "9.6",
+          "country": "Brunei Darussalam",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-16T16:00:53.107Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}

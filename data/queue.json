@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-16T14:31:52.869Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 7,
+  "lastPostedAt": "2026-07-16T16:00:44.380Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 8,
   "postedDate": "2026-07-16",
   "queue": [
-    "australia-myocum",
     "australia-miles",
     "australia-martinsville",
-    "australia-manjimup"
+    "australia-manjimup",
+    "australia-mallacoota"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 154,
+    "cityIndex": 155,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -203,6 +203,7 @@
     "australia-mount-kol",
     "australia-mount-hotham",
     "australia-mount-isa",
-    "australia-mountain-buller"
+    "australia-mountain-buller",
+    "australia-myocum"
   ]
 }
