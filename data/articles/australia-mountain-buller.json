@@ -1,0 +1,204 @@
+{
+  "slug": "australia-mountain-buller",
+  "title": "마운틴 불러 가성비 호텔 3곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 마운틴 불러 가성비 호텔 3곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "mount-buller-au",
+  "cityName": "마운틴 불러",
+  "cityId": 19645,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "마운틴 불러",
+  "heroImg": "https://pix8.agoda.net/hotelImages/648571/0/1e6bb24705bf8c267b09b64824cbd843.jpeg?ce=0",
+  "heroAlt": "마운틴 불러",
+  "heroTitleHtml": "마운틴 불러 가성비 호텔 3곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>알파인 리트리트</b>(평점 8·리뷰 124건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>알파인 리트리트</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/648571/0/1e6bb24705bf8c267b09b64824cbd843.jpeg?ce=0",
+  "outroTitle": "🌙 마운틴 불러, 어디에 묵어도 후회없이",
+  "outroText": "위 3곳은 모두 마운틴 불러 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 마운틴 불러 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "알파인 리트리트 (Alpine Retreat)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/alpine-retreat/hotel/mount-buller-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 124,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/648571/0/1e6bb24705bf8c267b09b64824cbd843.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 124건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 124건 기반.",
+      "reviews": [
+        {
+          "text": "우리에게 필요한 완벽한 위치와 시설.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "마을까지 걸어서 갈 수 있는 훌륭한 위치.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "우리가 쿼드러플룸에 지불한 가격입니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 곳까지 도보로 3~4분 거리입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "호텔은 깨끗하고 따뜻하며 매우 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "가부키 마운트 불러 (KABUKI MT BULLER)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kabuki-mt-buller/hotel/mount-buller-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.6,
+      "reviewCount": 150,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 106만원",
+      "valueIndex": 4.4,
+      "img": "//pix8.agoda.net/hotelImages/945/9456352/9456352_19083113140080344710.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 106만원",
+        "📝 리뷰 150건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 150건 기반.",
+      "reviews": [
+        {
+          "text": "방은 깨끗하고 편안하며 직원이 매우 친절합니다.",
+          "score": "9.6",
+          "country": "Poland",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 연락하기 쉬운 헬프 데스크가 있으며 항상 도움이 됩니다.",
+          "score": "8.4",
+          "country": "Iraq",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "시설도 깨끗하고 마을에서 그리 멀지 않습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "2박 동안 아늑하고 편안하게 머물렀습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "싱글 침대 2개가 나란히 놓인 멋진 작은 침실.",
+          "score": "8.4",
+          "country": "Iraq",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "덕 인 마운트 불러 (Duck Inn Mount Buller)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/duck-inn-mount-buller/hotel/mount-buller-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.5,
+      "reviewCount": 128,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 86만원",
+      "valueIndex": 4.4,
+      "img": "//pix8.agoda.net/hotelImages/608096/0/16343254d130c48f0ff90da47e9abfb1.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 86만원",
+        "📝 리뷰 128건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 128건 기반.",
+      "reviews": [
+        {
+          "text": "호텔 직원은 매우 도움이 되고 루게이지를 도와줍니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "Duck Inn에는 기본적으로 깨끗한 객실이 있었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "우리 가족과 나는 즐거운 시간을 보냈습니다",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "스키 대여 가능 여부도 매우 좋았습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 곳!",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-16T06:32:45.061Z",
+    "source": "agoda citySearch",
+    "count": 3
+  }
+}
