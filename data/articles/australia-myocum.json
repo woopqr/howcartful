@@ -1,0 +1,331 @@
+{
+  "slug": "australia-myocum",
+  "title": "마이오컴 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 마이오컴 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "마이오컴",
+  "cityId": 710723,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "마이오컴",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/553327680.jpg?k=a1c9cdecc6221586268952e13515e8648b3773730d249b752cb42083b02cb23c&o=",
+  "heroAlt": "마이오컴",
+  "heroTitleHtml": "마이오컴 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Billinudgel Hotel</b>(평점 7.5·리뷰 202건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Billinudgel Hotel</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/553327680.jpg?k=a1c9cdecc6221586268952e13515e8648b3773730d249b752cb42083b02cb23c&o=",
+  "outroTitle": "🌙 마이오컴, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 마이오컴 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 마이오컴 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Billinudgel Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/billinudgel-hotel_4/hotel/all/ocean-shores-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.5,
+      "reviewCount": 202,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/553327680.jpg?k=a1c9cdecc6221586268952e13515e8648b3773730d249b752cb42083b02cb23c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 202건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 202건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Ocean Shores Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ocean-shores-motel_2/hotel/all/ocean-shores-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 484,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/794816088.jpg?k=785553cd43345eb8e0038deab9baf11d4512099a02c5febfc58864cfd73f0ecc&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 484건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 484건 기반.",
+      "reviews": [
+        {
+          "text": "방은 조용하고 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "직원들은 환상적이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "우리가 방문하고 싶었던 모든 곳의 훌륭한 중심 위치입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "빠른 휴가를 위해 휴식을 취하기에 완벽한 장소입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원이 있는 넓은 객실.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Beautiful, comfortable 7 mins walk to Mullumbimby",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beautiful-comfortable-7-mins-walk-to-mullumbimby/hotel/all/mullumbimby-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 81,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/617637099.jpg?k=2f50fcedd85f9b7cefcb73d6275142ffe9354b3fb1d1a54486cf529a19e41c31&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 81건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 81건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Women Only Guesthouse",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/women-s-guesthouse/hotel/all/mullumbimby-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 32,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/766107513.jpg?k=0d1a5e1b510f5182bd3ec49e53375e94cb5593f4871300b227f0baca03261834&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 32건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 32건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "The Mullum Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-mullum-motel/hotel/all/mullumbimby-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 104,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/56098367.jpg?k=f190b5bcc7fc555fc1e57b11578b92a3dde196b0a2dd0c64e3d3c1e5adcd136a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 104건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 104건 기반.",
+      "reviews": [
+        {
+          "text": "기본 모텔 객실, 침대는 편안하고 조용하며 매우 깨끗합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "매우 환영받는 직원과 매우 좋은 깨끗한 방.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "술집, 레스토랑, 카페 및 상점은 굉장했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "위치는 카페와 상점을 둘러보기에 편리했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "상당히 깨끗하고 다루기 쉽습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "The Sails Motel Brunswick Heads",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-sails-motel-brunswick-heads/hotel/all/brunswick-heads-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 1490,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/552609977.jpg?k=24b89a9bacf041d02def8f7d16f7ebe15ccf12c62fd3faf8f4c9f23d47e3d86c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 1,490건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 1,490건 기반.",
+      "reviews": [
+        {
+          "text": "1박 묵었는데 방이 너무 깨끗하고 좋았습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "사랑스럽게 개조된 매우 편안한 모텔입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 현대적이며 편안했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 현대적입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 AC, 멋지고 넓은 수영장 공간.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "HaKu",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/brunswick-river-inn_2/hotel/all/brunswick-heads-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 900,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/877101517.jpg?k=62e85c12a748562410c36355b70cd9ea472a803a134c2710afe3f0cfe7e28c60&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 900건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 900건 기반.",
+      "reviews": [
+        {
+          "text": "브룬스 최고의 호텔.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "편리하고 평화로운 숙소가 마음에 듭니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "빨리 거기로 돌아가고 싶어요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "완벽한 위치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-16T08:57:12.884Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
