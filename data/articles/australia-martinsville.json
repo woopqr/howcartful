@@ -1,0 +1,51 @@
+{
+  "slug": "australia-martinsville",
+  "title": "마틴스빌 가성비 호텔 1곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 마틴스빌 가성비 호텔 1곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "마틴스빌",
+  "cityId": 141733,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "마틴스빌",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/527451705.jpg?k=72b38eee3b7d25956af5f082eb956ec7a40f9a1753e993469b2808cb021480ca&o=",
+  "heroAlt": "마틴스빌",
+  "heroTitleHtml": "마틴스빌 가성비 호텔 1곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Lakeside Hideaway</b>(평점 9.1·리뷰 39건·1박 약 60만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Lakeside Hideaway</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/527451705.jpg?k=72b38eee3b7d25956af5f082eb956ec7a40f9a1753e993469b2808cb021480ca&o=",
+  "outroTitle": "🌙 마틴스빌, 어디에 묵어도 후회없이",
+  "outroText": "위 1곳은 모두 마틴스빌 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 마틴스빌 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Lakeside Hideaway",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lakeside-hideaway/hotel/all/morisset-east-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 39,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 60만원",
+      "valueIndex": 4.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/527451705.jpg?k=72b38eee3b7d25956af5f082eb956ec7a40f9a1753e993469b2808cb021480ca&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 60만원",
+        "📝 리뷰 39건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 39건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-16T12:25:35.159Z",
+    "source": "agoda citySearch",
+    "count": 1
+  }
+}

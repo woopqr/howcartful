@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-16T10:59:52.004Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 5,
+  "lastPostedAt": "2026-07-16T12:25:34.320Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 6,
   "postedDate": "2026-07-16",
   "queue": [
-    "australia-mount-isa",
     "australia-mountain-buller",
     "australia-myocum",
-    "australia-miles"
+    "australia-miles",
+    "australia-martinsville"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 152,
+    "cityIndex": 153,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -201,6 +201,7 @@
     "australia-mount-dandenong-ranges",
     "australia-mount-barrell",
     "australia-mount-kol",
-    "australia-mount-hotham"
+    "australia-mount-hotham",
+    "australia-mount-isa"
   ]
 }
