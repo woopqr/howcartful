@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-15T17:57:05.081Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 10,
-  "postedDate": "2026-07-15",
+  "lastPostedAt": "2026-07-16T00:59:42.930Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-07-16",
   "queue": [
-    "australia-mount-gambier",
     "australia-mount-dandenong-ranges",
     "australia-mount-barrell",
-    "australia-mount-kol"
+    "australia-mount-kol",
+    "australia-mount-hotham"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 147,
+    "cityIndex": 148,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -196,6 +196,7 @@
     "australia-margaret-river-wine-region",
     "australia-magnetic-island",
     "australia-maracai",
-    "australia-maruta"
+    "australia-maruta",
+    "australia-mount-gambier"
   ]
 }

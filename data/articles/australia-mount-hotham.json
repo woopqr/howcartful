@@ -1,0 +1,188 @@
+{
+  "slug": "australia-mount-hotham",
+  "title": "마운트 호섬 가성비 호텔 3곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 마운트 호섬 가성비 호텔 3곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "dinner-plain-au",
+  "cityName": "마운트 호섬",
+  "cityId": 143463,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "마운트 호섬",
+  "heroImg": "https://pix8.agoda.net/hotelImages/2311897/0/5e799a4580fcd0b56183ad77c3cf53b9.jpg?ca=24&ce=0",
+  "heroAlt": "마운트 호섬",
+  "heroTitleHtml": "마운트 호섬 가성비 호텔 3곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Club Wyndham Dinner Plain, Trademark Collection by Wyndham</b>(평점 9.2·리뷰 135건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Club Wyndham Dinner Plain, Trademark Collection by Wyndham</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/2311897/0/5e799a4580fcd0b56183ad77c3cf53b9.jpg?ca=24&ce=0",
+  "outroTitle": "🌙 마운트 호섬, 어디에 묵어도 후회없이",
+  "outroText": "위 3곳은 모두 마운트 호섬 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 마운트 호섬 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Club Wyndham Dinner Plain, Trademark Collection by Wyndham",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ramada-resort-by-wyndham-dinner-plain-mt-hotham/hotel/dinner-plain-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 135,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/2311897/0/5e799a4580fcd0b56183ad77c3cf53b9.jpg?ca=24&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 135건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 135건 기반.",
+      "reviews": [
+        {
+          "text": "나는 여기로 돌아갈 것이다.",
+          "score": "8.8",
+          "country": "Canada",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "이번 호텔에서의 숙박은 쉽고 즐겁고 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 훌륭하고 깨끗한 시설, 편안한 영상.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "여름 산악 활동을 위한 완벽한 위치",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "즐거운 시간을 보냈고 음식도 정말 좋았습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Harrietville Hotel Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/harrietville-hotel-motel/hotel/all/harrietville-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 53,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/339306806.jpg?k=85192096498ac55f9642ed09feb3d85f3690518869582fff5806021c7e8c4196&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 53건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 53건 기반.",
+      "reviews": [
+        {
+          "text": "우리의 숙박을 정말 특별하게 만든 것은 뛰어난 직원이었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 시설과 최고의 가성비를 자랑하는 곳이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "우리는 해리엇빌에 있는 이 호텔에서 즐거운 시간을 보냈습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "우리는 디럭스 스위트룸에 묵었는데 다시 묵을 의향 100% 입니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "브라이트에서 벗어나고 싶은 분에게 추천합니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Mountain View Holiday Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mountain-view-holiday-retreat/hotel/all/harrietville-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.4,
+      "reviewCount": 167,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/33776585.jpg?k=83505b45caf7f9addb2bf165a6a968060144a8ebf0fdc6271465f71de0cd49b3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 167건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.4</b> · 실제 투숙객 리뷰 167건 기반.",
+      "reviews": [
+        {
+          "text": "사랑스러운 호스트, 귀여운 마을",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "여기에 머무르는 것을 좋아했으며 내년에 다시 올 것입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "Hotham으로 향하는 경우 훌륭한 숙소",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-16T00:59:52.855Z",
+    "source": "agoda citySearch",
+    "count": 3
+  }
+}
