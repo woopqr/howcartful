@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-17T12:52:01.273Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 7,
+  "lastPostedAt": "2026-07-17T14:22:02.236Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 8,
   "postedDate": "2026-07-17",
   "queue": [
-    "australia-mclean",
     "australia-mandurah",
     "australia-mansfield",
-    "australia-murumbeeman"
+    "australia-murumbeeman",
+    "australia-murray-downs"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 164,
+    "cityIndex": 165,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -213,6 +213,7 @@
     "australia-mclaren-vale",
     "australia-maxville",
     "australia-mccallinden",
-    "australia-mackay"
+    "australia-mackay",
+    "australia-mclean"
   ]
 }
