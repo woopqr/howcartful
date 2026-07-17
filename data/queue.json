@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-16T18:43:51.851Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 10,
-  "postedDate": "2026-07-16",
+  "lastPostedAt": "2026-07-17T01:07:42.120Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 1,
+  "postedDate": "2026-07-17",
   "queue": [
-    "australia-manjimup",
     "australia-mallacoota",
     "australia-marysville",
-    "australia-mclaren-vale"
+    "australia-mclaren-vale",
+    "australia-maxville"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 157,
+    "cityIndex": 158,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -206,6 +206,7 @@
     "australia-mountain-buller",
     "australia-myocum",
     "australia-miles",
-    "australia-martinsville"
+    "australia-martinsville",
+    "australia-manjimup"
   ]
 }

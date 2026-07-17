@@ -1,0 +1,439 @@
+{
+  "slug": "australia-maxville",
+  "title": "맥스빌 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 맥스빌 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "nambucca-heads-au",
+  "cityName": "맥스빌",
+  "cityId": 710634,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "맥스빌",
+  "heroImg": "https://pix8.agoda.net/hotelImages/871215/0/949337987b6eecbb4ee158d1c19f7612.jpeg?ce=0",
+  "heroAlt": "맥스빌",
+  "heroTitleHtml": "맥스빌 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>인제니아 홀리데이 화이트 알바트로스</b>(평점 8.8·리뷰 2,049건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>인제니아 홀리데이 화이트 알바트로스</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/871215/0/949337987b6eecbb4ee158d1c19f7612.jpeg?ce=0",
+  "outroTitle": "🌙 맥스빌, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 맥스빌 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 맥스빌 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "인제니아 홀리데이 화이트 알바트로스 (Ingenia Holidays White Albatross)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ingenia-holidays-white-albatross/hotel/nambucca-heads-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 2049,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.4,
+      "img": "//pix8.agoda.net/hotelImages/871215/0/949337987b6eecbb4ee158d1c19f7612.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 2,049건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 2,049건 기반.",
+      "reviews": [
+        {
+          "text": "정말 좋은 곳이고 직원들은 매우 도움이 됩니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "오두막은 깨끗하고 넓으며 아이들을 위한 훌륭한 시설을 갖추고 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "아름다운 위치, 방파제까지 도보 거리.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "그곳에서 폭풍 요리를 했는데 조리기구가 다 제공됐어요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "구내 레스토랑은 훌륭하고 맛있는 음식입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Jabiru Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/jabiru-motel/hotel/all/nambucca-heads-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 800,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/172986085.jpg?k=1c2ede96a2ef53cc7845f721a568f7b0380f45a79ad0acf5a92ee2d779afc46d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 800건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 800건 기반.",
+      "reviews": [
+        {
+          "text": "주인은 매우 친절하고 매우 의무적이며 배려합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "매우 조용하고 깨끗하며 훌륭한 직원이 있습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "남부카 헤드를 방문할 때 정기적으로 이곳에 머물러 보세요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "매우 편리한 곳에 위치한 훌륭하고 작은 모텔입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 모텔과 훌륭한 호스트!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Riverside Rest Nambucca Heads",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/riverside-rest-nambucca-heads/hotel/all/nambucca-heads-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 320,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/856662112.jpg?k=53e386d5909609f88070a7619e56a5ffdc1ef847f0c96556d6542a941dc2bc82&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 320건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 320건 기반.",
+      "reviews": [
+        {
+          "text": "설명할 수 없는 서비스와 환대.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "주저없이 다시 머물 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "주저 없이 이 게스트하우스를 적극 추천합니다! 🥰",
+          "score": "10",
+          "country": "France",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 훌륭합니다. 😃 여기 주인과 평화를 사랑합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "샤론의 환대는 최고 수준이었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "리버뷰 부티크 모텔 (Riverview Boutique Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/riverview-boutique-motel/hotel/nambucca-heads-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 1076,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/261/261389/261389_16082212140045675053.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 1,076건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 1,076건 기반.",
+      "reviews": [
+        {
+          "text": "매우 따뜻하고 친절한 직원, 매우 깨끗한 호텔",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "아름다운 카페와 놀이터 근처의 놀라운 위치입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "방에는 멋진 전망과 함께 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 완벽하게 조리되어 맛있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "우리의 숙박은 편안했습니다 - 좋은 베개와 매트리스.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "The Beach Rooms",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-beach-rooms/hotel/nambucca-heads-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 2127,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/87795691/0/609c91c7e3b8a78cd9ff700b20f6daa5.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 2,127건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 2,127건 기반.",
+      "reviews": [
+        {
+          "text": "전체적으로 깨끗하고 넓으며 머물기 좋은 위치입니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "상점과 레스토랑과 가까운 훌륭한 위치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 시설을 갖춘 매우 달콤하고 집처럼 편안한 객실입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "위치 위치 위치는 지점의 110%입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "모든 곳에서 도보로 가까운 거리에 있는 훌륭한 위치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "만다린 모텔 (Mandarin Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mandarin-motel/hotel/macksville-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 752,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/693106922.jpg?k=26fea6d48daed0aa1eda84169e2034632d2e7d0fcd37be8dde73b85afc852e30&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 752건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 752건 기반.",
+      "reviews": [
+        {
+          "text": "방도 매우 편안하고 넓습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "객실은 꽤 좋았고 위치도 훌륭했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "브리즈번으로 운전하기 전에 숙면을 취했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "편안한 침대와 베개를 갖춘 멋지고 깨끗한 모텔입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 서비스와 청결함",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Motel Miramar",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/motel-miramar/hotel/all/nambucca-heads-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 1271,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/475950971.jpg?k=eec28cdddeeaba7c4373560118a68b3b1874ea214463b3771ea389499919881b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 1,271건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,271건 기반.",
+      "reviews": [
+        {
+          "text": "방은 깨끗하고 조용하고 편안했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "바다 전망이 훌륭하고 주차가 편리합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 호스트가 있는 평화롭고 아름다운 곳입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "이곳은 정말 깨끗하고 아름다운 곳이에요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 조용하고 편안해요",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-17T01:08:17.278Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
