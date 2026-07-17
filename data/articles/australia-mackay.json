@@ -1,0 +1,439 @@
+{
+  "slug": "australia-mackay",
+  "title": "맥케이 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 맥케이 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "맥케이",
+  "cityId": 2975,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "맥케이",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/468543413.jpg?k=31e243be5a0a0e60a71ff4d75a48ed927438f09b7f88e524e2a5cec65d8006be&o=",
+  "heroAlt": "맥케이",
+  "heroTitleHtml": "맥케이 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Mackay Adventure Lodge</b>(평점 8.6·리뷰 593건·1박 약 6만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Ooralea 도보 19분</b>의 <b>맥케이 모토 인</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/468543413.jpg?k=31e243be5a0a0e60a71ff4d75a48ed927438f09b7f88e524e2a5cec65d8006be&o=",
+  "outroTitle": "🌙 맥케이, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 맥케이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 맥케이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Mackay Adventure Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mackay-adventure-lodge/hotel/all/mackay-au.html?cid=1925461",
+      "walkMin": 67,
+      "score": 8.6,
+      "reviewCount": 593,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/468543413.jpg?k=31e243be5a0a0e60a71ff4d75a48ed927438f09b7f88e524e2a5cec65d8006be&o=",
+      "distanceNote": "약 5363.18m · Wiri 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 593건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 593건 기반.",
+      "reviews": [
+        {
+          "text": "맥케이에 다시 간다면 꼭 묵고 싶습니다.",
+          "score": "10",
+          "country": "France",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "내가 머물렀던 최고의 호스텔 중 하나",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "건물은 새롭고 현대적인 것 같았습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "이곳은 정말 편안하고 직원들도 친절합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 환영합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "랜턴 모토 인 (Lantern Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lantern-motor-inn/hotel/mackay-au.html?cid=1925461",
+      "walkMin": 27,
+      "score": 8.9,
+      "reviewCount": 408,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/478123/0/0a5ea3f69319082ef07b633c08db98bc.jpeg?ce=0",
+      "distanceNote": "약 2139.06m · Ooralea 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 408건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 408건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 매우 친절하며 귀하의 요청에 따라 나아갑니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "나는 Mackay에 올 때마다 항상 여기에 머물려고 노력합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원과 숙소는 10성급입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "Lantern Motor Inn에 머무르는 것을 적극 권장합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "객실은 낡았지만 매우 깨끗했고 침대는 편안했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Bel Air Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bel-air-motel_13/hotel/all/mackay-au.html?cid=1925461",
+      "walkMin": 41,
+      "score": 8.9,
+      "reviewCount": 266,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/427574204.jpg?k=875a1ef569aaedf9ee26a9d2cf95281bb359588eb6ccce8b79030305163a6b67&o=",
+      "distanceNote": "약 3269.51m · Ooralea 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 266건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 266건 기반.",
+      "reviews": [
+        {
+          "text": "방은 훌륭했고 광고된 사진과 똑같았습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절하고 환영해주었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박을 강력히 추천합니다",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "빠른 하룻밤 숙박에 적합",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "간편한 체크인",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "맥케이 모토 인 (Mackay Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mackay-motor-inn/hotel/mackay-au.html?cid=1925461",
+      "walkMin": 19,
+      "score": 8.7,
+      "reviewCount": 1229,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/547665/0/9ef9e711037cc9fbf0a29cef4f2fd447.jpg?ce=3",
+      "distanceNote": "약 1495.54m · Ooralea 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,229건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,229건 기반.",
+      "reviews": [
+        {
+          "text": "클린룸",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "직원들은 우리의 요구를 충족시키기 위해 그 이상으로 노력했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "매우 친절하고 꼭 다시 머물고 싶습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "위치가 좋고 직원이 친절함",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "뛰어난",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "매카이 오션사이드 센트럴 호텔 (Mackay Oceanside Central Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/potters-oceanside-motel_6/hotel/mackay-au.html?cid=1925461",
+      "walkMin": 73,
+      "score": 8.6,
+      "reviewCount": 371,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/22319884/0/d9308f3ee6fbe7f9b6da680a7ced8b04.jpeg?ce=0",
+      "distanceNote": "약 5841.61m · Ooralea 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 371건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 371건 기반.",
+      "reviews": [
+        {
+          "text": "강력히 추천하고, 새롭고, 깨끗하고, 편안하고, 편리합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 현대적이며 매우 편안한 침대를 갖추고 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "침대는 놀라웠고 우리는 매일 밤 죽은 자처럼 잤습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "그리고 Wi-Fi는 원격으로 작업하기에 완벽했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "매우 편안한 침대, 넓은 방, 깨끗하고 편안함",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "인터내셔널 라지 모텔 (International Lodge Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/international-lodge-motel/hotel/mackay-au.html?cid=1925461",
+      "walkMin": 56,
+      "score": 8.8,
+      "reviewCount": 82,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/549109/-1/b726cb7d99d566198fc6ac548c24508b.jpg?ca=7&ce=1",
+      "distanceNote": "약 4442.53m · Ooralea 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 82건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 82건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 고객 서비스와 깨끗한 장소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 곳.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 곳",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "완벽한 위치와 도움이 되는 직원",
+          "score": "10",
+          "country": "中国",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절하고 도움이 됩니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "트로픽 코스트 모텔 (Tropic Coast Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tropic-coast-motel/hotel/mackay-au.html?cid=1925461",
+      "walkMin": 26,
+      "score": 8.6,
+      "reviewCount": 681,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/6963982/-1/04c389fb39c3b07494b3e15c42d30541.jpg?ca=8&ce=1",
+      "distanceNote": "약 2041.95m · Ooralea 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 681건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 681건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 펍에 가깝고, 좋은 위치에 있는 쾌활한 장소입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 서비스 좋은 객실 매우 친절함",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 서비스, 매우 편안한 객실",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "대처가 훌륭하고 매우 도움이되는 직원",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 훌륭한 샤워 시설, 편안한 침대",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-17T06:32:45.698Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
