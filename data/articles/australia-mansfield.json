@@ -1,0 +1,398 @@
+{
+  "slug": "australia-mansfield",
+  "title": "맨스필드 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 맨스필드 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "mansfield-au",
+  "cityName": "맨스필드",
+  "cityId": 19502,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "맨스필드",
+  "heroImg": "https://pix8.agoda.net/hotelImages/680586/0/4d671d27a46167816b92a3abcabb12d7.jpeg?ce=0",
+  "heroAlt": "맨스필드",
+  "heroTitleHtml": "맨스필드 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>더 델라타이트 호텔</b>(평점 8.8·리뷰 90건·1박 약 9만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>더 델라타이트 호텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/680586/0/4d671d27a46167816b92a3abcabb12d7.jpeg?ce=0",
+  "outroTitle": "🌙 맨스필드, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 맨스필드 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 맨스필드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 델라타이트 호텔 (The Delatite Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-delatite-hotel/hotel/mansfield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 90,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/680586/0/4d671d27a46167816b92a3abcabb12d7.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 90건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 90건 기반.",
+      "reviews": [
+        {
+          "text": "친절한 직원 훌륭한 시설과 훌륭한 음식",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "침대는 정말 편안했고 우리는 잠을 잘 잤습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "내 숙박의 하이라이트 중 하나는 아침 식사였습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "공용 욕실은 깨끗하고 난방이 잘 되어 있어서 안전하다고 느꼈습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "이런 세심한 서비스를 접할 수 있어서 신선했습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "하이 컨트리 홀리데이 파크 (High Country Holiday Park)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/high-country-holiday-park_2/hotel/all/mansfield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 1571,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/116273310.jpg?k=97a2c93d2dd4b31cc28b83d28e1dd2f2d2dfdbb5f5dc3066418a074ceaa286bc&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 1,571건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,571건 기반.",
+      "reviews": [
+        {
+          "text": "잘 관리된 객실과 욕실은 현대적이고 최신식입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "빠른 체크인, 훌륭한 시설을 갖춘 깨끗하고 깔끔한 객실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "이 객실은 킹 사이즈 침대 1개 + 이층 침대로 4명이 편안하게 잘 수 있습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "놀이터는 우리의 필요에 딱 맞는 인기 있고 기본적인 오두막이었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "방은 다양했고 우리가 지불한 돈에 비해 훌륭했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "그린베일 홀리데이 유닛 (Greenvale Holiday Units)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/greenvale-holiday-units/hotel/mansfield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 206,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/258/2583126/2583126_17081014320055302510.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 206건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 206건 기반.",
+      "reviews": [
+        {
+          "text": "맨스필드에서의 완벽한 숙박!",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "머물기 좋은 곳",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "매우 좋은 장소와 주변 환경.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Mansfield Country Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mansfield-country-resort_4/hotel/all/mansfield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 82,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/755435999.jpg?k=4ac000b5754c049ed3a4214671e30c7591fbb5d4d87664b62b5d90154aca3b89&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 82건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 82건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 리조트!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "반조스 올 시즌스 어코모데이션 (Banjos All Seasons Accommodation)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/banjos-all-seasons-accommodation/hotel/mansfield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 428,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/625813/-1/7f7d69341ff37688bcc5c04106b5ae2f.png?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 428건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 428건 기반.",
+      "reviews": [
+        {
+          "text": "머물기 좋은 숙소입니다. 다시 방문하겠습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "침대에서 휴식을 취하는 것이 가장 좋습니다. 모든 것이 완벽합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "그들은 서비스와 가격 대비 훌륭한 가치에 자부심을 갖고 있습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 다시 머물기 좋은 곳입니다!",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "머물기에 정말 좋은 곳입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "알츠부르그 리조트 (Alzburg Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/alzburg-resort_2/hotel/all/mansfield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 1097,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/610799323.jpg?k=9b77b0c5f6213d5b70ce27a1353e452af214d48eea468343ffb0423609edae32&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 1,097건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,097건 기반.",
+      "reviews": [
+        {
+          "text": "전자레인지, 주전자, 냉장고, 토스터를 갖춘 아늑한 객실,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "수영장과 스파는 훌륭했고 짧은 여행을 떠났습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "게임룸도 10대들과 즐거웠고,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "나는 단지 하룻밤 머물고 있었지만 이곳은 완벽했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 따뜻하며 직원도 친절합니다.",
+          "score": "9.6",
+          "country": "台灣",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "맨스필드 모텔 (Mansfield Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mansfield-motel/hotel/mansfield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 597,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/182135/0/9afb4fd2f7ef5fc45f35315b19153892.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 597건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 597건 기반.",
+      "reviews": [
+        {
+          "text": "스키를 타는 날 숙박했으며 체크인이 간편하고 깨끗하고 편안했습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "편안한 침대와 깨끗한 욕실.",
+          "score": "10",
+          "country": "호주",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 좋은 가치와 완벽한 위치.",
+          "score": "10",
+          "country": "호주",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "메인 스트리트 근처의 훌륭한 위치",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 훌륭한 가치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-17T11:49:35.266Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
