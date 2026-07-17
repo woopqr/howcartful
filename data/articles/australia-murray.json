@@ -1,0 +1,175 @@
+{
+  "slug": "australia-murray",
+  "title": "미히 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 미히 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "미히",
+  "cityId": 720458,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "미히",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/888818437.jpg?k=076882cd1862991e4b3235916b3c4136c89d86b379172dfe9d8336206e4e5e23&o=",
+  "heroAlt": "미히",
+  "heroTitleHtml": "미히 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Bluestone Ridge</b>(평점 9.9·리뷰 34건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Bluestone Ridge</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/888818437.jpg?k=076882cd1862991e4b3235916b3c4136c89d86b379172dfe9d8336206e4e5e23&o=",
+  "outroTitle": "🌙 미히, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 미히 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 미히 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Bluestone Ridge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bluestone-ridge/hotel/all/whitfield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.9,
+      "reviewCount": 34,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/888818437.jpg?k=076882cd1862991e4b3235916b3c4136c89d86b379172dfe9d8336206e4e5e23&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 34건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.9</b> · 실제 투숙객 리뷰 34건 기반.",
+      "reviews": [
+        {
+          "text": "숨막히는 전망을 갖춘 조용하고 고급스러운 휴양지입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 쾌적한 숙소.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "나는 누구에게나 이곳을 적극 추천하고 싶습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "나는 이곳을 충분히 추천할 수 없었다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "호스트는 매우 도움이 되고 친절했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Nathan's Place",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nathan-s-place/hotel/all/whitfield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 70,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/880261613.jpg?k=f683b54f53467ee731f88b7d56062320ce74a78121bd56c555ef0591928044c3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 70건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 70건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "위트필드의 프라이빗 하우스 (37m², 침실 1개, 프라이빗 욕실 1개) (Lume King Valley)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lume-king-valley/hotel/whitfield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.9,
+      "reviewCount": 198,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/75299293/0/eb660727960888ef4b330fc1b69f0414.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 198건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.9</b> · 실제 투숙객 리뷰 198건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Dal Zotto Homestead & Petite Retreats",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dal-zotto-homestead-studios/hotel/all/whitfield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 55,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/473948170.jpg?k=bcc12572d82a5958306d96c83a2e80e9eed0176600b25e43ee1f32f5b858bebc&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 55건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 55건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Brookfield Guest House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/brookfield-guest-house/hotel/all/myrrhee-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 60,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 32만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/518470443.jpg?k=f70cfd4e82aec62839b0c45ae0e9ac67e5d15869280c1c9d8fb51d9ec7f3d30b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 32만원",
+        "📝 리뷰 60건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 60건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-17T16:54:42.192Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}
