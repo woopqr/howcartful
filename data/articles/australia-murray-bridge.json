@@ -1,0 +1,398 @@
+{
+  "slug": "australia-murray-bridge",
+  "title": "머레이 브리지 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 머레이 브리지 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "murray-bridge-au",
+  "cityName": "머레이 브리지",
+  "cityId": 142633,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "머레이 브리지",
+  "heroImg": "https://pix8.agoda.net/hotelImages/462/462836/462836_16032911080041136529.jpg?ca=6&ce=1",
+  "heroAlt": "머레이 브리지",
+  "heroTitleHtml": "머레이 브리지 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>만눔 모텔</b>(평점 8.7·리뷰 78건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>만눔 모텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/462/462836/462836_16032911080041136529.jpg?ca=6&ce=1",
+  "outroTitle": "🌙 머레이 브리지, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 머레이 브리지 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 머레이 브리지 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "만눔 모텔 (Mannum Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mannum-motel/hotel/murray-bridge-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 78,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/462/462836/462836_16032911080041136529.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 78건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 78건 기반.",
+      "reviews": [
+        {
+          "text": "가족과 친구들에게 이 모텔을 꼭 추천하겠습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "객실은 완벽하게 갖추어져 있어 매우 편리합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "가족이 Mannum에 머물기에 매우 편리한 장소입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "한동안 이 모텔에 머물기로 약속했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "브리지포트 호텔 (Bridgeport Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bridgeport-hotel/hotel/murray-bridge-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 3926,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/29345170/0/70e91f65f1475990913ef1c722fee1f9.jpg?ca=25&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 3,926건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 3,926건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 깔끔하며 객실 크기도 아주 좋습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "방은 흠잡을 데 없이 깨끗했고 모든 것이 새 것처럼 보였습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "쇼핑몰 바로 옆의 훌륭한 위치.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "Bridgeport의 객실은 정말 넓고 현대적입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 호텔, 편안한 침대, 매우 깨끗하고 아름다운 수영장.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Villa Fire Stone",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/harbour-mannum/hotel/murray-bridge-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 187,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/86092566/0/b26c925653650d436dabeccd00bb7796.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 187건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 187건 기반.",
+      "reviews": [
+        {
+          "text": "아름답게 꾸며진 객실에서.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "강력히 추천하며 꼭 다시 머물고 싶습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "모든 기대를 넘어서",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "The Bend Abode",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-bend-abode/hotel/all/murray-bridge-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 243,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/289436457.jpg?k=684bc3cf97ba65cd92c6b83029bf04d89b82156050cc83ff2083fbd87d611d3b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 243건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 243건 기반.",
+      "reviews": [
+        {
+          "text": "적극 추천합니다. 꼭 다시 머물고 싶습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "BIG4 Mannum Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-breeze-holiday-parks-mannum/hotel/all/murray-bridge-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 516,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/333931951.jpg?k=cd09416573515b24df9f227107c761fabbd656c289d737e97c2ee04f6f48e1ee&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 516건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 516건 기반.",
+      "reviews": [
+        {
+          "text": "그리고 큰 미국 ute가 있어도 주차가 매우 쉬웠습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "현장의 보트 경사로를 이용하면 주석을 쉽게 넣을 수 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "빌라는 매우 깨끗하고 시설도 매우 좋습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "샤워실에는 뜨거운 물이 충분하고 수압이 컸습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "숙박은 훌륭했습니다",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "애들레이드 로드 모터 로지 (Adelaide Road Motor Lodge)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/adelaide-road-motor-lodge/hotel/murray-bridge-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 2056,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/409377/-1/1dbaa4b02a04e4fd4e7ffc6c137c76cd.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 2,056건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 2,056건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 친절했고 방은 매우 깔끔하고 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "모든 연령대에 적합한 수영장이 추가되어 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안하고 샤워실은 수압이 좋고 깨끗합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 방 크기도 크고 침대도 너무 편안하고 넓습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 업데이트되었으며 침대는 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "리지스 피트 레인 호텔 (Rydges Pit Lane Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rydges-pit-lane-hotel/hotel/murray-bridge-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 952,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/4408689/-1/abeb3b647c50d79b604fbb90b343c3b6.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 952건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 952건 기반.",
+      "reviews": [
+        {
+          "text": "내 여행에서 머물렀던 최고의 장소임에 틀림없을 것이다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "이 숙소는 매우 깨끗하고 편안했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "구내 레스토랑에서 훌륭한 음식과 와인을 즐겨보세요.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "빨리 멈춰서 아주 좋은 방이 흠 잡을 데가 없었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 직원과 훌륭한 클린룸.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-17T15:51:08.445Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
