@@ -1,0 +1,404 @@
+{
+  "slug": "australia-mandurah",
+  "title": "맨두라 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 맨두라 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "맨두라",
+  "cityId": 11655,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "맨두라",
+  "heroImg": "https://pix8.agoda.net/hotelImages/547564/0/9773cbec345fe6914cc270afdcff9074.jpeg?ce=0",
+  "heroAlt": "맨두라",
+  "heroTitleHtml": "맨두라 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Mandurah Caravan and Tourist Park</b>(평점 9·리뷰 49건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>만두라역 도보 21분</b>의 <b>Mandurah Coastal Holiday Park</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/547564/0/9773cbec345fe6914cc270afdcff9074.jpeg?ce=0",
+  "outroTitle": "🌙 맨두라, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 맨두라 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 맨두라 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Mandurah Caravan and Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mandurah-caravan-and-tourist-park/hotel/all/mandurah-au.html?cid=1925461",
+      "walkMin": 39,
+      "score": 9,
+      "reviewCount": 49,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/547564/0/9773cbec345fe6914cc270afdcff9074.jpeg?ce=0",
+      "distanceNote": "약 3092.32m · 만두라역 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 49건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 49건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Pinjarra Caravan Park and Cabins",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pinjarra-caravan-park-and-cabins/hotel/all/mandurah-au.html?cid=1925461",
+      "walkMin": 31,
+      "score": 8.2,
+      "reviewCount": 660,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/53052966.jpg?k=5cf068d364fdd345644b065ae082bdd27369b14585f4a2a22640e1f5b322344e&o=",
+      "distanceNote": "약 2453.2m · Pinjarra 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 660건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 660건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 우리에게 친절했고 집도 훌륭했습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "나는 Pinjarra Caravan Park에 머무르는 것을 좋아합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "방이 조금 답답했지만 캐빈을 청소하십시오.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "그 외에도 지역을 탐험하기에 좋은 위치입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "나 자신과 Miss 17은 이곳에서 3박을 즐겼습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Mandurah Coastal Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mandurah-coastal-holiday-park/hotel/all/mandurah-au.html?cid=1925461",
+      "walkMin": 21,
+      "score": 8.1,
+      "reviewCount": 821,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/535389597.jpg?k=96457dfd7557ac98c810b13774d9f316fb9eb63039bd22bf2f1217666fc2b786&o=",
+      "distanceNote": "약 1680.33m · 만두라역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 821건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 821건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗하고 깔끔하며 직원들은 매우 도움이 되었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "나와 내 두 자녀는 하룻밤을 묵었고 이곳을 좋아했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "업그레이드된 객실에서 프라이버시와 청결함을 즐겼습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "방은 깔끔하고 깨끗했으며 직원들은 매우 친절하고 도움이 되었습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "1박 숙박에 필요한 모든 물품이 갖춰져 있었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Twin Waters Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/twin-waters-caravan-park/hotel/all/mandurah-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 277,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/241417028.jpg?k=ef0bb06af9064e4086ba9d088561346e7d659a5f66c9ce2a55ab0ec65e5013fb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 277건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 277건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗하고 편리한 위치",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "정말 깨끗한 시설.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "그 직원들은 매우 친절하고 친절하며 매우 도움이 됩니다!",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박, 훌륭한 직원!",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "즉시 다시 거기에 머물 것입니다!",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Serene 2-Bed Apartment by the Canal",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/apollo-quays-resort-studio-apartment-with-kitchenette-and-shared-jetty/hotel/mandurah-au.html?cid=1925461",
+      "walkMin": 42,
+      "score": 9,
+      "reviewCount": 75,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/83294401/0/6f4fd45d10b37118597f0a505603930b.jpg?ce=3",
+      "distanceNote": "약 3348.98m · 만두라역 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 75건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 75건 기반.",
+      "reviews": [
+        {
+          "text": "숙소에는 세탁 시설과 전자레인지가 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "좋은 장소, 좋은 방, 좋은 시설, 좋은 직원..",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "우리는 꼭 다시 머물고 싶습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "게이트와 진입점 측면에서도 접근이 쉽습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "C 만두라 (C Mandurah)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quest-mandurah_3/hotel/mandurah-au.html?cid=1925461",
+      "walkMin": 41,
+      "score": 8.5,
+      "reviewCount": 948,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/49981/-1/8703d6a166731e703ff75359e0d0812b.jpg?ca=9&ce=1",
+      "distanceNote": "약 3285.66m · 만두라역 인근",
+      "metaTags": [
+        "📝 리뷰 948건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 948건 기반.",
+      "reviews": [
+        {
+          "text": "다른 호텔들과 달리 이 지역의 저렴한 가격",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "좋고 깨끗하며 필요한 모든 시설이 갖춰져 있습니다. 감사합니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "편안한 침대와 덮개가 있는 안전한 주차 공간이 마련되어 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 C Mandurah Resort에서 매우 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 잘 꾸며져 있었고 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "만두라 포어쇼어 모텔 (Mandurah Foreshore Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mandurah-foreshore-motel/hotel/mandurah-au.html?cid=1925461",
+      "walkMin": 31,
+      "score": 8.3,
+      "reviewCount": 230,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/666051/0/261a9f86b07373f2974fad9e82cb8a48.jpeg?ce=0",
+      "distanceNote": "약 2500.4m · 만두라역 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 230건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 230건 기반.",
+      "reviews": [
+        {
+          "text": "위치가 훌륭하고 청결하며 체크인 및 체크아웃이 친절합니다",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "마누라 중심부에 있는 탁월한 위치.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안하고 직원들은 친절하며 가격 대비 좋은 가치를 제공합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "멋진 위치, 새로 개조된 욕실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치와 상점 및 음식까지 도보 거리",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2022.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-17T10:24:50.773Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
