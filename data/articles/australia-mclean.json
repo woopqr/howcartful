@@ -1,0 +1,280 @@
+{
+  "slug": "australia-mclean",
+  "title": "맥린 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 맥린 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "맥린",
+  "cityId": 706679,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "맥린",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/754922901.jpg?k=b55c26f9f8163b59c18a0299d04b77aa0c99fb7999c31a62627dd1fd5211a2fd&o=",
+  "heroAlt": "맥린",
+  "heroTitleHtml": "맥린 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Club Maclean Motel</b>(평점 9.2·리뷰 664건·1박 약 15만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Club Maclean Motel</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/754922901.jpg?k=b55c26f9f8163b59c18a0299d04b77aa0c99fb7999c31a62627dd1fd5211a2fd&o=",
+  "outroTitle": "🌙 맥린, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 맥린 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 맥린 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Club Maclean Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/club-maclean-motel/hotel/all/maclean-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 664,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/754922901.jpg?k=b55c26f9f8163b59c18a0299d04b77aa0c99fb7999c31a62627dd1fd5211a2fd&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 664건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 664건 기반.",
+      "reviews": [
+        {
+          "text": "위치는 볼링 클럽의 꽤 좋은 부분입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "나는 지금까지 이곳에 5번 머물렀습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 곳",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "우리가 이 지역에 오게 된다면 이 모텔에 다시 예약하겠습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 모텔 방 사랑스러운 리셉션",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Beautiful river view guesthouse",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beautiful-new-river-view-guesthouse/hotel/all/maclean-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 58,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/564021750.jpg?k=4319b5f21cec0770b081ec50445c0d0502b4aa05ab8040f04ee21fa31e66ab53&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 58건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 58건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Motel Maclean",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/motel-maclean/hotel/all/maclean-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 1037,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/510856825.jpg?k=4d8884156bb3f11b9b3ca6220273c46958c9bb403a1c2f0c8363c6a4604767c6&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 1,037건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,037건 기반.",
+      "reviews": [
+        {
+          "text": "우리의 체류는 매우 즐거웠으며 다시 돌아올 것입니다! 감사합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 수영장과 방에서 보이는 강 전망이 멋집니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원, 귀엽고 깨끗한 객실.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "놀라운 직원과 깨끗한 시설",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "고속도로 바로 옆에 있는 좋은 위치에 있는 훌륭한 모텔",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "워터뷰 모텔 맥클린 (Waterview Motel Maclean)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/waterview-motel-maclean/hotel/maclean-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 1105,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/685151/-1/137a570e51cf28545b6334ab2eff2219.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 1,105건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,105건 기반.",
+      "reviews": [
+        {
+          "text": "너무 친절하고 조용하고 좋은 위치에 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "중앙 위치와 가격 대비 훌륭한 가치.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 Waterview Motel에서 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "아이들은 수영장을 이용하며 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 강을 따라 산책을 했는데 정말 좋았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Maclean Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/maclean-hotel/hotel/all/maclean-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.6,
+      "reviewCount": 123,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/793038369.jpg?k=0f6c8a7018398122b32bd9c9175a988554ccf07bff95bba86bcf77f827357ba3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 123건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 123건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 공유 편의 시설.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Maclean Riverside Cabin Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/maclean-riverside-caravan-park/hotel/all/maclean-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 33,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/783199106.jpg?k=6ad9d645fccd1ba373324d317374a3b7a6ec6cb3bbcfcaa54fa67ad4dda203af&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 33건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 33건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-17T08:38:24.064Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}

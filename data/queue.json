@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-17T06:32:17.710Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 3,
+  "lastPostedAt": "2026-07-17T08:38:08.035Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 4,
   "postedDate": "2026-07-17",
   "queue": [
-    "australia-mclaren-vale",
     "australia-maxville",
     "australia-mccallinden",
-    "australia-mackay"
+    "australia-mackay",
+    "australia-mclean"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 160,
+    "cityIndex": 161,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -209,6 +209,7 @@
     "australia-martinsville",
     "australia-manjimup",
     "australia-mallacoota",
-    "australia-marysville"
+    "australia-marysville",
+    "australia-mclaren-vale"
   ]
 }
