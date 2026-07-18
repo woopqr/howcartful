@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-18T10:34:40.222Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 6,
+  "lastPostedAt": "2026-07-18T12:31:49.699Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 7,
   "postedDate": "2026-07-18",
   "queue": [
-    "australia-mundering",
     "australia-mulgan",
     "australia-mullumbimby",
-    "australia-mulwala"
+    "australia-mulwala",
+    "australia-monkey-mia"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 174,
+    "cityIndex": 175,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -223,6 +223,7 @@
     "australia-murray-bridge",
     "australia-murray",
     "australia-murwillumbah",
-    "australia-mudgee"
+    "australia-mudgee",
+    "australia-mundering"
   ]
 }
