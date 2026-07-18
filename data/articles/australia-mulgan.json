@@ -1,0 +1,186 @@
+{
+  "slug": "australia-mulgan",
+  "title": "멀건 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 멀건 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "멀건",
+  "cityId": 710720,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "멀건",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/221301370.jpg?k=a46fde3eaf4a31e5f2e16b806c7dec3c3ca223974f6a8d968c38c8d06a3f79b9&o=",
+  "heroAlt": "멀건",
+  "heroTitleHtml": "멀건 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Redgate Country Cottages</b>(평점 9·리뷰 126건·1박 약 10만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Redgate Country Cottages</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/221301370.jpg?k=a46fde3eaf4a31e5f2e16b806c7dec3c3ca223974f6a8d968c38c8d06a3f79b9&o=",
+  "outroTitle": "🌙 멀건, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 멀건 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 멀건 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Redgate Country Cottages",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/redgate-country-cottages/hotel/all/moffatdale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 126,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/221301370.jpg?k=a46fde3eaf4a31e5f2e16b806c7dec3c3ca223974f6a8d968c38c8d06a3f79b9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 126건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 126건 기반.",
+      "reviews": [
+        {
+          "text": "고요한 휴양지",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "대단한 이탈",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "원다이의 빌라 (6m², 침실 1개, 프라이빗 욕실 1개) (WONDAI ACCOMMODATION UNITS AND VILLAS)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wondai-accommodation-units-and-villas/hotel/wondai-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 561,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/459/4595251/4595251_18030307120062537672.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 561건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 561건 기반.",
+      "reviews": [
+        {
+          "text": "전반적으로 충분한 가전제품을 갖춘 살기 좋은 숙소입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "매니저는 매우 도움이 되었고 나를 환영하게 만들었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "그들은 하룻밤 숙박에 필요한 모든 것을 갖추고 있었습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "위치가 훌륭하고 시내 중심에 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "원다이 콜로니얼 모텔 (Wondai Colonial Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wondai-colonial-motel/hotel/wondai-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 155,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/288455/0/ed4fc24c65ae17eb2172a94fd3feb90c.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 155건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 155건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 시설.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "편안하고 조용합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Chesterfield Farm Stay - Private Room",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/chesterfield-farm-stay/hotel/all/murgon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 40,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/547287003.jpg?k=9e89999e8c9bab12d26a7f1b1913faf8981198d6adfcb1dca736d2f902e3003d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 40건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 40건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-18T07:18:24.547Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}
