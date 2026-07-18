@@ -1,0 +1,426 @@
+{
+  "slug": "australia-maryborough",
+  "title": "매리버러 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 매리버러 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "maryborough-au",
+  "cityName": "매리버러",
+  "cityId": 9093,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "매리버러",
+  "heroImg": "https://pix8.agoda.net/hotelImages/61747083/-1/bf9f1f9e100093c6611d46b10fa64cfb.jpg?ce=0",
+  "heroAlt": "매리버러",
+  "heroTitleHtml": "매리버러 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Ned Kelly's Motel</b>(평점 8.4·리뷰 147건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Ned Kelly's Motel</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/61747083/-1/bf9f1f9e100093c6611d46b10fa64cfb.jpg?ce=0",
+  "outroTitle": "🌙 매리버러, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 매리버러 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 매리버러 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Ned Kelly's Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ned-kelly-s-motel/hotel/maryborough-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 147,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.2,
+      "img": "//pix8.agoda.net/hotelImages/61747083/-1/bf9f1f9e100093c6611d46b10fa64cfb.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 147건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 147건 기반.",
+      "reviews": [
+        {
+          "text": "숙소는 완벽했고 직원들은 매우 친절하고 도움이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 빠른 숙박에 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "직원 친절도, 객실 청결도, 모든 것.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 가치와 숙박은 우리에게 편안했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 친절한 직원들이 도와줄 준비가 되어 있었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Wallace Motel And Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wallace-motel-and-caravan-park/hotel/all/maryborough-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 491,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/386496214.jpg?k=4fd8ce0d6a5faa34c5c13e18972a709bea26d64c8ec75b46a0860d304f8f5e1e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 491건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 491건 기반.",
+      "reviews": [
+        {
+          "text": "간이 주방과 대형 냉장고가 마련되어 있습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "나는 10/10으로 이곳을 강력히 추천합니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "arkana의 모든 사람들은 사랑스럽고 다루기가 매우 쉬웠습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "좋은 장소",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "잃어버린 물건을 되찾기 위해 돌아올 때까지 돌보았습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "베스트 웨스턴 킴바 로지 모터 인 (Best Western Kimba Lodge Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-kimba-lodge-motor-inn/hotel/maryborough-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 116,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/501/501918/501918_17071907510054535131.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 116건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 116건 기반.",
+      "reviews": [
+        {
+          "text": "방은 깨끗하고 편안하며 잘 표현되었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "필요가 생기면 꼭 다시 이곳에 머물고 싶습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "매우 편안하고 깨끗했으며 직원들은 훌륭했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "다음에 Maryborough에 오면 꼭 다시 여기에 머물 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "2박 숙박을 위해 우리 방에도 서비스를 제공했습니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "맥네빈스 파크웨이 모텔 (McNevins Parkway Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mcnevins-parkway-motel/hotel/maryborough-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 1095,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/286/286676/286676_15081618060034370994.jpg?ca=5&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 1,095건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,095건 기반.",
+      "reviews": [
+        {
+          "text": "객실은 깨끗하고 직원들은 매우 친절합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "Mc Nivens(Maryborough)에 머무르는 것을 강력히 추천합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원, 맛있는 식사, 매우 행복합니다. 꼭 다시 갈게요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "McNivens Parkway Motel을 적극 추천합니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "우리는 McNevins 모텔에서 환상적인 숙박을 보냈습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Huntsville Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/huntsville-caravan-park/hotel/all/maryborough-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 57,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/53792867.jpg?k=7d4ea6dc03c2dcf7a31ce84711a779ee897a5e0bc52a1eec0b882d8ba215517b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 57건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 57건 기반.",
+      "reviews": [
+        {
+          "text": "객실에서 원하는 모든 것을 갖춘 깨끗하고 편안합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "다시 머물 것입니다",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 직원",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Carriers Arms Hotel Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/carriers-arms-hotel-motel/hotel/all/maryborough-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 45,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/493183494.jpg?k=4703dd08bd03dc7658d43cc32b61c8ed76be9e54a9b20102645920ea2d8c9f03&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 45건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 45건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 매우 수용적이고 도움이 되었습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "머물기 좋은 곳",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "저렴한 가격, 좋은 침대, 매우 깨끗하고 넓은 주차장.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "놀라운 호텔 - 훌륭한 비스트로와 음식",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 다양한 편의시설.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Cara Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cara-motel/hotel/all/maryborough-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 42,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/23252281.jpg?k=07b6c2f73e4eff8ae70113087ad56496a2ef97e06fbdc6bdea51e8da5d039ad9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 42건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 42건 기반.",
+      "reviews": [
+        {
+          "text": "매우 즐거운 숙박이었고 꼭 다시 이곳에 머물고 싶습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "작은 손길이 방을 특별하게 만들었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "소유자는 친절하고 매우 도움이 됩니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "객실은 매우 깨끗했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "독립형, 매우 깨끗하고 도움이 되는 직원.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-18T16:05:40.379Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
