@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-18T12:31:49.699Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 7,
+  "lastPostedAt": "2026-07-18T13:59:55.956Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 8,
   "postedDate": "2026-07-18",
   "queue": [
-    "australia-mulgan",
     "australia-mullumbimby",
     "australia-mulwala",
-    "australia-monkey-mia"
+    "australia-monkey-mia",
+    "australia-mena-creek"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 175,
+    "cityIndex": 176,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -224,6 +224,7 @@
     "australia-murray",
     "australia-murwillumbah",
     "australia-mudgee",
-    "australia-mundering"
+    "australia-mundering",
+    "australia-mulgan"
   ]
 }
