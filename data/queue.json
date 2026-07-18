@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-18T00:01:20.390Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 1,
+  "lastPostedAt": "2026-07-18T03:20:00.364Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 2,
   "postedDate": "2026-07-18",
   "queue": [
-    "australia-murray-downs",
     "australia-murray-bridge",
     "australia-murray",
-    "australia-murwillumbah"
+    "australia-murwillumbah",
+    "australia-mudgee"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 168,
+    "cityIndex": 169,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -217,6 +217,7 @@
     "australia-mclean",
     "australia-mandurah",
     "australia-mansfield",
-    "australia-murumbeeman"
+    "australia-murumbeeman",
+    "australia-murray-downs"
   ]
 }
