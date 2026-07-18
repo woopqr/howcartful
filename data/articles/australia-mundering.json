@@ -1,0 +1,190 @@
+{
+  "slug": "australia-mundering",
+  "title": "먼더링 가성비 호텔 3곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 먼더링 가성비 호텔 3곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "perth-au",
+  "cityName": "먼더링",
+  "cityId": 710719,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "먼더링",
+  "heroImg": "https://pix8.agoda.net/hotelImages/621169/-1/d281615f5a650c72b11826c5d3a371e1.jpg?ce=0",
+  "heroAlt": "먼더링",
+  "heroTitleHtml": "먼더링 가성비 호텔 3곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>샬레 온 스톤빌</b>(평점 8.8·리뷰 102건·1박 약 17만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>샬레 온 스톤빌</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/621169/-1/d281615f5a650c72b11826c5d3a371e1.jpg?ce=0",
+  "outroTitle": "🌙 먼더링, 어디에 묵어도 후회없이",
+  "outroText": "위 3곳은 모두 먼더링 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 먼더링 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "샬레 온 스톤빌 (Chalets on Stoneville)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/chalets-on-stoneville/hotel/perth-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 102,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/621169/-1/d281615f5a650c72b11826c5d3a371e1.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 102건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 102건 기반.",
+      "reviews": [
+        {
+          "text": "아름다운 수건, 평면 TV, 편안하고 깨끗한 침대.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "샬레는 아늑하고 깨끗했고 스파는 훌륭했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 Stoneville의 Chalets에서 즐거운 밤을 보냈습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "이 지역에 무슨 일이 생기면 좋은 위치입니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "욕실은 좋았고 수압이 좋은 큰 샤워 시설이었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Mahogany Inn and Distillery",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mahogany-inn-and-distillery/hotel/all/perth-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 523,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/644781792.jpg?k=6b195d4a88b3e1a162d77979065938cb9c2d3a1e4a102755a43bd7534561e1a0&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 523건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 523건 기반.",
+      "reviews": [
+        {
+          "text": "매우 편안한 객실이었지만 침대는 꽤 푹신했습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 객실, 고급스러운 시설",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "바/레스토랑에서 음식과 음료를 즐기세요.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "우리는 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "결혼식 피로연을 위한 훌륭한 장소.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Mundaring Weir Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mundaring-weir-hotel_3/hotel/all/mundaring-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 293,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/561218166.jpg?k=62e441a252f6de138f8953312d9bb6b10ec485ec6988b356121296aec57b7dca&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 293건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 293건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 매우 친절하고 위치는 환상적입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "이곳은 가격대비 정말 좋은 곳이에요.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "좋은 숙박 !!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-18T05:39:21.006Z",
+    "source": "agoda citySearch",
+    "count": 3
+  }
+}
