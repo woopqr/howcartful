@@ -1,0 +1,411 @@
+{
+  "slug": "australia-merimbula",
+  "title": "메림불라 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 메림불라 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "merimbula-au",
+  "cityName": "메림불라",
+  "cityId": 5138,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "메림불라",
+  "heroImg": "https://pix8.agoda.net/hotelImages/625047/0/b0c8fb6c8340187347d6a7f60809d25c.jpeg",
+  "heroAlt": "메림불라",
+  "heroTitleHtml": "메림불라 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>오션 뷰 모터 인</b>(평점 8.6·리뷰 51건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>오션 뷰 모터 인</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/625047/0/b0c8fb6c8340187347d6a7f60809d25c.jpeg",
+  "outroTitle": "🌙 메림불라, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 메림불라 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 메림불라 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "오션 뷰 모터 인 (Ocean View Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ocean-view-motor-inn/hotel/merimbula-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 51,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/625047/0/b0c8fb6c8340187347d6a7f60809d25c.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 51건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 51건 기반.",
+      "reviews": [
+        {
+          "text": "침대는 편안했고 모든 것이 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "멋진 전망을 감상할 수 있는 시내까지 도보로 쉽게 이동할 수 있습니다.",
+          "score": "7.2",
+          "country": "Vietnam",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "모든 시설을 갖춘 거대한 객실입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "나는 정말로 즐거운 시간을 보냈다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "깔끔하고 깨끗하고 아주아주 깨끗해요",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Country charm coastal living",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/country-charm-coastal-living/hotel/all/merimbula-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 174,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/494121859.jpg?k=65effe76eac12e1238c199ba82c1462e6567c314f00145532135716e1aff7fca&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 174건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 174건 기반.",
+      "reviews": [
+        {
+          "text": "아름답고 조용한 위치(놀라운 정원과 데크)",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "타운 센터 모터 인 (Town Centre Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/town-centre-motor-inn/hotel/merimbula-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 73,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/286561/0/0212e3e997299794d6b8bbc803eae88f.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 73건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 73건 기반.",
+      "reviews": [
+        {
+          "text": "레스토랑과 Woolworths, ALDI까지 도보 거리",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "위치와 서비스 면에서 적극 추천합니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 매우 깨끗함, 모든 것이 완벽함",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "주차공간이 넉넉하고 현대적이고 편안합니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "그곳에서 즐거운 하룻밤을 보냈습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "사파이어 워터 모터 인 (Sapphire Waters Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sapphire-waters-motor-inn/hotel/merimbula-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 1501,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/7542181/0/0bedf362deccc089cf45fa2459ba9c02.jpg?ca=23&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 1,501건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,501건 기반.",
+      "reviews": [
+        {
+          "text": "위치는 훌륭했고 직원들은 친절하고 도움이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "모든 편의시설에 매우 가깝고 매우 청결한 우수한 모텔",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "방 자체는 깨끗하고 편안하며 잘 디자인되었습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "방은 우리가 머무는 동안 깨끗하고 편안했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "시설도 좋고 매우 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "설프사이드 메림불라 홀리데이 아파트먼트 (Surfside Merimbula Holiday Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/surfside-merimbula-holiday-apartments/hotel/merimbula-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 126,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/446/446707/446707_15092114490036230485.jpg?ca=5&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 126건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 126건 기반.",
+      "reviews": [
+        {
+          "text": "위치가 최고였고 직원이 매우 친절했습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "사랑스럽고 깨끗하고 깔끔한 객실과 매우 편안한 침대",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "Surfside Merimbula보다 더 나은 가격 대비 가치는 없습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 넓고 편안하며 위치가 좋은 아파트입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "우리 숙소는 매우 깨끗하고 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Merimbula Sapphire Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/comfort-inn-merimbula_3/hotel/merimbula-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.7,
+      "reviewCount": 298,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/50209915/0/06c91e6303867c62f815e88cc2ecb681.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 298건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 298건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 매우 도움이 되고 친절하며 접근하기 쉬웠습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "나는 확실히 추천하고 다시 머물 것입니다",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "우리의 체류를 즐겼으며 다시 머물 것입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치와 돈의 가치.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "그러나 사랑스러운 장소와 방은 좋습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Pelican Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pelican-motor-inn_5/hotel/merimbula-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 646,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/35776700/0/4e292df87afc57d977b54ee756210db3.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 646건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 646건 기반.",
+      "reviews": [
+        {
+          "text": "예약에 대한 마지막 변경 사항에 대해 직원이 매우 도움이 되었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "시내에 위치가 좋고 가격 대비 훌륭한 가치를 제공합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치; 타운 센터.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 가치!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "단기 체류에 적합한 모텔",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-19T10:10:04.203Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
