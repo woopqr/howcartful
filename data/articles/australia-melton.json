@@ -1,0 +1,236 @@
+{
+  "slug": "australia-melton",
+  "title": "멜튼 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 멜튼 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "melton-au",
+  "cityName": "멜튼",
+  "cityId": 143150,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "멜튼",
+  "heroImg": "https://pix8.agoda.net/hotelImages/426359/-1/f2f6f931c3f681e44388038b4fedebb2.jpg?ca=0&ce=1",
+  "heroAlt": "멜튼",
+  "heroTitleHtml": "멜튼 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>멜턴 모토 인</b>(평점 8.9·리뷰 134건·1박 약 16만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>멜턴 모토 인</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/426359/-1/f2f6f931c3f681e44388038b4fedebb2.jpg?ca=0&ce=1",
+  "outroTitle": "🌙 멜튼, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 멜튼 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 멜튼 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "멜턴 모토 인 (Melton Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/melton-motor-inn/hotel/melton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 134,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/426359/-1/f2f6f931c3f681e44388038b4fedebb2.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 134건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 134건 기반.",
+      "reviews": [
+        {
+          "text": "서비스는 친절했고 다른 손님들은 꽤 조용했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "가격대비 괜찮았고 직원들이 친절했어요",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "아주 좋은 조용한 위치에 주차 공간이 매우 넓습니다.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "도착시 직원이 매우 환영합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "환상적인 장소와 훌륭한 사람들이 다시 돌아올 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "멜튼의 프라이빗 하우스 (24m², 침실 1개, 프라이빗 욕실 1개) (Stylish tiny home in Melton west)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/stylish-tiny-home-in-melton-west/hotel/melton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 91,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/51939499/0/22c57ec948d47f69eb59e5aaf00f8d54.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 91건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 91건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Spacious 4 bedroom home in Weir Views near Warrawong Estate",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/spacious-4-bedroom-home-in-weir-views-near-warrawong-estate/hotel/all/melton-south-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 33,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/487866180.jpg?k=edae05c5ce81e30406d1efd0d795f3ca4dfd050f7c5908bb9046f005cdce8c84&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 33건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 33건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "만트라 멜버른 멜튼 (Mantra Melbourne Melton)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mantra-melbourne-melton/hotel/melton-south-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 70,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/835311269.jpg?k=b0626e61e84ca011785b50202f96ae5c253e6ea678b77d0afd74c1358614f8c1&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 70건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 70건 기반.",
+      "reviews": [
+        {
+          "text": "객실부터 직원, 음식까지 모두 별 5개입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "레스토랑은 가격이 매우 합리적이고 음식도 맛있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 무엇이든 기꺼이 도와주고 매우 친절합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "넓고 깨끗한 객실로 가격 대비 훌륭한 가치를 제공합니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 시설과 매우 친절하고 협조적인 직원.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "멜턴 사우스의 프라이빗 하우스 (621m², 침실 4개, 프라이빗 욕실 2개) (Nature Walk @ Brookfield)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nature-walk-brookfield/hotel/melton-south-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.6,
+      "reviewCount": 72,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/64336387/0/bc49943b88daaed28a17025a58ed357e.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 72건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 72건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Woodgrove Penthouse - 36 min drive to MEL airport",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/woodgrove-penthouse-36-min-drive-to-mel-airport/hotel/all/melton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 99,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 34만원",
+      "valueIndex": 4.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/387358727.jpg?k=d074092c72961ba736aaefc72d3588d85860af97626aec016cd7e85335517c79&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 34만원",
+        "📝 리뷰 99건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 99건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-19T21:28:37.362Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}
