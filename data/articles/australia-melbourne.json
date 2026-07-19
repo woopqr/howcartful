@@ -1,0 +1,440 @@
+{
+  "slug": "australia-melbourne",
+  "title": "멜버른 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 멜버른 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "melbourne-au",
+  "cityName": "멜버른",
+  "cityId": 10372,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "멜버른",
+  "heroImg": "https://pix8.agoda.net/hotelImages/32751877/-1/e3628fb1b245a00e4f2049c9fc405cd3.jpg?ce=0",
+  "heroAlt": "멜버른",
+  "heroTitleHtml": "멜버른 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>바운스 멜버른</b>(평점 8.7·리뷰 833건·1박 약 3만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Town Hall Railway Station 도보 1분</b>의 <b>바운스 멜버른</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/32751877/-1/e3628fb1b245a00e4f2049c9fc405cd3.jpg?ce=0",
+  "outroTitle": "🌙 멜버른, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 멜버른 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 멜버른 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "바운스 멜버른 (Bounce Melbourne)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/selina-central-melbourne/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.7,
+      "reviewCount": 833,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/32751877/-1/e3628fb1b245a00e4f2049c9fc405cd3.jpg?ce=0",
+      "distanceNote": "약 102.49m · Town Hall Railway Station 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 833건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 833건 기반.",
+      "reviews": [
+        {
+          "text": "이곳의 모든 것이 매우 깨끗하고 숙박이 편안합니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 깨끗하고 침대도 편안했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "위치는 CBD 주변을 여행하기에 정말 편리합니다.",
+          "score": "9.2",
+          "country": "オーストラリア",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "주방은 훌륭하고 깨끗하며, 기숙사와 침대는 편안합니다.",
+          "score": "9.6",
+          "country": "Chile",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "침대도 깨끗하고 화장실/욕실도 잘 관리되어 있습니다.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "스페이스 호텔 (Space Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/space-hotel/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 8,
+      "score": 8.6,
+      "reviewCount": 6746,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/234474/0/94a2b4675e2677b59cfc9fabbeb0d4e6.jpg?ce=2",
+      "distanceNote": "약 615.79m · Russell St - Stop 7 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 6,746건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 6,746건 기반.",
+      "reviews": [
+        {
+          "text": "멜버른에서 묵기에 가장 좋은 호스텔이라고 생각합니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "그리고 주방과 루프탑도 있어서 숙박이 완벽했어요!",
+          "score": "10",
+          "country": "台灣",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "지금까지 묵어본 호스텔 중 최고이고, 가장 깨끗했습니다!",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "사실 다시 예약해서 친구들에게 홍보할게요",
+          "score": "8",
+          "country": "中國",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고, 주방도 좋고, 전망도 좋고, 위치도 좋습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "YHA 멜버른 센트럴 (YHA Melbourne Central)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/melbourne-central-yha/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.4,
+      "reviewCount": 2701,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.4,
+      "img": "//pix8.agoda.net/hotelImages/394154/0/15446a0c18559937cafcd9148085bc64.jpg?ce=2",
+      "distanceNote": "약 382.77m · 서던 크로스역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 2,701건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 2,701건 기반.",
+      "reviews": [
+        {
+          "text": "샤워실은 짐을 보관할 공간이 충분하여 훌륭합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "다음에 멜본에 오면 여기서 묵고 싶습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "완벽하고 훌륭한 직원, 시설 및 위치.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "가격대비 훌륭한 시설과 위치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "무료 트램을 이용할 수 있으며 YHA 바로 앞에 역이 있습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2023.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "멜버른 시티 백패커스 (Melbourne City Backpackers)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/melbourne-city-backpackers_3/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.4,
+      "reviewCount": 1318,
+      "priceBand": 1,
+      "priceText": "₩ · 약 2만원",
+      "valueIndex": 8.4,
+      "img": "//pix8.agoda.net/hotelImages/6890516/0/0106bd9857523515d47630ba18f7087f.jpeg?ce=0",
+      "distanceNote": "약 364.81m · Southern Cross Station Coach Terminal Station 인근",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 1,318건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 1,318건 기반.",
+      "reviews": [
+        {
+          "text": "4개의 공유에서 비공개로 업그레이드되었는데, 이는 많은 의미를 갖습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "위치, 시설, 직원, 화장실 모두 완벽합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "위치는 서던크로스역에서 걸어서 갈 수 있는 거리입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "무료 아침 식사, 치즈 및 와인 나이트 직원이 매우 도움이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "트램 정류장까지 걸어서 갈 수 있으며 걸어서도 갈 수 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "유로파 멜버른 (Europa Melbourne)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/europa-melbourne/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.1,
+      "reviewCount": 1416,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8.1,
+      "img": "//pix8.agoda.net/hotelImages/41729960/0/300441e7a1668d7e789c6f570037bdab.png?ce=2",
+      "distanceNote": "약 277.33m · 플래그스태프역 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 1,416건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 1,416건 기반.",
+      "reviews": [
+        {
+          "text": "침대는 훌륭하고 매일 밤 잠을 아주 잘 자요.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "이번이 두 번째 숙박이지만 다음번에도 여전히 유로파를 선택하겠습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "호스텔 직원들은 친절했고 시설도 훌륭했습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "나는 훌륭한 사람들을 만났고 직원들이 가장 도움이 되었습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "위치는 훌륭하고 직원들은 매우 친절하고 친절했습니다.",
+          "score": "9.2",
+          "country": "India",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "리틀 드리프터 멜버른 (Little Drifter Melbourne)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/little-drifter-melbourne/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8,
+      "reviewCount": 5382,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8,
+      "img": "//pix8.agoda.net/hotelImages/302794/0/28f9ef0fd34077ce59698c85f7a3caec.png?ce=2",
+      "distanceNote": "약 446.15m · 플래그스태프역 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 5,382건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 5,382건 기반.",
+      "reviews": [
+        {
+          "text": "멜버른에 다시 오면 이곳에 다시 머물고 싶습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "(특히 직원 Rhuan은 매우 친절하고 친절했습니다 S2)",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "리노베이션이 끝나면 호스텔은 10/10이 됩니다.",
+          "score": "10",
+          "country": "Polska",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "리셉션의 Kiera는 특히 리셉션에서 친절했습니다.",
+          "score": "8.4",
+          "country": "Ireland",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "모든 연령대의 여행자에게 이 호스텔을 적극 추천합니다!",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "브래디 호텔 센트럴 멜번 (Brady Hotels Central Melbourne)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/brady-hotels-central-melbourne/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 8.8,
+      "reviewCount": 7153,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/695742/0/dc6a533cd4cbf56885b60b71f2dd0926.jpg?ce=2",
+      "distanceNote": "약 545.25m · Yarra Trams 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 7,153건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 7,153건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 매우 친절하고 협조적입니다.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "아내와 저는 스튜디오 아파트에서 즐거운 시간을 보냈습니다.",
+          "score": "9.2",
+          "country": "Brunei Darussalam",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 가격 대비 훌륭한 가치를 지닌 멋진 숙박이었습니다.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 넓었고 침대도 편안했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "객실에는 매일 깨끗한 수건이 제공됩니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-19T17:37:43.649Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
