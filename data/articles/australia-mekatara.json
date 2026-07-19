@@ -1,0 +1,72 @@
+{
+  "slug": "australia-mekatara",
+  "title": "메카타라 가성비 호텔 2곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 메카타라 가성비 호텔 2곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "메카타라",
+  "cityId": 710673,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "메카타라",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/726890220.jpg?k=da7c3a10b03f8b04bf2f5e9c9b4053cd29c4ced2ca7939fdce8b9b9dc5f610da&o=",
+  "heroAlt": "메카타라",
+  "heroTitleHtml": "메카타라 가성비 호텔 2곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Meekatharra Hotel accommodation with food Option</b>(평점 5.4·리뷰 62건·1박 약 14만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Meekatharra Hotel accommodation with food Option</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/726890220.jpg?k=da7c3a10b03f8b04bf2f5e9c9b4053cd29c4ced2ca7939fdce8b9b9dc5f610da&o=",
+  "outroTitle": "🌙 메카타라, 어디에 묵어도 후회없이",
+  "outroText": "위 2곳은 모두 메카타라 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 메카타라 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Meekatharra Hotel accommodation with food Option",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/meekatharra-hotel-accommodation-with-food-option/hotel/all/meekatharra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 5.4,
+      "reviewCount": 62,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 4.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/726890220.jpg?k=da7c3a10b03f8b04bf2f5e9c9b4053cd29c4ced2ca7939fdce8b9b9dc5f610da&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 62건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>5.4</b> · 실제 투숙객 리뷰 62건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Meekatharra Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/meekatharra-hotel_4/hotel/all/meekatharra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 5,
+      "reviewCount": 167,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/261398778.jpg?k=4ba9015f37ad0b8cf837692c2b28554526fd1d4aa77589b61da95e97f0e4196e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 167건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>5</b> · 실제 투숙객 리뷰 167건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-19T13:51:37.947Z",
+    "source": "agoda citySearch",
+    "count": 2
+  }
+}
