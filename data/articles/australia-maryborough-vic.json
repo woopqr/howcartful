@@ -1,0 +1,227 @@
+{
+  "slug": "australia-maryborough-vic",
+  "title": "메리버러 (VIC) 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 메리버러 (VIC) 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "메리버러 (VIC)",
+  "cityId": 718463,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "메리버러 (VIC)",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/588690722.jpg?k=eb9f86141cb2097dc3e9b31830f0cac52cc21e34def5a9282058ce62d3b71f39&o=",
+  "heroAlt": "메리버러 (VIC)",
+  "heroTitleHtml": "메리버러 (VIC) 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>The Highlander Motel - 24HR Check In</b>(평점 8.4·리뷰 497건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>The Highlander Motel - 24HR Check In</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/588690722.jpg?k=eb9f86141cb2097dc3e9b31830f0cac52cc21e34def5a9282058ce62d3b71f39&o=",
+  "outroTitle": "🌙 메리버러 (VIC), 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 메리버러 (VIC) 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 메리버러 (VIC) 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Highlander Motel - 24HR Check In",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/highlander-haven-motel_2/hotel/all/maryborough-vic-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 497,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/588690722.jpg?k=eb9f86141cb2097dc3e9b31830f0cac52cc21e34def5a9282058ce62d3b71f39&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 497건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 497건 기반.",
+      "reviews": [
+        {
+          "text": "머물기 좋은 숙소, 간편한 체크인.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "직원과의 상호 작용으로 체크인이 쉬워졌습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "내 방은 편안했어요.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "포함된 아침 식사는 사랑스러웠습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안한 숙박",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Wattle Grove Motel Maryborough",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wattle-grove-motel-maryborough/hotel/all/maryborough-vic-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 49,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/116842803.jpg?k=78745b92128e2ac52f6382137c300bc1cee154afa1cd641f125bff264bb6b323&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 49건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 49건 기반.",
+      "reviews": [
+        {
+          "text": "모텔의 정중한 주인과 도움이 되는 직원이 룸서비스를 제공합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "방은 쾌적했고 매우 깨끗한 상태로 유지되었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "돈을 위해 더 좋은 곳을 찾지 못할 것입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "매우 매우 깨끗한 방.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "우리는 즐거운 시간을 보냈습니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Bull and Mouth Hotel Maryborough Victoria",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bull-and-mouth-hotel/hotel/all/maryborough-vic-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 686,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/158292471.jpg?k=e3c8ac7ef214a4e9926b0f84ee498f418000518ca9558ec92deb6c0edd8e5d19&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 686건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 686건 기반.",
+      "reviews": [
+        {
+          "text": "이 객실과 호텔에 관한 모든 것에는 역사가 담겨 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 깔끔한 객실, 사랑스럽고 오래된 세계의 매력적인 호텔.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "호텔은 관리가 잘 되어 있고 잘 꾸며져 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "위치는 Maryborough 한가운데에 완벽합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "호텔 방은 매우 깨끗하고 편안했습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Golden Country Motel and Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/golden-country-motel-and-caravan-park/hotel/all/maryborough-vic-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 131,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/714833829.jpg?k=61ac5cc6668f6f994755f064ebd5e4a46106cf573ffb7ab9cd95f454cc39cf21&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 131건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 131건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-19T03:22:38.342Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}
