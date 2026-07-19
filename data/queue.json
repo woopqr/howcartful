@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-19T13:51:37.433Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 6,
+  "lastPostedAt": "2026-07-19T15:40:03.635Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 7,
   "postedDate": "2026-07-19",
   "queue": [
-    "australia-merrijig",
     "australia-merimbula",
     "australia-maydena",
-    "australia-mekatara"
+    "australia-mekatara",
+    "australia-melrose"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 184,
+    "cityIndex": 185,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -233,6 +233,7 @@
     "australia-meningie",
     "australia-maryborough",
     "australia-maryborough-vic",
-    "australia-maroubra"
+    "australia-maroubra",
+    "australia-merrijig"
   ]
 }
