@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-19T06:11:14.381Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 2,
+  "lastPostedAt": "2026-07-19T08:32:23.395Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 3,
   "postedDate": "2026-07-19",
   "queue": [
-    "australia-meningie",
     "australia-maryborough",
     "australia-maryborough-vic",
-    "australia-maroubra"
+    "australia-maroubra",
+    "australia-merrijig"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 180,
+    "cityIndex": 181,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -229,6 +229,7 @@
     "australia-mullumbimby",
     "australia-mulwala",
     "australia-monkey-mia",
-    "australia-mena-creek"
+    "australia-mena-creek",
+    "australia-meningie"
   ]
 }
