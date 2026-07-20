@@ -1,0 +1,391 @@
+{
+  "slug": "australia-moama",
+  "title": "모아마 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 모아마 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "모아마",
+  "cityId": 9179,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "모아마",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/868670489.jpg?k=757ec91e614919d0f019b51f5a68b7ad5873adb3eca2fa6fa6d0f2d764a5c7bb&o=",
+  "heroAlt": "모아마",
+  "heroTitleHtml": "모아마 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Echuca Hotel</b>(평점 8.4·리뷰 50건·1박 약 8만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Echuca Hotel</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/868670489.jpg?k=757ec91e614919d0f019b51f5a68b7ad5873adb3eca2fa6fa6d0f2d764a5c7bb&o=",
+  "outroTitle": "🌙 모아마, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 모아마 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 모아마 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Echuca Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/echuca-hotel-h79392315/hotel/all/echuca-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 50,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/868670489.jpg?k=757ec91e614919d0f019b51f5a68b7ad5873adb3eca2fa6fa6d0f2d764a5c7bb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 50건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 50건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "틴다라 리조트 (Tindarra Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tindarra-resort/hotel/moama-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 704,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.8,
+      "img": "//pix8.agoda.net/hotelImages/336774/0/6366a1e21aa91dd59b8d9e9ef24fab05.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 704건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 704건 기반.",
+      "reviews": [
+        {
+          "text": "놀이터는 아이들에게도 환상적이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "아름다운 숙소, 화려하고 매우 넓은 숙소.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 훌륭했고 우리는 꼭 돌아올 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "최고의 리조트, 최고의 수영장과 온천...",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "매우 편안한 침대와 놀라운 욕실.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "골든 리버 모토 인 (Golden River Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/golden-river-motor-inn/hotel/moama-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 375,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.7,
+      "img": "//pix8.agoda.net/hotelImages/699/699395/699395_14081415410021152983.jpg?ca=2&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 375건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 375건 기반.",
+      "reviews": [
+        {
+          "text": "방은 깨끗했고, 잘 정돈되어 있었고, 깔끔하고 편안했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "그것을 잘못할 수 없으며 적극 권장합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "브리지스 온 메니냐 모텔 앤 아파트먼트 (Bridges on Meninya Motel & Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bridges-on-meninya-motel-apartments/hotel/moama-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 624,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.6,
+      "img": "//pix8.agoda.net/hotelImages/545043/-1/a72264402e80741a8a82ee1592e1fb18.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 624건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 624건 기반.",
+      "reviews": [
+        {
+          "text": "나는 Bridges를 비난할 수 없습니다. 우리는 반드시 돌아올 것입니다....",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "매우 편안한 침대, 훌륭한 에어컨, 사랑스러운 정원",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "모든 필수품을 갖춘 매우 편안한 아파트입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "매우 잘 꾸며진 아름다운 클린룸",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "숙소가 정말 깨끗하고 편리한 위치에 있다는 것을 알았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "더 세틀먼트 히스토릭 호텔 (The Settlement Historic Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-settlement-historic-hotel/hotel/echuca-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 517,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/16801883/-1/a66bf837762518e82d558910d426d004.jpg?ca=16&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 517건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 517건 기반.",
+      "reviews": [
+        {
+          "text": "CBD와 항구까지 도보로 쉽게 이동할 수 있는 거리에 있습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "오래된 스타일의 호텔이지만 가격 대비 절대적인 가치를 제공합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "매우 친절하고 도움이 되는 팀, 깨끗하고 훌륭한 위치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 위치, 방은 깨끗하고 깔끔했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "우리의 숙박은 훌륭했고 꼭 다시 거기에 머물고 싶습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "디스커버리 파크 - 에추카 (Discovery Parks - Echuca)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/discovery-parks-echuca/hotel/echuca-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 1038,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.4,
+      "img": "//pix8.agoda.net/hotelImages/91639/-1/e93c1872823af01f4d1fb1186a38dee5.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 1,038건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,038건 기반.",
+      "reviews": [
+        {
+          "text": "머레이 강(Murray River)과 주변 숲지대의 멋진 전망을 감상하실 수 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "지금까지 우리가 가본 최고의 홀리데이 파크 중 하나입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "공원은 내가 가본 곳 중 가장 즐거운 곳 중 하나였습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "시설은 5세와 3세인 우리 딸 2명에게 완벽했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "6세와 4세인 내 아이들은 이곳을 좋아합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Philadelphia Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/philadelphia-motor-inn_2/hotel/all/echuca-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 1207,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/738312094.jpg?k=e4bd9c16f7b99a69e1a51d89fc5e61b174dbb89a3b026b40a12018d46d9a6fe1&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 1,207건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,207건 기반.",
+      "reviews": [
+        {
+          "text": "방은 정말 깔끔하고 직원들도 친절했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "빠른 여행을 위해 머물기에 완벽한 장소였습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 고객 서비스, 좋은 위치, 깨끗하고 편안한",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "방은 정말 깨끗했고, 리넨도 좋았으며, 갓 세탁되었습니다.",
+          "score": "8.8",
+          "country": "New Zealand",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "늦은 체크인에도 직원들이 정말 친절했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-20T16:19:43.923Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

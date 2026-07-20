@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-20T14:52:43.949Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 6,
+  "lastPostedAt": "2026-07-20T16:19:08.763Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 7,
   "postedDate": "2026-07-20",
   "queue": [
-    "australia-moruya",
     "australia-moree",
     "australia-mowbray",
-    "australia-moss-vale"
+    "australia-moss-vale",
+    "australia-moama"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 194,
+    "cityIndex": 195,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -243,6 +243,7 @@
     "australia-melton-south",
     "australia-melton",
     "australia-mornington-peninsula",
-    "australia-moranbah"
+    "australia-moranbah",
+    "australia-moruya"
   ]
 }
