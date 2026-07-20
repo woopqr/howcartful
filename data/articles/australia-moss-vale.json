@@ -1,0 +1,417 @@
+{
+  "slug": "australia-moss-vale",
+  "title": "모스 베일 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 모스 베일 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "moss-vale-au",
+  "cityName": "모스 베일",
+  "cityId": 141769,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "모스 베일",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/736745625.jpg?k=3711a76cac877fae6bcf98fafb5620afac3f2794d88aa96c2dc51defc52307f3&o=",
+  "heroAlt": "모스 베일",
+  "heroTitleHtml": "모스 베일 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Moss Vale Holiday Park</b>(평점 8.3·리뷰 441건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Moss Vale Holiday Park</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/736745625.jpg?k=3711a76cac877fae6bcf98fafb5620afac3f2794d88aa96c2dc51defc52307f3&o=",
+  "outroTitle": "🌙 모스 베일, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 모스 베일 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 모스 베일 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Moss Vale Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/moss-vale-village-park/hotel/moss-vale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 441,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/736745625.jpg?k=3711a76cac877fae6bcf98fafb5620afac3f2794d88aa96c2dc51defc52307f3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 441건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 441건 기반.",
+      "reviews": [
+        {
+          "text": "특히 직장 숙박을 위해 머물기에 좋은 곳",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "장소가 좋고 직장에서 가깝습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Argyle Hotel Southern Highlands",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/argyle-hotel-southern-highlands/hotel/all/moss-vale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 79,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/200524035.jpg?k=0364e59966561f88b205986f26fd513bc55f8392fb3ac42ba7f06e3fc5da21cb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 79건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 79건 기반.",
+      "reviews": [
+        {
+          "text": "$12 점심 메뉴는 보너스였습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 깨끗했고, 침대도 편안했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "위치는 지역을 탐험하기에 완벽했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "친절하고 도움이 되는 직원 덕분에 쉽게 도착할 수 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "푹신한 침대가 좋았어요",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Berrima Bakehouse Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/berrima-bakehouse-motel-h9261794/hotel/berrima-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 116,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/property/63882839/0/2f3bfb88857b5e1ec219c51f14e69dbb.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 116건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 116건 기반.",
+      "reviews": [
+        {
+          "text": "방은 매우 아늑했고 편의시설도 완벽했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "완벽하고, 너무 편안하고, 깨끗하고, 넓습니다. 딱 제가 필요했던 것입니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "Berrimah Bakehouse에 머무는 것은 이번이 4번째였습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치, 친절한 직원, 좋은 객실",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "나는 베이크하우스 모텔이 사랑스럽고 독특한 숙소라는 것을 알았습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "페퍼스 매너 하우스 (Peppers Manor House)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/peppers-manor-house/hotel/sutton-forest-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 1011,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/49957/0/e14dcb24212cd09521ba88ee849681ac.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 1,011건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,011건 기반.",
+      "reviews": [
+        {
+          "text": "드넓은 고원에서 하이 티와 럭셔리한 숙박을 즐겨보세요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "멋진 방, 나무, 아침 식사 및 장작불.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 위치, 슈퍼 푸드, 훌륭한 직원.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 훌륭한 가치",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "행복하게 돌아오겠습니다... 😉👌",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Dormie House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dormie-house/hotel/all/moss-vale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 1126,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/459477802.jpg?k=e8abd66bcfbe1c74ad9b497399bb1c925b94cd12e7e9a5f99e1410edceff35a5&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 1,126건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 1,126건 기반.",
+      "reviews": [
+        {
+          "text": "호텔은 아름다운 Moss Vale 골프장 바로 옆에 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "제가 필요한 것에 완벽했고, 다시 머물고 싶습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "화려한 작은 호텔.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "가격대비 괜찮고 침대도 편하고 욕실도 깨끗해요.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "방에서는 코스를 볼 수 있었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "The Bowral Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-bowral-hotel/hotel/bowral-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 121,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/213766996.jpg?k=b54a256f27b83cc7b8bb46e74e898b1bb766079c0e97356fb72aebe5a63ddf47&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 121건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 121건 기반.",
+      "reviews": [
+        {
+          "text": "항상 깨끗하고 위치도 좋습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "멋지게 개조되었습니다. 좋은 편안한 침대. 욕실이 마음에 듭니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "간편한 체크인, 사랑스러운 개조, 실용성.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "바의 체크인 직원은 친절하고 매우 효율적이었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "편리한 위치에 있는 멋진 호텔",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Imperial Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/imperial-motel/hotel/all/bowral-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 1624,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/552191735.jpg?k=261f56d1237b19fbc440456d75936113ec0dbb542f67c1562aa3371475f9e812&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 1,624건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 1,624건 기반.",
+      "reviews": [
+        {
+          "text": "방은 꽤 넓고 큰 침대도 편안했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "아침 식사를 하는 데 몇 걸음, 저녁 식사를 하는 데도 몇 걸음 걸립니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 넓으며 위치와 시설이 좋았습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "방이 깨끗하고 넓고 직원들이 친절했습니다",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "체크인은 쉬웠고 직원들은 매우 친절했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-20T14:53:11.520Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
