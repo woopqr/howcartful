@@ -1,0 +1,411 @@
+{
+  "slug": "australia-moree",
+  "title": "모리 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 모리 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "moree-au",
+  "cityName": "모리",
+  "cityId": 12386,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "모리",
+  "heroImg": "https://pix8.agoda.net/hotelImages/110/11037089/11037089_19120419300084858333.jpg?ca=9&ce=1",
+  "heroAlt": "모리",
+  "heroTitleHtml": "모리 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>엔젤스 레스트 모텔</b>(평점 8.9·리뷰 203건·1박 약 8만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>엔젤스 레스트 모텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/110/11037089/11037089_19120419300084858333.jpg?ca=9&ce=1",
+  "outroTitle": "🌙 모리, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 모리 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 모리 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "엔젤스 레스트 모텔 (Angel's Rest Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/angel-s-rest-motel/hotel/moree-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 203,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/110/11037089/11037089_19120419300084858333.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 203건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 203건 기반.",
+      "reviews": [
+        {
+          "text": "꼭 다시 머물고 싶습니다. 정말 감사합니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 따뜻합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "편안한 숙박을 위해 필요한 모든 것.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박, 반려동물 동반 가능, 안전한 느낌, 밤에는 문이 잠김.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "애완동물 친화적인 좋은 모텔을 발견하게 되어 기쁩니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "몰리카 스프링스 모텔 (Molika Springs Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/molika-springs-motel/hotel/moree-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 315,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.2,
+      "img": "//pix8.agoda.net/hotelImages/699175/0/13130e294889d5842c099427b40dd0d0.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 315건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 315건 기반.",
+      "reviews": [
+        {
+          "text": "퀸스위트룸에 묵었는데 너무 깨끗하고 좋았습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "모리(Moree)에 있는 숙소로 항상 Molika Springs를 사용할 것입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "장소는 깨끗했고 가격 대비 훌륭한 가치를 자랑합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "커뮤니티 키친을 포함한 모든 편의 시설을 이용하실 수 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "집처럼 느끼기 위해 필요한 모든 것이 제공됩니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "본디 모텔 (Bondi Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bondi-motel/hotel/moree-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.8,
+      "reviewCount": 251,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 7.8,
+      "img": "//pix8.agoda.net/hotelImages/337107/0/83b5dfaf9c24de8ee192e7125390403c.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 251건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 251건 기반.",
+      "reviews": [
+        {
+          "text": "장치의 모든 것이 작동했고 매우 친절하고 도움이 되는 직원이었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "개인 여행자로서 1박 숙박했는데 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치와 유용한 정보를 갖춘 사랑스러운 장소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "조금 시끄럽지만 전체적으로 저렴하고 깨끗한 모텔",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "본다이 모텔에서 좋은 경험을 했습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "배스 모텔 (Baths Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/baths-motel/hotel/moree-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 258,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/548613/-1/8c91c3e9fa8c920d6874ae794e178fce.jpg?ca=14&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 258건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 258건 기반.",
+      "reviews": [
+        {
+          "text": "직원들이 친절했고, 숙소를 찾기 쉬웠습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 조용하고 보안도 좋고 직원도 훌륭합니다",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "확실히 다시 거기에 머물 것입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "저렴한 숙박 시설이지만 완벽하고 매우 안전합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "프론트 데스크의 여성은 매우 친절하고 도움이 되었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "iGrand Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/igrand-motel/hotel/all/moree-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 45,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/815592349.jpg?k=37dc654961bf74981cb7cb91b18c11bd2722cd11567aca61a91a3e79532feb46&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 45건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 45건 기반.",
+      "reviews": [
+        {
+          "text": "정말 좋은 방, 깨끗하고 편안하며 직원이 가장 도움이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안한 직원이 매우 도움이 됩니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "아이그랜드모텔을 적극 추천합니다!!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "좋고 저렴하며 이 지역의 다른 곳만큼 좋습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 도움이 되었습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Pally Pub",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pally-pub/hotel/all/moree-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 54,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/407369249.jpg?k=f7cc3e53e381ebf46b2846e840a40acaeb591432111e808e5e050c119b24942d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 54건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 54건 기반.",
+      "reviews": [
+        {
+          "text": "편안한 침대와 좋은 음식.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "윈체스터 모텔 모리 (Winchester motel Moree)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/winchester-motel/hotel/moree-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 46,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/46630181/0/54fcc0bce7af3309201835aaa6522a3e.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 46건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 46건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 매우 친절하고 깨끗하며 모든 것에 가깝습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "도착 시 직원 특별 객실이 깨끗하고 깔끔함",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "방은 편안한 침대로 깨끗하고 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "편안한 침대와 새 소파를 갖춘 매우 멋진 객실입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "Moree가 제공하는 모든 편의 시설과 가깝습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2023.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-20T10:34:25.197Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
