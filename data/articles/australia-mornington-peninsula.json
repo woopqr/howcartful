@@ -1,0 +1,430 @@
+{
+  "slug": "australia-mornington-peninsula",
+  "title": "모닝턴 반도 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 모닝턴 반도 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "mornington-peninsula-au",
+  "cityName": "모닝턴 반도",
+  "cityId": 17914,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "모닝턴 반도",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/595558170.jpg?k=4c29472aaef2c930304a76768e7ad56d80a1bde90791a050bb84bb362c7d49db&o=",
+  "heroAlt": "모닝턴 반도",
+  "heroTitleHtml": "모닝턴 반도 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>더 키스 모텔</b>(평점 8.9·리뷰 437건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Rosebud Beach 도보 1분</b>의 <b>더 키스 모텔</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/595558170.jpg?k=4c29472aaef2c930304a76768e7ad56d80a1bde90791a050bb84bb362c7d49db&o=",
+  "outroTitle": "🌙 모닝턴 반도, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 모닝턴 반도 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 모닝턴 반도 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 키스 모텔 (The Keith Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-keith-motel/hotel/mornington-peninsula-au.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.9,
+      "reviewCount": 437,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/595558170.jpg?k=4c29472aaef2c930304a76768e7ad56d80a1bde90791a050bb84bb362c7d49db&o=",
+      "distanceNote": "약 102.16m · Rosebud Beach 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 437건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 437건 기반.",
+      "reviews": [
+        {
+          "text": "시설이 잘 갖춰진 클린룸 - 훌륭한 침대(최고의 수면).",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "Keith 호텔은 버스 정류장에서 몇 걸음 거리에 위치해 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "호밀의 매우 중심적인 위치에 있으며 직원들은 매우 친절했습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 훌륭한 모텔",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "이 모텔은 1박 또는 2박 숙박에 필요한 모든 것을 갖추고 있습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "카나스타 카라반 파크 (Kanasta Caravan Park)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mornington-peninsula-retro-glamping/hotel/mornington-peninsula-au.html?cid=1925461",
+      "walkMin": 14,
+      "score": 8.3,
+      "reviewCount": 1053,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/property/79521876/0/0c34b0750186674fbd8a56188c36a897.jpeg?ce=2",
+      "distanceNote": "약 1151.96m · Blairgowrie Beach 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,053건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 1,053건 기반.",
+      "reviews": [
+        {
+          "text": "하룻밤 묵을 수 있는 작고 깨끗하며 귀여운 오두막",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "침구는 매우 깨끗하고 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "바베큐, 아케이드 등의 편의시설을 이용할 수 있었습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "원활한 체크인과 체크아웃.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "확실히 다시 머물 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "써니 사이드 업 비앤비 (Sunny Side Up Bed and Breakfast)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sunny-side-up-bed-and-breakfast/hotel/mornington-peninsula-au.html?cid=1925461",
+      "walkMin": 22,
+      "score": 9.7,
+      "reviewCount": 170,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/850/850362/850362_17071314120054436436.jpg?ca=6&ce=1",
+      "distanceNote": "약 1741.74m · Rosebud Beach 인근",
+      "metaTags": [
+        "📝 리뷰 170건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 170건 기반.",
+      "reviews": [
+        {
+          "text": "속도를 늦추고 휴식을 취할 수 있는 공간이 많이 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "빅토리아에서 가장 좋아하는 숙소",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "친절한 호스트, 맛있는 아침 식사.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "시설도 서비스도 최고!!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 곳.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Portsea Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/portsea-hotel_6/hotel/all/mornington-peninsula-au.html?cid=1925461",
+      "walkMin": 24,
+      "score": 8.4,
+      "reviewCount": 62,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/193189399.jpg?k=8d27fffafd4b180f760ea0c36864ad9d3a3b44618e869e77e640bb85a65df61c&o=",
+      "distanceNote": "약 1893.35m · Portsea Back Beach 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 62건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 62건 기반.",
+      "reviews": [
+        {
+          "text": "욕실은 사랑스러운 세면도구가 제공되어 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 깨끗했으며 아름답게 장식되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "이그제큐티브 스위트룸은 넓고 흥미로운 레이아웃을 갖추고 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "객실은 호텔과 마찬가지로 구식입니다.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "고급 편의시설과 스파 가운이 구비된 아름다운 욕실.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2023.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Eden Bay Mornington",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/peninsula-eco/hotel/all/mornington-peninsula-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.1,
+      "reviewCount": 112,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/783692732.jpg?k=e5e59e0b96d4b37330d87ab4f3c5fd2869b7b908436a7ba1c2cd857569f97dc3&o=",
+      "distanceNote": "약 165.11m · Rosebud Beach 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 112건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 112건 기반.",
+      "reviews": [
+        {
+          "text": "모든 것을 설명해주셔서 좋은 숙소 예약을 연결하는 데 도움이 되었습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "나는 멋지지만 좋은 가격의 방이 필요했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "솔직히 말해서 정말 매우 깨끗했다고 말할 수 있습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "새로운 장소, 좋은 가격, 깨끗한 방, 적극 추천합니다.",
+          "score": "10",
+          "country": "澳大利亚",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "정말 편안한 침대와 기본 시설.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Motel Flinders",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/flinders-cove-motel_2/hotel/all/mornington-peninsula-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 9.3,
+      "reviewCount": 379,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/634568665.jpg?k=36f064d683d4484456a22d01064e155536513e2c0cc3045a0472b5cf9df0b462&o=",
+      "distanceNote": "약 458.05m · Flinders Beach 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 379건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 379건 기반.",
+      "reviews": [
+        {
+          "text": "방이 깨끗하고 넓고 직원들이 매우 친절합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 상태가 매우 좋았습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "매우 잘 디자인되고 기능적인 객실입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 필요한 모든 것을 갖추고 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "장치가 오래되었음에도 불구하고 청결도가 뛰어납니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Hamptons In Rye Studio - 3 Mins from Famous Hot Springs!",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hamptons-in-rye-3-mins-from-famous-hot-springs/hotel/all/mornington-peninsula-au.html?cid=1925461",
+      "walkMin": 29,
+      "score": 9.4,
+      "reviewCount": 108,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/438509555.jpg?k=23f24bfd19c6bcc766147892d6e59b3fd309c94e1ead0444a0c5e8650c02f9cc&o=",
+      "distanceNote": "약 2337.33m · Rosebud Beach 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 108건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 108건 기반.",
+      "reviews": [
+        {
+          "text": "침대 시트도 구름보다 부드러웠어요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "짧은 휴가를 위해 강력히 추천합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "그들은 그들의 체류를 좋아했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "주말 여행을 위한 달콤한 스튜디오",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-20T01:07:37.825Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
