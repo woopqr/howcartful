@@ -1,0 +1,355 @@
+{
+  "slug": "australia-moruya",
+  "title": "모루야 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 모루야 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "moruya-au",
+  "cityName": "모루야",
+  "cityId": 512785,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "모루야",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/680924296.jpg?k=1914b78649cbfac5b2f06f47a0944c18f7a5c74aa08800b875d5ffe7d19a8f3a&o=",
+  "heroAlt": "모루야",
+  "heroTitleHtml": "모루야 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Moruya Holiday Park</b>(평점 8.7·리뷰 472건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Moruya Holiday Park</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/680924296.jpg?k=1914b78649cbfac5b2f06f47a0944c18f7a5c74aa08800b875d5ffe7d19a8f3a&o=",
+  "outroTitle": "🌙 모루야, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 모루야 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 모루야 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Moruya Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/riverbreeze-holiday-park-h8922664/hotel/moruya-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 472,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/680924296.jpg?k=1914b78649cbfac5b2f06f47a0944c18f7a5c74aa08800b875d5ffe7d19a8f3a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 472건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 472건 기반.",
+      "reviews": [
+        {
+          "text": "리셉션 직원은 매우 친절하고 도움이 되었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "시설이 잘 갖춰져 있고 깨끗해요",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Hive Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/luhana-motel/hotel/moruya-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 945,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/291475/-1/782ccb83a26498323335dc4a5e80caae.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 945건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 945건 기반.",
+      "reviews": [
+        {
+          "text": "방은 깨끗해요",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "직원분들도 너무 친절하시고 방도 너무 깔끔하고 깨끗했어요.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "우리가 자동차 서비스를 기다리는 동안 그들은 우리를 머물게 해주었습니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "우리는 기꺼이 다시 이곳에 머물고 싶습니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "우리가 그 지역에 있을 때마다 머무를 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Moruya Monarch Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/monarch-motel/hotel/all/moruya-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 418,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/667600802.jpg?k=951af7398a92c2144df03f02d0f540f7b148b88e4f39d6f096c3482aff456701&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 418건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 418건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "모루야 워터프런트 호텔 모텔 (Moruya Waterfront Hotel Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/moruya-waterfront-hotel-motel/hotel/moruya-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.3,
+      "reviewCount": 125,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/854177853.jpg?k=a220ceb3c66deeb8bdc7864403ed96f5052e2c78fae6e028d4455f21f48e87ef&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 125건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.3</b> · 실제 투숙객 리뷰 125건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 대처하기에 훌륭했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "저렴하고 편안했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "우리는 이전에 여기에 머물렀고 돌아올 것입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "호텔에서 훌륭하고 좋은 가치 친절한 서비스를 먹었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 좋은 가치",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Moruya Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/moruya-motel_2/hotel/all/moruya-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 359,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/174347762.jpg?k=573197bd2c782ed6d5ab79a09bb725976354892a8d909d97eb4b244e42cf80d0&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 359건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 359건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 편안하며 중간 기착에 꼭 필요한 것입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 침대, 가격이 저렴하고 시내에서 조금 떨어진 곳에 있습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "숙소는 오래된 스타일이었지만 매우 깨끗하고 편안했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "추가 보너스는 가장 친절한 직원입니다 !!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "이 가격대에서 기대할 수 있는 만큼 좋습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "빅4 모루야 헤즈 이스트 돌핀 비치 홀리데이 파크 (Big4 Moruya Heads Easts Dolphin Beach Holiday Park)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-moruya-heads-easts-dolphin-beach-holiday-park/hotel/moruya-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 187,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/487235/-1/a7a250080a9bfd284b452f5abf6aef29.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 187건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 187건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 장소, 좋은 가격",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "좋은 시설.",
+          "score": "10",
+          "country": "Pakistan",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "잘 지내요.",
+          "score": "10",
+          "country": "Pakistan",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "The Seabird",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-seabird/hotel/all/moruya-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 96,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/233085695.jpg?k=75d5d25f9409b0c9537bc63f0dbe344fcfcdc75a85e09370070020a7860906f0&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 96건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 96건 기반.",
+      "reviews": [
+        {
+          "text": "방은 매우 넓었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "조용한 분위기도 마음에 들었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-20T07:48:03.732Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

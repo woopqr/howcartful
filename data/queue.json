@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-20T04:48:45.772Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 2,
+  "lastPostedAt": "2026-07-20T07:47:39.951Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 3,
   "postedDate": "2026-07-20",
   "queue": [
-    "australia-melton-south",
     "australia-melton",
     "australia-mornington-peninsula",
-    "australia-moranbah"
+    "australia-moranbah",
+    "australia-moruya"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 190,
+    "cityIndex": 191,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -239,6 +239,7 @@
     "australia-maydena",
     "australia-mekatara",
     "australia-melrose",
-    "australia-melbourne"
+    "australia-melbourne",
+    "australia-melton-south"
   ]
 }
