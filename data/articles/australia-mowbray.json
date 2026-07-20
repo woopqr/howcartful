@@ -1,0 +1,367 @@
+{
+  "slug": "australia-mowbray",
+  "title": "모브레이 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 모브레이 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "port-douglas-au",
+  "cityName": "모브레이",
+  "cityId": 719594,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "모브레이",
+  "heroImg": "https://pix8.agoda.net/hotelImages/118/11849/11849_16101206010047640349.jpg?ca=6&ce=1",
+  "heroAlt": "모브레이",
+  "heroTitleHtml": "모브레이 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>니모로드 리조트</b>(평점 8.7·리뷰 552건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>St Crispins Station 도보 2분</b>의 <b>Escape Villas Port Douglas</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/118/11849/11849_16101206010047640349.jpg?ca=6&ce=1",
+  "outroTitle": "🌙 모브레이, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 모브레이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 모브레이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "니모로드 리조트  (Nimrod Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nimrod-resort/hotel/port-douglas-au.html?cid=1925461",
+      "walkMin": 17,
+      "score": 8.7,
+      "reviewCount": 552,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/118/11849/11849_16101206010047640349.jpg?ca=6&ce=1",
+      "distanceNote": "약 1370.66m · St Crispins Station 인근",
+      "metaTags": [
+        "📝 리뷰 552건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 552건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 수영장과 테니스 코트를 정말 즐겼습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "가족에게 좋습니다",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "매우 친절하고 매우 멋진 접수원,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 것을 갖추고 있습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "환상적이었습니다",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "파라다이스 링크 리조트 포트 더글라스 (Paradise Links Resort Port Douglas)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/paradise-links-resort-port-douglas/hotel/port-douglas-au.html?cid=1925461",
+      "walkMin": 19,
+      "score": 8.4,
+      "reviewCount": 995,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/281821/0/248fb8b93bdf753c0170f4a39eabe873.jpeg?ce=0",
+      "distanceNote": "약 1533.13m · St Crispins Station 인근",
+      "metaTags": [
+        "📝 리뷰 995건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 995건 기반.",
+      "reviews": [
+        {
+          "text": "사랑스러운 거실, 고품질 가전제품을 갖춘 주방.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "우리 아이들은 넓은 방과 욕실을 모두 소유했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "조용하고 매우 편안한 숙소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "매니저님들 너무 친절하시고 가격대비 훌륭했어요👍🌴👍",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "좋은 시설로 아주 즐거운 시간을 보냈습니다.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "니라마야 빌라 앤 스파  (Niramaya Villas and Spa)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/niramaya-villas-and-spa_4/hotel/all/port-douglas-au.html?cid=1925461",
+      "walkMin": 10,
+      "score": 9.2,
+      "reviewCount": 135,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 309만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/200735649.jpg?k=af5d0c29dafea34011368c0a32ca6d466d5b35d39b95a4949c0988fe7cb88f68&o=",
+      "distanceNote": "약 771.35m · St Crispins Station 인근",
+      "metaTags": [
+        "💰 약 309만원",
+        "📝 리뷰 135건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 135건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "탈라 비치 네이처 리저브 (Thala Beach Nature Reserve)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/thala-beach-nature-reserve_10/hotel/port-douglas-au.html?cid=1925461",
+      "walkMin": 120,
+      "score": 8.9,
+      "reviewCount": 318,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 56만원",
+      "valueIndex": 5.1,
+      "img": "//pix8.agoda.net/hotelImages/8828/0/78ae861ff713ccb2bd03e13d1967c542.jpeg",
+      "distanceNote": "약 9636.19m · 포 마일 비치 인근",
+      "metaTags": [
+        "💰 약 56만원",
+        "📝 리뷰 318건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 318건 기반.",
+      "reviews": [
+        {
+          "text": "레스토랑과 바는 가장 놀라운 전망을 자랑합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "그들은 심지어 우리 방으로 가는 데 도움을 주기 위해 골프 카트를 대기하고 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "직원은 훌륭했고 장소는 놀랍습니다.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "열대우림으로 둘러싸인 아름다운 위치.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 숙박과 세상의 아름다운 부분",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Escape Villas Port Douglas",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/escape-villas-port-douglas/hotel/all/port-douglas-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 9.7,
+      "reviewCount": 42,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 125만원",
+      "valueIndex": 5.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/509716967.jpg?k=84fa2979042b9d21096483ab8698bcf7ef64e591ba016befb5bcba62de568caa&o=",
+      "distanceNote": "약 185.38m · St Crispins Station 인근",
+      "metaTags": [
+        "💰 약 125만원",
+        "📝 리뷰 42건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 42건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "실카리 라군스 포트 더글라스 (Silkari Lagoons Port Douglas)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oaks-lagoons-hotel/hotel/port-douglas-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.6,
+      "reviewCount": 730,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 37만원",
+      "valueIndex": 5,
+      "img": "//pix8.agoda.net/hotelImages/822/82209/82209_16010510450038873343.jpg?ca=6&ce=1",
+      "distanceNote": "약 376.02m · St Crispins Station 인근",
+      "metaTags": [
+        "💰 약 37만원",
+        "📝 리뷰 730건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 730건 기반.",
+      "reviews": [
+        {
+          "text": "2베드룸 스파 아파트는 우리 가족에게 이상적이었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "이 리조트에서 해변까지 걸어서 갈 수 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 간이 주방이 도움이 되었습니다(작지만).",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "수영장이 여러 개 있다는 것은 결코 혼잡하지 않다는 것을 의미했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "자쿠지가 마음에 들었고 외부 시설은 놀라웠습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "라마다 리조트 바이 윈덤 포트 더글라스 (Ramada Resort by Wyndham Port Douglas)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ramada-resort-by-wyndham-port-douglas/hotel/port-douglas-au.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.4,
+      "reviewCount": 2153,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 31만원",
+      "valueIndex": 4.9,
+      "img": "//pix8.agoda.net/hotelImages/8754/-1/380949bca60156ce307248664dbcc57c.jpg?ca=14&ce=1",
+      "distanceNote": "약 332.04m · St Crispins Station 인근",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 2,153건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 2,153건 기반.",
+      "reviews": [
+        {
+          "text": "놀라운 수영장, 기본적인 시설을 갖춘 훌륭한 체육관, 매우 깨끗합니다.",
+          "score": "9.2",
+          "country": "Chile",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "독립형 객실에 필요한 모든 시설이 갖춰져 있습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "마법의 풀사이드 레스토랑에서의 저녁 식사는 훌륭했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "직원들은 특히 Irish Marie에게 도움이 되었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "침대는 훌륭했고 우리는 정말 잘 잤습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-20T12:36:21.658Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
