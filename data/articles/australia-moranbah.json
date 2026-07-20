@@ -1,0 +1,117 @@
+{
+  "slug": "australia-moranbah",
+  "title": "모란바 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 모란바 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "모란바",
+  "cityId": 702045,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "모란바",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/737657405.jpg?k=75287e0373f68c4d0fcf492cc12ad0ed1eb152d98153a6017ee19e9462079176&o=",
+  "heroAlt": "모란바",
+  "heroTitleHtml": "모란바 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Acacia Village Moranbah</b>(평점 8.6·리뷰 39건·1박 약 10만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Acacia Village Moranbah</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/737657405.jpg?k=75287e0373f68c4d0fcf492cc12ad0ed1eb152d98153a6017ee19e9462079176&o=",
+  "outroTitle": "🌙 모란바, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 모란바 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 모란바 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Acacia Village Moranbah",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/acacia-village-moranbah/hotel/all/moranbah-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 39,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/737657405.jpg?k=75287e0373f68c4d0fcf492cc12ad0ed1eb152d98153a6017ee19e9462079176&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 39건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 39건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Village National The Isaac",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/village-national-the-isaac/hotel/all/moranbah-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 59,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/850349897.jpg?k=77fc1bbc471bf297a269e00ed4e674bd95ec5dd5d49c0ec3e1bd1a7e88f090a3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 59건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 59건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Leichhardt Accommodation",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/leichhardt-accommodation/hotel/all/moranbah-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 35,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/427602928.jpg?k=705307b0878fbc8ee12d9ed9e6fa1f7cf17835aa1b8f3d9d630b2c6061d22eba&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 35건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 35건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "The Lodge Outback Motel, Moranbah",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-lodge-village-motel-moranbah/hotel/all/moranbah-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 32,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/842285118.jpg?k=c6321911f27b2f9dd4364d522d831a523c59011e7f0d3075345b58ef0ede2c45&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 32건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 32건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-20T04:48:46.248Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}
