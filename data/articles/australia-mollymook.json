@@ -1,0 +1,375 @@
+{
+  "slug": "australia-mollymook",
+  "title": "몰리묵 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 몰리묵 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "몰리묵",
+  "cityId": 106002,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "몰리묵",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/68718191.jpg?k=df3cf244cc4d3e026f0c101a25b6885f256b865614cb1d4771a50f9c7bd67206&o=",
+  "heroAlt": "몰리묵",
+  "heroTitleHtml": "몰리묵 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Lake Edge Apartments</b>(평점 8.9·리뷰 416건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Lake Edge Apartments</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/68718191.jpg?k=df3cf244cc4d3e026f0c101a25b6885f256b865614cb1d4771a50f9c7bd67206&o=",
+  "outroTitle": "🌙 몰리묵, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 몰리묵 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 몰리묵 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Lake Edge Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lake-edge-apartments/hotel/all/burrill-lake-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 416,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/68718191.jpg?k=df3cf244cc4d3e026f0c101a25b6885f256b865614cb1d4771a50f9c7bd67206&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 416건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 416건 기반.",
+      "reviews": [
+        {
+          "text": "조용하고 편안했고 가격대비 아주 좋았습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "Burill Lake의 멋진 전망과 함께 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 호수 가장자리 아파트에서의 숙박을 좋아했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "유닛에는 자립형 휴식에 필요한 모든 것이 포함되어 있습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "집처럼 느껴지지만 전망이 더 좋습니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "인제니아 홀리데이 레이크 콘졸라 (Ingenia Holidays Lake Conjola)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ingenia-holidays-lake-conjola/hotel/lake-conjola-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 892,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.4,
+      "img": "//pix8.agoda.net/hotelImages/109/1094330/1094330_16112907090049178219.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 892건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 892건 기반.",
+      "reviews": [
+        {
+          "text": "나는 석호가 내려다보이는 멋진 오두막에서 지내는 것을 좋아했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "낭만적인 휴가를 보내기에도 좋을 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "편의시설도 좋고 할게 많아요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "2박을 묵었는데 라군룸에 매우 만족했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "호숫가 숙소로 깨끗하고 깔끔하며 전망이 아름답습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Harbour View Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/harbour-view-apartments/hotel/all/ulladulla-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 1329,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/112362623.jpg?k=38f596be3da81162455b08574825dc1850d64bb3f1bd87f33d18f3c38bb7bd43&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 1,329건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 1,329건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "몰리무크 씨스케이프 모텔 (Mollymook Seascape Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mollymook-seascape-motel-apartments-adults-only/hotel/ulladulla-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 732,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/549767885.jpg?k=42b58e2d52571c415924fd5ee9d1c5fcc825196912896102fcc14d67ad11b390&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 732건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 732건 기반.",
+      "reviews": [
+        {
+          "text": "정말 마음에 들었고, 방도 크고 원하는 모든 것이 갖춰져 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "숙소 시설은 훌륭하고 수준이 높습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "스타일도 좋고 수영장 옆 마당에 있는 해먹도 마음에 듭니다…",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절했고, 방은 깨끗하고 신선했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "우리는 매우 편안한 하룻밤을 보냈습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Mollymook Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mollymook-motel/hotel/all/mollymook-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 895,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/693540223.jpg?k=d50a1ee2870b80df993491fb6cf5b1db7959489365ee5004fe1fd1169cccc7f4&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 895건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 895건 기반.",
+      "reviews": [
+        {
+          "text": "Rasha는 친절하고 따뜻했으며 대하기가 매우 쉬웠습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "Mollymook 모텔에서의 숙박을 적극 권장합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "바다가 보이는 발코니 전망은 추가 보너스였습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "의심할 여지 없이 우리는 여기에 다시 묵을 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "접근성도 좋고 위치도 좋고 직원도 친절해요.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "The Leaning Oak - Lake Conjola",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-leaning-oak-holiday-lifestyles-lake-conjola/hotel/conjola-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 228,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/41042918/0/2e9241084f955089259041337a450650.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 228건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 228건 기반.",
+      "reviews": [
+        {
+          "text": "그렇지 않으면 훌륭한 숙박",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "몰리무크 쇼어 모텔 (Mollymook Shores Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mollymook-motel/hotel/mollymook-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 158,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/4592044/-1/a2beb79082dad03fd30b78a570f90581.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 158건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 158건 기반.",
+      "reviews": [
+        {
+          "text": "침대는 매우 편안했고 이는 나에게 가장 중요했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "파도를 향하고 있는 해변 건너편에 있는 것은 사랑스러웠습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "몰리무크에서 저희가 묵는 유일한 숙소입니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 음식을 제공하는 멋진 태국 레스토랑이 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "해변과 클럽까지 걸어서 갈 수 있는 사랑스러운 객실입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-21T04:22:25.124Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
