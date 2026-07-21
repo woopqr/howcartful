@@ -1,0 +1,218 @@
+{
+  "slug": "australia-maldon",
+  "title": "몰던 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 몰던 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "몰던",
+  "cityId": 141724,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "몰던",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/478490926.jpg?k=f079a539d99afba32c8806800ea7ffb6088da115178e9e80d85645af30ef6135&o=",
+  "heroAlt": "몰던",
+  "heroTitleHtml": "몰던 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>George IV Inn</b>(평점 8·리뷰 311건·1박 약 8만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Picton Station 도보 11분</b>의 <b>George IV Inn</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/478490926.jpg?k=f079a539d99afba32c8806800ea7ffb6088da115178e9e80d85645af30ef6135&o=",
+  "outroTitle": "🌙 몰던, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 몰던 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 몰던 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "George IV Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/george-iv-inn/hotel/all/picton-nsw-au.html?cid=1925461",
+      "walkMin": 11,
+      "score": 8,
+      "reviewCount": 311,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/478490926.jpg?k=f079a539d99afba32c8806800ea7ffb6088da115178e9e80d85645af30ef6135&o=",
+      "distanceNote": "약 885.64m · Picton Station 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 311건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 311건 기반.",
+      "reviews": [
+        {
+          "text": "방은 많은 매력을 가지고 있었고 편안했습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "클린룸, 히터, TV, 넷플릭스 유튜브.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "이곳에 머무르는 것은 좋은 경험이었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "좋은 곳. 친절한 직원. 깨끗하고 깔끔합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Motel Maldon",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/motel-maldon/hotel/all/maldon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 487,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/73238882.jpg?k=15212b179d4c141f223fb93e5e28eb9cb507b4a0f31b5251d7ba6d61ca4c9860&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 487건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 487건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "피크톤 밸리 모텔 (Picton Valley Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/picton-valley-motel/hotel/picton-nsw-au.html?cid=1925461",
+      "walkMin": 23,
+      "score": 8.6,
+      "reviewCount": 84,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/hotelImages/564/564375/564375_17052610460053246790.jpg?ca=6&ce=1",
+      "distanceNote": "약 1867.36m · Picton Station 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 84건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 84건 기반.",
+      "reviews": [
+        {
+          "text": "매우 좋은 호텔이며 가격 대비 좋은 가치를 제공합니다.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "매우 편안하고 즐거운 숙박을 보냈습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "적당한 크기의 객실, 시설이 잘 갖추어져 있고 편안합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 방, 아름다운 위치, 픽턴 타운과 가깝습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깔끔하고 깔끔했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Tahmoor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tahmoor-inn/hotel/all/thirlmere-au.html?cid=1925461",
+      "walkMin": 41,
+      "score": 8,
+      "reviewCount": 630,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/867447871.jpg?k=a61140f1e4de6d6126edd7d7c541ec7e9dcea9ea01d338576afa0ebdf7f2da0a&o=",
+      "distanceNote": "약 3316.04m · Thirlmere Railway Station 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 630건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 630건 기반.",
+      "reviews": [
+        {
+          "text": "확실히 다른 사람들을 추천하고 다시 돌아올 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "괜찮은 침대, 커피와 차, 아침 시리얼까지.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "사람의 발길이 닿지 않은 곳에서 멈추는 훌륭한 발견입니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "객실 내에서 음료와 스낵을 무료로 즐길 수 있어 좋습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "탁월한 고객 서비스",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-21T01:01:08.109Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}

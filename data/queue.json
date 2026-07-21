@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-20T21:19:36.713Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 10,
-  "postedDate": "2026-07-20",
+  "lastPostedAt": "2026-07-21T01:00:53.974Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 1,
+  "postedDate": "2026-07-21",
   "queue": [
-    "australia-moama",
     "australia-moura",
     "australia-moreton-bay",
-    "australia-monbulk"
+    "australia-monbulk",
+    "australia-maldon"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 198,
+    "cityIndex": 199,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -247,6 +247,7 @@
     "australia-moruya",
     "australia-moree",
     "australia-mowbray",
-    "australia-moss-vale"
+    "australia-moss-vale",
+    "australia-moama"
   ]
 }
