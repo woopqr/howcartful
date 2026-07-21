@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-21T11:20:30.261Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 5,
+  "lastPostedAt": "2026-07-21T12:48:01.101Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 6,
   "postedDate": "2026-07-21",
   "queue": [
-    "australia-mollymook",
     "australia-munambel",
     "australia-muswellbrook",
-    "australia-moore-park-beach"
+    "australia-moore-park-beach",
+    "australia-muchea"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 203,
+    "cityIndex": 204,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -252,6 +252,7 @@
     "australia-moura",
     "australia-moreton-bay",
     "australia-monbulk",
-    "australia-maldon"
+    "australia-maldon",
+    "australia-mollymook"
   ]
 }

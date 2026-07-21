@@ -1,0 +1,110 @@
+{
+  "slug": "australia-muchea",
+  "title": "무체아 가성비 호텔 2곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 무체아 가성비 호텔 2곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "perth-au",
+  "cityName": "무체아",
+  "cityId": 709116,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "무체아",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/878985510.jpg?k=d271b925fd30d35a4b2a2d5f487ac56f433836097625175fc214acb30f510bef&o=",
+  "heroAlt": "무체아",
+  "heroTitleHtml": "무체아 가성비 호텔 2곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>노보텔 바인즈 리조트 스완 밸리</b>(평점 8.4·리뷰 2,028건·1박 약 20만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Millendon Station 도보 32분</b>의 <b>Rehoboth homes</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/878985510.jpg?k=d271b925fd30d35a4b2a2d5f487ac56f433836097625175fc214acb30f510bef&o=",
+  "outroTitle": "🌙 무체아, 어디에 묵어도 후회없이",
+  "outroText": "위 2곳은 모두 무체아 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 무체아 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "노보텔 바인즈 리조트 스완 밸리 (Novotel Vines Resort Swan Valley)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/novotel-vines-resort-swan-valley/hotel/perth-au.html?cid=1925461",
+      "walkMin": 33,
+      "score": 8.4,
+      "reviewCount": 2028,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 20만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/878985510.jpg?k=d271b925fd30d35a4b2a2d5f487ac56f433836097625175fc214acb30f510bef&o=",
+      "distanceNote": "약 2617.72m · Millendon Station 인근",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 2,028건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 2,028건 기반.",
+      "reviews": [
+        {
+          "text": "아파트는 좋으며 매일 저녁 캥거루를 볼 수 있습니다.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "음식, 수영장, 미니 골프, 방이 멋지게 마무리되었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "리조트는 미니 골프를 포함한 캥거루 사파리와 같은 프로그램을 제공합니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "레드힐 강당에 가면 머물기에 좋은 곳",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "이곳은 너무 조용하고 깨끗해요.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Rehoboth homes",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rehoboth-homes/hotel/all/the-vines-au.html?cid=1925461",
+      "walkMin": 32,
+      "score": 7.2,
+      "reviewCount": 50,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 34만원",
+      "valueIndex": 4.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/637483526.jpg?k=72f88e2386476172e1717441482d7c38a5e11137597f153bcae64652854323de&o=",
+      "distanceNote": "약 2576.76m · Millendon Station 인근",
+      "metaTags": [
+        "💰 약 34만원",
+        "📝 리뷰 50건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.2</b> · 실제 투숙객 리뷰 50건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-21T12:48:06.685Z",
+    "source": "agoda citySearch",
+    "count": 2
+  }
+}
