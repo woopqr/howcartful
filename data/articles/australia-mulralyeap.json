@@ -1,0 +1,87 @@
+{
+  "slug": "australia-mulralyeap",
+  "title": "물랄엽 가성비 호텔 1곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 물랄엽 가성비 호텔 1곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "물랄엽",
+  "cityId": 718482,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "물랄엽",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/23173112.jpg?k=353324a0c8c2ce94db104644516f71664f0ce5b7bd0b29293d2c8658dd4a018a&o=",
+  "heroAlt": "물랄엽",
+  "heroTitleHtml": "물랄엽 가성비 호텔 1곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Brookvale House Balingup</b>(평점 9.1·리뷰 333건·1박 약 20만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Brookvale House Balingup</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/23173112.jpg?k=353324a0c8c2ce94db104644516f71664f0ce5b7bd0b29293d2c8658dd4a018a&o=",
+  "outroTitle": "🌙 물랄엽, 어디에 묵어도 후회없이",
+  "outroText": "위 1곳은 모두 물랄엽 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 물랄엽 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Brookvale House Balingup",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/brookvale-house-balingup_2/hotel/all/balingup-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 333,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 20만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/23173112.jpg?k=353324a0c8c2ce94db104644516f71664f0ce5b7bd0b29293d2c8658dd4a018a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 333건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 333건 기반.",
+      "reviews": [
+        {
+          "text": "매우 평화로운 곳이며 창밖으로 보이는 멋진 전망입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "휴식을 취하거나 식사를 하기 좋은 장소로 만들어 보세요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "확실히 다시 머물 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "1박 또는 2박 숙박을 위한 사랑스러운 작은 별장입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "아름다운 곳이고 매우 아늑해요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-21T16:10:06.613Z",
+    "source": "agoda citySearch",
+    "count": 1
+  }
+}
