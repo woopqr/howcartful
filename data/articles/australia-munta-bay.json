@@ -1,0 +1,347 @@
+{
+  "slug": "australia-munta-bay",
+  "title": "문타 베이 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 문타 베이 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "문타 베이",
+  "cityId": 718161,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "문타 베이",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/186133128.jpg?k=c656bdf8c226bb717abe97da9ca7bb86e5320ca14242e0f02093898616913259&o=",
+  "heroAlt": "문타 베이",
+  "heroTitleHtml": "문타 베이 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Moonta Bay Accommodation</b>(평점 8.3·리뷰 563건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Moonta Bay Accommodation</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/186133128.jpg?k=c656bdf8c226bb717abe97da9ca7bb86e5320ca14242e0f02093898616913259&o=",
+  "outroTitle": "🌙 문타 베이, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 문타 베이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 문타 베이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Moonta Bay Accommodation",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/moonta-bay-accommodation_2/hotel/all/moonta-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 563,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/186133128.jpg?k=c656bdf8c226bb717abe97da9ca7bb86e5320ca14242e0f02093898616913259&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 563건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 563건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 숙박 시설과 매우 도움이 되는 직원",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 그것을 좋아했고 숨겨진 침실을 찾는 것을 좋아했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "마지막 순간에 예약했고 완전히 수용되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "우리는 확실히 여기에 다시 머물 것입니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Inglenook Cottage",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/inglenook-cottage/hotel/all/moonta-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 90,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/496236367.jpg?k=b6b43002306db2dac4c11aebfb85bac87f9d69f750a188a4e0006112d07ac63a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 90건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 90건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Costello Hotels - Moonta Bay Cabins",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/costello-hotels-moonta-bay-cabins/hotel/port-moonta-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.5,
+      "reviewCount": 198,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/505648084.jpg?k=d1f783171407450db4c6a16f6cf44a7cb3c53be13ed0b5556eb101baffec555e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 198건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 198건 기반.",
+      "reviews": [
+        {
+          "text": "체크인과 체크아웃은 빠르고 쉽습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "캐빈에는 필요한 모든 것이 갖춰져 있습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 편안하며 위치가 좋습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "도시 근처에 머무르고 방문하기에 편리한 장소입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안합니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Moonta Bay Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/moonta-bay-holiday-park/hotel/all/moonta-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 384,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/197330891.jpg?k=43c937112aabe9efde99eddbaf2a311e54bacd2c366a12d0d39a173d2d86b019&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 384건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 384건 기반.",
+      "reviews": [
+        {
+          "text": "시설이 있고 항상 이용 가능합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "위치가 좋고 체크인이 쉽습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "추천하고 돌아갈 것입니다!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "특히 가족을 위한 완벽한 휴양지",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 즐거운 시간을 보냈습니다!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "The Flat on Muddy",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-flat-on-muddy/hotel/all/moonta-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 42,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 28만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/740211294.jpg?k=91a920f390115dc956ab3385c377bef898d5b992d5ce00fdd30a5fbf836a8a4a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 28만원",
+        "📝 리뷰 42건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 42건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Dells Seaside Escape Moonta Bay",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dells-seaside-escape-moonta-bay/hotel/all/moonta-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 135,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/114080778.jpg?k=91b1262d0f39946ef2b7fb8a2a3eb8a9adbf1876ccf9f2844cabe0d02668931d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 135건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 135건 기반.",
+      "reviews": [
+        {
+          "text": "해변 바로 옆에 있는 좋은 위치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "머물기에 매우 편안한 장소.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "BIG4 Port Hughes Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-breeze-holiday-parks-port-hughes/hotel/all/port-hughes-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 298,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/220302475.jpg?k=306e9782691676b10f3fd4a3eed34d0e542d1cea4bb478aedeaf0c7d150b1bb1&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 298건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 298건 기반.",
+      "reviews": [
+        {
+          "text": "머무르고 휴식을 취하기에 훌륭한 공원입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "캠핑하는 가족에게 적합",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "적극 권장합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭하고 조용했어요",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 공원!!!",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-21T14:50:56.945Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
