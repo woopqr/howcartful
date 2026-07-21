@@ -1,0 +1,204 @@
+{
+  "slug": "australia-moore-park-beach",
+  "title": "무어 파크 비치 가성비 호텔 3곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 무어 파크 비치 가성비 호텔 3곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "무어 파크 비치",
+  "cityId": 718501,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "무어 파크 비치",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/787869503.jpg?k=8f0be7a39fe4142a77f0b9f2127d50622f336a0905fb65931683d857fc61c194&o=",
+  "heroAlt": "무어 파크 비치",
+  "heroTitleHtml": "무어 파크 비치 가성비 호텔 3곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Moore Park Beach Inn</b>(평점 9.3·리뷰 375건·1박 약 16만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Bundaberg North Ralway Station 도보 7분</b>의 <b>칼루아 모텔</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/787869503.jpg?k=8f0be7a39fe4142a77f0b9f2127d50622f336a0905fb65931683d857fc61c194&o=",
+  "outroTitle": "🌙 무어 파크 비치, 어디에 묵어도 후회없이",
+  "outroText": "위 3곳은 모두 무어 파크 비치 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 무어 파크 비치 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Moore Park Beach Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/moore-park-beach-motel_2/hotel/all/moore-park-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 375,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/787869503.jpg?k=8f0be7a39fe4142a77f0b9f2127d50622f336a0905fb65931683d857fc61c194&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 375건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 375건 기반.",
+      "reviews": [
+        {
+          "text": "친절한 호스트가 볼거리와 즐길 거리에 대한 좋은 팁을 알려줬습니다.",
+          "score": "8",
+          "country": "Germany",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "Jan과 Sally는 훌륭했고 우리를 위해 충분히 할 수 없었습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "우리는 여기에 머물게 되어 기쁘게 생각합니다.",
+          "score": "8",
+          "country": "Germany",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "좋은 모텔과 훌륭한 호스트",
+          "score": "8",
+          "country": "Germany",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 깔끔하며 편리함",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "칼루아 모텔 (Kalua Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kalua-motel/hotel/bundaberg-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 7.7,
+      "reviewCount": 883,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/243/24316099/24316099_21050706290097017588.jpg?ca=19&ce=1",
+      "distanceNote": "약 537.73m · Bundaberg North Ralway Station 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 883건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 883건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 도움이 되었고, 숙소는 깨끗했고 쉽게 접근할 수 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "머물기 좋고 조용한 숙소이며 시내 중심가에 편리함",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "AC는 잘 작동했고 천장 선풍기도 있었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "가격대비 정말 좋은 방.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "하룻밤 머물기에 좋습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Splitters Farm",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/splitters-farm/hotel/sharon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 43,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/32727009/0/14d7c0749e41cd5aa09ae6179a886030.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 43건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 43건 기반.",
+      "reviews": [
+        {
+          "text": "밴에는 우리에게 필요한 모든 것이 갖춰져 있었고 사랑스럽게 디자인되었습니다.",
+          "score": "9.6",
+          "country": "Germany",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "캠핑장이 넓고 모든 것이 잘 정돈되어 있었습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "식기세척기가 딸린 사파리 텐트가 정말 인상적이에요!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "아름다운 농장, 친절한 직원, 깨끗한 객실!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "아름답고 편안한 곳!! 놀라운 경험",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-21T11:20:47.829Z",
+    "source": "agoda citySearch",
+    "count": 3
+  }
+}
