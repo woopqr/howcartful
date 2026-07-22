@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-22T11:27:51.447Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 5,
+  "lastPostedAt": "2026-07-22T12:58:56.021Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 6,
   "postedDate": "2026-07-22",
   "queue": [
-    "australia-mystery-bay",
     "australia-mitagong",
     "australia-mitford",
-    "australia-mildura"
+    "australia-mildura",
+    "australia-millawa"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 213,
+    "cityIndex": 214,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -262,6 +262,7 @@
     "australia-mulralyeap",
     "australia-miniyan",
     "australia-middlemount",
-    "australia-mission-beach"
+    "australia-mission-beach",
+    "australia-mystery-bay"
   ]
 }
