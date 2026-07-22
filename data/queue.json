@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-21T18:56:41.276Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 10,
-  "postedDate": "2026-07-21",
+  "lastPostedAt": "2026-07-22T01:01:37.236Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-07-22",
   "queue": [
-    "australia-munta-bay",
     "australia-mulralyeap",
     "australia-miniyan",
-    "australia-middlemount"
+    "australia-middlemount",
+    "australia-mission-beach"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 208,
+    "cityIndex": 209,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -257,6 +257,7 @@
     "australia-munambel",
     "australia-muswellbrook",
     "australia-moore-park-beach",
-    "australia-muchea"
+    "australia-muchea",
+    "australia-munta-bay"
   ]
 }
