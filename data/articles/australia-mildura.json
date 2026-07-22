@@ -1,0 +1,419 @@
+{
+  "slug": "australia-mildura",
+  "title": "밀두라 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 밀두라 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "mildura-au",
+  "cityName": "밀두라",
+  "cityId": 8316,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "밀두라",
+  "heroImg": "https://pix8.agoda.net/hotelImages/159276/0/a7993ea21e09a9d88587e9add92e5d9a.jpg?ca=0&ce=1",
+  "heroAlt": "밀두라",
+  "heroTitleHtml": "밀두라 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>에코노 로지 밀두라</b>(평점 9.1·리뷰 691건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>밀두라역 도보 33분</b>의 <b>Cottonwood Motor Inn</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/159276/0/a7993ea21e09a9d88587e9add92e5d9a.jpg?ca=0&ce=1",
+  "outroTitle": "🌙 밀두라, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 밀두라 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 밀두라 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "에코노 로지 밀두라 (Econo Lodge Mildura)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/econo-lodge-mildura/hotel/mildura-au.html?cid=1925461",
+      "walkMin": 43,
+      "score": 9.1,
+      "reviewCount": 691,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.7,
+      "img": "//pix8.agoda.net/hotelImages/159276/0/a7993ea21e09a9d88587e9add92e5d9a.jpg?ca=0&ce=1",
+      "distanceNote": "약 3448.35m · 밀두라역 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 691건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 691건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 친절했고 방은 깨끗했습니다.",
+          "score": "8.4",
+          "country": "대한민국",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "밀두라에 갈 때 다시 머물고 싶습니다 😁",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "컴포트 인 대킨 팜스  (Comfort Inn Deakin Palms)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/comfort-inn-deakin-palms/hotel/mildura-au.html?cid=1925461",
+      "walkMin": 41,
+      "score": 9.2,
+      "reviewCount": 662,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.7,
+      "img": "//pix8.agoda.net/hotelImages/178410/0/fffa3aea58896e901399cfbb761014b5.jpg?ce=2",
+      "distanceNote": "약 3292.45m · 밀두라역 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 662건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 662건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 훌륭하고 매우 친절했습니다. 꼭 돌아올 것입니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "문앞의 거리 주차 공간을 깨끗하고 깔끔하게 정리하세요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 레스토랑이 붙어 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "머물기에 아주 좋은 곳이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "확실히 돌아올 것입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Sun River Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sun-river-resort-motel/hotel/all/buronga-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 403,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/677665270.jpg?k=c764fd6bed0e3dd220d76d78112d46ee4cc3503c52d103c416186837166ce6c2&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 403건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 403건 기반.",
+      "reviews": [
+        {
+          "text": "직원들과의 커뮤니케이션이 훌륭하고 체크인이 간편합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 훌륭했습니다. 직원이 훌륭했습니다. 체크인과 체크아웃이 쉬웠습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "방에는 당신이 원하는 모든 것이 있습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "좋은 크기의 방, 깨끗함",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "좋은 선택",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Cottonwood Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cottonwood-motor-inn/hotel/all/mildura-au.html?cid=1925461",
+      "walkMin": 33,
+      "score": 9.1,
+      "reviewCount": 74,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/665684125.jpg?k=74fdf71ba2abdad7b3889af49cc86927343e158bcd0f1639ba31a2b674d3a873&o=",
+      "distanceNote": "약 2621.14m · 밀두라역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 74건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 74건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 편안하며 가격 대비 훌륭한 가치를 제공합니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "이 지역을 방문한다면 꼭 다시 머물고 싶습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "나는 그들의 높은 수준의 청결도를 기대하지 않았습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "그 시간에 얻을 수 있는 가장 저렴한 가격과 위치는 완벽합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "편안한 침대와 객실은 매우 깨끗합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Mildura River City Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mildura-river-city-motel/hotel/all/mildura-au.html?cid=1925461",
+      "walkMin": 48,
+      "score": 9,
+      "reviewCount": 53,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/30886258.jpg?k=52ac8003c41c1cf984576a2f5e834caabafb0310c50282ae0114eef2d66d5db5&o=",
+      "distanceNote": "약 3828.88m · 밀두라역 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 53건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 53건 기반.",
+      "reviews": [
+        {
+          "text": "머물기 좋은 곳",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗한 모텔이며 4성급 등급에 걸맞게 생활합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 효과가 있었고 편안했습니다.",
+          "score": "8.4",
+          "country": "Cambodia",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "직원 친절도 좋고 위치도 좋고,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "직원들은 모텔처럼 훌륭했습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "밀두라 플라자 모토 인 (Mildura Plaza Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mildura-plaza-motor-inn/hotel/mildura-au.html?cid=1925461",
+      "walkMin": 48,
+      "score": 8.7,
+      "reviewCount": 132,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/837461/0/bfe14d34d81539d88fba174abddf9a60.jpeg",
+      "distanceNote": "약 3806.5m · 밀두라역 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 132건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 132건 기반.",
+      "reviews": [
+        {
+          "text": "편안하고 번거로움 없는 숙박을 위한 확실한 선택!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "더운 날 직장에서 돌아올 때를 대비해 에어컨을 틀었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 조용하며 친절하고 효율적인 직원이 나에게 잘 맞았습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "Mildura Plaza Motor Inn에서 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "샤워실은 훌륭했고 모든 것이 편안하고 깨끗했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "밀두라 인랜더 리조트 (Mildura Inlander Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mildura-inlander-resort/hotel/mildura-au.html?cid=1925461",
+      "walkMin": 37,
+      "score": 8.3,
+      "reviewCount": 351,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/4888917/0/66f51431f4774f4912137dd0ec6bed12.jpg?ca=23&ce=0",
+      "distanceNote": "약 2952.78m · 밀두라역 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 351건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 351건 기반.",
+      "reviews": [
+        {
+          "text": "소음이 적은 새 방을 제공해 주셔서 많은 도움이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "이 숙소는 모든 것에 가깝기 때문에 마음에 듭니다!",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 Mildura Inlander를 '집 밖의 집'으로 사용합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "우리 2살짜리 딸은 스파 욕조가 있는 더 큰 객실을 좋아했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "그리고 방은 매우 넓고 깨끗하고 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-22T11:28:26.892Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
