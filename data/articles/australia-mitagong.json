@@ -1,0 +1,387 @@
+{
+  "slug": "australia-mitagong",
+  "title": "미타공 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 미타공 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "mittagong-au",
+  "cityName": "미타공",
+  "cityId": 17913,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "미타공",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/321033824.jpg?k=ba5aa562971073d524e5f38c755270fff1ad12a55a145f4a828806ae9dd364a9&o=",
+  "heroAlt": "미타공",
+  "heroTitleHtml": "미타공 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Highlands Hotel</b>(평점 8·리뷰 591건·1박 약 8만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Highlands Hotel</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/321033824.jpg?k=ba5aa562971073d524e5f38c755270fff1ad12a55a145f4a828806ae9dd364a9&o=",
+  "outroTitle": "🌙 미타공, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 미타공 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 미타공 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Highlands Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lion-rampant-hotel/hotel/mittagong-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 591,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 8만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/321033824.jpg?k=ba5aa562971073d524e5f38c755270fff1ad12a55a145f4a828806ae9dd364a9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 591건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 591건 기반.",
+      "reviews": [
+        {
+          "text": "방은 조용했고 직원들은 정중하고 도움이 되었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "좋은 시설을 갖춘 매우 쾌적하고 깨끗한 객실입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "우수한 가치 훌륭한 직원과 시설",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 잘 관리되어 전반적인 가치가 향상되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "하이랜드 호텔 미타공 우수",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Poplars Inn Mittagong",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/poplars-inn-mittagong/hotel/all/braemar-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.8,
+      "reviewCount": 1342,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/706/706135/706135_14110812410023256062.jpg?ca=3&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 1,342건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 1,342건 기반.",
+      "reviews": [
+        {
+          "text": "2주간의 여행 동안 우리가 머물렀던 최고의 장소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "이 숙소가 마음에 들었고, 크고 편안하며 편안하게 머물 수 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "침대도 편하고 깨끗하고 좋아요",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 매우 편안했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 흄 고속도로에 가기 편리하며 역대 최고의 온수 샤워 👍",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Bendooley Estate",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bendooley-estate/hotel/all/berrima-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 136,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/839231209.jpg?k=a20209e4e7d37e3f535a96240609584b82692b89881a02a9f3c71ff934ad7cbd&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 136건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 136건 기반.",
+      "reviews": [
+        {
+          "text": "화려한 별장",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Mittagong Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mittagong-caravan-park-h9039708/hotel/mittagong-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 597,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/101108328.jpg?k=f5aa93d2b206511914de6a92f776ba71170ce569af71c28cbaaa5b178d051bc3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 597건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 597건 기반.",
+      "reviews": [
+        {
+          "text": "숙소도 좋고 깨끗하고 직장도 가깝고",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "장소가 좋고 직장에서 가깝습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "그랜드 컨트리 로지 모텔 (Grand Country Lodge Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/grand-country-lodge-motel/hotel/mittagong-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 821,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/2013415/-1/b376f2694cb1ac5da915927341d41877.jpg?ca=16&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 821건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 821건 기반.",
+      "reviews": [
+        {
+          "text": "이 지역에 오면 꼭 다시 올 거예요",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗했고 직원들은 매우 친절했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "매우 친절하고 위치가 좋은 호텔입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "매우 편안하고 깨끗하며 중앙에 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "이 장소를 적극 추천합니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "링크스 하우스 호텔 (Links House Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/links-house-hotel/hotel/bowral-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 209,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/523504/0/13a9aa30b6604eb64daf32786f116650.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 209건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 209건 기반.",
+      "reviews": [
+        {
+          "text": "쇼핑을 마친 후 불 옆에서 마시는 음료는 완벽했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "구내 Ethos 레스토랑은 훌륭하고 메뉴가 제한되어 있지만,",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "현대적인 편리함을 갖춘 컨트리풍의 우아함.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "헤리티지 스위트는 정말 신성했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "매우 편안한 침대, 매우 깨끗하고 편안함",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Mittagong Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mittagong-motel_2/hotel/mittagong-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 47,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/318301609.jpg?k=b83c8a6f539d9a9fba22746bc99a4eb562287f8d676bca5f400f1c736f99b6d3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 47건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 47건 기반.",
+      "reviews": [
+        {
+          "text": "친절한 직원과 필요한 모든 것을 갖추고 있습니다",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안해요 - 친절한 직원들!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안했고 직원들은 매우 친절했습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "무엇보다도 무료 아침 식사가 제공됩니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "모텔은 숙박하기에 좋고 깨끗합니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-22T07:08:00.707Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
