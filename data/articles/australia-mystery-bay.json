@@ -1,0 +1,380 @@
+{
+  "slug": "australia-mystery-bay",
+  "title": "미스터리 베이 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 미스터리 베이 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "narooma-au",
+  "cityName": "미스터리 베이",
+  "cityId": 390160,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "미스터리 베이",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/407943177.jpg?k=cf6404432d8c5e5ce77bc051460ff65c039f62048156ab81f016f76330d9a11d&o=",
+  "heroAlt": "미스터리 베이",
+  "heroTitleHtml": "미스터리 베이 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Discovery Parks - Narooma Beach</b>(평점 8.9·리뷰 95건·1박 약 11만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Discovery Parks - Narooma Beach</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/407943177.jpg?k=cf6404432d8c5e5ce77bc051460ff65c039f62048156ab81f016f76330d9a11d&o=",
+  "outroTitle": "🌙 미스터리 베이, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 미스터리 베이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 미스터리 베이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Discovery Parks - Narooma Beach",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/island-view-beach-resort-h26533944/hotel/narooma-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 95,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/407943177.jpg?k=cf6404432d8c5e5ce77bc051460ff65c039f62048156ab81f016f76330d9a11d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 95건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 95건 기반.",
+      "reviews": [
+        {
+          "text": "우리의 디럭스 사파리 텐트는 주말 여행에 완벽했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "럭셔리 글램핑 텐트에서 멋진 밤을 보내보세요.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "베이킹을 위한 호일 트레이도 제공됩니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "체크인이 간편하고 매우 깨끗하며 시설이 좋습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "우리는 거기 해변으로 산책하는 것을 좋아합니다.",
+          "score": "9.6",
+          "country": "Vietnam",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "탑 어브 더 타운 모텔 (Top Of The Town Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/top-of-the-town-motel/hotel/narooma-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 639,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/529/529445/529445_16041314470041489063.jpg?ca=10&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 639건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 639건 기반.",
+      "reviews": [
+        {
+          "text": "매우 쾌적하고 편안한 숙소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 친절하며 객실 내 편의시설도 좋습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 훌륭한 가치를 제공하는 최고급 모텔입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 넓고 편안한 침대.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 호텔이며 모든 것에 가깝습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "더 트리 모텔 (The Tree Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-tree-motel/hotel/narooma-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.6,
+      "reviewCount": 106,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/401229/0/84d89b143955e3444809ade9cb003843.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 106건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 106건 기반.",
+      "reviews": [
+        {
+          "text": "저렴한 숙박시설을 제공해 주신 트리모텔에 감사드립니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "조용한 위치에 편안한 침대와 객실이 마련되어 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "그것은 깨끗하고 편안했으며 우리에게 좋은 위치였습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "매우 저렴한 가격으로 편안한 숙박!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "샤워는 사랑스럽고 강력했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "홀리데이 로지 모터 인 (Holiday Lodge Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/holiday-lodge-motor-inn/hotel/narooma-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 978,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/286607/0/3765c7c8579d22477fb2e0b2a1061fa7.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 978건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 978건 기반.",
+      "reviews": [
+        {
+          "text": "밤에 필요한 모든 것을 제공했습니다!",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "이 아름다운 지역을 방문할 때 다시 예약하고 싶습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "체크인은 매우 쉬웠고 위치는 훌륭했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "침대와 베개는 매우 편안했습니다!",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "꽤 넓고 방도 깨끗했어요!",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2024.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "코스탈 컴포트 모텔 (Coastal Comfort Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/coastal-comfort-motel_3/hotel/all/narooma-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 1061,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/511116669.jpg?k=26ce1144c549ee607464b60728f25820862ab6f5390724b0c80334f0a9f9e4c8&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 1,061건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 1,061건 기반.",
+      "reviews": [
+        {
+          "text": "방은 전자레인지와 냉장고가 있어서 충분히 넓습니다.",
+          "score": "9.2",
+          "country": "韩国",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "편안하고 찾기 쉽고 체크인도 쉽습니다",
+          "score": "7.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "위치가 편리하고 해변과 가까워요.",
+          "score": "8",
+          "country": "Malaysia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "번거로움 없이 셀프 체크인이 가능합니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗합니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "나루마 모텔 (Narooma Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/narooma-motel/hotel/narooma-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.5,
+      "reviewCount": 50,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 5.5,
+      "img": "//pix8.agoda.net/hotelImages/293502/0/ed05da20fd64ca097851ec31073cc586.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 50건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 50건 기반.",
+      "reviews": [
+        {
+          "text": "침대는 편안했고 숙면을 보장했습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 편안한 객실. 도로 여행에 적합",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "간단하지만 정말 가격 대비 가치가 뛰어납니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "매우 편안한 침대와 함께 매우 깨끗했습니다.",
+          "score": "8",
+          "country": "United Kingdom",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "오래된 호텔, 중간 기착에 적합, 좋은 주방 시설",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-22T04:25:51.103Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}
