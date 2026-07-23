@@ -1,0 +1,87 @@
+{
+  "slug": "australia-babinda",
+  "title": "바빈다 가성비 호텔 1곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 바빈다 가성비 호텔 1곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "babinda-au",
+  "cityName": "바빈다",
+  "cityId": 710203,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "바빈다",
+  "heroImg": "https://pix8.agoda.net/hotelImages/1120812/0/485273850c2ef3529b4b882e907e2da9.jpeg?ce=0",
+  "heroAlt": "바빈다",
+  "heroTitleHtml": "바빈다 가성비 호텔 1곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>바빈다 쿼터스</b>(평점 9.4·리뷰 626건·1박 약 18만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>바빈다 쿼터스</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/1120812/0/485273850c2ef3529b4b882e907e2da9.jpeg?ce=0",
+  "outroTitle": "🌙 바빈다, 어디에 묵어도 후회없이",
+  "outroText": "위 1곳은 모두 바빈다 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 바빈다 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "바빈다 쿼터스 (Babinda Quarters)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/babinda-quarters/hotel/babinda-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 626,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/1120812/0/485273850c2ef3529b4b882e907e2da9.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 626건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 626건 기반.",
+      "reviews": [
+        {
+          "text": "방은 깨끗하고 넓었으며 침대가 매우 편안했습니다.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "뜨거운 물이 많이 나오는 멋진 타일 샤워기.",
+          "score": "8.8",
+          "country": "Thailand",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "숙소는 다양한 성격으로 매우 매력적이었습니다.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 객실을 갖춘 매력적인 숙소",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "김씨의 세심한 배려 10/10.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-23T11:28:19.052Z",
+    "source": "agoda citySearch",
+    "count": 1
+  }
+}
