@@ -1,0 +1,374 @@
+{
+  "slug": "australia-bateau-bay",
+  "title": "바튜 베이 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 바튜 베이 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "central-coast-au",
+  "cityName": "바튜 베이",
+  "cityId": 513445,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "바튜 베이",
+  "heroImg": "https://pix8.agoda.net/hotelImages/550/5509595/5509595_18080114530067224854.jpg?ca=0&ce=1",
+  "heroAlt": "바튜 베이",
+  "heroTitleHtml": "바튜 베이 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>더 레이크 호텔</b>(평점 8.4·리뷰 306건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>투게라역 도보 28분</b>의 <b>치타웨이 모텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/550/5509595/5509595_18080114530067224854.jpg?ca=0&ce=1",
+  "outroTitle": "🌙 바튜 베이, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 바튜 베이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 바튜 베이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 레이크 호텔 (The Lakes Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-lakes-hotel_4/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 103,
+      "score": 8.4,
+      "reviewCount": 306,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.3,
+      "img": "//pix8.agoda.net/hotelImages/550/5509595/5509595_18080114530067224854.jpg?ca=0&ce=1",
+      "distanceNote": "약 8228.08m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 306건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 306건 기반.",
+      "reviews": [
+        {
+          "text": "라이브 음악이 있는 호텔 위층에 있어서 조용함",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "큰 욕실, 침실, 거실, 완비된 주방.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "호텔의 음식은 합리적인 가격에 좋은 품질입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "호텔은 매우 깨끗하고 모든 편의시설의 중심에 있습니다 👍.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 직원이 있었고 매우 편안했습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "엔트런스 백패커스 (The Entrance Backpackers)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-entrance-backpackers/hotel/all/central-coast-au.html?cid=1925461",
+      "walkMin": 102,
+      "score": 8.5,
+      "reviewCount": 97,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.3,
+      "img": "//pix8.agoda.net/hotelImages/920/920773/920773_15042810320027125650.jpg?ca=4&ce=1",
+      "distanceNote": "약 8187.91m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 97건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 97건 기반.",
+      "reviews": [
+        {
+          "text": "잘 관리되는 호스텔",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Encore by Mingara",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/encore-by-mingara/hotel/berkeley-vale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 1186,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 20만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/696432754.jpg?k=95741050d7724a92914b38bb2272bcc076475e7ff2c838df133d5d84cf1b1743&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 1,186건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 1,186건 기반.",
+      "reviews": [
+        {
+          "text": "친절하고 깨끗했습니다. 친절한 직원을 쉽게 찾을 수 있었고, 음식도 훌륭했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "모든 시설을 갖춘 멋진 새 호텔",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "객실은 사랑스럽고 조용합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박과 위치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "앙코르 바이 밍가라(Encore by Mingara)는 머물기에 좋은 숙소였습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Bay House Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bay-house-motel/hotel/bateau-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 1116,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/858850213.jpg?k=d71c39fd0697fdc9b019dc34791114c7f969093d940fea592351088f082c178e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 1,116건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 1,116건 기반.",
+      "reviews": [
+        {
+          "text": "심지어 무료 아침 식사도 제공해줍니다👍",
+          "score": "10",
+          "country": "澳洲",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "시설이 새것이라 깨끗해요",
+          "score": "10",
+          "country": "澳洲",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "아름다운 객실과 특별한 아침 식사에 감사드립니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 깔끔해서 잠을 잘 잘 수 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 방, 깨끗하고 잘 꾸며져 있고 아늑합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Ocean Front Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ocean-front-motel_2/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 114,
+      "score": 9,
+      "reviewCount": 2200,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/330341164.jpg?k=3ce8d9c404dd54ecfb0e53826a30954b0a64c7b5a64e79bf95ca905364d8d151&o=",
+      "distanceNote": "약 9081.84m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 2,200건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,200건 기반.",
+      "reviews": [
+        {
+          "text": "모던한 객실 디자인과 인상적인 오션뷰.",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치, 아름다운 해변, 조용하고 객실도 사랑스럽습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 주차 공간",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "리셉션은 훌륭했고 스파룸도 훌륭했습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "방은 멋지게 배치되어 있었습니다. 벨벳 의자가 마음에 들었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Kims Beachside Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kims-beachside-retreat_2/hotel/all/central-coast-au.html?cid=1925461",
+      "walkMin": 117,
+      "score": 9.6,
+      "reviewCount": 68,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/670375540.jpg?k=f727a09ddd67a1c5c2aee9a8f22c5964a73cadd88e5b02841f96d67cb1e91da6&o=",
+      "distanceNote": "약 9393.08m · 투게라역 인근",
+      "metaTags": [
+        "📝 리뷰 68건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 68건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "치타웨이 모텔 (Chittaway Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/chittaway-motel_3/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 28,
+      "score": 8.9,
+      "reviewCount": 1530,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/582/5828656/5828656_18092708520068180142.jpg?ca=7&ce=1",
+      "distanceNote": "약 2255.3m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 1,530건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,530건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗하고 편안하며 훌륭한 위치에 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원, 깨끗하고 깔끔하며 객실 관리가 잘되어 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "여행 중 모텔로 가는 곳입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 넓습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 편안한 숙박",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-23T18:04:05.294Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
