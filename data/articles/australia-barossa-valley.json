@@ -1,0 +1,399 @@
+{
+  "slug": "australia-barossa-valley",
+  "title": "바로사 밸리 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 바로사 밸리 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "barossa-valley-au",
+  "cityName": "바로사 밸리",
+  "cityId": 16613,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "바로사 밸리",
+  "heroImg": "https://pix8.agoda.net/hotelImages/65224/-1/ebcd4443887f1ab9c7620c54b4bf6544.jpg?ca=0&ce=1",
+  "heroAlt": "바로사 밸리",
+  "heroTitleHtml": "바로사 밸리 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>바로사 하우스 - 부티크 게스트하우스</b>(평점 9.3·리뷰 489건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Tanunda 도보 4분</b>의 <b>Valley Hotel</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/65224/-1/ebcd4443887f1ab9c7620c54b4bf6544.jpg?ca=0&ce=1",
+  "outroTitle": "🌙 바로사 밸리, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 바로사 밸리 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 바로사 밸리 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "바로사 하우스 - 부티크 게스트하우스 (BAROSSA HOUSE - Boutique Guest House)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/barossa-house-boutique-guess-house/hotel/barossa-valley-au.html?cid=1925461",
+      "walkMin": 43,
+      "score": 9.3,
+      "reviewCount": 489,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/65224/-1/ebcd4443887f1ab9c7620c54b4bf6544.jpg?ca=0&ce=1",
+      "distanceNote": "약 3410.55m · Tanunda 인근",
+      "metaTags": [
+        "📝 리뷰 489건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 489건 기반.",
+      "reviews": [
+        {
+          "text": "바로사 밸리에서 머물기에 가장 좋은 곳입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "방은 현대적이고, 깨끗하고, 조용했고, 왔습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "위치는 Tanunda와 많은 포도원과 가깝습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "Barossa House는 우리가 가장 좋아하는 숙박이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "Barossa House에 머무르는 것이 좋습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "더 도브 코테 (The Dove Cote)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-dove-cote/hotel/barossa-valley-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 9.2,
+      "reviewCount": 84,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/293/293324/293324_16081913320045623994.jpg?ca=6&ce=1",
+      "distanceNote": "약 458.64m · Tanunda 인근",
+      "metaTags": [
+        "📝 리뷰 84건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 84건 기반.",
+      "reviews": [
+        {
+          "text": "가장 친절하고 편안한 숙소입니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 깔끔하며 멋진 위치에 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "그것은 B&B가 갖추어야 할 모든 것이었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "매우 잘 갖추어져 있고 매우 편안합니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "우리는 The Dove Cote에서 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "안가스톤 바인야드 모텔 (Angaston Vineyards Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/angaston-vineyards-motel/hotel/barossa-valley-au.html?cid=1925461",
+      "walkMin": 21,
+      "score": 8.8,
+      "reviewCount": 147,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/544528/0/6cab005c561f097e03a41af10a5c5594.jpeg",
+      "distanceNote": "약 1654.62m · Angaston 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 147건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 147건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗하고 조용하며 모든 편의 시설이 매우 깨끗했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "바로사의 중심부에 위치한 훌륭한 가치의 모텔",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "모텔 객실에 필요한 모든 물품을 갖춘 넓은 객실입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "따뜻한 날이었고 남편은 수영장을 즐겼습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 호스트 엘리자베스.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "더 와인 바인 (The Wine Vine)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/barossa-motor-lodge-motel/hotel/barossa-valley-au.html?cid=1925461",
+      "walkMin": 20,
+      "score": 8.5,
+      "reviewCount": 338,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/11899/-1/71874f71aa68485898cacc60ab5fd04b.jpg?ce=0",
+      "distanceNote": "약 1567.4m · Tanunda 인근",
+      "metaTags": [
+        "📝 리뷰 338건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 338건 기반.",
+      "reviews": [
+        {
+          "text": "매우 효율적이고 친절한 직원 Prabha가 환영합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 에어컨도 잘 작동했습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "타눈다(Tanunda)에 위치한 깨끗하고 중심부에 있는 환상적인 숙소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "하지만 아이들은 테니스 코트와 수영장을 좋아했습니다!",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안했고 방도 매우 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "빈 인 바로사 (Vine Inn Barossa)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/vine-inn-barossa/hotel/barossa-valley-au.html?cid=1925461",
+      "walkMin": 66,
+      "score": 8.5,
+      "reviewCount": 1612,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/305/305291/305291_16060207420043030382.jpg?ca=6&ce=1",
+      "distanceNote": "약 5276.15m · Angaston 인근",
+      "metaTags": [
+        "📝 리뷰 1,612건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 1,612건 기반.",
+      "reviews": [
+        {
+          "text": "라운지 공간, 식탁, 간이 주방이 있어서 좋습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "모든 편의 시설이 가까이에 있는 도시 중심부에 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 매우 현대적이며 깨끗합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "객실 바로 뒤에 멋진 수영장이 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "직원 - 친절하고 이메일로 신속하게 답변함",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Valley Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/valley-hotel/hotel/barossa-valley-au.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.8,
+      "reviewCount": 47,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/property/89058377/0/29e403550337ff735be334f07fd7f539.jpeg?ce=3",
+      "distanceNote": "약 320.66m · Tanunda 인근",
+      "metaTags": [
+        "📝 리뷰 47건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 47건 기반.",
+      "reviews": [
+        {
+          "text": "귀여운 마을 한가운데에 있는 훌륭한 개인 모텔 방.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "주차공간 넓고 상태 매우 좋음(최근 리모델링 완료)",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "바로사 숙소에 매우 깨끗하고 훌륭한 가치!",
+          "score": "9.2",
+          "country": "Macau SAR, China",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "타눈다(Tanunda) 한가운데에 머물기 좋은 멋진 장소",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "가격대비 이 방은 생각했던 것보다 훨씬 좋았습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "바로사 빈야드 코티지 (Barossa Vineyard Cottages)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/barossa-vineyard-cottages/hotel/barossa-valley-au.html?cid=1925461",
+      "walkMin": 20,
+      "score": 9.2,
+      "reviewCount": 31,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/hotelImages/264198/-1/e2acff041cd8f2a374afe6a1fb891326.jpg?ca=8&ce=1",
+      "distanceNote": "약 1582.16m · Tanunda 인근",
+      "metaTags": [
+        "📝 리뷰 31건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 31건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-23T01:08:31.222Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
