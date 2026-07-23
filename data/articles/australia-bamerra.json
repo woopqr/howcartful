@@ -1,0 +1,183 @@
+{
+  "slug": "australia-bamerra",
+  "title": "바메라 가성비 호텔 3곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 바메라 가성비 호텔 3곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "바메라",
+  "cityId": 4133,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "바메라",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/17012214.jpg?k=f31e9510f528e124be099b01743a52d699e56599973aa7fbd9e5ee14490515c6&o=",
+  "heroAlt": "바메라",
+  "heroTitleHtml": "바메라 가성비 호텔 3곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Barmera Lake Resort Motel</b>(평점 8.3·리뷰 644건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Barmera Lake Resort Motel</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/17012214.jpg?k=f31e9510f528e124be099b01743a52d699e56599973aa7fbd9e5ee14490515c6&o=",
+  "outroTitle": "🌙 바메라, 어디에 묵어도 후회없이",
+  "outroText": "위 3곳은 모두 바메라 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 바메라 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Barmera Lake Resort Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/barmera-lake-resort-motel/hotel/all/barmera-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 644,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/17012214.jpg?k=f31e9510f528e124be099b01743a52d699e56599973aa7fbd9e5ee14490515c6&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 644건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 644건 기반.",
+      "reviews": [
+        {
+          "text": "호수 맞은편에 있어서 낚시 여행에 아주 좋았습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "유익하고 친절한 직원이 도착 시 여러분을 맞이합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "위치는 환상적이었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 깔끔하고 넓습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "2박 동안 훌륭한 숙박이었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "컴포트 인 앤 스위트 리버랜드 (Comfort Inn & Suites Riverland)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/comfort-inn-suites-riverland/hotel/barmera-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 468,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/8746453/-1/45b6f9452efc34d713085f5c51476891.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 468건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 468건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 위치에 있는 뛰어난 크기의 유닛입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "컴포트 인 리버랜드를 추천합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "숙소에 매우 만족합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Barmera Hotel Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/barmera-hotel-motel/hotel/all/barmera-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.6,
+      "reviewCount": 386,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/433765695.jpg?k=bb4e402d0d2fe6da694212e2612ca3ac9d01549b1ed9eed564a67210b8ae0fe1&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 386건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 386건 기반.",
+      "reviews": [
+        {
+          "text": "아름다운 전망을 갖춘 훌륭한 위치",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 도움이 되는 직원",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-23T09:34:14.604Z",
+    "source": "agoda citySearch",
+    "count": 3
+  }
+}
