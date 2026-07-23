@@ -1,0 +1,110 @@
+{
+  "slug": "australia-barham",
+  "title": "바햄 가성비 호텔 2곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 바햄 가성비 호텔 2곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "barham-au",
+  "cityName": "바햄",
+  "cityId": 709720,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "바햄",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/877113715.jpg?k=cadf73af22162bc327c496c38bd4559627fe0d5f4b785d536c7e626dfd69611c&o=",
+  "heroAlt": "바햄",
+  "heroTitleHtml": "바햄 가성비 호텔 2곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Comfort Inn Clubarham</b>(평점 9.1·리뷰 45건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Comfort Inn Clubarham</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/877113715.jpg?k=cadf73af22162bc327c496c38bd4559627fe0d5f4b785d536c7e626dfd69611c&o=",
+  "outroTitle": "🌙 바햄, 어디에 묵어도 후회없이",
+  "outroText": "위 2곳은 모두 바햄 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 바햄 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Comfort Inn Clubarham",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/clubarham-motel/hotel/barham-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 45,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/877113715.jpg?k=cadf73af22162bc327c496c38bd4559627fe0d5f4b785d536c7e626dfd69611c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 45건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 45건 기반.",
+      "reviews": [
+        {
+          "text": "위치가 매우 좋고, 방이 매우 넓고, 직원이 매우 친절합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "도로 위에 있는 클럽이므로 위치가 완벽하고 강과 가깝습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "언제나처럼 우리의 숙박에 매우 만족했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "객실은 편안하고 공간이 넉넉하며,",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 모텔, 깨끗하고 따뜻하고 편안합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "머레이 워터 모토 인 앤 아파트먼트 (Murray Waters Motor Inn and Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/murray-waters-motor-inn-and-apartments/hotel/koondrook-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 229,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/625/625815/625815_14051913530019473347.jpg?ca=2&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 229건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 229건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-23T19:40:16.325Z",
+    "source": "agoda citySearch",
+    "count": 2
+  }
+}
