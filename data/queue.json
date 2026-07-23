@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-23T13:03:05.533Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 6,
+  "lastPostedAt": "2026-07-23T15:19:44.610Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 7,
   "postedDate": "2026-07-23",
   "queue": [
-    "australia-baruga",
     "australia-bamerra",
     "australia-babinda",
-    "australia-barwon-heads"
+    "australia-barwon-heads",
+    "australia-byron-bay"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 224,
+    "cityIndex": 225,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -273,6 +273,7 @@
     "australia-milsop",
     "australia-milton",
     "australia-barossa-valley",
-    "australia-barongagarok"
+    "australia-barongagarok",
+    "australia-baruga"
   ]
 }

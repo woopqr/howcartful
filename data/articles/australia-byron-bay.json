@@ -1,0 +1,440 @@
+{
+  "slug": "australia-byron-bay",
+  "title": "바이런 베이 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 바이런 베이 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "바이런 베이",
+  "cityId": 7694,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "바이런 베이",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/622792935.jpg?k=85dda0d32e086a14008e6e47cc3d5dc84e1f597585fa1c9c8be36237f5392cb2&o=",
+  "heroAlt": "바이런 베이",
+  "heroTitleHtml": "바이런 베이 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>The Surf House</b>(평점 9·리뷰 176건·1박 약 4만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Byron Beach Station 도보 3분</b>의 <b>The Surf House</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/622792935.jpg?k=85dda0d32e086a14008e6e47cc3d5dc84e1f597585fa1c9c8be36237f5392cb2&o=",
+  "outroTitle": "🌙 바이런 베이, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 바이런 베이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 바이런 베이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Surf House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-surf-house/hotel/all/byron-bay-au.html?cid=1925461",
+      "walkMin": 3,
+      "score": 9,
+      "reviewCount": 176,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/622792935.jpg?k=85dda0d32e086a14008e6e47cc3d5dc84e1f597585fa1c9c8be36237f5392cb2&o=",
+      "distanceNote": "약 260.4m · Byron Beach Station 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 176건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 176건 기반.",
+      "reviews": [
+        {
+          "text": "시내에 있고 주요 해변까지 도보 거리에 있습니다.",
+          "score": "10",
+          "country": "Αυστραλία",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "객실에는 에어컨이 있고 침대는 매우 편안합니다.",
+          "score": "10",
+          "country": "Αυστραλία",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "내가 호주에서 머물렀던 최고의 배낭여행 호스텔",
+          "score": "10",
+          "country": "台灣",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 위치도 좋고 안전하고 물건도 너무 좋았어요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "꼭 한번 해보고 여기에 머무르는 것이 좋습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "YHA 케이프 바이런, 바이런 베이 (YHA Cape Byron, Byron Bay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cape-byron-yha/hotel/byron-bay-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.8,
+      "reviewCount": 1104,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/2735269/-1/0394fdd58d8d2a9ce43cf8d24b5b54d1.jpg?ca=7&ce=1",
+      "distanceNote": "약 439.08m · Byron Beach Station 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 1,104건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,104건 기반.",
+      "reviews": [
+        {
+          "text": "이것은 제가 가장 좋아하는 YHA 중 하나입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "항상 매우 깨끗하고 수압이 좋은 샤워 시설이 제공됩니다.",
+          "score": "10",
+          "country": "Ireland",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "원하는 경우 음식을 요리할 수 있는 풀 사이즈 주방.",
+          "score": "10",
+          "country": "Ireland",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박, 매우 편리한 3인용 전용 객실.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 객실, 좋은 직원, 좋은 휴식 공간.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2024.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "YHA 바이런 베이 (YHA Byron Bay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/byron-bay-yha/hotel/byron-bay-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 8.7,
+      "reviewCount": 3047,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.7,
+      "img": "//pix8.agoda.net/hotelImages/398130/-1/3c13106c238298c2b38bbcc572dbe1af.jpg?ce=0",
+      "distanceNote": "약 585.81m · Byron Beach Station 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 3,047건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 3,047건 기반.",
+      "reviews": [
+        {
+          "text": "방은 너무 좋고 현대적이며 욕실은 훌륭했습니다.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "시설도 훌륭했고 거의 새것 같았어요!",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 훌륭하고 시설이 훌륭하며 모든 것에 가깝습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 개인 여행자를 위한 견고한 예산 친화적인 선택입니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "욕실이 딸린 개인실은 이틀 밤 동안 훌륭했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "드리프터 바이런베이 (Drifter Byron Bay )",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/drifter-byron-bay/hotel/byron-bay-au.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.8,
+      "reviewCount": 218,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/47231899/0/4467643e8e48dea6151d45e411d99300.jpg?ce=2",
+      "distanceNote": "약 228.31m · Byron Beach Station 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 218건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 218건 기반.",
+      "reviews": [
+        {
+          "text": "나는 하룻밤을 묵었는데 이곳에서의 경험은 정말 놀라웠습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "2층 방은 너무 깨끗했고 침대도 매우 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "숙박 기간을 계속 연장했어요!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "확실히 돌아올 것입니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "퀸 사이즈 침대와 욕실이 있는 방은 완벽했습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "아쿠아리우스 백패커스 리조트 (Aquarius Backpackers Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/aquarius-backpackers-resort_3/hotel/byron-bay-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.7,
+      "reviewCount": 665,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/60709426/0/03b1f1af509fdc586fa63180f4f384fa.png?ce=3",
+      "distanceNote": "약 396.33m · Byron Beach Station 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 665건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 665건 기반.",
+      "reviews": [
+        {
+          "text": "친절한 직원, 깨끗한 객실, 모든 시설!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "여자 도미토리를 예약했는데 방이 정말 넓더라구요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "아쿠아리우스 백패커스는 너무 아름다운 호스텔이었는데,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "욕실이 딸린 개인실에 묵었는데 정말 좋았어요!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "공용 공간이 정말 마음에 들었습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "웨이크 업 바이런 베이 (Wake Up Byron Bay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wake-up-byron-bay/hotel/byron-bay-au.html?cid=1925461",
+      "walkMin": 18,
+      "score": 8.9,
+      "reviewCount": 109,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/4952490/-1/d8804d798f068332a3e1bd19564dd683.jpg?ca=0&ce=1",
+      "distanceNote": "약 1441.7m · Byron Beach Station 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 109건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 109건 기반.",
+      "reviews": [
+        {
+          "text": "슈퍼 소셜 호스텔, 깨끗한 객실, 좋은 이벤트.",
+          "score": "8.4",
+          "country": "United Kingdom",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "그리고 주방에는 모든 시설이 완비되어 있습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "매트리스가 완전 편하고,",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "전체적으로 제가 적극 추천하는 환상적인 호스텔입니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "방은 정말 좋고 넓고 편안했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "아츠 팩토리 바이 노매즈 (Arts Factory by Nomads)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/arts-factory-lodge/hotel/byron-bay-au.html?cid=1925461",
+      "walkMin": 9,
+      "score": 7.4,
+      "reviewCount": 399,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 7.4,
+      "img": "//pix8.agoda.net/hotelImages/236081/0/d088203f2b666165c528f12eb981808c.jpeg?ce=0",
+      "distanceNote": "약 741.47m · Byron Beach Station 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 399건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.4</b> · 실제 투숙객 리뷰 399건 기반.",
+      "reviews": [
+        {
+          "text": "그녀는 절대적인 슈퍼스타이며 호스텔의 진정한 신용입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "리셉션에서 Max에게 대규모로 외치는 소리.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "직원은 훌륭하고 손님에게 흘러갑니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "솔직히 이 호스텔을 충분히 추천할 수 없습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "시설도 좋고, 욕실도 깨끗하고, 객실도 좋습니다.",
+          "score": "7.6",
+          "country": "New Zealand",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-23T15:20:22.948Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
