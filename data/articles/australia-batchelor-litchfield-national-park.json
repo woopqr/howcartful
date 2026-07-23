@@ -1,0 +1,308 @@
+{
+  "slug": "australia-batchelor-litchfield-national-park",
+  "title": "바첼러 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 바첼러 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "바첼러",
+  "cityId": 17890,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "바첼러",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/674971175.jpg?k=e78df25b3efc6266fcb8290c9d9d764469c9fa0f2816d154096cfabfa5b52192&o=",
+  "heroAlt": "바첼러",
+  "heroTitleHtml": "바첼러 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Litchfield Tropical Stay</b>(평점 9.5·리뷰 435건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Litchfield Tropical Stay</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/674971175.jpg?k=e78df25b3efc6266fcb8290c9d9d764469c9fa0f2816d154096cfabfa5b52192&o=",
+  "outroTitle": "🌙 바첼러, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 바첼러 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 바첼러 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Litchfield Tropical Stay",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/litchfield-tropical-stay/hotel/all/batchelor-litchfield-national-park-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 435,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/674971175.jpg?k=e78df25b3efc6266fcb8290c9d9d764469c9fa0f2816d154096cfabfa5b52192&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 435건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 435건 기반.",
+      "reviews": [
+        {
+          "text": "개인 수영장은 다윈의 열기 속에서 매우 상쾌했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "캐빈도 매우 깨끗하고 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "좋은 냄새가 나는 세면도구를 갖춘 넓은 욕실.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "야외 공간이 너무 좋았고 Lorna는 훌륭한 호스트입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "환대해 주신 Lorna와 Lee에게 감사드립니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "리치필드 아웃백 리조트 (Litchfield Outback Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/litchfield-motel/hotel/batchelor-litchfield-national-park-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 301,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/hotelImages/49799/-1/57ba1fe075618df573fd58a5eb08cc8a.jpg?ca=15&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 301건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 301건 기반.",
+      "reviews": [
+        {
+          "text": "국립공원 가장자리에 위치한 아름다운 호텔입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "좋은 크기의 TV와 훌륭한 크기의 냉장고, 매우 효율적인 AC.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "멋진 수영장 전망을 갖춘 편안하게 개조된 객실입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "직원들은 훌륭했고 음식은 예상외로 맛있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "이 지역 주변의 잘 관리된 호텔 중 하나입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Litchfield Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/litchfield-tourist-park_2/hotel/all/batchelor-litchfield-national-park-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 718,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/331931262.jpg?k=2783fc1d95661fddf76f0f9bd4a5f5e6d13c22d2593716ee8830dd3260f218f8&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 718건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 718건 기반.",
+      "reviews": [
+        {
+          "text": "시설은 흠잡을 데 없이 깨끗했고 객실도 마찬가지였습니다.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 깨끗했습니다.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 깔끔한 객실이 마음에 듭니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치, 가족 친화적",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 숙박",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Batchelor Funny Bunny Farm",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/batchelor-butterfly-farm/hotel/all/batchelor-litchfield-national-park-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.7,
+      "reviewCount": 152,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/298608500.jpg?k=45437e9d62c7411f572b61c7579534e4339f8db58faf0abd955c6cad9011ad6b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 152건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 152건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Banyan Tree Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/banyan-tree-holiday-park/hotel/all/batchelor-litchfield-national-park-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.7,
+      "reviewCount": 45,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 4.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/700286989.jpg?k=6d74db70d3e9ced1097c4fe0dfd4504e355a74872288fa4b7fc5d918ce232cba&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 45건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 45건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Batchelor Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/batchelor-holiday-park/hotel/all/batchelor-litchfield-national-park-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.5,
+      "reviewCount": 346,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 29만원",
+      "valueIndex": 4.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/83728654.jpg?k=0fab53008da516ae8cc235bc0437f0275f857870a322f6d9bc501c4928d94ddb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 29만원",
+        "📝 리뷰 346건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 346건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 평화롭고 아름다운 숙박을 정말 즐겼습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 환경에 완벽하게 관리된 실내 욕실이 있는 객실입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 매우 깨끗하고 모든 시설을 갖춘 객실을 가지고 있었습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "무성한 녹색 환경에 있는 깨끗한 독립형 객실입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 도움이 되었습니다.",
+          "score": "9.2",
+          "country": "Deutschland",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-23T16:51:28.760Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}

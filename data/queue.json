@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-23T15:19:44.610Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 7,
+  "lastPostedAt": "2026-07-23T16:51:09.436Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 8,
   "postedDate": "2026-07-23",
   "queue": [
-    "australia-bamerra",
     "australia-babinda",
     "australia-barwon-heads",
-    "australia-byron-bay"
+    "australia-byron-bay",
+    "australia-batchelor-litchfield-national-park"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 225,
+    "cityIndex": 226,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -274,6 +274,7 @@
     "australia-milton",
     "australia-barossa-valley",
     "australia-barongagarok",
-    "australia-baruga"
+    "australia-baruga",
+    "australia-bamerra"
   ]
 }
