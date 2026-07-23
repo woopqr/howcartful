@@ -1,0 +1,387 @@
+{
+  "slug": "australia-barwon-heads",
+  "title": "바원 헤드 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 바원 헤드 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "바원 헤드",
+  "cityId": 512808,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "바원 헤드",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/404820498.jpg?k=9537159ee9b3c13550563880033dd4b63abdaf5894bf19bde6005765a78f303d&o=",
+  "heroAlt": "바원 헤드",
+  "heroTitleHtml": "바원 헤드 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>13th Beach Golf Lodges</b>(평점 9.3·리뷰 523건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>13th Beach Golf Lodges</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/404820498.jpg?k=9537159ee9b3c13550563880033dd4b63abdaf5894bf19bde6005765a78f303d&o=",
+  "outroTitle": "🌙 바원 헤드, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 바원 헤드 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 바원 헤드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "13th Beach Golf Lodges",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/13th-beach-golf-lodges/hotel/all/connewarre-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 523,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/404820498.jpg?k=9537159ee9b3c13550563880033dd4b63abdaf5894bf19bde6005765a78f303d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 523건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 523건 기반.",
+      "reviews": [
+        {
+          "text": "리셉션 직원부터 친절하고 관대합니다.",
+          "score": "8.8",
+          "country": "호주",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원, 방은 적당한 크기로 깨끗하고 조용했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "킹베드는 매우 편안했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 사실이 아닐 정도로 너무 좋았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "평화롭고 해변까지 도보로 짧은 거리에 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "리버사이드 오션 그로브 모텔 스위트 앤 홀리데이 캐빈 (Riverside Ocean Grove Motel Suites and Holiday Cabins)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/riverside-ocean-grove-motel-suites-and-holiday-cabins/hotel/ocean-grove-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 335,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/857462/0/2062a77d7299f3fd7da0a22ccbb307e1.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 335건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 335건 기반.",
+      "reviews": [
+        {
+          "text": "편안하고 편리하며 비용 친화적이었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 전략적으로 좋은 위치에 있음",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "침실 2개 구성이 마음에 들었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "샤워실 수압이 정말 좋았습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "도착하자마자 친절한 직원들이 저를 반겨주었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "바르원 헤드 리조트 앳 13th 비치 (Barwon Heads Resort at 13th Beach)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/barwon-heads-resort-at-13th-beach/hotel/connewarre-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 529,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/335137/0/5562ac93f09e2a88af26e29f2ae50292.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 529건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 529건 기반.",
+      "reviews": [
+        {
+          "text": "방은 매우 넓고 깨끗하며 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "머물기 좋은 멋진 숙소, 매우 깨끗하고 잘 갖춰져 있음",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 것을 갖춘 현대적인 럭셔리 아파트입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 고객 서비스로 환상적인 숙박을 즐겨보세요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "아파트는 넓고 시설이 잘 갖춰져 있으며 매우 깨끗했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Terrace Lofts Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/terrace-lofts-apartments/hotel/all/ocean-grove-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 197,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/385379695.jpg?k=321ec26205dda2d1c4fd09404714d3c00477a8e2f0d7610855f871f968f4156f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 197건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 197건 기반.",
+      "reviews": [
+        {
+          "text": "욕실은 새롭게 개조되었으며 아름답습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "위치는 완벽에 가깝습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "장소 자체는 사랑스럽습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Barwon Heads Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/barwon-heads-hotel/hotel/all/barwon-heads-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 37,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/387177372.jpg?k=2e7853b96fbfd0a36dd4a9f0972a4bc87a0bd592eb2d898f47f0dbf0b3d580c3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 37건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 37건 기반.",
+      "reviews": [
+        {
+          "text": "길 건너편에 해변이 있고 호텔은 훌륭한 장소입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "매우 편안한 방과 침대.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "해변으로 가는 방법은 길만 건너면 됩니다.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "하룻밤 묵었는데 정말 편안했어요.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "시골 펍/호텔 숙박의 모든 매력을 누리세요.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Fairy Wren Cottage Country to Coast Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/fairy-wren-cottage-country-to-coast-retreat/hotel/all/wallington-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 85,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/141781967.jpg?k=bc71bb93f6a3f4799ddbeb0ba412e3acd46a9a04161382d2c670c2e33d03a2c8&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 85건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 85건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Oakdene Vineyards Guesthouse",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oakdene-vineyards-guesthouse/hotel/all/wallington-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 235,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/111098298.jpg?k=414b7321a0b3a9363ee7fde3618344c7becc76b6e15b4dbce095a76b067346ed&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 235건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 235건 기반.",
+      "reviews": [
+        {
+          "text": "숙소에서의 숙박은 훌륭했습니다!",
+          "score": "10",
+          "country": "India",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 협조적이었습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "유럽식 아침 식사가 제공되는 것이 정말 좋았습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "방 안의 모든 것이 완벽하게 청소되어 있습니다.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "시도해 볼 가치가 있고 머물면서 마실 수도 있습니다.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-23T13:03:37.832Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
