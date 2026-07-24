@@ -1,0 +1,360 @@
+{
+  "slug": "australia-balnaing",
+  "title": "발나링 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 발나링 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "발나링",
+  "cityId": 712230,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "발나링",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/486906991.jpg?k=95f53c8d3194bf2d6c714ae1dd6abea1e57a882eeaa931345b053c9fa5d75775&o=",
+  "heroAlt": "발나링",
+  "heroTitleHtml": "발나링 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Peppercorn Cottage at Treetops Red Hill</b>(평점 9.6·리뷰 50건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Hastings 도보 11분</b>의 <b>Sanctuary Inn on Westernport</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/486906991.jpg?k=95f53c8d3194bf2d6c714ae1dd6abea1e57a882eeaa931345b053c9fa5d75775&o=",
+  "outroTitle": "🌙 발나링, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 발나링 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 발나링 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Peppercorn Cottage at Treetops Red Hill",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/peppercorn-cottage-at-treetops-red-hill/hotel/all/mornington-peninsula-au.html?cid=1925461",
+      "walkMin": 85,
+      "score": 9.6,
+      "reviewCount": 50,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/486906991.jpg?k=95f53c8d3194bf2d6c714ae1dd6abea1e57a882eeaa931345b053c9fa5d75775&o=",
+      "distanceNote": "약 6799.18m · Safety Beach 인근",
+      "metaTags": [
+        "📝 리뷰 50건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 50건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Iluka Retreat Glamping Village",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/iluka-retreat/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 71,
+      "score": 8.5,
+      "reviewCount": 426,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/73203810/0/a8f3717490851ebcecfefbf979edd573.jpg?ce=2",
+      "distanceNote": "약 5648m · Flinders Beach 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 426건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 426건 기반.",
+      "reviews": [
+        {
+          "text": "장소의 모든 것이 마음에 들었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "즐거운 바베큐 시간을 보내고 호수로 걸어갔습니다! 놀라운!",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "환경은 매우 훌륭하게 표현되었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "최고였습니다 직원들이 친절하고 협조적이었습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "우리를 돌봐주셔서 정말 감사합니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "하이드웨이 앳 레드 힐 호텔 (Hideaways at Red Hill Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hideaways-at-red-hill-hotel/hotel/mornington-peninsula-au.html?cid=1925461",
+      "walkMin": 94,
+      "score": 8.8,
+      "reviewCount": 43,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/hotelImages/337034/-1/0b3b9d348dc87a02c1d694965105b377.jpg?ca=13&ce=1",
+      "distanceNote": "약 7496.2m · Safety Beach 인근",
+      "metaTags": [
+        "📝 리뷰 43건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 43건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "발나링 빌리지 모토 인 (Balnarring Village Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/balnarring-village-motor-inn_4/hotel/balnarring-au.html?cid=1925461",
+      "walkMin": 76,
+      "score": 8,
+      "reviewCount": 426,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/518508/0/e020bced08c4aea80254c1159ff40528.jpeg?ce=0",
+      "distanceNote": "약 6100.85m · Morradoo Station 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 426건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 426건 기반.",
+      "reviews": [
+        {
+          "text": "매우 친절하고 도움이 되는 직원.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "방은 거대하고 넓습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 곳.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "확실히 다시 머물 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Sanctuary Inn on Westernport",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sanctuary-inn-on-westernport/hotel/all/mornington-peninsula-au.html?cid=1925461",
+      "walkMin": 11,
+      "score": 8.7,
+      "reviewCount": 652,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/282538326.jpg?k=b19f5edb1ee2ff1956791f7e4572321c52a27b03098b2050dc59cba83bf08cf8&o=",
+      "distanceNote": "약 903.87m · Hastings 인근",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 652건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 652건 기반.",
+      "reviews": [
+        {
+          "text": "장식과 가구는 새롭고 현대적이며 품질이 뛰어났습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "방은 아름답고 깨끗하며 거대하고 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "Sanctuary Inn에서의 좋은 숙박, 침대는 편안했습니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "지금까지 모텔에서 본 침대 중 최고였어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "에어컨 기능이 완벽하게 작동됩니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "폴페로 빌라 (Polperro Villas)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/polperro-villas/hotel/mornington-peninsula-au.html?cid=1925461",
+      "walkMin": 91,
+      "score": 9.3,
+      "reviewCount": 137,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 47만원",
+      "valueIndex": 5.2,
+      "img": "//pix8.agoda.net/hotelImages/583/583817/583817_16020312270039597867.jpg?ca=6&ce=1",
+      "distanceNote": "약 7305.31m · Safety Beach 인근",
+      "metaTags": [
+        "💰 약 47만원",
+        "📝 리뷰 137건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 137건 기반.",
+      "reviews": [
+        {
+          "text": "정말 즐거운 시간을 보냈고 꼭 다시 예약하고 싶습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "내가 머물렀던 가장 놀라운 호텔은 매우 낭만적이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "그리고 Red Hill 와이너리 한가운데에 있는 편리한 위치입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "사우나가 있는 빌라 4에 묵었는데 완전 추천합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "빌라 4에서의 이틀간 숙박은 정말 훌륭했습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Jackalope Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/jackalope-hotel-h75092549/hotel/all/mornington-peninsula-au.html?cid=1925461",
+      "walkMin": 89,
+      "score": 9.1,
+      "reviewCount": 131,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 55만원",
+      "valueIndex": 5.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/673237860.jpg?k=c5d44598244de2158f1c1f962d4596d48999577dc2d85287ce5bc8e7c355e01c&o=",
+      "distanceNote": "약 7091.56m · Bittern 인근",
+      "metaTags": [
+        "💰 약 55만원",
+        "📝 리뷰 131건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 131건 기반.",
+      "reviews": [
+        {
+          "text": "특별한 날을 축하하기 위해 머물기에 완벽한 장소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "잘못할 수는 없습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 훌륭했습니다.",
+          "score": "8",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "완벽한 작은 휴양지",
+          "score": "8",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-24T01:03:51.360Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
