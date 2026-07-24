@@ -1,0 +1,425 @@
+{
+  "slug": "australia-badger-creek",
+  "title": "배저 크리크 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 배저 크리크 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "배저 크리크",
+  "cityId": 710204,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "배저 크리크",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/462034217.jpg?k=77f545ab2eb3719aad1e52d24b837d8f6c937e4e81ffea21608b486807317c26&o=",
+  "heroAlt": "배저 크리크",
+  "heroTitleHtml": "배저 크리크 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Yarra Gables</b>(평점 9.4·리뷰 964건·1박 약 20만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Yarra Gables</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/462034217.jpg?k=77f545ab2eb3719aad1e52d24b837d8f6c937e4e81ffea21608b486807317c26&o=",
+  "outroTitle": "🌙 배저 크리크, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 배저 크리크 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 배저 크리크 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Yarra Gables",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/yarra-gables/hotel/all/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 964,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 20만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/462034217.jpg?k=77f545ab2eb3719aad1e52d24b837d8f6c937e4e81ffea21608b486807317c26&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 964건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 964건 기반.",
+      "reviews": [
+        {
+          "text": "방은 매우 넓었고 잠을 잘 수 있는 더블 침대 2개가 있었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "이것은 야라 밸리(Yarra Valley)를 탐험하기 위해 제가 가장 좋아하는 새로운 기지입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "Ralph는 머무는 동안 매우 친절하고 도움이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "우리를 위해 초크도 냉장고에 남아 있었어요",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "이 모텔을 진심으로 추천합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "오스카스 온 더 야라 (Oscar’s On The Yarra)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oscar-s-on-the-yarra/hotel/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 708,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/548969/0/e125fa2064f7e561192ce645dcc9c35c.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 708건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 708건 기반.",
+      "reviews": [
+        {
+          "text": "그들은 다양한 현지 와인을 보유하고 있습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "그것은 우리가 다시 머무르는 것을 방해하지 않을 것입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "우리는 Oscar's On The Yarra에서의 숙박을 정말 좋아했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 맛있었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "이 가족 운영 사업은 완벽합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "히얼스빌 호텔 (Healesville Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/healesville-hotel/hotel/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 586,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/301506/-1/c3cfe0160c62ccfe6ea9e45ed4a71086.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 586건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 586건 기반.",
+      "reviews": [
+        {
+          "text": "서비스와 시설은 절대적으로 일류였습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "Healesville 중심부에 위치한 아름답고 오래된 호텔입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "호텔은 우리가 도착하자마자 깨끗하고 아늑한 유아용 침대를 제공했습니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "캐릭터가 있는 멋진 컨트리 호텔",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "다시 올 것이다. 방은 매우 깨끗하고 사랑스러웠다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Healesville Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/healesville-motor-inn/hotel/all/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 934,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/289172/0/eeb3a324f1305e18c650f1e112cd26c9.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 934건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 934건 기반.",
+      "reviews": [
+        {
+          "text": "다음 눈 여행에서도 곧 다시 머물 예정입니다:)",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 깨끗하고 정돈되어 있으며 유지 관리가 매우 좋습니다.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편리하며 위치가 좋습니다.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗했고 새것처럼 보였습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 깨끗하며 반짝입니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2022.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "BIG4 Yarra Valley Park Lane Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-yarra-valley-park-lane-holiday-park_7/hotel/all/badger-creek-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 838,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/689899127.jpg?k=c1d2c85685d7de3b4c2521a57517a89a93b48b17cce96ad2ec8074e9d7149d0f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 838건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 838건 기반.",
+      "reviews": [
+        {
+          "text": "아이들과 함께 머물기 좋은 곳",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "히터가 있어서 내부가 따뜻하고 맛있습니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "아름다운 부지와 시설.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗했습니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "훌륭했습니다. 작지만 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "셍추어리 파크 코티지 (Sanctuary Park Cottages)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sanctuary-park-cottages/hotel/badger-creek-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 78,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/264162/0/981642acccedc60670b9a726ce5ad258.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 78건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 78건 기반.",
+      "reviews": [
+        {
+          "text": "평범한 도시의 광기에서 벗어나 휴식을 취할 수 있는 최고의 장소입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "도시 생활에서 벗어나 완벽한 휴양지",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "아름다운 코티지 스타일의 집.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "The Old Mechanics",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-old-mechanics/hotel/all/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 506,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/77855675.jpg?k=b8d8be7b41ae0dd4d8c2a0fb7b2a6325760c51dae47261e5dcce4caf9599f1d7&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 506건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 506건 기반.",
+      "reviews": [
+        {
+          "text": "Healesville에 있다면 머물기에 가장 좋은 곳입니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "매우 편안하고 카페와 레스토랑에 가기에 가깝습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "필요한 경우 요리를 할 수 있도록 냄비와 프라이팬이 제공되었습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "우선 직원분들이 너무 친절하시고 좋은 분들이십니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "The staff is amazing and very helpful.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-24T15:56:23.932Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
