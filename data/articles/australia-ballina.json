@@ -1,0 +1,411 @@
+{
+  "slug": "australia-ballina",
+  "title": "발리나 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 발리나 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "lennox-head-au",
+  "cityName": "발리나",
+  "cityId": 17889,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "발리나",
+  "heroImg": "https://pix8.agoda.net/hotelImages/561924/0/503cbb42a01dbc22ceb137f58a6d3d0b.jpeg",
+  "heroAlt": "발리나",
+  "heroTitleHtml": "발리나 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>리플렉션 홀리데이 파크 레녹스 헤드</b>(평점 8.4·리뷰 243건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>리플렉션 홀리데이 파크 레녹스 헤드</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/561924/0/503cbb42a01dbc22ceb137f58a6d3d0b.jpeg",
+  "outroTitle": "🌙 발리나, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 발리나 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 발리나 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "리플렉션 홀리데이 파크 레녹스 헤드 (Reflections Holiday Parks Lennox Head)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/reflections-holiday-parks-lennox-head_2/hotel/lennox-head-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 243,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/561924/0/503cbb42a01dbc22ceb137f58a6d3d0b.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 243건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 243건 기반.",
+      "reviews": [
+        {
+          "text": "티트리 호수와 해변이 있는 훌륭한 위치.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "숙소는 훌륭했습니다!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "최고의 글램핑",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "더 쿠바나 발리나 (The Cubana Ballina)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-cubana-ballina/hotel/ballina-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 996,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/11071075/-1/a37486599398d08d060b97f3a5f78284.jpg?ca=12&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 996건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 996건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 수영장을 즐겼고 수영장 타월에 감사했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "아름답게 개조된 객실로 복고풍의 시크함을 느낄 수 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "모든 장소와 식당이 현지에 있으므로 적극 권장합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 서비스와 숙박할만한 가치가 있는 곳",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "분위기가 훌륭하고 적극 추천하며 다시 머물고 싶습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "레녹스 비치 리조트 (Lennox Beach Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lennox-beach-resort/hotel/lennox-head-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 815,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/255647/-1/6dbcda5c5a530610998e109b7cd20846.jpg?ca=11&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 815건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 815건 기반.",
+      "reviews": [
+        {
+          "text": "아름다운 수영장/스파 공간과 스팀룸도 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "숙소는 넓고 편안하며 깨끗했으며 전망이 훌륭했습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "구내 레스토랑은 저녁 식사에 편리하고 맛있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "레녹스의 훌륭한 위치, 모든 곳까지 도보로 5분 거리.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 환영하고 친절했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Ballina Beach Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ballina-beach-resort_10/hotel/all/ballina-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 849,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 20만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/274106611.jpg?k=a6cf3121232842418638cdadf34de74ed8315d4ece5cc59108f1ee5edcc0f23b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 849건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 849건 기반.",
+      "reviews": [
+        {
+          "text": "거기에 머무는 것을 좋아했고, 훌륭한 시설을 갖춘 넓은 객실..",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "우리 방 근처에 차를 주차할 수도 있다는 점이 너무 좋았어요!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 시설을 갖춘 넓은 객실..",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절했고 체크인도 쉬웠습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "발리나 비치 리조트는 편안하고 깨끗했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "리플렉션 홀리데이 파크 쇼즈 베이 (Reflections Holiday Parks Shaws Bay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/reflections-holiday-parks-shaws-bay/hotel/ballina-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 243,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/561918/0/adb35ad5b2a0d16cd3cbb2909929fe05.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 243건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 243건 기반.",
+      "reviews": [
+        {
+          "text": "매우 편안한 숙박",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "나는 거기의 숙박을 강력히 추천할 수 있다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "물 위의 멋진 오두막.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Ballina Palms Boutique Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ballina-palms-boutique-motel/hotel/all/ballina-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 1200,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/551541017.jpg?k=5d9c745fcdce21843aad020ae46742099497a78a8353143ebcd39590d7b6d9f3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 1,200건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,200건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 이 숙소에 정말 만족했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 훌륭하고 넓은 객실, 깨끗하고 깔끔함",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 넓은 훌륭한 방.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "이 모텔의 모든 것이 완벽합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "사용하지 않았지만 수영장 공간도 멋져 보입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "발리나 트래블러 로지 (Ballina Travellers Lodge)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ballina-travellers-lodge_2/hotel/ballina-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 302,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/1161030/0/55b49b4dc74156d0b7cd1ee63b27d874.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 302건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 302건 기반.",
+      "reviews": [
+        {
+          "text": "친절한 직원, 깨끗한 객실, 전기차 충전!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "머물기 좋은 숙소 - 모든 것에 매우 가깝습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "확실히 다시 사용할 것입니다",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-24T09:28:58.710Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-24T07:04:19.384Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 3,
+  "lastPostedAt": "2026-07-24T09:28:23.754Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 4,
   "postedDate": "2026-07-24",
   "queue": [
-    "australia-barham",
     "australia-balnaing",
     "australia-bald-hills",
-    "australia-balla"
+    "australia-balla",
+    "australia-ballina"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 232,
+    "cityIndex": 233,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -281,6 +281,7 @@
     "australia-barwon-heads",
     "australia-byron-bay",
     "australia-batchelor-litchfield-national-park",
-    "australia-bateau-bay"
+    "australia-bateau-bay",
+    "australia-barham"
   ]
 }
