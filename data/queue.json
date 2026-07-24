@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-24T01:03:23.597Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 1,
+  "lastPostedAt": "2026-07-24T04:25:00.384Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 2,
   "postedDate": "2026-07-24",
   "queue": [
-    "australia-batchelor-litchfield-national-park",
     "australia-bateau-bay",
     "australia-barham",
-    "australia-balnaing"
+    "australia-balnaing",
+    "australia-bald-hills"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 230,
+    "cityIndex": 231,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -279,6 +279,7 @@
     "australia-bamerra",
     "australia-babinda",
     "australia-barwon-heads",
-    "australia-byron-bay"
+    "australia-byron-bay",
+    "australia-batchelor-litchfield-national-park"
   ]
 }
