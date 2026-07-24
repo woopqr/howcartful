@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-24T12:49:20.682Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 6,
+  "lastPostedAt": "2026-07-24T14:28:12.848Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 7,
   "postedDate": "2026-07-24",
   "queue": [
-    "australia-balla",
     "australia-ballina",
     "australia-barrin",
-    "australia-barrington"
+    "australia-barrington",
+    "australia-bathurst"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 236,
+    "cityIndex": 237,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -285,6 +285,7 @@
     "australia-bateau-bay",
     "australia-barham",
     "australia-balnaing",
-    "australia-bald-hills"
+    "australia-bald-hills",
+    "australia-balla"
   ]
 }

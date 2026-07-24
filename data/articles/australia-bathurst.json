@@ -1,0 +1,433 @@
+{
+  "slug": "australia-bathurst",
+  "title": "배서스트 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 배서스트 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "bathurst-au",
+  "cityName": "배서스트",
+  "cityId": 17891,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "배서스트",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/275060883.jpg?k=b0390dfc0e8476fec3a686cb65be0f3a98681275e537765ca36ef5b3fefb2d2c&o=",
+  "heroAlt": "배서스트",
+  "heroTitleHtml": "배서스트 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>The Victoria Hotel Bathurst</b>(평점 9·리뷰 1,008건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>The Victoria Hotel Bathurst</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/275060883.jpg?k=b0390dfc0e8476fec3a686cb65be0f3a98681275e537765ca36ef5b3fefb2d2c&o=",
+  "outroTitle": "🌙 배서스트, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 배서스트 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 배서스트 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Victoria Hotel Bathurst",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-victoria-bathurst/hotel/bathurst-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 1008,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/275060883.jpg?k=b0390dfc0e8476fec3a686cb65be0f3a98681275e537765ca36ef5b3fefb2d2c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 1,008건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,008건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 사랑스럽고 방과 침대는 편안했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 계속해서 뛰어난 업무를 수행합니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "우리에게 필요한 모든 것.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "방과 장식은 매우 독특합니다. 우리는 그것을 좋아했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "욕실은 깨끗했고 필수품이 제공되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Knickerbocker Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/knickerbocker-hotel/hotel/all/bathurst-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 1112,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/436667925.jpg?k=7b6c44427ee2c132152ff5e5b948fbad12c1c0f7f7bfa789a3baef64ede33e20&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 1,112건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,112건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 위치, 탁월한 청결도, 넓은 객실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "환상적인 숙박..사랑스러운 직원..훌륭한 아침 식사와 저녁 식사",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "조식이 제공되어 맛있었음",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "체크인이 쉬웠고 직원들이 친절했어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 조용했어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Comfort Inn Serenity Bathurst",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/havannah-accommodation/hotel/bathurst-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 140,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/608036/-1/7c988b5810e78aed0a0b6723bda3ad01.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 140건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 140건 기반.",
+      "reviews": [
+        {
+          "text": "내가 필요로 했던 배서스트 전시장과 가깝습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원들과 함께 머물기 좋은 곳.",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "침대는 매우 편안하고 깨끗하며 장식도 멋집니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 깔끔하며 매우 편안한 침대",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "많이 마음에 들었고 또 묵을 거예요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Bathurst Explorers Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bathurst-explorers-motel/hotel/bathurst-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 138,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/443191/-1/0e8e549d0f793a6a99e83f7aae20ea03.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 138건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 138건 기반.",
+      "reviews": [
+        {
+          "text": "방은 잘 관리되고 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "업무 때문에 집을 비울 때 여기에 묵었습니다. 편안하고 깨끗합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "아름답고 깨끗한 시트와 수건.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안해서 하룻밤 묵기엔..",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "비즈니스로 며칠 밤 동안 편안하게",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Best Western Coachman's Inn Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-coachman-s-inn-motel_3/hotel/bathurst-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 352,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/257545978.jpg?k=d1e49b2da59a144e51ed5eeaa2808453da06d91dbf5a1a4f9d4d30686bb3a594&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 352건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 352건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 편안한 침대, 훌륭한 숙박!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "멋지고 크고 깨끗한 객실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 예산 숙박 시설",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Panorama Bathurst",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/panorama-bathurst/hotel/bathurst-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 67,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/43366638/0/84decb20cad1e6a4f019cfafb5e4363a.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 67건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 67건 기반.",
+      "reviews": [
+        {
+          "text": "모텔에 붙어 있는 레스토랑/펍에서 저녁을 먹었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 안전한 주차장, 깨끗하고 큰 객실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "토요일 밤에 훌륭한 음식과 라이브 음악을 즐겼습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치와 쉽고 편리한 숙박!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "꼭 다시 여기에 머물 것입니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Heritage Inn Bathurst",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bathurst-heritage-motor-inn/hotel/bathurst-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 1336,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/338361173.jpg?k=58ebdb118894fb4c74e4115cbbaf9f92ea5635798e668806739084d1fd087395&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 1,336건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 1,336건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 위치, 매우 깨끗하고 협조적이며 친절한 직원.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 Bathurst의 Heritage Inn에서 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "기대 이상의 주방이 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "우리가 한동안 기억할 수 있는 최고의 호텔/모텔 침대입니다.",
+          "score": "9.2",
+          "country": "New Zealand",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "우리는 꼭 다시 이 여관에 와서 묵을 것입니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-24T14:28:43.631Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
