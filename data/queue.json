@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-24T15:55:45.844Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 8,
+  "lastPostedAt": "2026-07-24T17:26:59.501Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 9,
   "postedDate": "2026-07-24",
   "queue": [
-    "australia-barrin",
     "australia-barrington",
     "australia-bathurst",
-    "australia-badger-creek"
+    "australia-badger-creek",
+    "australia-battlero"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 238,
+    "cityIndex": 239,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -287,6 +287,7 @@
     "australia-balnaing",
     "australia-bald-hills",
     "australia-balla",
-    "australia-ballina"
+    "australia-ballina",
+    "australia-barrin"
   ]
 }

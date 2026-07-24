@@ -1,0 +1,375 @@
+{
+  "slug": "australia-battlero",
+  "title": "배틀로 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 배틀로 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "tumut-au",
+  "cityName": "배틀로",
+  "cityId": 717038,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "배틀로",
+  "heroImg": "https://pix8.agoda.net/hotelImages/297172/-1/f69d85595de447454d5e08e6cc9b2af1.jpg?ca=10&ce=1",
+  "heroAlt": "배틀로",
+  "heroTitleHtml": "배틀로 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>메리베일 모텔</b>(평점 8.9·리뷰 139건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>메리베일 모텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/297172/-1/f69d85595de447454d5e08e6cc9b2af1.jpg?ca=10&ce=1",
+  "outroTitle": "🌙 배틀로, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 배틀로 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 배틀로 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "메리베일 모텔 (Merivale Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/merivale-motel/hotel/tumut-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 139,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/297172/-1/f69d85595de447454d5e08e6cc9b2af1.jpg?ca=10&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 139건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 139건 기반.",
+      "reviews": [
+        {
+          "text": "다음에 Tumut에 오면 꼭 다시 머물 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "조용하고 편안하며 흠집 하나 없는 모텔.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 중심 위치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "돌아올 예정입니다. 간이 주방이 매우 좋습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "방은 좋은 가격에 일을 해냈습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "The Middle",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-middle/hotel/all/tumut-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 155,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 8만원",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/507531839.jpg?k=f43abc5343cb1c0a985115a7ae77657ae8cdb65c49cf4f2c8a27239e107320c4&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 155건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 155건 기반.",
+      "reviews": [
+        {
+          "text": "매우 편안한 방이 돌아올 것입니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Wynyardway",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wynyardway/hotel/all/tumut-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 133,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/655940322.jpg?k=1692bfe5f51a356966354522a2dc22969b1f25d8600e994f341f586044c15217&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 133건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 133건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Tumut Valley Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tumut-valley-motel/hotel/tumut-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 104,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/564564/0/09aae5513325437d7d473542124997c3.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 104건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 104건 기반.",
+      "reviews": [
+        {
+          "text": "따뜻한 환영, 깨끗하고 깔끔함, 문제 없음",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "객실은 매우 넓고 깨끗합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "주말 휴가를 보내기에 완벽한 호텔입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭하고 비용 효과적인 숙소입니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Amaroo Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/amaroo-motel/hotel/all/tumut-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 476,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/hotelImages/271578/0/e29fb37cf88728ebbda625c7b4d6f76b.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 476건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 476건 기반.",
+      "reviews": [
+        {
+          "text": "관리가 잘된 모텔이고 주인도 친절했습니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "시내와 가까워지고 싶다면 머물기에 좋은 곳",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 잘 관리되어 있으며 시내 중심가 근처에 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "멋진 숙박",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "Tumut을 빠르게 방문하기에 완벽합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Tumut Farrington Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-motel-farrington/hotel/tumut-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 45,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/503295804.jpg?k=7fde24fa65b04dffb8c6947e0f1e48de3f1be6cd4be2a5b276caeb8d7ac42aea&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 45건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 45건 기반.",
+      "reviews": [
+        {
+          "text": "장소는 깨끗하고 직원들은 도움이 되고 친절합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "나는 소란에 빠질 때마다 여기에 머물기로 결정했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗한 수건이 부드럽고 린넨과 베개가 훌륭합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "늦은 체크인을 도와주는 리셉션의 좋은 서비스",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "우리는 이 시설을 꼭 추천하고 싶습니다! 감사해요!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Elms Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/elms-motor-inn/hotel/all/tumut-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 31,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/512090855.jpg?k=0270c00f05e417b7c1adea304ebe7a707ebc5847f5ba274fae2fe770f879497c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 31건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 31건 기반.",
+      "reviews": [
+        {
+          "text": "이 숙소에 매우 만족합니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "시내에서 이벤트를 즐기기에 좋은 위치",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "좋고 따뜻하고 편안한 침대",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "다시 머물 것이다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-24T17:27:25.033Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
