@@ -1,0 +1,360 @@
+{
+  "slug": "australia-bermagui",
+  "title": "버마구이 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 버마구이 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "bermagui-au",
+  "cityName": "버마구이",
+  "cityId": 390157,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "버마구이",
+  "heroImg": "https://pix8.agoda.net/hotelImages/978/978978/978978_16112207000048958692.jpg?ca=6&ce=1",
+  "heroAlt": "버마구이",
+  "heroTitleHtml": "버마구이 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>인제니아 홀리데이 오션 레이크</b>(평점 8.9·리뷰 901건·1박 약 9만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>인제니아 홀리데이 오션 레이크</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/978/978978/978978_16112207000048958692.jpg?ca=6&ce=1",
+  "outroTitle": "🌙 버마구이, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 버마구이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 버마구이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "인제니아 홀리데이 오션 레이크 (Ingenia Holidays Ocean Lake)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ingenia-holidays-ocean-lake/hotel/bermagui-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 901,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/978/978978/978978_16112207000048958692.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 901건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 901건 기반.",
+      "reviews": [
+        {
+          "text": "기회가 있다면 꼭 다시 여기에 머물고 싶습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 훌륭한 객실과 시설, 훌륭한 직원",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "편안하고 깨끗하며 데크에서의 아름다운 전망과 멋진 일몰!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "하룻밤 머물기에 완벽한 장소이며 정말 좋은 가치입니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "호수 전망이 훌륭하고 깨끗하고 편안합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "리플렉션 홀리데이 파크 버마구이 (Reflections Holiday Parks Bermagui)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/reflections-holiday-parks-bermagui/hotel/bermagui-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 302,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/746404/0/9b25d203973a98d01dd90978be040870.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 302건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 302건 기반.",
+      "reviews": [
+        {
+          "text": "전망과 캐빈은 훌륭했습니다",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "위치가 좋고 깨끗하고 조용해요!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 멋진 캐빈",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "확실히 다시 예약할 거예요",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "BIG4 Wallaga Lake Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-wallaga-lake-holiday-park-h24514742/hotel/bermagui-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 505,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/655622364.jpg?k=a92ff3fcb2df0d11e260b3d289504fa58eb8e267fa9a8183b06f07909b2123d3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 505건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 505건 기반.",
+      "reviews": [
+        {
+          "text": "매우 편안하고 호수 바로 위에 있는 사랑스럽고 조용한 숙소",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "전반적으로, 좋은 숙박이었고 우리는 그것을 즐겼습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "나이스 스테이 바이 더 레이크",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Harbourview House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/harbourview-house/hotel/all/bermagui-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 1108,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/504583512.jpg?k=5524fbb4babb34b1f55777259f502eeb1b3c7b9211efd209886300b416d8216e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 1,108건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 1,108건 기반.",
+      "reviews": [
+        {
+          "text": "여기서 하룻밤 더 머물고 싶었습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "이 모텔을 충분히 추천할 수 없습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "정말 아름다운 방이군요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 깔끔하며 발코니에 바베큐 시설이 있습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "이곳은 완벽했어요.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Bermagui Beach Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bermagui-beach-hotel/hotel/bermagui-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 1640,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/617075493.jpg?k=af82c4009eafdb22fcaf4628699fafd6ef110af57834d35c9909174771cd2a12&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 1,640건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 1,640건 기반.",
+      "reviews": [
+        {
+          "text": "객실은 세련되게 개조되었으며 직원들은 매우 친절했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "놀라운 전망을 갖춘 환상적인 객실",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "지역을 탐험하는 경우 위치를 좋아하십시오.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "정말 모든 것이 완벽했어요!",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "그리고 정말 도움이 되는 직원들도 있어요",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Bermagui Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bermagui-motor-inn/hotel/all/bermagui-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 870,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/68146194.jpg?k=8e7d11062baad8d7f4c1949ac32abd58d7f8d030026f422729da422e49f57dec&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 870건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 870건 기반.",
+      "reviews": [
+        {
+          "text": "위치가 훌륭하고, 직원들이 매우 친절합니다.",
+          "score": "10",
+          "country": "Úc",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "위치가 훌륭하고 마을의 모든 곳과 가깝습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 친절하며 편안한 방!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 객실과 친절한 직원",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "귀하의 편의를 위해 이곳을 적극 권장합니다.",
+          "score": "10",
+          "country": "Úc",
+          "date": "2026.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-25T11:36:15.087Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}
