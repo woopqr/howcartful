@@ -1,0 +1,214 @@
+{
+  "slug": "australia-berrra",
+  "title": "버라 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 버라 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "버라",
+  "cityId": 512885,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "버라",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/147723556.jpg?k=70dbc06f45823ef1579cac377afd423fe91911c6bfb64b0701a8d86e7cecc748&o=",
+  "heroAlt": "버라",
+  "heroTitleHtml": "버라 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Paxton Square Cottages</b>(평점 9.2·리뷰 1,654건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Paxton Square Cottages</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/147723556.jpg?k=70dbc06f45823ef1579cac377afd423fe91911c6bfb64b0701a8d86e7cecc748&o=",
+  "outroTitle": "🌙 버라, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 버라 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 버라 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Paxton Square Cottages",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/paxton-square-cottages_2/hotel/all/burra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 1654,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/147723556.jpg?k=70dbc06f45823ef1579cac377afd423fe91911c6bfb64b0701a8d86e7cecc748&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,654건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 1,654건 기반.",
+      "reviews": [
+        {
+          "text": "우리가 오랫동안 머물렀던 최고의 숙박 중 하나입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "Burra의 Paxton Cottages에서의 최근 숙박은 매우 즐거웠습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "우리가 묵었던 침실 1개 코티지는 훌륭했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "그리고 숙소 자체도 너무 좋았어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙소와 훌륭한 위치.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Burra Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/burra-motor-inn/hotel/all/burra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 603,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/290078/0/5285e8b06aa8244a9ed59f2f83c7acc8.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 603건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 603건 기반.",
+      "reviews": [
+        {
+          "text": "모터인에 기대되는 모든 시설.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "방은 우리 숙박에 충분했습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 깔끔하고 편안한 모텔.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "이 모터인을 추천하고 싶습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 깔끔하고 편안해요",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Burra Hills",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/burra-hills/hotel/all/burra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 47,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/697584113.jpg?k=381b047de58d39372a89adb3dff518dce7fb35e7af2a659beccdbee2a3f95e69&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 47건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 47건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "The Smelters Home Burra",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-smelters-home-burra/hotel/all/burra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 64,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/680499505.jpg?k=1249a4e3f4cd9fa3426cb5d3a962cd532876035469e5a7a159de65ecac107faa&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 64건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 64건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Copper Mine Cottage",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/copper-mine-cottage/hotel/all/burra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 78,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 28만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/577457660.jpg?k=99a7d99c3bbd3c53b3c7f4e7d6e69a8b1cb6bc2525923ba6f2a7922b9a2da416&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 28만원",
+        "📝 리뷰 78건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 78건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-25T08:36:01.308Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}
