@@ -1,0 +1,404 @@
+{
+  "slug": "australia-berrinong",
+  "title": "버닌용 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 버닌용 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "ballarat-au",
+  "cityName": "버닌용",
+  "cityId": 512773,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "버닌용",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/60272067.jpg?k=c974503d8454d0bc3e07ee02efe3be779d083392c52361264c4d2c3713363948&o=",
+  "heroAlt": "버닌용",
+  "heroTitleHtml": "버닌용 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Begonia City Motor Inn</b>(평점 8.7·리뷰 1,886건·1박 약 11만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Begonia City Motor Inn</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/60272067.jpg?k=c974503d8454d0bc3e07ee02efe3be779d083392c52361264c4d2c3713363948&o=",
+  "outroTitle": "🌙 버닌용, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 버닌용 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 버닌용 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Begonia City Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/begonia-city-motor-inn/hotel/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 1886,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/60272067.jpg?k=c974503d8454d0bc3e07ee02efe3be779d083392c52361264c4d2c3713363948&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 1,886건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,886건 기반.",
+      "reviews": [
+        {
+          "text": "숙소는 넓고 3명이 사용할 수 있는 침대 2개가 있었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "우수한 시설과 서비스에 비해 가격이 경쟁력이 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "오래된 모텔이지만 깨끗하고 편안합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "사무실에서 사용 가능한 식기 및 그릇,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "샤워기 수압이 정말 환상적이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Sovereign Views Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sovereign-views-apartments_2/hotel/all/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 94,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/887035733.jpg?k=74ff973ebb76719249a9bec7f9d829c15a5729cd3f41a35ddb3b80f65c6109b9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 94건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 94건 기반.",
+      "reviews": [
+        {
+          "text": "완비된 주방, 적당한 크기의 욕실, 난방이 되는 방이 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "주요 도로와 가깝지만 교통 소음은 없습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "아늑한 분위기의 가족 친화적인 숙소",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "아름다운 2베드룸 아파트.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "돈의 가치, 모든 센트의 가치! 추천합니다!",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "메인 리드 밸러랫 모텔 (Main Lead Ballarat Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/comfort-inn-main-lead/hotel/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 375,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/89513/0/c93ca39c3f41e8757b720ac76d7b9d7d.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 375건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 375건 기반.",
+      "reviews": [
+        {
+          "text": "멋지고 조용하며 깨끗하고 넓은 객실과 편안한 침대.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "욕실은 크기가 크고 수압이 훌륭합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "놀라운 위치, 주차 공간이 넉넉한 조용한 장소.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "풀 보너스가 추가된 훌륭한 가치 옵션입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "크고 따뜻한 방과 친절한 직원이 80년대 스타일을 보완했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "The Menzies Ballarat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quality-inn-suites-the-menzies_3/hotel/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 57,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/72072936/0/6536272b0fca74be3adcd38956ac4780.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 57건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 57건 기반.",
+      "reviews": [
+        {
+          "text": "여행자에게 좋은 위치, 깨끗하고 넓은 방!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "이곳에 4번 묵었습니다. 너무 좋아요 다음 주에 다시 올게요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "좋은 가격의 편안한 침대.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "대중교통으로 쉽게 걸어갈 수 있습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "길 위의 사랑스러운 호텔과 아름다운 음식.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "바클리 모토롯지 (Barkly Motorlodge)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/barkly-motorlodge/hotel/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 1459,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/411/411891/411891_15063009070031235993.jpg?ca=4&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 1,459건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 1,459건 기반.",
+      "reviews": [
+        {
+          "text": "필요한 모든 것과 전자레인지가 있어 매우 깨끗합니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "방은 작은 아이가 펼칠 수 있을 만큼 공간이 넓었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "편리한 위치도 눈에 띄는 특징 중 하나였습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고, 침대는 매우 편안했습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "싱글 침대와 퀸 사이즈 침대가 있어 매우 편안합니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "소베레이그 파크 모터 인 (Sovereign Park Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sovereign-park-motor-inn/hotel/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 2155,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/49994/-1/e36435c0ee292e0ea16b1aecdf751742.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 2,155건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 2,155건 기반.",
+      "reviews": [
+        {
+          "text": "숙소는 깨끗하고 깔끔하며 넓고 주차가 용이했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "환상적인 온수 수영장과 게임룸.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "구내 레스토랑과 펍은 다른 곳에서는 예약하지 마세요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "이곳에는 가족과 함께 할 수 있는 시설이 많이 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "솔로 휴가를 위해 소버린 파크를 예약하게 되어 정말 기쁩니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Dunstans Guest House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dunstans-guest-house/hotel/all/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 118,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/563926455.jpg?k=2253c0e518f0e2eb0ee43eb2ba3622e19331e97e60ff7fc117224933eedbf0e5&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 118건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 118건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-25T06:37:42.166Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
