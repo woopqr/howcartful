@@ -1,0 +1,375 @@
+{
+  "slug": "australia-buckland",
+  "title": "버클랜드 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 버클랜드 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "triabunna-au",
+  "cityName": "버클랜드",
+  "cityId": 512731,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "버클랜드",
+  "heroImg": "https://pix8.agoda.net/hotelImages/78200615/0/9837e26438ba08df98105e941ebe4eb6.jpg?ce=2",
+  "heroAlt": "버클랜드",
+  "heroTitleHtml": "버클랜드 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Tandara Motor Inn</b>(평점 8.1·리뷰 110건·1박 약 10만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Tandara Motor Inn</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/78200615/0/9837e26438ba08df98105e941ebe4eb6.jpg?ce=2",
+  "outroTitle": "🌙 버클랜드, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 버클랜드 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 버클랜드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Tandara Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tandara-motor-inn/hotel/triabunna-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 110,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/78200615/0/9837e26438ba08df98105e941ebe4eb6.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 110건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 110건 기반.",
+      "reviews": [
+        {
+          "text": "아침식사도 방에 있어서 놀랐어요.",
+          "score": "10",
+          "country": "Italien",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "마리아 섬으로 페리를 타는 경우 머물기에 완벽한 장소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "방은 적당한 크기였으며 훌륭한 가치를 제공했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안한 구식 매력입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "특히 바에서 훌륭한 직원.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Beezneez B&B",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beezneez-b-b/hotel/all/orford-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 147,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/122736572.jpg?k=262f5c3244c454bf9909338a407c0b96a475912dfd5fec27483963a561aaa2f9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 147건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 147건 기반.",
+      "reviews": [
+        {
+          "text": "Mary는 인내심을 가지고 질문에 답변하는 따뜻한 호스트입니다.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "가벼운 아침 식사는 훌륭하고 맛있습니다.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "적극 권장됩니다.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Eastcoaster Tasmania",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/eastcoaster-tasmania-h3123224/hotel/triabunna-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 1182,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/669869727.jpg?k=010144f364718aa62ffae314d1ae66953183d73258f4908af8c9716e67efe4e2&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 1,182건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,182건 기반.",
+      "reviews": [
+        {
+          "text": "바다의 놀라운 전망을 갖춘 정말 아름다운 리조트입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 객실과 훌륭한 직원.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "레스토랑은 맛있는 음식과 아름다운 전망을 가지고 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "아이들은 수영장을 좋아했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "가격도 비싸지 않아서 가성비 좋은 거래요.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Orford Blue Waters Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/orford-blue-waters-hotel/hotel/all/orford-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 1502,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/123283168.jpg?k=5c0d34a1bca23f0ffd0d88e86b6f810ed6cd8260da6b471a3866047c06078469&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 1,502건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,502건 기반.",
+      "reviews": [
+        {
+          "text": "그들은 방을 업그레이드하고 환상적인 일을 하고 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "인근의 모든 관광 명소에 쉽게 접근 가능",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭하고 깔끔한 객실, 편안한 침대, 좋은 욕실 등",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "하지만 그 외에는 좋고 깨끗하며 매우 넓습니다.",
+          "score": "7.2",
+          "country": "澳洲",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "위치는 좋았고, 식당이나 관광지와도 가깝습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Triabunna Cabin & Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/triabunna-cabin-caravan-park/hotel/all/triabunna-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 750,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/hotelImages/567998/0/816de709a3ecc707a73c94ef2513dcc2.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 750건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 750건 기반.",
+      "reviews": [
+        {
+          "text": "나는이 캐러밴 파크를 모든 사람에게 강력히 추천합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "마리아섬 부두까지 걸어서 갈 수 있는 좋은 위치",
+          "score": "8.4",
+          "country": "中國香港",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "완비된 주방, 무료 주차, 마리아 아일랜드에 가기에 좋음",
+          "score": "7.6",
+          "country": "中國香港",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "마리아일랜드 방문을 위한 탁월한 위치",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "확실히 추천합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Rostrevor Pickers Cottage",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rostrevor-pickers-cottage/hotel/all/triabunna-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 44,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/683783808.jpg?k=2efc0cf766b27abc49bdcf45875485127ab0f2a77f8ccb548503faa3370d9fbb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 44건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 44건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "The Storekeeper's",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-storekeeper-s/hotel/all/buckland-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 127,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/89838927.jpg?k=946458400a2ddf99fe0ec9113a2aa774f052dbddd9a164139cf5ac0dd8d8d2c2&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 127건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 127건 기반.",
+      "reviews": [
+        {
+          "text": "집에서 멀리 떨어져 있는 정말 아늑하고 시설이 잘 갖춰진 집입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "정말 아름답습니다",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "좋은 분위기.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-25T17:32:02.404Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
