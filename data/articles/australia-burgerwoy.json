@@ -1,0 +1,412 @@
+{
+  "slug": "australia-burgerwoy",
+  "title": "버지워이 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 버지워이 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "버지워이",
+  "cityId": 141452,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "버지워이",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/137279654.jpg?k=31174867c1cb895b9324969ed6a95f6efbc34d3e18ff107716006f6eee822e17&o=",
+  "heroAlt": "버지워이",
+  "heroTitleHtml": "버지워이 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Hibiscus Lakeside Motel</b>(평점 8.7·리뷰 61건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Hibiscus Lakeside Motel</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/137279654.jpg?k=31174867c1cb895b9324969ed6a95f6efbc34d3e18ff107716006f6eee822e17&o=",
+  "outroTitle": "🌙 버지워이, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 버지워이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 버지워이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Hibiscus Lakeside Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hibiscus-lakeside-motel/hotel/all/budgewoi-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 61,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/137279654.jpg?k=31174867c1cb895b9324969ed6a95f6efbc34d3e18ff107716006f6eee822e17&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 61건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 61건 기반.",
+      "reviews": [
+        {
+          "text": "욕실은 최근에 개조되었으며 아름다웠습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 3인 가족이 히비스커스 호반에서 즐거운 시간을 보냈습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "무료 차와 커피, 욕실용품이 제공됩니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "우리 4명이 이 방에 편안하게 들어갈 수 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 방과 친절한 직원.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "레이크 헤이븐 모터 인 앤 팜스 레스토랑 (Lake Haven Motor Inn and Palms Restaurant)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lake-haven-motor-inn-and-palms-restaurant/hotel/gorokan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 455,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/289542/0/11eaa71bc52cee0eb42cb81cac818a0d.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 455건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 455건 기반.",
+      "reviews": [
+        {
+          "text": "레스토랑의 음식은 A1으로 훌륭했고 가격도 저렴했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "우리 요구 사항의 중심에 위치하는 훌륭한 위치입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "저희 가족은 4인 가족이 이용하기 딱 좋았습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 훌륭하고 공간이 충분하며 편안했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "나는 확실히 다시 머물 것이다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "The Beachcomber Hotel & Resort, an Ascend Collection Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beachcomber-hotel/hotel/toukley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 1850,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/315850/-1/20a03c85b5d7f88d3ca957bc82ea3155.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 1,850건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,850건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 위치, 훌륭한 전망, 훌륭한 음식!",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "아래층에는 레스토랑과 바, 해변 전망대가 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "- 아름답게 개조된 부티크 호텔입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "가장 까다로운 여행자를 위한 매우 편안한 침대.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "객실이나 시설은 깨끗했어요!",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "풀먼 마젠타 쇼어 리조트 (Pullman Magenta Shores Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pullman-magenta-shores-resort/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 119,
+      "score": 8.3,
+      "reviewCount": 319,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/439297817.jpg?k=802f7bd3fbb175c7c33172fbb95207e8b85061ba6fbdde57c3d568537f493cfc&o=",
+      "distanceNote": "약 9527.76m · Wyong 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 319건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 319건 기반.",
+      "reviews": [
+        {
+          "text": "단지 내에 아름다운 골프 코스가 있습니다.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "해변까지 산책하기 좋습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 즐거운 시간을 보냈습니다. 평화롭고 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 훌륭한 음식을 제공하는 레스토랑에서 식사를 했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "가족/그룹에 5~6명이 있으면 정말 잘 작동했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "브릿지 뷰 모텔 (Bridge View Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bridge-view-motel/hotel/gorokan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 272,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/754056154.jpg?k=771375d47fd64b6b8a088c55d99a0798079ea9a8986dbecfbdf5696d6566c72d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 272건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 272건 기반.",
+      "reviews": [
+        {
+          "text": "방은 오래됐지만 깨끗하고 조용했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "체크인은 쉬웠고 직원들은 항상 환영해주었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "예산이 부족하다면 이곳이 머물 곳입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "수영장을 매우 편안하게 즐겼습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "이 장소를 좋아합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Toukley Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/toukley-motel/hotel/all/toukley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 31,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/369110523.jpg?k=a627c0e2a5425ce384f79602d3b41909453d30bd445b06196cd54d332e51d4cd&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 31건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 31건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 매우 도움이 되었고 우리는 그곳에서 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "다음에 투클리에 오면 또 묵을 예정입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "직원들은 도움이 되고 친절합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "숙박은 쉽고 평온했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "The Lake Guesthouse",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-lake-guesthouse/hotel/all/budgewoi-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 73,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/187017252.jpg?k=8300aec03c425debd0e40b8b2f4d1b65734eb0075834d5e439522a47d2ac20b8&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 73건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 73건 기반.",
+      "reviews": [
+        {
+          "text": "사랑스럽고 평화로운 장소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-25T12:38:52.218Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
