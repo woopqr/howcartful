@@ -1,0 +1,315 @@
+{
+  "slug": "australia-barregura",
+  "title": "버레구라 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 버레구라 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "birregurra-au",
+  "cityName": "버레구라",
+  "cityId": 710275,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "버레구라",
+  "heroImg": "https://pix8.agoda.net/hotelImages/621027/0/7d78276de4588834ae704ea5eac7d403.jpeg?ce=0",
+  "heroAlt": "버레구라",
+  "heroTitleHtml": "버레구라 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>버틀러 게스트하우스</b>(평점 9·리뷰 197건·1박 약 18만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Colac Railway Station 도보 7분</b>의 <b>Colac Central Motel</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/621027/0/7d78276de4588834ae704ea5eac7d403.jpeg?ce=0",
+  "outroTitle": "🌙 버레구라, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 버레구라 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 버레구라 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "버틀러 게스트하우스 (Butlers Guesthouse)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/butler-house/hotel/birregurra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 197,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/621027/0/7d78276de4588834ae704ea5eac7d403.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 197건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 197건 기반.",
+      "reviews": [
+        {
+          "text": "매력적이고 깨끗하며 친절한 호스트!",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "정말 대단한 발견이네요.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "호스트는 따뜻하고 친절합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "그리고 아침 식사는 훌륭했습니다.",
+          "score": "8",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "적극 추천합니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Lake Colac Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lake-colac-holiday-park/hotel/all/colac-au.html?cid=1925461",
+      "walkMin": 18,
+      "score": 9.2,
+      "reviewCount": 30,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/890266685.jpg?k=293882423df3b034cd5c5f5df5e5118a823c5075a893126e195433a86ba23441&o=",
+      "distanceNote": "약 1461.85m · Colac Railway Station 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 30건",
+        "⭐ 1성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 30건 기반.",
+      "reviews": [
+        {
+          "text": "누구에게나 100% 추천하고 싶습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "정말 좋은 숙박이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "호수뷰가 너무 아름다웠어요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "정말 멋진 광경이에요!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Baronga Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/baronga-motor-inn_24/hotel/all/colac-au.html?cid=1925461",
+      "walkMin": 12,
+      "score": 8.7,
+      "reviewCount": 45,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/560781053.jpg?k=196b12cb7ebb878b2a2aab19fee26ef967c32088908f251ede409a81883a047b&o=",
+      "distanceNote": "약 970.45m · Colac Railway Station 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 45건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 45건 기반.",
+      "reviews": [
+        {
+          "text": "시설도 좋고 가격대비 좋은 넓은 방!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "숙소는 깨끗하고 조용했으며, 음식과 음료를 산책할 수 있는 거리가 멀지 않았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "직원들이 친절해서 전반적으로 정말 놀라운 곳이었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "이 모텔은 완벽한 장소에 위치해 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "Colac에있을 때 머무를 유일한 장소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Colac Mid City Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/colac-mid-city-motor-inn_2/hotel/colac-au.html?cid=1925461",
+      "walkMin": 10,
+      "score": 8.4,
+      "reviewCount": 35,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/62530928/0/0c680f2a3b8a25bce264f2f180a1c35e.jpeg?ce=0",
+      "distanceNote": "약 773.99m · Colac Railway Station 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 35건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 35건 기반.",
+      "reviews": [
+        {
+          "text": "호텔은 매우 깨끗했고, 서비스도 훌륭했습니다.",
+          "score": "10",
+          "country": "澳大利亚",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "모든 작은 추가 사항이 이곳을 완벽한 숙박 장소로 만들어줍니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "침대는 매우 편안하고 샤워는 뜨겁고 깨끗합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "직원이 매우 친절하고 음식점 이용이 편리합니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 시설에서 하룻밤을 묵었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Colac Central Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/colac-central-motel/hotel/all/colac-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 8.4,
+      "reviewCount": 40,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/560809549.jpg?k=8c5a0264f9889b49b69af458143ad3ff6c0f6c9fc08d8c8d20a6300d781f867d&o=",
+      "distanceNote": "약 558.15m · Colac Railway Station 인근",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 40건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 40건 기반.",
+      "reviews": [
+        {
+          "text": "침대는 매우 편안하며 고품질의 침대 린넨을 갖추고 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "가족에게도 좋습니다.. 깨끗하고 모든 것에 가깝습니다 👌👌",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "정말 놀라운 곳이고 깨끗해요😍😍",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭하고 편안하고 따뜻한 호텔.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "특별한",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-25T10:13:48.779Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}
