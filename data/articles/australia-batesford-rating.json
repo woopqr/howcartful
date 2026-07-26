@@ -1,0 +1,385 @@
+{
+  "slug": "australia-batesford-rating",
+  "angle": "rating",
+  "angleAdj": "평점 높은",
+  "lang": "ko-kr",
+  "citySlug": "geelong-au",
+  "cityName": "베이츠포드",
+  "cityId": 142874,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "베이츠포드",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/285897349.jpg?k=3ffd6ae7374f0df3d50d9870246d805223835733c163ef8b23172b268aeac395&o=",
+  "heroAlt": "베이츠포드",
+  "heroSub": "실제 아고다 리뷰로 베이츠포드의 평점 높은 숙소를 추렸습니다",
+  "verdictHtml": "평점 높은 기준 1순위는 <b>Quartz Cottage Geelong</b>입니다 (평점 9.7·리뷰 206건·1박 약 20만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/285897349.jpg?k=3ffd6ae7374f0df3d50d9870246d805223835733c163ef8b23172b268aeac395&o=",
+  "outroTitle": "🌙 베이츠포드, 평점 높은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 베이츠포드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Quartz Cottage Geelong",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quartz-cottage-geelong/hotel/all/geelong-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 9.7,
+      "reviewCount": 206,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/285897349.jpg?k=3ffd6ae7374f0df3d50d9870246d805223835733c163ef8b23172b268aeac395&o=",
+      "distanceNote": "약 459.75m · South Geelong Station 인근",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 206건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 206건 기반.",
+      "reviews": [
+        {
+          "text": "Good location",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "발원 밸리 로지 (Barwon Valley Lodge)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/barwon-valley-lodge/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 24,
+      "score": 9.5,
+      "reviewCount": 287,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/461/461753/461753_15051513100027515921.jpg?ca=4&ce=1",
+      "distanceNote": "약 1887.66m · South Geelong Station 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 287건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 287건 기반.",
+      "reviews": [
+        {
+          "text": "Great kitchen and generous amenities.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "One of our best accommodations.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Outstanding accommodation",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Excellent wifi and parking space.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "It far exceeded our expectations.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "퀘스트 질롱 센트럴 (Quest Geelong Central)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quest-geelong-central/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 9.3,
+      "reviewCount": 1846,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/495007441.jpg?k=948cedef3741abd2c369aa9ad917ade16edfc7edbfbdabf77ab1499526d70777&o=",
+      "distanceNote": "약 555.92m · Geelong Train Station 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 1,846건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 1,846건 기반.",
+      "reviews": [
+        {
+          "text": "Lovely staff, great facilities, and reasonable price.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Room is spotless, big, new, everything you need.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Location to GMHBA was perfect and in walking distance.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "No complaints, hotel is very new with a mini balcony.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "We really appreciated the secure parking under the building",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Modern apartment in Central Geelong!",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/modern-apartment-in-central-geelong/hotel/all/geelong-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 9.3,
+      "reviewCount": 181,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/610123216.jpg?k=fa1f2ea3aaa120737fdc69913578f960800b1726a82f47b92428e0847ac5579c&o=",
+      "distanceNote": "약 449.97m · Geelong Train Station 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 181건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 181건 기반.",
+      "reviews": [
+        {
+          "text": "Very clean, free parking, quiet and close to shops.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Clean and convenient",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "홀리데이 인 앤 스위트 질롱 바이 IHG (Holiday Inn & Suites Geelong By IHG)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/holiday-inn-hotel-and-suites-geelong/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 4,
+      "score": 9.2,
+      "reviewCount": 4510,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/492969302.jpg?k=c7180af05ee81b086efd117a92ccfea4264466af21e43ab13ba80831fabb41b5&o=",
+      "distanceNote": "약 355.61m · Geelong Train Station 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 4,510건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 4,510건 기반.",
+      "reviews": [
+        {
+          "text": "Loved the indoor pool, gym, and restaurant on-site!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Very cosy, clean and big room that come with free breakfast.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Location is great and parking included, gorgeous facilities.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Stayed for over a month and it was a fantastic stay!!",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The bathroom was also spacious and the shower was huge,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Bayside Geelong Hotel & Apartments an Ascend Collection Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quality-hotel-bayside-geelong/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 14,
+      "score": 9.2,
+      "reviewCount": 549,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/868106539.jpg?k=45c41aebf7b713d5fd9ee197685282d8e1985844f54bb68c5e1131d2624204d5&o=",
+      "distanceNote": "약 1119.85m · Geelong Train Station 인근",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 549건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 549건 기반.",
+      "reviews": [
+        {
+          "text": "Large shower and more room than normal.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Good pool and sauna and gym.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Newly renovated and well appointed room.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Amenities and decor are superb.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Friendly staff.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "The Downtown house in Geelong",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/downtown-house/hotel/all/geelong-au.html?cid=1925461",
+      "walkMin": 8,
+      "score": 9.2,
+      "reviewCount": 162,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/511718658.jpg?k=c42b6482383559b9250bc2912ebb9f24d5480d58248119e2577f0f74b9294e73&o=",
+      "distanceNote": "약 641.8m · South Geelong Station 인근",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 162건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 162건 기반.",
+      "reviews": [
+        {
+          "text": "Very modern, clean and beautiful house.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Modern and beautiful house",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Beautiful place",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "rating",
+    "base": "australia-batesford",
+    "count": 7,
+    "builtAt": "2026-07-26T14:58:33.297Z"
+  }
+}

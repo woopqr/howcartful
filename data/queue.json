@@ -1,14 +1,19 @@
 {
-  "lastPostedAt": "2026-07-26T13:54:28.180Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 7,
+  "lastPostedAt": "2026-07-26T14:58:33.303Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 8,
   "postedDate": "2026-07-26",
   "queue": [
-    "australia-bega",
     "australia-benalla",
     "australia-berry",
-    "australia-batesford"
+    "australia-batesford",
+    "australia-batesford-rating",
+    "australia-batesford-station",
+    "australia-batesford-budget",
+    "australia-batesford-premium",
+    "australia-batesford-star4",
+    "australia-batesford-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -306,6 +311,7 @@
     "australia-buckland",
     "australia-bundernun",
     "australia-bundaberg",
-    "australia-bunbury"
+    "australia-bunbury",
+    "australia-bega"
   ]
 }

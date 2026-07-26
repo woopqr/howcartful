@@ -1,0 +1,441 @@
+{
+  "slug": "australia-batesford-reviewed",
+  "angle": "reviewed",
+  "angleAdj": "후기 많은",
+  "lang": "ko-kr",
+  "citySlug": "geelong-au",
+  "cityName": "베이츠포드",
+  "cityId": 142874,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "베이츠포드",
+  "heroImg": "https://pix8.agoda.net/hotelImages/11734/-1/a347f04e5bbf180edaa860e75dd9da50.jpg?ca=10&ce=1",
+  "heroAlt": "베이츠포드",
+  "heroSub": "실제 아고다 리뷰로 베이츠포드의 리뷰 많은 숙소를 추렸습니다",
+  "verdictHtml": "리뷰 많은 기준 1순위는 <b>릿지스 질롱</b>입니다 (평점 8.1·리뷰 4,650건·1박 약 14만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/11734/-1/a347f04e5bbf180edaa860e75dd9da50.jpg?ca=10&ce=1",
+  "outroTitle": "🌙 베이츠포드, 리뷰 많은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 베이츠포드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "릿지스 질롱 (Rydges Geelong)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rydges-geelong/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 9,
+      "score": 8.1,
+      "reviewCount": 4650,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/11734/-1/a347f04e5bbf180edaa860e75dd9da50.jpg?ca=10&ce=1",
+      "distanceNote": "약 688.66m · Geelong Train Station 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 4,650건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 4,650건 기반.",
+      "reviews": [
+        {
+          "text": "Perfect location for people coming to watch the afl.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Super comfy bed, pillows and great towels and shower.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Meticulously clean spacious room.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The meals at the restaurant were a good size and delicious.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "He made our check in a smooth process.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "홀리데이 인 앤 스위트 질롱 바이 IHG (Holiday Inn & Suites Geelong By IHG)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/holiday-inn-hotel-and-suites-geelong/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 4,
+      "score": 9.2,
+      "reviewCount": 4510,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/492969302.jpg?k=c7180af05ee81b086efd117a92ccfea4264466af21e43ab13ba80831fabb41b5&o=",
+      "distanceNote": "약 355.61m · Geelong Train Station 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 4,510건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 4,510건 기반.",
+      "reviews": [
+        {
+          "text": "Loved the indoor pool, gym, and restaurant on-site!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Very cosy, clean and big room that come with free breakfast.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Location is great and parking included, gorgeous facilities.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Stayed for over a month and it was a fantastic stay!!",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The bathroom was also spacious and the shower was huge,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "파크사이드 모텔 질롱 (Parkside Motel Geelong)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/parkside-motel-belmont/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 19,
+      "score": 8.6,
+      "reviewCount": 2956,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/478507/-1/e4826da876a07fbfad2155821f7a483d.jpg?ca=9&ce=1",
+      "distanceNote": "약 1547.23m · South Geelong Station 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 2,956건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 2,956건 기반.",
+      "reviews": [
+        {
+          "text": "Clean rooms, ample parking and a very friendly host.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Convenient location and large hotel area",
+          "score": "8",
+          "country": "Malaysia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The room i stayed was cozy and kept me peaceful at night.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "This is a great motel with good CP value.",
+          "score": "9.2",
+          "country": "澳洲",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Stayed there a few times and has been fantastic always!!!",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "디스커버리 파크 - 질롱 (Discovery Parks - Geelong)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/discovery-parks-geelong/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 26,
+      "score": 9,
+      "reviewCount": 2568,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.6,
+      "img": "//pix8.agoda.net/hotelImages/181937/-1/0da7fc84788212050e2354b90c8d0fe4.jpg?ca=19&ce=1",
+      "distanceNote": "약 2069.82m · South Geelong Station 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 2,568건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,568건 기반.",
+      "reviews": [
+        {
+          "text": "Spent 2 weeks in the cabin with the spa was just perfect!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "There was a living room and a full functioning kitchen.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Great place nice n clean indoor swimming good for kid",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The cafe on site was amazing too - best bacon and eggs!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "the check in is also very fast and convenient.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Tasman Holiday Parks - Geelong",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/riverglen-holiday-park/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 25,
+      "score": 8.3,
+      "reviewCount": 2556,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/447261017.jpg?k=23c706c0be0faaa3b6e44631436eea5956378cfbba56b6dda62c824a0f497926&o=",
+      "distanceNote": "약 1982.55m · South Geelong Station 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 2,556건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 2,556건 기반.",
+      "reviews": [
+        {
+          "text": "Simply fantastic staff, cabins and amenities!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Our room had a spa which was a nice surprise.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "The staff are amazing, lots of activities for the children.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Nice stay in geelong.recommend everyone.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Fantastic!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "퀘스트 질롱 센트럴 (Quest Geelong Central)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quest-geelong-central/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 9.3,
+      "reviewCount": 1846,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/495007441.jpg?k=948cedef3741abd2c369aa9ad917ade16edfc7edbfbdabf77ab1499526d70777&o=",
+      "distanceNote": "약 555.92m · Geelong Train Station 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 1,846건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 1,846건 기반.",
+      "reviews": [
+        {
+          "text": "Lovely staff, great facilities, and reasonable price.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Room is spotless, big, new, everything you need.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Location to GMHBA was perfect and in walking distance.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "No complaints, hotel is very new with a mini balcony.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "We really appreciated the secure parking under the building",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Oaks R Suites Geelong",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ritz-hotel-geelong/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 12,
+      "score": 9,
+      "reviewCount": 1675,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/67709276/0/108b62b1961b5cb8e85d4a706e87aac8.jpg?ce=0",
+      "distanceNote": "약 974.1m · Geelong Train Station 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 1,675건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,675건 기반.",
+      "reviews": [
+        {
+          "text": "Perfect game day hotel",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "5 or less min walk to Westfield or the beach.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The rooms are a generous size and well appointed.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "We were in a 2 bedroom apartment with ocean view on level 7.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Love the view there.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "reviewed",
+    "base": "australia-batesford",
+    "count": 7,
+    "builtAt": "2026-07-26T14:58:33.298Z"
+  }
+}
