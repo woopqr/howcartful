@@ -1,0 +1,438 @@
+{
+  "slug": "australia-bunbury",
+  "title": "번버리 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 번버리 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "bunbury-au",
+  "cityName": "번버리",
+  "cityId": 3666,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "번버리",
+  "heroImg": "https://pix8.agoda.net/hotelImages/78959731/0/29e6a6b9f1cbf7a1bea02658791f98c3.jpg?ce=2",
+  "heroAlt": "번버리",
+  "heroTitleHtml": "번버리 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>The Burlington Hotel</b>(평점 9·리뷰 103건·1박 약 9만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Bunbury 도보 15분</b>의 <b>번버리 아파트먼트 모텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/78959731/0/29e6a6b9f1cbf7a1bea02658791f98c3.jpg?ce=2",
+  "outroTitle": "🌙 번버리, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 번버리 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 번버리 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Burlington Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-burlington-hotel/hotel/bunbury-au.html?cid=1925461",
+      "walkMin": 39,
+      "score": 9,
+      "reviewCount": 103,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/78959731/0/29e6a6b9f1cbf7a1bea02658791f98c3.jpg?ce=2",
+      "distanceNote": "약 3141.39m · Bunbury 인근",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 103건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 103건 기반.",
+      "reviews": [
+        {
+          "text": "최근 개조 공사를 거쳐 이곳은 머물기에 쾌적한 곳이 되었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "위치는 깨끗하며 모든 사람에게 추천합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "중앙 위치, 훌륭한 시설, 친절한 직원.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "놀라운 놀라운 샤워 시설 및 욕실 시설",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "어떤 결점도 없으며 반드시 다시 머물 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Australind Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/australind-tourist-park/hotel/australind-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 1113,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/87998706/0/62db36e51be63dfd15c8eece5cfaf76a.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 1,113건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 1,113건 기반.",
+      "reviews": [
+        {
+          "text": "이번에는 새로운 샬레 중 하나에 있으며 매우 행복합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "도시에서 매우 가까운 멋진 위치에 있었습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "시설은 훌륭하고 샬레는 화려합니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "방문하러 온 오두막과 물총새가 마음에 들었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "덤불을 통해 골프장으로 다시 들어오는 멋진 캐빈.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "The Parade Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-parade-hotel/hotel/all/bunbury-au.html?cid=1925461",
+      "walkMin": 23,
+      "score": 8.2,
+      "reviewCount": 960,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/218457561.jpg?k=bd198df527ab73e564b7595c361ed41ceb13177dd9afe585c50fded8cb497bd5&o=",
+      "distanceNote": "약 1816.54m · Bunbury 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 960건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 960건 기반.",
+      "reviews": [
+        {
+          "text": "모든 면에서 우수한 호텔, 위치, 아름다운 전망",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "나는 The Parade Hotel에서의 숙박에 매우 만족했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 막판에 아주 좋은 가격에 방을 예약했어요!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "구내 레스토랑에서는 맛있는 식사를 제공하며,",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "그리고 전망은 놀라웠습니다. 편안한 숙박을 즐기기에 완벽했습니다!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Telperio - Guest suite max 4 Guests",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/telperio-guest-suite-max-4-guests/hotel/all/bunbury-au.html?cid=1925461",
+      "walkMin": 96,
+      "score": 9.6,
+      "reviewCount": 137,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/219009527.jpg?k=5e415d404799d8f5a7160c800c803f3339f8a0c471d4d3c8178d6fafa188c97c&o=",
+      "distanceNote": "약 7706.68m · Bunbury 인근",
+      "metaTags": [
+        "📝 리뷰 137건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 137건 기반.",
+      "reviews": [
+        {
+          "text": "정말 최고의 서비스와 위치입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "나는 실망하지 않을 이곳의 숙박을 추천할 수 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "친절한 호스트와 매우 깨끗합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "위치는 해변과 마을 사이에 적합했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "해변과 가까운 번버리 근처의 편안한 숙소",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Peppermint Grove Beach Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/peppermint-grove-beach-holiday-park/hotel/all/bunbury-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 248,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/187021825.jpg?k=8f66c7937b7c93822db0b9e97594a50aab779ad7a3fcb55212a7dfbbc806bfc9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 248건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 248건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 기본 숙소",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "정말 훌륭한 숙소",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "우리는 6박을 묵었고 즐거운 시간을 보냈습니다.",
+          "score": "8",
+          "country": "Nederland",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "좋은 곳 멋진 해변",
+          "score": "7.6",
+          "country": "Canada",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "품질 대비 좋은 가격.",
+          "score": "8",
+          "country": "Nederland",
+          "date": "2024.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "번버리 호텔 쿰바나 베이 (Bunbury Hotel Koombana Bay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bunbury-hotel-koombana-bay_2/hotel/bunbury-au.html?cid=1925461",
+      "walkMin": 40,
+      "score": 8.7,
+      "reviewCount": 1024,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/161930/-1/c113913a2e0e2258464e54f8b8eb1b3b.jpg?ca=9&ce=1",
+      "distanceNote": "약 3207.42m · Bunbury 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 1,024건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,024건 기반.",
+      "reviews": [
+        {
+          "text": "수영장과 레스토랑 등 놀라운 시설을 갖추고 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "침대는 정말 편안했고 시설도 훌륭했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 스파 욕조가 있어서 너무 좋았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "우리는 이 호텔에 여러 번 가봤지만 항상 돌아갑니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 당신을 위해 충분하지 않습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "번버리 아파트먼트 모텔 (Bunbury Apartment Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bunbury-apartment-motel/hotel/bunbury-au.html?cid=1925461",
+      "walkMin": 15,
+      "score": 8.6,
+      "reviewCount": 467,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/161/1615605/1615605_16120508350049435409.jpg?ca=6&ce=1",
+      "distanceNote": "약 1208.24m · Bunbury 인근",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 467건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 467건 기반.",
+      "reviews": [
+        {
+          "text": "지금 두 번째 방문이 훌륭합니다. 다음 달에 다시 예약할 예정입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "번버리를 방문하신다면 이 모텔을 적극 추천합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "번버리에 머물 곳이 필요할 때 가장 먼저 찾는 곳이에요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "자세한 안내로 체크인 과정이 원활하게 진행되었습니다.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 조용하며 침대가 사랑스러운 정말 환상적인 숙소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-26T07:18:55.290Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

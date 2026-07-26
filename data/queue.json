@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-26T04:39:23.034Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 2,
+  "lastPostedAt": "2026-07-26T07:18:10.920Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 3,
   "postedDate": "2026-07-26",
   "queue": [
-    "australia-burke",
     "australia-buckland",
     "australia-bundernun",
-    "australia-bundaberg"
+    "australia-bundaberg",
+    "australia-bunbury"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 252,
+    "cityIndex": 253,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -301,6 +301,7 @@
     "australia-barregura",
     "australia-bermagui",
     "australia-burgerwoy",
-    "australia-bucup"
+    "australia-bucup",
+    "australia-burke"
   ]
 }
