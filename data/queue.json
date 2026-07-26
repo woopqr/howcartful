@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-25T17:31:35.081Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 10,
-  "postedDate": "2026-07-25",
+  "lastPostedAt": "2026-07-26T01:09:54.881Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-07-26",
   "queue": [
-    "australia-burgerwoy",
     "australia-bucup",
     "australia-burke",
-    "australia-buckland"
+    "australia-buckland",
+    "australia-bundernun"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 250,
+    "cityIndex": 251,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -299,6 +299,7 @@
     "australia-berrinong",
     "australia-berrra",
     "australia-barregura",
-    "australia-bermagui"
+    "australia-bermagui",
+    "australia-burgerwoy"
   ]
 }
