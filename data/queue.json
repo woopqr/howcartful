@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-07-26T14:58:33.303Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 8,
+  "lastPostedAt": "2026-07-26T16:04:25.983Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 9,
   "postedDate": "2026-07-26",
   "queue": [
-    "australia-benalla",
     "australia-berry",
     "australia-batesford",
     "australia-batesford-rating",
@@ -312,6 +311,7 @@
     "australia-bundernun",
     "australia-bundaberg",
     "australia-bunbury",
-    "australia-bega"
+    "australia-bega",
+    "australia-benalla"
   ]
 }
