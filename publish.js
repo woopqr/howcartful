@@ -28,28 +28,38 @@ function main() {
 
   if (q.postedDate !== today()) { q.postedDate = today(); q.postedToday = 0; } // 자정 리셋
 
+  // 앵글 글 파생(저장된 풀 재활용) + 큐 추가. 이미 있으면 스킵이라 반복 안전(풀 없으면 no-op).
+  try {
+    const made = require('./gen-angles').genAngles({ limit: Number(process.env.ANGLE_MAX || 300) });
+    if (made.length) {
+      q.queue = q.queue || [];
+      const known = new Set([...q.queue, ...(q.publishedSlugs || [])]);
+      made.forEach(s => { if (!known.has(s)) { q.queue.push(s); known.add(s); } });
+      console.log(`  ↳ 앵글 글 ${made.length}개 생성·큐 추가`);
+    }
+  } catch (e) { console.error('angle 오류: ' + e.message); }
+
+  // 묶음 발행: due면 batch개까지 한 번에(1 push=1 build). batch 미설정 시 1개(기존 동작).
+  const batch = Number(process.env.BATCH || sched.batch || 1);
   const now = Date.now();
   const gate = q.lastPostedAt ? new Date(q.lastPostedAt).getTime() + (q.nextIntervalMin || intervals[0]) * 60000 : 0;
-  const due = sched.active !== false && Array.isArray(q.queue) && q.queue.length > 0
-    && (q.postedToday || 0) < dailyMax && now >= gate;
-
-  if (due) {
+  let posted = 0;
+  while (sched.active !== false && Array.isArray(q.queue) && q.queue.length > 0
+    && (q.postedToday || 0) < dailyMax && posted < batch && now >= gate) {
     const slug = q.queue.shift();
     q.publishedSlugs = q.publishedSlugs || [];
-    // 재발행(순환 갱신)이면 맨 뒤로 옮겨 홈 최상단에 노출
     if (q.publishedSlugs.includes(slug)) q.publishedSlugs = q.publishedSlugs.filter(s => s !== slug);
     q.publishedSlugs.push(slug);
+    q.postedToday = (q.postedToday || 0) + 1;
+    posted++;
+  }
+  if (posted) {
     q.lastPostedAt = new Date().toISOString();
     q.intervalCursor = ((q.intervalCursor || 0) + 1) % intervals.length;
     q.nextIntervalMin = intervals[q.intervalCursor];
-    q.postedToday = (q.postedToday || 0) + 1;
-    console.log(`✓ 발행: ${slug}  → 다음 ${q.nextIntervalMin}분 뒤  (오늘 ${q.postedToday}/${dailyMax}, 큐 ${q.queue.length}개 남음)`);
+    console.log(`✓ 발행 ${posted}편 (오늘 ${q.postedToday}/${dailyMax}, 큐 ${q.queue.length} 남음) → 다음 ${q.nextIntervalMin}분 뒤`);
   } else {
-    const reason = sched.active === false ? '비활성'
-      : (!q.queue || !q.queue.length) ? '큐 비어있음'
-      : (q.postedToday || 0) >= dailyMax ? `오늘 한도(${dailyMax}) 도달`
-      : `아직 시간 안 됨 (${Math.ceil((gate - now) / 60000)}분 남음)`;
-    console.log(`· 발행 안 함 (${reason}). 사이트 재생성만 수행.`);
+    console.log('· 발행 안 함 (시간/한도/큐 확인). 재생성만 수행.');
   }
 
   save(q);

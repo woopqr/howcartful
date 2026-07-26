@@ -137,3 +137,12 @@ td.name{text-align:left;font-weight:800;min-width:130px}
 [data-theme="dark"] .dist .walk{background:#16302a;color:#5dd0ad}
 [data-theme="dark"] .notice{background:#2a2412;border-color:#5a4a1a;color:#e0c878}
 [data-theme="dark"] .callout.verdict b,[data-theme="dark"] .hl{background-color:rgba(217,70,239,.22);color:#f0abfc}
+
+/* 블로거 말투 인트로 */
+.blogger{ display:flex; gap:12px; align-items:flex-start; margin:20px 0;
+  background:linear-gradient(135deg, rgba(168,85,247,.08), rgba(59,130,246,.06));
+  border:1px solid var(--line); border-radius:16px; padding:16px 18px; }
+.blogger .av{ flex:0 0 auto; font-size:1.5rem; line-height:1.2; }
+.blogger p{ margin:0; font-size:1.02rem; line-height:1.75; color:var(--text); }
+.blogger b{ color:#7c3aed; font-weight:800; }
+:root[data-theme="dark"] .blogger b{ color:#c4b5fd; }

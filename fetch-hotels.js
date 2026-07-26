@@ -66,6 +66,14 @@ function defaults(h, refName) {
   const cityName = rawCityName.split('/')[0].trim() || rawCityName; // "도쿄 / 동경" → "도쿄"
   const props = (cs.properties || []).map(p => af.mapProperty(p));
 
+  // 앵글 엔진용 호텔 풀 저장(도시당 1회 수집을 재활용해 앵글 글 파생)
+  try {
+    const pool = props.filter(h => h.name && h.score != null && h.agodaUrl && h.reviewCount >= MIN_REVIEWS).slice(0, 40);
+    const hdir = path.join(ROOT, 'data', 'hotels');
+    fs.mkdirSync(hdir, { recursive: true });
+    fs.writeFileSync(path.join(hdir, slug + '.json'), JSON.stringify(pool));
+  } catch (_) {}
+
   const picked = props
     .filter(h => h.name && h.score != null && h.agodaUrl && h.reviewCount >= MIN_REVIEWS)
     .sort((a, b) => (b.valueIndex || 0) - (a.valueIndex || 0))

@@ -13,6 +13,7 @@ const fs = require('fs');
 const path = require('path');
 const agoda = require('./lib/agoda');
 const titles = require('./lib/titles');
+const voice = require('./lib/voice');
 
 const ROOT = __dirname;
 const TPL = fs.readFileSync(path.join(ROOT, 'templates', 'article.template.html'), 'utf8');
@@ -87,6 +88,7 @@ function buildContext(data) {
     title: titles.makeTitle(data),
     heroTitleHtml: titles.makeHeroHtml(data),
     metaDescription: titles.makeMeta(data),
+    bloggerIntroHtml: voice.intro(data),
   };
 }
 
