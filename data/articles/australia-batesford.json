@@ -1,0 +1,439 @@
+{
+  "slug": "australia-batesford",
+  "title": "베이츠포드 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 베이츠포드 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "geelong-au",
+  "cityName": "베이츠포드",
+  "cityId": 142874,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "베이츠포드",
+  "heroImg": "https://pix8.agoda.net/hotelImages/181937/-1/0da7fc84788212050e2354b90c8d0fe4.jpg?ca=19&ce=1",
+  "heroAlt": "베이츠포드",
+  "heroTitleHtml": "베이츠포드 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>디스커버리 파크 - 질롱</b>(평점 9·리뷰 2,568건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Geelong Train Station 도보 6분</b>의 <b>Kingsway Motel Geelong</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/181937/-1/0da7fc84788212050e2354b90c8d0fe4.jpg?ca=19&ce=1",
+  "outroTitle": "🌙 베이츠포드, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 베이츠포드 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 베이츠포드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "디스커버리 파크 - 질롱 (Discovery Parks - Geelong)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/discovery-parks-geelong/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 26,
+      "score": 9,
+      "reviewCount": 2568,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.6,
+      "img": "//pix8.agoda.net/hotelImages/181937/-1/0da7fc84788212050e2354b90c8d0fe4.jpg?ca=19&ce=1",
+      "distanceNote": "약 2069.82m · South Geelong Station 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 2,568건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,568건 기반.",
+      "reviews": [
+        {
+          "text": "스파가 있는 오두막에서 2주를 보냈는데 정말 완벽했어요!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "거실과 모든 기능을 갖춘 주방이 있었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "아이들에게 좋은 좋은 장소, 깨끗하고 깨끗한 실내 수영장",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "구내 카페도 훌륭했습니다. 최고의 베이컨과 계란!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "체크인도 매우 빠르고 편리합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Hacienda Motel Geelong",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hacienda-motel-geelong/hotel/all/geelong-au.html?cid=1925461",
+      "walkMin": 22,
+      "score": 8.9,
+      "reviewCount": 817,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/371516259.jpg?k=fb1620e4b327068f1382b4bd65b53aeace381ce785312ca33973cdb5f6a34b44&o=",
+      "distanceNote": "약 1721.02m · South Geelong Station 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 817건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 817건 기반.",
+      "reviews": [
+        {
+          "text": "상점, 축구장, 펍 등이 중앙 및 도보 거리에 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "머물면서 휴식을 취하기에 좋은 곳",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "돌은 도심에서 멀리 떨어져 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "너무 사랑스럽고 수용적인 것들.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "리셉션에 사랑스러운 수다쟁이 아가씨.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Geelong Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/barwon-river-holiday-park/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 14,
+      "score": 8.7,
+      "reviewCount": 1591,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.4,
+      "img": "//pix8.agoda.net/hotelImages/78884517/0/f61ada8b0b3430ff90e06a277afda338.jpg?ce=2",
+      "distanceNote": "약 1117.13m · South Geelong Station 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 1,591건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,591건 기반.",
+      "reviews": [
+        {
+          "text": "CBD와 동부 해변까지 차로 짧은 거리에 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "아이들은 온수 수영장, 카트 및 점핑 베개를 좋아했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "머물기 좋은 숙소, 아이들이 수영장과 편의시설을 좋아했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 객실, 친절한 직원, 좋은 위치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "큰 샤워, 많은 압력.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Kingsway Motel Geelong",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kingsway-motel-geelong/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8.9,
+      "reviewCount": 114,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/72420517/0/104f4bc502b64638039aed052f0fc913.jpg?ce=2",
+      "distanceNote": "약 455.95m · Geelong Train Station 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 114건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 114건 기반.",
+      "reviews": [
+        {
+          "text": "주요 도로와 매우 가깝기 때문에 매우 조용한 훌륭한 위치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 귀여웠으며 개조 공사가 훌륭해 보였습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "늦은 체크인 시 편의 제공",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "가격대비 훌륭함 깨끗함 깔끔함 번거로움 없음",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "주인분이 눈에 띄지 않는 방을 찾아주시고 우리를 돌봐주셨습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "리플사이드 파크 모터 인 (Rippleside Park Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rippleside-park-motor-inn/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 8.6,
+      "reviewCount": 460,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/548498/0/7a5cc26183f8af761e14d4d5fbd3c248.jpeg?ce=0",
+      "distanceNote": "약 555.12m · North Geelong Train Station 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 460건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 460건 기반.",
+      "reviews": [
+        {
+          "text": "스피릿 오브 태즈매니아(Spirit of Tasmania)호가 출발하는 부두와 매우 가깝습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원이 있는 매우 깨끗하고 편안한 작은 모텔입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "그는 불을 켜고 방에 열쇠를 남겨 두었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "오래된 호텔이지만 꼭 다시 여기에 묵을 것입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "여기에 머무르는 것이 좋습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "벨머서 호텔 (Belmercer Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/belmercer-motel/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 8.5,
+      "reviewCount": 980,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/551/551970/551970_17022311180051206100.jpg?ca=6&ce=1",
+      "distanceNote": "약 550.64m · Geelong Train Station 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 980건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 980건 기반.",
+      "reviews": [
+        {
+          "text": "방은 매우 깨끗하고 편안했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "모텔 주인은 매우 친절하고 도움이 되었습니다.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "장소는 완벽했습니다. 흠 하나 없고 잘 정돈되어 있었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "침대도 너무 편하고 소파도 너무 좋아요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "구내 주차가 가능하며 직원이 친절합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "베스트웨스턴 질롱 모터 인 앤 서비스 아파트먼트 (Best Western Geelong Motor Inn & Serviced Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-geelong-motor-inn-serviced-apartments_2/hotel/geelong-au.html?cid=1925461",
+      "walkMin": 14,
+      "score": 8.5,
+      "reviewCount": 1577,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/2286301/0/c56bbcb872f5e1d5bdd03e7afc62c9a1.jpg?ce=0",
+      "distanceNote": "약 1090.34m · Geelong Train Station 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 1,577건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 1,577건 기반.",
+      "reviews": [
+        {
+          "text": "태즈매니아로 가는 페리를 타기에 완벽한 장소",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "큰 샤워실, 편안하고 조용한 방.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "대부분의 객실에는 전용 작은 발코니가 있습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "Glenys는 정말 멋진 고객 경험을 제공합니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 객실로 배달될 수 있습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-26T13:55:04.299Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
