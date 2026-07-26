@@ -1,0 +1,280 @@
+{
+  "slug": "australia-benalla",
+  "title": "베날라 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 베날라 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "베날라",
+  "cityId": 10447,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "베날라",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/142123859.jpg?k=c981aaf398bcd3d1bd0c09a3832a1600d64fe4585250d90a5066a1bd741dc677&o=",
+  "heroAlt": "베날라",
+  "heroTitleHtml": "베날라 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Benalla Tourist Park</b>(평점 8.4·리뷰 657건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>베날라역 도보 16분</b>의 <b>Glider City Motel Benalla</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/142123859.jpg?k=c981aaf398bcd3d1bd0c09a3832a1600d64fe4585250d90a5066a1bd741dc677&o=",
+  "outroTitle": "🌙 베날라, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 베날라 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 베날라 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Benalla Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/benalla-tourist-park/hotel/all/benalla-au.html?cid=1925461",
+      "walkMin": 27,
+      "score": 8.4,
+      "reviewCount": 657,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/142123859.jpg?k=c981aaf398bcd3d1bd0c09a3832a1600d64fe4585250d90a5066a1bd741dc677&o=",
+      "distanceNote": "약 2152.46m · 베날라역 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 657건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 657건 기반.",
+      "reviews": [
+        {
+          "text": "확실히 다시 돌아올 것입니다. 모두에게 강력히 추천합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "1~2일 머물기에는 위치가 매우 좋습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "모두에게 추천하는 숙소입니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "캐빈에는 모든 시설이 갖추어져 있고 깨끗하며 직원이 매우 친절합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "캐빈에는 2박 이상 숙박에 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "로즈 시티 모터 인 (Rose City Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rose-city-motor-inn/hotel/benalla-au.html?cid=1925461",
+      "walkMin": 27,
+      "score": 8.1,
+      "reviewCount": 235,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/286/286804/286804_17042213520052551235.jpg?ca=6&ce=1",
+      "distanceNote": "약 2159.06m · 베날라역 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 235건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 235건 기반.",
+      "reviews": [
+        {
+          "text": "매우 간단하지만 하룻밤 숙박에 필요한 모든 것",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "깔끔하고 깨끗하며 친절한 직원들이 있어 편안합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "꼭 다시 머물고 싶게 만드는 곳이었습니다.",
+          "score": "8.8",
+          "country": "オーストラリア",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "주인은 우리가 오후 10시에 늦게 도착했기 때문에 머물렀습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "객실, 시설, 직원 모두 매우 친절했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Glider City Motel Benalla",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/glider-city-motel-benalla/hotel/all/benalla-au.html?cid=1925461",
+      "walkMin": 16,
+      "score": 8.6,
+      "reviewCount": 662,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/428171311.jpg?k=d7786f51acd5f9e38d338f1cafa0093fb2334e95a1da2fe0269e8c8958211964&o=",
+      "distanceNote": "약 1311.43m · 베날라역 인근",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 662건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 662건 기반.",
+      "reviews": [
+        {
+          "text": "우수한 시설",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "기대 이상",
+          "score": "9.6",
+          "country": "Belgium",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 기대 이상입니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "확실히 추천합니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "컴포트 인 베날라 (Comfort Inn Benalla)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/comfort-inn-benalla/hotel/benalla-au.html?cid=1925461",
+      "walkMin": 21,
+      "score": 8.4,
+      "reviewCount": 804,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/498/49835/49835_17091812480056507647.jpg?ca=6&ce=1",
+      "distanceNote": "약 1699m · 베날라역 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 804건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 804건 기반.",
+      "reviews": [
+        {
+          "text": "우리가 머무는 동안 머물기에 좋은 장소",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "더 많은 것을 요구할 수 없습니다 :)",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "정확히 우리가 추구했던 것입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "그들은 우리를 위해 전자레인지를 가져왔습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗합니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Executive Hideaway",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/executive-hideaway/hotel/all/benalla-au.html?cid=1925461",
+      "walkMin": 22,
+      "score": 7.8,
+      "reviewCount": 396,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/428668354.jpg?k=87bf5cba9adf248dd64974e0bf7518ebb344267000f84d66a627776eff350e42&o=",
+      "distanceNote": "약 1793.23m · 베날라역 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 396건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 396건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-26T11:00:14.294Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}
