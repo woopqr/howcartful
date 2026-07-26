@@ -1,0 +1,263 @@
+{
+  "slug": "australia-bega",
+  "title": "베가 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 베가 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "bega-au",
+  "cityName": "베가",
+  "cityId": 11269,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "베가",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/452618389.jpg?k=e4f8945fcb6a90a01a1f0ca571d9dbe0f78ea8e7a6d49b503e4ef78dc4b03a39&o=",
+  "heroAlt": "베가",
+  "heroTitleHtml": "베가 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Commercial Hotel Bega</b>(평점 8.1·리뷰 121건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Commercial Hotel Bega</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/452618389.jpg?k=e4f8945fcb6a90a01a1f0ca571d9dbe0f78ea8e7a6d49b503e4ef78dc4b03a39&o=",
+  "outroTitle": "🌙 베가, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 베가 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 베가 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Commercial Hotel Bega",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/commercial-hotel-bega/hotel/bega-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 121,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/452618389.jpg?k=e4f8945fcb6a90a01a1f0ca571d9dbe0f78ea8e7a6d49b503e4ef78dc4b03a39&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 121건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 121건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 휴식을 취하고 다음날 아침 일찍 출발할 침대가 필요했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "완벽한 위치 친절한 직원.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 가치는 10/10입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "메인 스트리트의 좋은 위치.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "호텔의 훌륭한 음식.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Bega Downs Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bega-downs-motor-inn/hotel/bega-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 357,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/598499892.jpg?k=a082c2f79c3d670ea1ebb068731f325349131d14a95f94fa29d48bfee89da520&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 357건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 357건 기반.",
+      "reviews": [
+        {
+          "text": "더 나은 숙박을 요구할 수 없었습니다. 감사합니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 깔끔했고 나에게 꼭 필요한 것이었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 시설이 현재 상태가 양호합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "편안한 객실과 도움이 되는 직원.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "정말 조용하고 분위기가 좋았어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Bega Motel                                                                                  ",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/princes-motel/hotel/bega-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 1070,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/1080391/0/5dc98b32d46b0170a1f7ca538d47157e.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 1,070건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 1,070건 기반.",
+      "reviews": [
+        {
+          "text": "매우 편안한 침대를 갖춘 사랑스럽고 깨끗한 모텔 객실입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 방, 현장 사진으로는 제대로 표현되지 않습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 곳",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "침대는 훌륭했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "침대가 맘에 들어요!!!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Bega Village Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bega-village-motor-inn_2/hotel/all/bega-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 36,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/21325549.jpg?k=1ff41303303ee34d592b22ccf483553e77da73378fb8cda42a39c64a5a48165a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 36건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 36건 기반.",
+      "reviews": [
+        {
+          "text": "직원들이 친절하고 조용하고 깨끗했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "꼭 다시 거기에 머물고 싶습니다…",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "모두 괜찮았고 문제 없이 체크아웃되었습니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "주차공간 넉넉하고 숙소 깨끗해요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "나는 다시 여기에 머물 것이다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-26T09:27:20.980Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}
