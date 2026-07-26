@@ -1,0 +1,439 @@
+{
+  "slug": "australia-bundaberg",
+  "title": "번더버그 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 번더버그 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "bundaberg-au",
+  "cityName": "번더버그",
+  "cityId": 12602,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "번더버그",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/208567474.jpg?k=e7f17182e8072d1e762ae8d3a7b47dde541ec57da952dabeccf58f0dd4c1b049&o=",
+  "heroAlt": "번더버그",
+  "heroTitleHtml": "번더버그 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Bunk  Inn Hostel</b>(평점 8.1·리뷰 362건·1박 약 4만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Bundaberg 도보 2분</b>의 <b>마틸다 모텔</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/208567474.jpg?k=e7f17182e8072d1e762ae8d3a7b47dde541ec57da952dabeccf58f0dd4c1b049&o=",
+  "outroTitle": "🌙 번더버그, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 번더버그 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 번더버그 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Bunk  Inn Hostel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bunk-inn-hostel-h10654528/hotel/bundaberg-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8.1,
+      "reviewCount": 362,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/208567474.jpg?k=e7f17182e8072d1e762ae8d3a7b47dde541ec57da952dabeccf58f0dd4c1b049&o=",
+      "distanceNote": "약 511.07m · Bundaberg 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 362건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 362건 기반.",
+      "reviews": [
+        {
+          "text": "여관은 집처럼 편안한 분위기를 제공하며 침대에는 프라이버시 스크린이 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "머물기에 편안한 곳입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "여기서 좋은 경험",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 따뜻하고 친절하며 항상 도움을 줄 준비가 되어 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "장소는? 깨끗하고 잘 관리되어 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "AAOK Riverdale Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/aaok-riverdale-caravan-park/hotel/all/bundaberg-au.html?cid=1925461",
+      "walkMin": 12,
+      "score": 8.7,
+      "reviewCount": 1113,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/316810000.jpg?k=3db2fb9ee3419b88370e82fa762bc17e00c531a9c88a3c37fc425e6d3ce15fdf&o=",
+      "distanceNote": "약 962.04m · Bundaberg 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 1,113건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,113건 기반.",
+      "reviews": [
+        {
+          "text": "머물기 좋은 숙소이며, 필요한 모든 것을 갖추고 있으며, 친절한 직원이 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "청소도 잘 되어있고 접시와 냄비도 모두 제공됩니다!!",
+          "score": "10",
+          "country": "オーストラリア",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "정말 사랑스럽고 친절하며 수용적인 직원이 정말 놀랍습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원 좋은 시설, 매우 깨끗한 수준 8/10",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "제가 호주에서 머물렀던 최고의 호텔이 아닐까 싶습니다!",
+          "score": "10",
+          "country": "オーストラリア",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Tomato Backpackers",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tomato-backpackers/hotel/all/bundaberg-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 6.8,
+      "reviewCount": 55,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/398304657.jpg?k=9a3d2f0aa26c391664b6493af167112feee19f06ebcefe838370a08b8e6a3f89&o=",
+      "distanceNote": "약 590.44m · Bundaberg 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 55건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>6.8</b> · 실제 투숙객 리뷰 55건 기반.",
+      "reviews": [
+        {
+          "text": "번디에 오면 토마토로 와야 할 것 같아요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "또한 우리가 머물렀던 방은 매우 깨끗하고 넓습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "번디의 모든 백패커 중 가장 위대한",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "그리고 여기 직원분들이 너무 친절하셔서",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "숙소 위치는 최고였어요!",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "오스카 모텔 (Oscar Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oscar-motel/hotel/bundaberg-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8.2,
+      "reviewCount": 649,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/837584/-1/a1e305b162bf471336ccc408cb5b0528.jpg?ca=9&ce=1",
+      "distanceNote": "약 509.6m · Bundaberg 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 649건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 649건 기반.",
+      "reviews": [
+        {
+          "text": "방은 깨끗했고 편안한 침대와 매일 서비스가 제공되었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 좋은 가치, 깨끗하고 멋진 객실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "나는 어떤 식으로든 이 시설이나 그 직원을 비난할 수 없습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 흠잡을 데 없이 깨끗했고 우리 침대는 매우 편안했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "늦은 체크인으로 직원들이 나섰습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "마틸다 모텔 (Matilda Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/matilda-motel_2/hotel/bundaberg-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.2,
+      "reviewCount": 178,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/51098037/0/53483c7980cfc74b957f6bd0b3394d85.jpg?ce=0",
+      "distanceNote": "약 170.89m · Bundaberg 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 178건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 178건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 에어컨과 편안한 침대와 소파.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "머물기 좋은 곳, 합리적인 가격, 넓은 객실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "가격대비 훌륭하고 방도 깨끗하고 편안했습니다",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 시설, 직원, 무료 주차",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "우리는 방이 매우 깨끗하고 편안하다는 것을 알았습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "번다버그 스패니시 모터 인 (Bundaberg Spanish Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bundaberg-spanish-motor-inn/hotel/bundaberg-au.html?cid=1925461",
+      "walkMin": 10,
+      "score": 9.2,
+      "reviewCount": 800,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/276/276300/276300_16081512490045481924.jpg?ca=6&ce=1",
+      "distanceNote": "약 781.05m · Bundaberg 인근",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 800건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 800건 기반.",
+      "reviews": [
+        {
+          "text": "조용하고 깨끗하며 훌륭한 직원과 관리.. 완벽한",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "소유자는 분명히 그것에 많은 사랑과 영혼을 담았습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 장소 훌륭한 시설 훌륭한 직원 훌륭한",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 정말 멋진 숙소였습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 직원들이 친절하고 도움이 되었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Villa Mirasol Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/villa-mirasol-motor-inn_3/hotel/all/bundaberg-au.html?cid=1925461",
+      "walkMin": 3,
+      "score": 9,
+      "reviewCount": 570,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/782317942.jpg?k=e4e618fcb584fb1246c0bf38436d475e7c62cfcdc5c5ab06308011092c04d030&o=",
+      "distanceNote": "약 202.13m · Bundaberg 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 570건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 570건 기반.",
+      "reviews": [
+        {
+          "text": "호스트는 항상 친절하고 뛰어난 서비스를 제공합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "Villa Marisol Motel Bundaberg에서의 숙박은 매우 훌륭했습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "냉장고, 전자레인지, 주전자가 제공되어 좋았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "잘 표현되고 유지 관리됩니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "우리 숙소에 매우 만족",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-26T04:40:05.520Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
