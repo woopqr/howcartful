@@ -1,0 +1,404 @@
+{
+  "slug": "australia-batemans-bay",
+  "title": "베이트만스 베이 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 베이트만스 베이 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "batemans-bay-au",
+  "cityName": "베이트만스 베이",
+  "cityId": 13105,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "베이트만스 베이",
+  "heroImg": "https://pix8.agoda.net/hotelImages/12666749/-1/0b2c3342ac0caf8ae8224956d650630c.jpg?ca=10&ce=1",
+  "heroAlt": "베이트만스 베이",
+  "heroTitleHtml": "베이트만스 베이 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>아보데 말루아 베이</b>(평점 9·리뷰 669건·1박 약 11만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>아보데 말루아 베이</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/12666749/-1/0b2c3342ac0caf8ae8224956d650630c.jpg?ca=10&ce=1",
+  "outroTitle": "🌙 베이트만스 베이, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 베이트만스 베이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 베이트만스 베이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "아보데 말루아 베이 (Abode Malua Bay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/abode-malua-bay/hotel/batemans-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 669,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.6,
+      "img": "//pix8.agoda.net/hotelImages/12666749/-1/0b2c3342ac0caf8ae8224956d650630c.jpg?ca=10&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 669건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 669건 기반.",
+      "reviews": [
+        {
+          "text": "우리 방은 매일 보충되는 품목으로 청소되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "위치도 편리하고 시설도 훌륭했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "이번 숙박은 정말 완벽했습니다. 해변이 바로 문앞에 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 잘 관리되어 있으며 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "선택할 수 있다면 오션뷰 객실을 추천하고 싶습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "키 호텔 (Quays Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quays-hotel/hotel/batemans-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 2629,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.6,
+      "img": "//pix8.agoda.net/hotelImages/181/181871/181871_16103110480048277379.png?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 2,629건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,629건 기반.",
+      "reviews": [
+        {
+          "text": "객실이 너무 깨끗하고 침대도 너무 편안해요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "2주간의 휴가 동안 머물렀던 모텔 중 최고였습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "현대적이고 매우 깨끗한 객실에서 정말 편안한 숙박을 즐기실 수 있습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 것이 갖춰져 있었고 친절하고 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "아름답고 깨끗하며 넓은 객실을 갖춘 놀라운 위치입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Batemans Bay Marina Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/coachhouse-marina-resort/hotel/batemans-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 2772,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.4,
+      "img": "//pix8.agoda.net/hotelImages/64003966/0/d466898fdde2c08803327c6c936b13c1.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 2,772건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 2,772건 기반.",
+      "reviews": [
+        {
+          "text": "빌라는 전망이 훌륭하고 모든 편의시설에 가깝습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "매우 멋진 빌라, 훌륭한 크기와 레이아웃, 매우 깨끗하고 깔끔합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 몇 번 머물렀고 꼭 다시 갈 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "저희는 Batemans Bay를 방문할 때 항상 마리나 리조트를 이용합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 것이 깨끗하고 깔끔합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "링컨 다운스 리조트 베이트먼스 베이 (Lincoln Downs Resort Batemans Bay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lincoln-downs-resort-batemans-bay/hotel/batemans-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 462,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/81886/-1/2c857b5e18dbe684b50ab441d071572d.jpg?ca=21&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 462건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 462건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 현대적이며 깔끔하며 훌륭하고 항상 도움이 되는 직원이 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 숙박 시설과 친절한 직원에 매우 만족합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "시설과 직원이 모든 것을 갖추고 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "침대는 정말 편안했고 시설도 훌륭했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 매우 깨끗하고 정돈되어 있었고,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "BIG4 Nelligen Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-nelligen-holiday-park/hotel/batemans-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 115,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/64003974/0/83711b650e2afa4d3704db8f1e648e5b.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 115건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 115건 기반.",
+      "reviews": [
+        {
+          "text": "저희는 사파리 텐트에 묵었는데 너무 재미있었어요!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "우리는 여기에 머무르는 것을 너무 좋아해서 다시 예약했습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "우리는 Nelligen 홀리데이 파크를 좋아합니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "가족을 위한 멋진 휴가 휴가",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "나의 하이라이트는 카약이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "The Esplanade Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-esplanade-motel/hotel/all/batemans-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 1532,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/78136565.jpg?k=5194fd2bb5dfc82460f401988c18fba0fe845aa0e3d13a187d9cfe2dc2616a0a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 1,532건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,532건 기반.",
+      "reviews": [
+        {
+          "text": "매우 넓고 편안한 객실과 훌륭한 위치와 전망",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "이 숙소를 적극 추천하며 이곳에 다시 머물고 싶습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "모든 상점, 식당, 카페 근처에 있는 훌륭한 위치입니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 모텔. 전망이 좋은 깨끗한 방.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "정말 완벽합니다. 더 나은 것을 바랄 수 없습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Joalah Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/joalah-holiday-park/hotel/batemans-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 242,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/482376911.jpg?k=ead62bfa2cf73e91a01b3255227b61437766500c4f9a763660bd2550cb6a0fef&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 242건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 242건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-27T11:46:18.341Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
