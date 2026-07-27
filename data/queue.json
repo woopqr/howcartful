@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-07-27T18:05:50.551Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 7,
+  "lastPostedAt": "2026-07-27T19:49:45.751Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 8,
   "postedDate": "2026-07-27",
   "queue": [
-    "australia-batemans-bay",
     "australia-batemans-bay-rating",
     "australia-batemans-bay-station",
     "australia-batemans-bay-budget",
@@ -319,6 +318,7 @@
     "australia-batesford-budget",
     "australia-batesford-premium",
     "australia-batesford-star4",
-    "australia-batesford-reviewed"
+    "australia-batesford-reviewed",
+    "australia-batemans-bay"
   ]
 }
