@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-07-26T17:12:14.910Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 10,
-  "postedDate": "2026-07-26",
+  "lastPostedAt": "2026-07-27T01:13:15.286Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 1,
+  "postedDate": "2026-07-27",
   "queue": [
-    "australia-batesford",
     "australia-batesford-rating",
     "australia-batesford-station",
     "australia-batesford-budget",
@@ -312,6 +311,7 @@
     "australia-bunbury",
     "australia-bega",
     "australia-benalla",
-    "australia-berry"
+    "australia-berry",
+    "australia-batesford"
   ]
 }
