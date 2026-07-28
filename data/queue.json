@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-07-28T09:05:01.657Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 4,
+  "lastPostedAt": "2026-07-28T11:25:41.332Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 5,
   "postedDate": "2026-07-28",
   "queue": [
-    "australia-bendigo",
     "australia-bendigo-rating",
     "australia-bendigo-station",
     "australia-bendigo-budget",
@@ -326,6 +325,7 @@
     "australia-batemans-bay-budget",
     "australia-batemans-bay-premium",
     "australia-batemans-bay-star4",
-    "australia-batemans-bay-reviewed"
+    "australia-batemans-bay-reviewed",
+    "australia-bendigo"
   ]
 }
