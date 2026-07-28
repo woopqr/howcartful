@@ -1,0 +1,439 @@
+{
+  "slug": "australia-bendigo-budget",
+  "angle": "budget",
+  "angleAdj": "가격 착한",
+  "lang": "ko-kr",
+  "citySlug": "bendigo-au",
+  "cityName": "벤디고",
+  "cityId": 10985,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "벤디고",
+  "heroImg": "https://pix8.agoda.net/hotelImages/76179334/0/b626499d10f9f67b2eb9ce3de2e2563b.jpg?ce=2",
+  "heroAlt": "벤디고",
+  "heroSub": "실제 아고다 리뷰로 벤디고의 저가 실속 숙소를 추렸습니다",
+  "verdictHtml": "저가 실속 기준 1순위는 <b>Golden Hills Motel</b>입니다 (평점 8.5·리뷰 80건·1박 약 9만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/76179334/0/b626499d10f9f67b2eb9ce3de2e2563b.jpg?ce=2",
+  "outroTitle": "🌙 벤디고, 저가 실속으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 벤디고 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Golden Hills Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/golden-hills-motel-h68718461/hotel/bendigo-au.html?cid=1925461",
+      "walkMin": 39,
+      "score": 8.5,
+      "reviewCount": 80,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/76179334/0/b626499d10f9f67b2eb9ce3de2e2563b.jpg?ce=2",
+      "distanceNote": "약 3144.03m · Bendigo Railway Station 인근",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 80건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 80건 기반.",
+      "reviews": [
+        {
+          "text": "Gave us room to suit older children and had a bed each.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Biggest shower rose I’ve ever seen and it delivered!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Handy having toaster, mini fridge etc in the room.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Check in/out very easy.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Very clean and spacious.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Bendigo Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bendigo-motor-inn_2/hotel/bendigo-au.html?cid=1925461",
+      "walkMin": 71,
+      "score": 8.2,
+      "reviewCount": 90,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/76958014/0/d4a126ee0156ef8f8eb87c18286bd21c.jpeg?ce=3",
+      "distanceNote": "약 5669.85m · Bendigo Railway Station 인근",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 90건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 90건 기반.",
+      "reviews": [
+        {
+          "text": "Clean good shower, good bed,electric blankets.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Lovely friendly staff, very comfy bed, good price!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "A short walk to shops.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "There was plenty of hot water, spacious room.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Great simple room with all fascilities needed",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "CROWN CBD Hotel - Oil Friendly Price",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/crown-cbd-motel-renovated-2022-amongst-shops-cafes-and-restaurants/hotel/all/bendigo-au.html?cid=1925461",
+      "walkMin": 10,
+      "score": 7,
+      "reviewCount": 1366,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/160471523.jpg?k=f8cbb3c25ce903fd17a361d9baede80043bcd936b86d4a19a10d965a9b68b2d0&o=",
+      "distanceNote": "약 795.34m · Bendigo Railway Station 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 1,366건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7</b> · 실제 투숙객 리뷰 1,366건 기반.",
+      "reviews": [
+        {
+          "text": "Free parking on weekends in the big car park lot next door.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Best part was the pin code access. No keys needed",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Easy walk to the train station and famous Bendigo Gallery.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Very comfortable for my kids and it’s walkable.",
+          "score": "10",
+          "country": "Brunei Darussalam",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "The shower was simply amazing!!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "벤디고 헤이마켓 모토 인 (Bendigo Haymarket Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bendigo-haymarket-motor-inn/hotel/bendigo-au.html?cid=1925461",
+      "walkMin": 12,
+      "score": 7.9,
+      "reviewCount": 424,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/223382/0/d10f9cea8623f1da7a01b0a3d48aecfc.jpeg?ce=0",
+      "distanceNote": "약 985.71m · Bendigo Railway Station 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 424건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 424건 기반.",
+      "reviews": [
+        {
+          "text": "Very affordable, clean, close to city centre.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Had microwave, electric kettle, toaster, iron and hair dryer",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Excellent communication and spacious room.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Free wifi was handy for us to watch our favourite shows.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The room was comfortable and I had a great night sleep.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Crystal Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-crystal-inn/hotel/bendigo-au.html?cid=1925461",
+      "walkMin": 41,
+      "score": 8.5,
+      "reviewCount": 207,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/69426/-1/9bc44248b4bbfd9b9b6ed35694ee3253.jpg?ca=28&ce=0",
+      "distanceNote": "약 3260.5m · Bendigo Railway Station 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 207건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 207건 기반.",
+      "reviews": [
+        {
+          "text": "My children loved the big spa bath.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Undercover car-parking, good sized well equipped room.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "It was exceptionally clean and huge.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Was flexible with check in and out time .",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "I often stay here for work and like the peace and quiet",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Elm Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/elm-motel_2/hotel/bendigo-au.html?cid=1925461",
+      "walkMin": 42,
+      "score": 7.4,
+      "reviewCount": 1185,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/264465323.jpg?k=669944a208f5f4ebac89359f26bdd128afb3438fe6fb4f8a470b06a4cd96dac7&o=",
+      "distanceNote": "약 3379.66m · Bendigo Railway Station 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 1,185건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.4</b> · 실제 투숙객 리뷰 1,185건 기반.",
+      "reviews": [
+        {
+          "text": "Fresh white interior, comfy work space for my lap top.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Perfect location for family whose on a budget.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Better than advertised very clean and great value.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "I stayed one night, next time it will be a week.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "This place offers clean rooms, wifi and parking.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Bendigo Goldfields Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bendigo-goldfields-motor-inn/hotel/bendigo-au.html?cid=1925461",
+      "walkMin": 26,
+      "score": 9.2,
+      "reviewCount": 1020,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/130375572.jpg?k=27b00fe4cda9bbd28a3dcd7a1a30d97cef16168c27b312c1ee025f6c89a7813e&o=",
+      "distanceNote": "약 2041.27m · Bendigo Railway Station 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 1,020건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 1,020건 기반.",
+      "reviews": [
+        {
+          "text": "The staff couldn’t have been more helpful and accommodating.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Aircon very much appreciated on a 40* C day",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Room clean and well appointed",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Very comfy bed and very clean room, would happily stay again",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Incredibly clean, wonderful warm service when I arrived.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "budget",
+    "base": "australia-bendigo",
+    "count": 7,
+    "builtAt": "2026-07-28T03:37:14.744Z"
+  }
+}
