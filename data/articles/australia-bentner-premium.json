@@ -1,0 +1,349 @@
+{
+  "slug": "australia-bentner-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "벤트너",
+  "cityId": 711030,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "벤트너",
+  "heroImg": "https://pix8.agoda.net/hotelImages/288/288153/288153_15062911350031128714.jpg?ca=4&ce=1",
+  "heroAlt": "벤트너",
+  "heroSub": "실제 아고다 리뷰로 벤트너의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>Genesta House</b>입니다 (평점 9.4·리뷰 130건·1박 약 26만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/288/288153/288153_15062911350031128714.jpg?ca=4&ce=1",
+  "outroTitle": "🌙 벤트너, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 벤트너 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Genesta House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/genesta-house/hotel/all/phillip-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 130,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/288/288153/288153_15062911350031128714.jpg?ca=4&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 130건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 130건 기반.",
+      "reviews": [
+        {
+          "text": "Comfortable bed, clean, beautifully decorated.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Cosy, great vibe and touches I'm the room.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "We definitely will return when we are in cowes again",
+          "score": "9.2",
+          "country": "Indonesia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "This was such a special BnB!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Lovely stay, highly recommend.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "C-Scape water front apartment",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/c-scape-water-front-apartment/hotel/all/phillip-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 228,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 47만원",
+      "valueIndex": 5.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/827796049.jpg?k=2a6619f97f77bd934ace53fbf7f3381d9520433c5c32aa1a3a2620efc74a2dfd&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 47만원",
+        "📝 리뷰 228건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 228건 기반.",
+      "reviews": [
+        {
+          "text": "Nice view at the front , big apartment with well equiped.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "It’s beach front and near to the food places.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Nice and big beautiful house with sea view",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Beautiful, clean and spacious apartment.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Kitchen utensils and facilities are all clean.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "The Gap Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-gap-retreat/hotel/all/phillip-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 40,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 46만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/625285558.jpg?k=5ecace0e0306a47a393bf955238d9661465bca0234db4a4d2647660c5155bb5b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 46만원",
+        "📝 리뷰 40건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 40건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Swan Lake Guest House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/swan-lake-guest-house/hotel/all/phillip-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 144,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 30만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/14068684.jpg?k=abec857d44f5835c894a282d1ae96dbada5ee4dcccc6288631bc8b984fa57867&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 30만원",
+        "📝 리뷰 144건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 144건 기반.",
+      "reviews": [
+        {
+          "text": "Cozy accommodation, great breakfast, fantastic location",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Will definitely recommend and re-book 👍🏼",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "The Big Isle Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-big-isle-retreat/hotel/all/phillip-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 40,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 57만원",
+      "valueIndex": 4.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/640566656.jpg?k=d85ad31fd748cb32fe5d1ed21c1bff470693dedcb29ac2f314a40be163bbbc66&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 57만원",
+        "📝 리뷰 40건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 40건 기반.",
+      "reviews": [
+        {
+          "text": "We had a wonderful stay at The Big Isle Retreat.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "It was a really fun and comfortable time during our stay!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Definitely would stay there again!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Amazing stay with good facilities",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Love this house",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Bimbadeen Phillip Island Farm Retreats",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bimbadeen-phillip-island-farm-retreats_2/hotel/phillip-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 349,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 31만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/69246756.jpg?k=9823749bc797bca857cccd1b2e363f2f61124179f450a5a5afea3df1a19cfb48&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 349건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 349건 기반.",
+      "reviews": [
+        {
+          "text": "Love the farmstay; it was a great & memorable experience.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "The staff is nice, the room is clean ,beautiful.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Well furnished, we cooked many meals there",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Apart from that, we love the entire stay.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "The unit was very clean and comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Twin Beaches Retreat Cowes",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/twin-beaches-retreat-cowes/hotel/all/phillip-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 96,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 62만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/501465460.jpg?k=2dfb247531dcb4b2de86aa0dd2b5003d27bde99acdf42ac05cba391e04a4c51b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 62만원",
+        "📝 리뷰 96건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 96건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-bentner",
+    "count": 7,
+    "builtAt": "2026-07-28T18:23:10.669Z"
+  }
+}
