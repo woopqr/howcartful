@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-27T22:04:38.612Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 10,
-  "postedDate": "2026-07-27",
+  "lastPostedAt": "2026-07-28T00:14:01.589Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-07-28",
   "queue": [
-    "australia-batemans-bay-budget",
     "australia-batemans-bay-premium",
     "australia-batemans-bay-star4",
-    "australia-batemans-bay-reviewed"
+    "australia-batemans-bay-reviewed",
+    "australia-bendigo"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 258,
+    "cityIndex": 259,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -319,6 +319,7 @@
     "australia-batesford-reviewed",
     "australia-batemans-bay",
     "australia-batemans-bay-rating",
-    "australia-batemans-bay-station"
+    "australia-batemans-bay-station",
+    "australia-batemans-bay-budget"
   ]
 }
