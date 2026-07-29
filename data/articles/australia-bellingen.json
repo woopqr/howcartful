@@ -1,0 +1,315 @@
+{
+  "slug": "australia-bellingen",
+  "title": "벨링겐 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 벨링겐 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "bellingen-au",
+  "cityName": "벨링겐",
+  "cityId": 512776,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "벨링겐",
+  "heroImg": "https://pix8.agoda.net/hotelImages/648727/-1/4ce307041889a829617a32a8a1791b7f.jpg?ce=0",
+  "heroAlt": "벨링겐",
+  "heroTitleHtml": "벨링겐 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Bellingen Belfry Guesthouse</b>(평점 9·리뷰 78건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Bellingen Belfry Guesthouse</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/648727/-1/4ce307041889a829617a32a8a1791b7f.jpg?ce=0",
+  "outroTitle": "🌙 벨링겐, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 벨링겐 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 벨링겐 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Bellingen Belfry Guesthouse",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bellingen-belfry-guesthouse-yha_2/hotel/bellingen-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 78,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/648727/-1/4ce307041889a829617a32a8a1791b7f.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 78건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 78건 기반.",
+      "reviews": [
+        {
+          "text": "오래된 호스텔이 게스트하우스로 바뀌었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "완비된 주방.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "주요 상점과 가깝고 집 바로 밖에 주차장이 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "공용 공간을 포함하여 깨끗하고 넓은 객실입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "편안한 휴식 공간.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "디거스 타번 호텔 (Diggers Tavern Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/diggers-tavern-hotel/hotel/bellingen-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 722,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/298/298949/298949_15062911510031132465.jpg?ca=4&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 722건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 722건 기반.",
+      "reviews": [
+        {
+          "text": "화려하지는 않지만 천장이 높고 깨끗한 방에 좋은 침대가 있습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "2박 숙박, 깨끗한 방, 좋은 음식, 친절한 직원.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 편안하며 넓습니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "매우 좋은 장소와 직원은 매우 도움이 됩니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "가까운 모든 것은 확실히 두 번째로 갈 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Potters Cottage",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/potters-cottage/hotel/all/bellingen-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 85,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/294149681.jpg?k=85066ebf85374464caabe194c315a73d3a7759aabdd1d90af84118073608d6df&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 85건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 85건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "벨링겐 밸리 로지 (Bellingen Valley Lodge)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bellingen-valley-lodge_6/hotel/bellingen-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 765,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 30만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/4408155/0/c7f4eca7be128261aabd80abd21943c6.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 30만원",
+        "📝 리뷰 765건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 765건 기반.",
+      "reviews": [
+        {
+          "text": "방은 편안하고 잘 꾸며져 있었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "전망이 매우 아름답습니다. 가족과 함께 다시 올 것입니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "아름다운 부지와 객실",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "객실, 시설, 전망 모두 훌륭했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절함",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Koompartoo Retreat Bellingen",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/koompartoo-retreat-bellingen/hotel/all/bellingen-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 293,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 28만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/473038564.jpg?k=0bc1c879fc76547dafc426b479ef49f427f37b490570aa6ef1f5049da278bf5d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 28만원",
+        "📝 리뷰 293건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 293건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 숙소가 깨끗하고 깔끔하며 매우 편안하다는 것을 알았습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "숙박은 마케팅이 제시하는 모든 것이었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "편의시설도 너무 좋고 깨끗해요.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "시내 중심가와 가까워 위치가 좋음",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Fernmount Stay",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/fernmount-stay/hotel/all/fernmount-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 135,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/336870483.jpg?k=fa209264305b8a00697f5ca57ea6480fd96480b88c4214a79571da9710f1fefe&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 135건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 135건 기반.",
+      "reviews": [
+        {
+          "text": "아름다운 위치, 조용하고 깔끔함",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "완벽한 주말 휴양지",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-29T11:35:50.718Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}
