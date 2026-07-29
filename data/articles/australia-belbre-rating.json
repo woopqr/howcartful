@@ -1,0 +1,391 @@
+{
+  "slug": "australia-belbre-rating",
+  "angle": "rating",
+  "angleAdj": "평점 높은",
+  "lang": "ko-kr",
+  "citySlug": "great-ocean-road-torquay-au",
+  "cityName": "벨브레",
+  "cityId": 142885,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "벨브레",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/570634922.jpg?k=f7e03227d60c2e9d2c5790bc96b321522b51a93f7bfcfe9ff0a1996ddabd064a&o=",
+  "heroAlt": "벨브레",
+  "heroSub": "실제 아고다 리뷰로 벨브레의 평점 높은 숙소를 추렸습니다",
+  "verdictHtml": "평점 높은 기준 1순위는 <b>Blue Breeze</b>입니다 (평점 9.6·리뷰 113건·1박 약 43만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/570634922.jpg?k=f7e03227d60c2e9d2c5790bc96b321522b51a93f7bfcfe9ff0a1996ddabd064a&o=",
+  "outroTitle": "🌙 벨브레, 평점 높은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 벨브레 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Blue Breeze",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/blue-breeze/hotel/all/great-ocean-road-torquay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 113,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 43만원",
+      "valueIndex": 5.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/570634922.jpg?k=f7e03227d60c2e9d2c5790bc96b321522b51a93f7bfcfe9ff0a1996ddabd064a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 43만원",
+        "📝 리뷰 113건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 113건 기반.",
+      "reviews": [
+        {
+          "text": "A very big and beautiful house with everything you need.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "It was very clean and the kitchen was well-equipped.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The place was clean and is really a nice place to stay.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "This house is great for a big group!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The house has everything we need.",
+          "score": "10",
+          "country": "澳洲",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Bellshala bungalow",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bellshala-bungalow/hotel/all/bellbrae-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 96,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/379071736.jpg?k=bd72b07054accd034382263bfa5932c98ac9bdbd03e26d1989f88ed423eda1b9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 96건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 96건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Great Ocean Views Torquay",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/great-ocean-views-torquay/hotel/all/great-ocean-road-torquay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 54,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 50만원",
+      "valueIndex": 5.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/500126966.jpg?k=cebf706cae1bd2ffc0ae0bfb5d7606ecdeb3bf7f399576de755355fa79684564&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 50만원",
+        "📝 리뷰 54건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 54건 기반.",
+      "reviews": [
+        {
+          "text": "There's fully equipped kitchen.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Very beautiful place, able to cook.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Very spacious.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Bells Beach Cottages - Pet friendly cottage with wood heater",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bells-beach-cottages-pet-friendly-cottage-with-wood-heater/hotel/all/bellbrae-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 143,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 53만원",
+      "valueIndex": 5.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/618509106.jpg?k=69cec3a53451f50ec43a169fe4340fe95a0386fc48b34d3e7005dc0dd42d8e41&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 53만원",
+        "📝 리뷰 143건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 143건 기반.",
+      "reviews": [
+        {
+          "text": "Bells Beach Cottages are set on a beautiful 5 acre property.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "The cottage was clean, modern and spacious.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "We had a lovely stay in Bells Beach Cottages in cottage 1.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Amazing accomodation! Beautiful property!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "What really stood out was the kindness of the staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Chianti Cottages",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/chianti-cottages/hotel/all/great-ocean-road-torquay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 359,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/28000982.jpg?k=9d7041171e873b0836cb9ceb2398bc2c9e6de053c30260717d2499700bb37871&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 359건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 359건 기반.",
+      "reviews": [
+        {
+          "text": "Host was very attentive and showed us where everything was.",
+          "score": "9.2",
+          "country": "New Zealand",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Really lovely little cabin, perfect for a one night stay.",
+          "score": "9.2",
+          "country": "New Zealand",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "This gorgeous little cottage offered us all this and more!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Thank you so much for the great accommodation!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Every inch of this cottage was so beautiful.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "RACV Torquay Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/racv-torquay-resort-h30929852/hotel/great-ocean-road-torquay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 772,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 40만원",
+      "valueIndex": 5.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/271086142.jpg?k=78576b6fe0f12444d6427663be065a2e5e97152eaf5db24fb651da9ee092df87&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 40만원",
+        "📝 리뷰 772건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 772건 기반.",
+      "reviews": [
+        {
+          "text": "Staff were great and room was large and well appointed.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The room was clean, comfortable, and well-equipped.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The staff were friendly, and the location is beautiful.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "We would definitely stay here again.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The hotel was amazing and we enjoyed all the facilities.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "The View on Grossmans",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-view-on-grossmans/hotel/all/great-ocean-road-torquay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 47,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/116265014.jpg?k=b62c48cc60c6f1062086cca643a1d283b3bcee3aa9c242018d3f10079770fcd4&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 47건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 47건 기반.",
+      "reviews": [
+        {
+          "text": "Large, well appointed room, comfy bed and hospitable owners.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Def recommend and would def stay there again!",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The room was clean, tidy, and we'll appointed.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Great value for money.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "All in all it was a comfortable stay.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2022.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "rating",
+    "base": "australia-belbre",
+    "count": 7,
+    "builtAt": "2026-07-29T19:22:34.552Z"
+  }
+}
