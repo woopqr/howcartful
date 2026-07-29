@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-07-29T00:12:41.859Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 1,
+  "lastPostedAt": "2026-07-29T03:41:13.807Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 2,
   "postedDate": "2026-07-29",
   "queue": [
-    "australia-bentner",
     "australia-bentner-rating",
     "australia-bentner-station",
     "australia-bentner-budget",
@@ -333,6 +332,7 @@
     "australia-bendigo-budget",
     "australia-bendigo-premium",
     "australia-bendigo-star4",
-    "australia-bendigo-reviewed"
+    "australia-bendigo-reviewed",
+    "australia-bentner"
   ]
 }
