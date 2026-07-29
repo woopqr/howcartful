@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-29T16:45:51.343Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 8,
+  "lastPostedAt": "2026-07-29T17:58:26.720Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 9,
   "postedDate": "2026-07-29",
   "queue": [
-    "australia-bellingen",
     "australia-bellingen-rating",
     "australia-bellingen-station",
-    "australia-bellingen-reviewed"
+    "australia-bellingen-reviewed",
+    "australia-belbre"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 261,
+    "cityIndex": 262,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -337,6 +337,7 @@
     "australia-bentner-budget",
     "australia-bentner-premium",
     "australia-bentner-star4",
-    "australia-bentner-reviewed"
+    "australia-bentner-reviewed",
+    "australia-bellingen"
   ]
 }
