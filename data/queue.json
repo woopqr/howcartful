@@ -1,14 +1,16 @@
 {
-  "lastPostedAt": "2026-07-29T11:35:30.370Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 5,
+  "lastPostedAt": "2026-07-29T13:20:06.551Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 6,
   "postedDate": "2026-07-29",
   "queue": [
-    "australia-bentner-premium",
     "australia-bentner-star4",
     "australia-bentner-reviewed",
-    "australia-bellingen"
+    "australia-bellingen",
+    "australia-bellingen-rating",
+    "australia-bellingen-station",
+    "australia-bellingen-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -334,6 +336,7 @@
     "australia-bentner",
     "australia-bentner-rating",
     "australia-bentner-station",
-    "australia-bentner-budget"
+    "australia-bentner-budget",
+    "australia-bentner-premium"
   ]
 }
