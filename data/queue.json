@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-30T06:26:15.394Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 3,
+  "lastPostedAt": "2026-07-30T09:13:09.389Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 4,
   "postedDate": "2026-07-30",
   "queue": [
-    "australia-belbre-rating",
     "australia-belbre-station",
     "australia-belbre-premium",
-    "australia-belbre-reviewed"
+    "australia-belbre-reviewed",
+    "australia-bogabilla"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 262,
+    "cityIndex": 263,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -342,6 +342,7 @@
     "australia-bellingen-rating",
     "australia-bellingen-station",
     "australia-bellingen-reviewed",
-    "australia-belbre"
+    "australia-belbre",
+    "australia-belbre-rating"
   ]
 }
