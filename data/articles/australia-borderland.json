@@ -1,0 +1,281 @@
+{
+  "slug": "australia-borderland",
+  "title": "보더서트 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 보더서트 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "gold-coast-au",
+  "cityName": "보더서트",
+  "cityId": 21402,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "보더서트",
+  "heroImg": "https://pix8.agoda.net/hotelImages/502944/0/20f61bf99338824c9b9b272ddae5bffa.jpg?ce=2",
+  "heroAlt": "보더서트",
+  "heroTitleHtml": "보더서트 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>카눈그라 호텔</b>(평점 8.8·리뷰 217건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>카눈그라 호텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/502944/0/20f61bf99338824c9b9b272ddae5bffa.jpg?ce=2",
+  "outroTitle": "🌙 보더서트, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 보더서트 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 보더서트 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "카눈그라 호텔 (Canungra Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/canungra-hotel/hotel/gold-coast-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 217,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/502944/0/20f61bf99338824c9b9b272ddae5bffa.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 217건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 217건 기반.",
+      "reviews": [
+        {
+          "text": "우리 방은 깨끗하고 업데이트된 편의 시설로 매우 좋았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "객실은 매우 깨끗하고 편안합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "위치는 근처의 모든 명소를 즐기기에 완벽했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 것을 갖춘 매우 깨끗하고 현대적인 객실입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "방이 넓고 침대도 편안했어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Greenlee Cottages",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/greenlee-cottages/hotel/gold-coast-hinterland-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.8,
+      "reviewCount": 32,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/property/15336244/0/dac35dc54e2a8eb14a86744f5da07ffd.jpg?ca=17&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 32건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 32건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "더 오드 게코 (The Odd Gecko)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-odd-gecko/hotel/gold-coast-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 200,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5.7,
+      "img": "//pix8.agoda.net/hotelImages/286/286314/286314_17051111500052904640.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 200건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 200건 기반.",
+      "reviews": [
+        {
+          "text": "시설을 적극 추천합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "대단한 발굴!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Village Inn Canungra",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/village-inn-canungra/hotel/all/canungra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 57,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/605562292.jpg?k=c2ffed6eeaf43876497d7bff62624ddb94febe779530f82031b1301a1e63d13e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 57건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 57건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "5 Acre Retreat Jimboomba Loft by Tiny Away",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/5-acre-jimboomba-retreat/hotel/all/gold-coast-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 39,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/585234802.jpg?k=58ca02195586827ecdc87bf323840887195caeac620bed73183ae05b70eb8529&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 39건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 39건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "5 Acre Retreat Jimboomba by Tiny Away",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/5-acre-retreat/hotel/all/gold-coast-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 43,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/658007208.jpg?k=398d6c7fcb6b5d3f43d8477bb94b8cbf914adb8d1f8a5f6fb3fbad7443a365a1&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 43건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 43건 기반.",
+      "reviews": [
+        {
+          "text": "매우 친절한 직원.",
+          "score": "9.2",
+          "country": "South Africa",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "더 쿠랄빈 밸리 (The Kooralbyn Valley)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ramada-resort-by-wyndham-kooralbyn-valley_2/hotel/kooralbyn-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.6,
+      "reviewCount": 159,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 4.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/243428053.jpg?k=157cbb1f527857bba3dfa1368eedc7d9ca14134428c865ea2fcdf341e9440213&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 159건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 159건 기반.",
+      "reviews": [
+        {
+          "text": "주말에 가족들과 함께 머물러 다시 올 것 같아요.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "직원들은 훌륭했습니다. 친절하고 수용적이며 효율적이었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗했고 전망도 멋졌습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 Kooralbyn Valley의 위치에 매우 만족했습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "방에 필요한 모든 것이 갖춰져 있어 다시 머물게 되어 기쁩니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-30T16:49:41.414Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

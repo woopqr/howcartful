@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-30T15:11:55.379Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 7,
+  "lastPostedAt": "2026-07-30T16:49:27.767Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 8,
   "postedDate": "2026-07-30",
   "queue": [
-    "australia-bogabilla",
     "australia-bogabilla-rating",
     "australia-bogabilla-station",
-    "australia-bogabilla-reviewed"
+    "australia-bogabilla-reviewed",
+    "australia-borderland"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 263,
+    "cityIndex": 264,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -346,6 +346,7 @@
     "australia-belbre-rating",
     "australia-belbre-station",
     "australia-belbre-premium",
-    "australia-belbre-reviewed"
+    "australia-belbre-reviewed",
+    "australia-bogabilla"
   ]
 }
