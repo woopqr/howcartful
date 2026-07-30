@@ -1,0 +1,419 @@
+{
+  "slug": "australia-bogabilla-station",
+  "angle": "station",
+  "angleAdj": "역세권",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "보가빌라",
+  "cityId": 709115,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "보가빌라",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/637262432.jpg?k=ea6b208daaff40c82bebb8c478838892141900228ea72c682a4e52018f56f3de&o=",
+  "heroAlt": "보가빌라",
+  "heroSub": "실제 아고다 리뷰로 보가빌라의 역세권 숙소를 추렸습니다",
+  "verdictHtml": "역세권 기준 1순위는 <b>Queensland Hotel</b>입니다 (평점 8.7·리뷰 886건·1박 약 11만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/637262432.jpg?k=ea6b208daaff40c82bebb8c478838892141900228ea72c682a4e52018f56f3de&o=",
+  "outroTitle": "🌙 보가빌라, 역세권으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 보가빌라 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Queensland Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/queensland-hotel/hotel/all/goondiwindi-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 886,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/637262432.jpg?k=ea6b208daaff40c82bebb8c478838892141900228ea72c682a4e52018f56f3de&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 886건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 886건 기반.",
+      "reviews": [
+        {
+          "text": "Excellent location and perfect place to sleep and relax",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Great modernised hotel and accommodation",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Conveniently located above hotel.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Loved the complimentary tea/coffee/Milo and bickies.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Shared kitchen clean and spacious.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Pioneer Motel Goondiwindi",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pioneer-motel-goondiwindi/hotel/all/goondiwindi-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 56,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/207738101.jpg?k=3508e385b9ae0dd9d6e267d0880a1c396c813fbd1f42fd612fe3b83a4a1acc88&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 56건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 56건 기반.",
+      "reviews": [
+        {
+          "text": "Comfy beds, cold aircon, amazing shower. Couldn’t fault it!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The property's prime location made our stay enjoyable.",
+          "score": "8.4",
+          "country": "India",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Central to town, the room is fresh and so so clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Cozy place to stay, place was tidy and good comfy bed!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Walking distance to many good restaurants and pubs",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Goondiwindi Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/goondiwindi-motel_2/hotel/all/goondiwindi-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 697,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/295519153.jpg?k=73c38f43f611733cd358e333e4f5a2216afca1f74fd9dec4eb03db14311e44ea&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 697건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 697건 기반.",
+      "reviews": [
+        {
+          "text": "Rooms are clean and have the essentials that you need.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Good clean motel, perfect for 1 night stop.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Great stay",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Clean, tidy and does the job.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "오세아스 로열 호텔 (Osheas Royal Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/osheas-royal-hotel/hotel/goondiwindi-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 298,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/687/687318/687318_14080513380020681727.jpg?ca=2&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 298건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 298건 기반.",
+      "reviews": [
+        {
+          "text": "Rooms where tidy and staff where friendly.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Location is very handy and close to everything.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Central location",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Gunsynd Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/gunsynd-motor-inn/hotel/all/goondiwindi-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 50,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/282258139.jpg?k=a32051301478fa476fa8fc50135539dc5f623cca1ba916d10391f7668f3d096a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 50건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 50건 기반.",
+      "reviews": [
+        {
+          "text": "Clean and comfortable motel, friendly staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Clean, great shower and easy access.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Second time stay and its still great.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Amazing place well priced.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Clean and comfortable",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Best Western Ascot Lodge Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-ascot-lodge-motor-inn_4/hotel/goondiwindi-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 690,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/108/108692/108692_17041317160052375272.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 690건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 690건 기반.",
+      "reviews": [
+        {
+          "text": "The facilities were very clean, the staff were very helpful.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Nice motel with accommodating staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Everything you need for an overnight stop.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Clean, quiet and comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Having a restaurant on site is a bonus as well.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "보더 모텔 (Border Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/border-motel/hotel/goondiwindi-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 77,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/276088/-1/6fe99c48ae0d1f9d11e729190cb16227.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 77건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 77건 기반.",
+      "reviews": [
+        {
+          "text": "Lovely, exceptionally clean, fresh accommodation.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "We could not hear any noise from the surrounding rooms.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Good overall, cheap & clean with a comfy bed",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Check-in was a breeze, the room ticked all the boxes.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Excellent motel in great position",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "station",
+    "base": "australia-bogabilla",
+    "count": 7,
+    "builtAt": "2026-07-30T11:21:19.784Z"
+  }
+}
