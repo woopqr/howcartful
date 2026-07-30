@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-07-30T18:05:27.495Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 9,
+  "lastPostedAt": "2026-07-30T19:46:39.461Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 10,
   "postedDate": "2026-07-30",
   "queue": [
-    "australia-bogabilla-station",
     "australia-bogabilla-reviewed",
     "australia-borderland",
     "australia-borderland-rating",
@@ -351,6 +350,7 @@
     "australia-belbre-premium",
     "australia-belbre-reviewed",
     "australia-bogabilla",
-    "australia-bogabilla-rating"
+    "australia-bogabilla-rating",
+    "australia-bogabilla-station"
   ]
 }
