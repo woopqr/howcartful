@@ -1,0 +1,262 @@
+{
+  "slug": "australia-bowral-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "mittagong-au",
+  "cityName": "보우럴",
+  "cityId": 3590,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "보우럴",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/680614258.jpg?k=192a20982e2bcda7c9fe40bda14f8facb43497711efd5d0c7924ac00c1b4246f&o=",
+  "heroAlt": "보우럴",
+  "heroSub": "실제 아고다 리뷰로 보우럴의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>Honey Fig Cottage, Bowral</b>입니다 (평점 9.7·리뷰 178건·1박 약 36만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/680614258.jpg?k=192a20982e2bcda7c9fe40bda14f8facb43497711efd5d0c7924ac00c1b4246f&o=",
+  "outroTitle": "🌙 보우럴, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 보우럴 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Honey Fig Cottage, Bowral",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/honey-fig-cottage-bowral/hotel/all/bowral-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 178,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 36만원",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/680614258.jpg?k=192a20982e2bcda7c9fe40bda14f8facb43497711efd5d0c7924ac00c1b4246f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 36만원",
+        "📝 리뷰 178건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 178건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "The Potting Shed at Bunya House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-potting-shed-at-bunya-house/hotel/all/bowral-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 39,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 34만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/629847741.jpg?k=3918771f0eab13d7cc233fcb7a4da52186bf9221c6b90b3ec142f1b6e1396297&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 34만원",
+        "📝 리뷰 39건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 39건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Stately Bowral Designer Home",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/stately-bowral-designer-home/hotel/all/bowral-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 53,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 76만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/71079249.jpg?k=cbafeb7e7144d9fcb740ef85131c87617535f0b380d29b761b910e6c6b997a4d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 76만원",
+        "📝 리뷰 53건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 53건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Camellia Cottage",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/camellia-cottage/hotel/all/berrima-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 87,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 36만원",
+      "valueIndex": 5.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/381517008.jpg?k=988a183da4ac16436038d82d710084f6a3e37b6aa67257544751b9601d45c38d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 36만원",
+        "📝 리뷰 87건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 87건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Kookaburra Cottage",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kookaburra-cottage_2/hotel/all/bowral-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 32,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 41만원",
+      "valueIndex": 4.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/491178916.jpg?k=bc4395a3fc40fcd04e79d003911a5f6cb3ac2cf42e07eaa4769df61d0e39e064&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 41만원",
+        "📝 리뷰 32건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 32건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Springs Mittagong",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/springs-mittagong_2/hotel/all/mittagong-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 1273,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/20021424.jpg?k=679e5da42f4d914c8e18a0e13338c38515a392517466714c3968090e2a83e7ed&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 1,273건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,273건 기반.",
+      "reviews": [
+        {
+          "text": "The bed was very comfortable and the room lovely and quiet.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Great stay, big rooms, friendly staff, and big rooms.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Will definitely stay here again - cannot fault it",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "All was fine in our Executive Room.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Nice size room with all you need facilities.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "브리아르 컨트리 로지 (Briars Country Lodge)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/briars-country-lodge/hotel/bowral-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 2292,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.7,
+      "img": "//pix8.agoda.net/hotelImages/287830/-1/1b052455fb40ddf943f9e20d2b9e2510.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 2,292건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 2,292건 기반.",
+      "reviews": [
+        {
+          "text": "Beautiful surroundings, clean room and delicious breakfast",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Very large and spacious room, very comfy bed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Lovely outlook to the pond with fountain and roaming ducks.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Staff were very accommodating when I booked the room.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Briars Inn great for meals and some takeaway and pizzas.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-bowral",
+    "count": 7,
+    "builtAt": "2026-07-31T13:04:10.873Z"
+  }
+}

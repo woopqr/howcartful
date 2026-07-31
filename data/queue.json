@@ -1,14 +1,18 @@
 {
-  "lastPostedAt": "2026-07-31T11:05:23.836Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 4,
+  "lastPostedAt": "2026-07-31T13:04:10.878Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 5,
   "postedDate": "2026-07-31",
   "queue": [
-    "australia-borderland-premium",
     "australia-borderland-reviewed",
     "australia-boswell",
-    "australia-bowral"
+    "australia-bowral",
+    "australia-bowral-rating",
+    "australia-bowral-station",
+    "australia-bowral-premium",
+    "australia-bowral-star4",
+    "australia-bowral-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -353,6 +357,7 @@
     "australia-bogabilla-reviewed",
     "australia-borderland",
     "australia-borderland-rating",
-    "australia-borderland-station"
+    "australia-borderland-station",
+    "australia-borderland-premium"
   ]
 }
