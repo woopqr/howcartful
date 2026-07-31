@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-07-31T05:52:11.999Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 2,
+  "lastPostedAt": "2026-07-31T08:26:26.562Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 3,
   "postedDate": "2026-07-31",
   "queue": [
-    "australia-borderland-rating",
     "australia-borderland-station",
     "australia-borderland-premium",
-    "australia-borderland-reviewed"
+    "australia-borderland-reviewed",
+    "australia-boswell"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 264,
+    "cityIndex": 265,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -351,6 +351,7 @@
     "australia-bogabilla-rating",
     "australia-bogabilla-station",
     "australia-bogabilla-reviewed",
-    "australia-borderland"
+    "australia-borderland",
+    "australia-borderland-rating"
   ]
 }
