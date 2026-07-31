@@ -8,7 +8,12 @@
     "australia-bowral-premium",
     "australia-bowral-star4",
     "australia-bowral-reviewed",
-    "australia-bowen"
+    "australia-bowen",
+    "australia-bowen-rating",
+    "australia-bowen-station",
+    "australia-bowen-budget",
+    "australia-bowen-star4",
+    "australia-bowen-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
