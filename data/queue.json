@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-07-31T17:04:31.894Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 7,
+  "lastPostedAt": "2026-07-31T18:41:17.446Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 8,
   "postedDate": "2026-07-31",
   "queue": [
-    "australia-bowral",
     "australia-bowral-rating",
     "australia-bowral-station",
     "australia-bowral-premium",
@@ -358,6 +357,7 @@
     "australia-borderland-station",
     "australia-borderland-premium",
     "australia-borderland-reviewed",
-    "australia-boswell"
+    "australia-boswell",
+    "australia-bowral"
   ]
 }
