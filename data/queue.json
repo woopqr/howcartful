@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-01T01:05:23.104Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 1,
+  "lastPostedAt": "2026-08-01T04:30:11.514Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 2,
   "postedDate": "2026-08-01",
   "queue": [
-    "australia-bowral-star4",
     "australia-bowral-reviewed",
     "australia-bowen",
     "australia-bowen-rating",
@@ -364,6 +363,7 @@
     "australia-bowral",
     "australia-bowral-rating",
     "australia-bowral-station",
-    "australia-bowral-premium"
+    "australia-bowral-premium",
+    "australia-bowral-star4"
   ]
 }
