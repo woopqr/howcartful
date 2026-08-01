@@ -8,7 +8,10 @@
     "australia-bowen-reviewed",
     "australia-bowen-mountain",
     "australia-boyne-island",
-    "australia-boat-harbour"
+    "australia-boat-harbour",
+    "australia-boat-harbour-rating",
+    "australia-boat-harbour-station",
+    "australia-boat-harbour-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
