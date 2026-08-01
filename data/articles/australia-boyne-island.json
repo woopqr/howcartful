@@ -1,0 +1,264 @@
+{
+  "slug": "australia-boyne-island",
+  "title": "보인 아일랜드 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 보인 아일랜드 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "tannum-sands-au",
+  "cityName": "보인 아일랜드",
+  "cityId": 671712,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "보인 아일랜드",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/366065373.jpg?k=323e158b234eea75c683b83e1fe4adb6d6e0403b03ba802aef58a8c0da190579&o=",
+  "heroAlt": "보인 아일랜드",
+  "heroTitleHtml": "보인 아일랜드 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Discovery Parks - Tannum Sands</b>(평점 8.9·리뷰 360건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Discovery Parks - Tannum Sands</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/366065373.jpg?k=323e158b234eea75c683b83e1fe4adb6d6e0403b03ba802aef58a8c0da190579&o=",
+  "outroTitle": "🌙 보인 아일랜드, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 보인 아일랜드 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 보인 아일랜드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Discovery Parks - Tannum Sands",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/discovery-parks-tannum-sands-h32656483/hotel/tannum-sands-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 360,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/366065373.jpg?k=323e158b234eea75c683b83e1fe4adb6d6e0403b03ba802aef58a8c0da190579&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 360건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 360건 기반.",
+      "reviews": [
+        {
+          "text": "해변에 가까운 사랑스럽고 조용하며 깨끗한 숙소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "매우 평화로운 리셉션",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "정말 편안하고 큰 침대",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "놀라운 발코니",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "평화로운 숙박",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Boyne Island Motel and Villas",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/boyne-island-motel-and-villas/hotel/boyne-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 595,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/59600014/0/bc1ca6047b83af7cba21f7ecbde85fe2.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 595건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 595건 기반.",
+      "reviews": [
+        {
+          "text": "친절한 직원이 있는 매우 깔끔한 단지입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "조용하고 깨끗하며 깔끔한 방.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "위치가 훌륭하고 깨끗하고 깔끔합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "정말 좋은 소유자/운영자",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "단순한 모텔 방, 모든 것이 잘 작동합니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Reef Adventureland Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/reef-adventureland-motor-inn/hotel/all/tannum-sands-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 565,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/487002635.jpg?k=0a85a4fa2cea95d3cb376ae0c3cf745be91e1be7a5605feb146a7e272235f65e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 565건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 565건 기반.",
+      "reviews": [
+        {
+          "text": "상점까지 걸어서 갈 수 있는 훌륭한 위치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "수영장 지역은 훌륭합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "장소는 안전하고 깨끗합니다.",
+          "score": "7.6",
+          "country": "Canada",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "이 장소를 좋아해요!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "확실히 돌아올 것이다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Tannum On The Beach Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tannum-on-the-beach-motel/hotel/all/tannum-sands-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 454,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/576641221.jpg?k=ee28dfb4a49548f9a16be1986b52c7bf73d8a0b9fb300003b69d4395b91b8fd5&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 454건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 454건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗했고 모든 것이 제대로 작동하고 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 위치는 완벽했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "주말에 머물기에 완벽한 장소.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "즐거운 시간을 보냈습니다!",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 가격과 위치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-01T14:18:08.274Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}
