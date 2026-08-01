@@ -1,0 +1,177 @@
+{
+  "slug": "australia-bowen-mountain",
+  "title": "보웬 마운틴 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 보웬 마운틴 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "blue-mountains-au",
+  "cityName": "보웬 마운틴",
+  "cityId": 711746,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "보웬 마운틴",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/227453040.jpg?k=4f3e1849adf90001848d47bd4c4611ec3c326aa274273748696ab623b8d71dc2&o=",
+  "heroAlt": "보웬 마운틴",
+  "heroTitleHtml": "보웬 마운틴 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Blueberry Hills On Comleroy Farmstay - B&B and Self-Contained Cottages</b>(평점 9.5·리뷰 83건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Blueberry Hills On Comleroy Farmstay - B&B and Self-Contained Cottages</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/227453040.jpg?k=4f3e1849adf90001848d47bd4c4611ec3c326aa274273748696ab623b8d71dc2&o=",
+  "outroTitle": "🌙 보웬 마운틴, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 보웬 마운틴 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 보웬 마운틴 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Blueberry Hills On Comleroy Farmstay - B&B and Self-Contained Cottages",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/blueberry-hills-on-comleroy/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 83,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/227453040.jpg?k=4f3e1849adf90001848d47bd4c4611ec3c326aa274273748696ab623b8d71dc2&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 83건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 83건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "The Willows at Kurrajong",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-willows-at-kurrajong/hotel/all/mcmahons-point-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 95,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/186143594.jpg?k=a7352fb8d3541816c872b90f0796c06634ed98f45e667f2ff29521e82d50fec3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 95건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 95건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "A place to be",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/a-place-to-be/hotel/all/grose-vale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 39,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 35만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/407180662.jpg?k=a2c866191b778281b35319190bef4e9cf580041ce7675f8e9e66e6e0f51378bc&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 35만원",
+        "📝 리뷰 39건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 39건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Spicers Sangoma Retreat - Adults Only",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/spicers-sangoma-retreat-adults-only_11/hotel/all/bowen-mountain-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 47,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 207만원",
+      "valueIndex": 5,
+      "img": "//pix8.agoda.net/hotelImages/877064/0/d70b260fd0b92030c6f5144ea54f49e7.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 207만원",
+        "📝 리뷰 47건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 47건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "매디슨스 마운틴 리트리트 (Madison's Mountain Retreat)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/madison-s-mountain-retreat/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 57,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 32만원",
+      "valueIndex": 4.8,
+      "img": "//pix8.agoda.net/hotelImages/251451/0/aae26b3c9fedcad62e0d0576ae19d68a.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 32만원",
+        "📝 리뷰 57건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 57건 기반.",
+      "reviews": [
+        {
+          "text": "머물기 좋은 곳이고 숙박 시설은 훌륭했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "캐빈에는 하루를 마무리할 수 있는 스파와 온수 샤워 시설이 마련되어 있습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "숲속의 나만의 별장에 머무르는 느낌이 너무 좋았습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "객실은 매우 깨끗했고 직원들은 도움이 되었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "알파카를 매일 2번 먹이는 것은 아이들에게 아주 좋았습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-01T11:51:58.502Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}
