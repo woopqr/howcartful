@@ -1,0 +1,274 @@
+{
+  "slug": "australia-boat-harbour",
+  "title": "보트 하버 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 보트 하버 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "보트 하버",
+  "cityId": 512787,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "보트 하버",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/230389501.jpg?k=60ac72f7318651128d5266ce3b2b67b4cef6bac8cc1ae69a8a64c520b6d29c57&o=",
+  "heroAlt": "보트 하버",
+  "heroTitleHtml": "보트 하버 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>The Waterfront Wynyard</b>(평점 9.4·리뷰 1,281건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>The Waterfront Wynyard</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/230389501.jpg?k=60ac72f7318651128d5266ce3b2b67b4cef6bac8cc1ae69a8a64c520b6d29c57&o=",
+  "outroTitle": "🌙 보트 하버, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 보트 하버 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 보트 하버 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Waterfront Wynyard",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-waterfront-wynyard_7/hotel/all/wynyard-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 1281,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/230389501.jpg?k=60ac72f7318651128d5266ce3b2b67b4cef6bac8cc1ae69a8a64c520b6d29c57&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 1,281건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 1,281건 기반.",
+      "reviews": [
+        {
+          "text": "예약부터 출발까지 모든 것이 완벽했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "우리 방과 가사는 칭찬받을 만합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "머물기 좋은 숙소, 깨끗하고 편안한 침대, 훌륭한 샤워실",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 강 전망이 보이는 아름다운 아침 식사.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "나에게 깊은 인상을 준 마을에 머물기에 좋은 곳입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "더 워프 호텔 윈야드 (The Wharf Hotel Wynyard)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-wharf-hotel-wynyard/hotel/wynyard-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 398,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/242/2424423/2424423_17070809520054324059.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 398건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 398건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 비스트로, 저렴한 가격에 편안한 욕실이 딸린 객실.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "직원들은 훌륭하고 대화를 나눌 것입니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "부두 너머로 보이는 훌륭한 위치.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 곳",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "항상 깨끗하고 편안해요",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Kadi House - Unit 1",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kadi-house-unit-1/hotel/all/wynyard-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 151,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/682631507.jpg?k=20e420ab07e83441c2d8255101744ea2f7ae99f89cdd8eb46e903b1b6850d0e9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 151건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 151건 기반.",
+      "reviews": [
+        {
+          "text": "다양한 추가 편의 시설을 갖춘 사랑스러운 고품질 객실입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "객실 시설이 매우 좋고 조용하고 위치도 좋습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 몇 번 머물렀고 항상 그것을 좋아합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "이 작은 숙소는 아주 작은 휴가지였습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "우리가 문에 들어갔을 때 그것은 매우 편안한 환경이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Burnie Airport Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/burnie-airport-motel_4/hotel/all/wynyard-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 87,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/230388737.jpg?k=5b287f07d6ce9d2326057507af92700ae818f2a9af953d542bae639a5a870a03&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 87건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 87건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Killynaught Spa Cottages",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/killynaught-spa-cottages_2/hotel/all/boat-harbour-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 240,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/141338219.jpg?k=698294939592bc1298e29e6777a3d4c62d7e1d9f874b80bb1b8ddd0981960463&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 240건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 240건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Coastal Pods Wynyard",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/coastal-pods-wynyard_2/hotel/all/wynyard-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.8,
+      "reviewCount": 116,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 32만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/87261355.jpg?k=5a1ad3c6341f10ad7a048363f3d400506f2cb19156b4595ad3a59edeb343a309&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 32만원",
+        "📝 리뷰 116건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 116건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-01T15:30:06.031Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}

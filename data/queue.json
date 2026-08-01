@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-01T14:17:44.422Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 7,
+  "lastPostedAt": "2026-08-01T15:29:52.406Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 8,
   "postedDate": "2026-08-01",
   "queue": [
-    "australia-bowen-star4",
     "australia-bowen-reviewed",
     "australia-bowen-mountain",
-    "australia-boyne-island"
+    "australia-boyne-island",
+    "australia-boat-harbour"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 269,
+    "cityIndex": 270,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -366,6 +366,7 @@
     "australia-bowen",
     "australia-bowen-rating",
     "australia-bowen-station",
-    "australia-bowen-budget"
+    "australia-bowen-budget",
+    "australia-bowen-star4"
   ]
 }
