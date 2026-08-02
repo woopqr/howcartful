@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-01T18:34:01.686Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 10,
-  "postedDate": "2026-08-01",
+  "lastPostedAt": "2026-08-02T01:08:40.162Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 1,
+  "postedDate": "2026-08-02",
   "queue": [
-    "australia-boyne-island",
     "australia-boat-harbour",
     "australia-boat-harbour-rating",
     "australia-boat-harbour-station",
@@ -370,6 +369,7 @@
     "australia-bowen-budget",
     "australia-bowen-star4",
     "australia-bowen-reviewed",
-    "australia-bowen-mountain"
+    "australia-bowen-mountain",
+    "australia-boyne-island"
   ]
 }
