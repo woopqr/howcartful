@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-02T09:23:04.209Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 4,
+  "lastPostedAt": "2026-08-02T10:55:34.498Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 5,
   "postedDate": "2026-08-02",
   "queue": [
-    "australia-boat-harbour-reviewed",
     "australia-bonville",
     "australia-bonville-rating",
     "australia-bonville-station",
@@ -374,6 +373,7 @@
     "australia-boyne-island",
     "australia-boat-harbour",
     "australia-boat-harbour-rating",
-    "australia-boat-harbour-station"
+    "australia-boat-harbour-station",
+    "australia-boat-harbour-reviewed"
   ]
 }
