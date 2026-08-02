@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-02T13:42:44.356Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 7,
+  "lastPostedAt": "2026-08-02T14:49:04.883Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 8,
   "postedDate": "2026-08-02",
   "queue": [
-    "australia-bonville-station",
     "australia-bonville-reviewed",
     "australia-bolly-point",
-    "australia-bomba-point"
+    "australia-bomba-point",
+    "australia-boona"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 273,
+    "cityIndex": 274,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -376,6 +376,7 @@
     "australia-boat-harbour-station",
     "australia-boat-harbour-reviewed",
     "australia-bonville",
-    "australia-bonville-rating"
+    "australia-bonville-rating",
+    "australia-bonville-station"
   ]
 }

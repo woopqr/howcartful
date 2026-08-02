@@ -1,0 +1,258 @@
+{
+  "slug": "australia-boona",
+  "title": "부나 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 부나 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "부나",
+  "cityId": 712238,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "부나",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/760121557.jpg?k=57fcb0fcc9953ab1a161c27b33da4e8964f90bcfb12b3f8132691f153e92799e&o=",
+  "heroAlt": "부나",
+  "heroTitleHtml": "부나 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Hideaway on Hume #2</b>(평점 9.7·리뷰 87건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Hideaway on Hume #2</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/760121557.jpg?k=57fcb0fcc9953ab1a161c27b33da4e8964f90bcfb12b3f8132691f153e92799e&o=",
+  "outroTitle": "🌙 부나, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 부나 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 부나 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Hideaway on Hume #2",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hideaway-on-hume-2/hotel/all/boonah-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 87,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/760121557.jpg?k=57fcb0fcc9953ab1a161c27b33da4e8964f90bcfb12b3f8132691f153e92799e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 87건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 87건 기반.",
+      "reviews": [
+        {
+          "text": "세면도구와 보드 게임도 좋은 터치였습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 은신처!",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "벨린다는 매우 도움이 되었습니다!",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "보나 모텔 (Boonah Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/boonah-motel_3/hotel/boonah-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 77,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/295361/0/e5ed7f7ab40c25fde510de81c667f269.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 77건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 77건 기반.",
+      "reviews": [
+        {
+          "text": "멋진 Scenic Rim 명소와 가까운 멋지고 깔끔한 작은 마을",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "주인이 사랑스러워서 아주 쉽게 즐거운 시간을 보낼 수 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "매우 친절하고 도움이 되는 직원.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "적극 추천받은 직원이 우리를 위해 충분하지 못했습니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "큰 문제는 없었으며 직원들은 매우 도움이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Boonah Valley Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/boonah-valley-motel/hotel/boonah-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 68,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/property/69847875/0/3a6adaab253bc3d5aa7340dca5e164d5.jpeg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 68건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 68건 기반.",
+      "reviews": [
+        {
+          "text": "원활한 체크인 및 체크아웃.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "매우 편안한 밤",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "행복하게 돌아올 것입니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Commercial Hotel Boonah",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/commercial-hotel-boonah/hotel/all/boonah-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 36,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/783210127.jpg?k=0371a660db7ba3c62404e568a34d6ad96fce44d495c2d57171afd040831525ff&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 36건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 36건 기반.",
+      "reviews": [
+        {
+          "text": "호텔은 새로 개조되었으며 환상적입니다.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "좋은 호텔",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "The Old Church Bed and Breakfast",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-old-church-bed-and-breakfast/hotel/all/boonah-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 91,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 28만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/877308641.jpg?k=df4017d69fcfb7323ce4146644f10dbbb3f5095a93a7c4db117e854ce8e913db&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 28만원",
+        "📝 리뷰 91건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 91건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 오래된 교회에서 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Australië",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "주인은 매우 친절하고 친절했습니다.",
+          "score": "10",
+          "country": "Australië",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 매우 좋았습니다.",
+          "score": "10",
+          "country": "Australië",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-02T14:49:24.306Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}
