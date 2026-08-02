@@ -1,0 +1,363 @@
+{
+  "slug": "australia-bonville-station",
+  "angle": "station",
+  "angleAdj": "역세권",
+  "lang": "ko-kr",
+  "citySlug": "coffs-harbour-au",
+  "cityName": "본빌",
+  "cityId": 141433,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "본빌",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/87839526.jpg?k=b4f05689f228e240118da03862d8c8fea787a292a93e1c1d4c3c06479a8bd103&o=",
+  "heroAlt": "본빌",
+  "heroSub": "실제 아고다 리뷰로 본빌의 역세권 숙소를 추렸습니다",
+  "verdictHtml": "역세권 기준 1순위는 <b>Boambee Bay Resort</b>입니다 (평점 8.7·리뷰 110건·1박 가격 변동). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/87839526.jpg?k=b4f05689f228e240118da03862d8c8fea787a292a93e1c1d4c3c06479a8bd103&o=",
+  "outroTitle": "🌙 본빌, 역세권으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 본빌 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Boambee Bay Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/boambee-bay-resort_2/hotel/all/coffs-harbour-au.html?cid=1925461",
+      "walkMin": 12,
+      "score": 8.7,
+      "reviewCount": 110,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/87839526.jpg?k=b4f05689f228e240118da03862d8c8fea787a292a93e1c1d4c3c06479a8bd103&o=",
+      "distanceNote": "약 968.22m · Sawtell 인근",
+      "metaTags": [
+        "📝 리뷰 110건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 110건 기반.",
+      "reviews": [
+        {
+          "text": "What an awesome place for families.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Central Oasis",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/central-oasis/hotel/all/coffs-harbour-au.html?cid=1925461",
+      "walkMin": 32,
+      "score": 8.8,
+      "reviewCount": 166,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/374405828.jpg?k=07b2594803cdff2e6d4d81455722af2ed9af2849356587b9e26c94e11f626d03&o=",
+      "distanceNote": "약 2583.45m · Coffs Harbour Train Station 인근",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 166건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 166건 기반.",
+      "reviews": [
+        {
+          "text": "Modern, clean and spacious with all essentials provided.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "If we come again, surely it will be our first choice.",
+          "score": "10",
+          "country": "호주",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Beds were large and super comfy.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "All things are satisfied and comfortable.",
+          "score": "10",
+          "country": "호주",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Fantastic little hidden gem for a stop over.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "컴포트 인 프리미어 (Comfort Inn Premier)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/comfort-inn-premier_2/hotel/coffs-harbour-au.html?cid=1925461",
+      "walkMin": 35,
+      "score": 7.9,
+      "reviewCount": 79,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/2448664/0/0f4cab75625891640be918e27e1549ad.jpeg",
+      "distanceNote": "약 2763.91m · Coffs Harbour Train Station 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 79건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 79건 기반.",
+      "reviews": [
+        {
+          "text": "The room was very clean and the bed very comfortable.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Pleasant stay, clean and comfortable facilities.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Pleace was nice and tidy, lovde it.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "So cleaned and perfect location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "I recommended to stay for next visitors.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "코프스 윈드밀 모텔 (Coffs Windmill Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big-windmill-corporate-family-motel/hotel/coffs-harbour-au.html?cid=1925461",
+      "walkMin": 43,
+      "score": 8,
+      "reviewCount": 281,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/6587411/-1/f5ec6ec1cf284def834ce5a0dfe0a4ef.jpg?ce=0",
+      "distanceNote": "약 3425.47m · Coffs Harbour Train Station 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 281건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 281건 기반.",
+      "reviews": [
+        {
+          "text": "Spacious clean room with comfortable bed, quiet location.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Good wifi speed and convenient location.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Great kitchenette facilities and modern TV.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Great size room with a great price!",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Staff were very welcoming and accommodating.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Sanctuary Resort & TreeHouse Restaurant",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sanctuary-resort_2/hotel/all/coffs-harbour-au.html?cid=1925461",
+      "walkMin": 48,
+      "score": 8.3,
+      "reviewCount": 56,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/200697470.jpg?k=e1808902eaeefb82ac81b593ddb500ac5e14826a91c7147738f51a1f8520aec5&o=",
+      "distanceNote": "약 3868.09m · Coffs Harbour Train Station 인근",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 56건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 56건 기반.",
+      "reviews": [
+        {
+          "text": "Great price, nice and clean, lots of room, great amenities.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Comfortable room, pleasant staff and a great restaurant.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Good reasonable place to stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Enjoyed my overnight stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Great accommodation - Suited me!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Bellinger River Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bellinger-river-tourist-park_17/hotel/all/repton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 123,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/603750015.jpg?k=7335d0b03afc6fc32b97a851f163eca41eb93cc14980f31978ed63b3838014cb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 123건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 123건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "리플렉션 홀리데이 파크 마일스톰 (Reflections Holiday Parks Mylestom)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/reflections-holiday-parks-mylestom_2/hotel/mylestom-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 158,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/549021/0/37706d70104a115002811f7a74c6d1b8.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 158건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 158건 기반.",
+      "reviews": [
+        {
+          "text": "I loved everything about this place",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Terrific place",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Can’t wait to return",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "station",
+    "base": "australia-bonville",
+    "count": 7,
+    "builtAt": "2026-08-02T07:13:47.209Z"
+  }
+}
