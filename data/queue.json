@@ -8,7 +8,10 @@
     "australia-bomba-point",
     "australia-boona",
     "australia-burowa",
-    "australia-burley"
+    "australia-burley",
+    "australia-burley-rating",
+    "australia-burley-station",
+    "australia-burley-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
