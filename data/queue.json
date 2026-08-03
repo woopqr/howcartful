@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-02T17:43:29.824Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 10,
-  "postedDate": "2026-08-02",
+  "lastPostedAt": "2026-08-03T01:12:58.710Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-08-03",
   "queue": [
-    "australia-bomba-point",
     "australia-boona",
     "australia-burowa",
     "australia-burley",
@@ -382,6 +381,7 @@
     "australia-bonville-rating",
     "australia-bonville-station",
     "australia-bonville-reviewed",
-    "australia-bolly-point"
+    "australia-bolly-point",
+    "australia-bomba-point"
   ]
 }
