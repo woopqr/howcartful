@@ -1,0 +1,367 @@
+{
+  "slug": "australia-bundalong-rating",
+  "angle": "rating",
+  "angleAdj": "평점 높은",
+  "lang": "ko-kr",
+  "citySlug": "mulwala-au",
+  "cityName": "분달롱",
+  "cityId": 710298,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "분달롱",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/618210413.jpg?k=635fa434d6cd1737834b05561f9ce2393c159d19fa4bb7a21d16e838648bdb6d&o=",
+  "heroAlt": "분달롱",
+  "heroSub": "실제 아고다 리뷰로 분달롱의 평점 높은 숙소를 추렸습니다",
+  "verdictHtml": "평점 높은 기준 1순위는 <b>물왈라 리조트</b>입니다 (평점 9.6·리뷰 45건·1박 약 14만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/618210413.jpg?k=635fa434d6cd1737834b05561f9ce2393c159d19fa4bb7a21d16e838648bdb6d&o=",
+  "outroTitle": "🌙 분달롱, 평점 높은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 분달롱 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "물왈라 리조트 (Mulwala Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mulwala-murray-river-motel_2/hotel/mulwala-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 45,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/618210413.jpg?k=635fa434d6cd1737834b05561f9ce2393c159d19fa4bb7a21d16e838648bdb6d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 45건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 45건 기반.",
+      "reviews": [
+        {
+          "text": "From checking in to checking out, it was a wonderful stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Rooms are very clean and modern with comfortable beds.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "The positive, homely vibe about the place made our weekend.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "The facilities are perfect and even the pool is heated.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Lovely friendly staff and absolutely value for money.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "DBJ 홀리데이 유니츠 (DBJ Holiday Units)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dbj-holiday-units/hotel/mulwala-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 332,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/1266356/0/5d0ac362e749a4426c7d7f6a1db8f12e.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 332건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 332건 기반.",
+      "reviews": [
+        {
+          "text": "Very clean, spacious and private.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "Great accomodation",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "I am glad I've chosen this place.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Beautiful clean place",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Unit spacious and clean.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "클럽 물왈라 리조트 (Club Mulwala Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/club-mulwala-resort/hotel/mulwala-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 366,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/699167/0/a1058bc7aca013c393be9969d054fd47.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 366건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 366건 기반.",
+      "reviews": [
+        {
+          "text": "Great room with a view of the lake, clean and comfortable",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Beautiful views of Lake Mulwala from our balcony.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "food and staff are excellent ( thanks belinda and lisa)",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Breakfast included at Club Mulwala is great as well.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The resort facilities exceeded my expectations.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "애슐리 코트 모터 인 앤 캐빈스 (Ashleigh Court Motor Inn and Cabins)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ashleigh-court-motor-inn-and-cabins/hotel/mulwala-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 877,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.8,
+      "img": "//pix8.agoda.net/hotelImages/568500/0/3a6b798a90b44e719ec1c500e7c50847.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 877건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 877건 기반.",
+      "reviews": [
+        {
+          "text": "We stayed here the staff were amazing, the cabin was clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Perfect spacious rooms for a couple.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "As always this venue ticks all the boxes",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "It is everything I could wish for.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "I cannot find a single short coming.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Murray Valley Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/murray-valley-resort_8/hotel/yarrawonga-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 43,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/property/26177998/0/f4c516eb48c55faeaaa340a457c697f3.jpg?ca=23&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 43건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 43건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "케네디 홀리데이 빌라 (Kennedy Holiday Villas)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kennedy-holiday-villas/hotel/mulwala-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 217,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/569037/0/7694158c0ebabb79c27aec3c9fe7294b.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 217건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 217건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "야라원가 홀리데이 파크 캐빈 (Yarrawonga Holiday Park Cabins)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/yarrawonga-holiday-park-cabins/hotel/yarrawonga-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 232,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/686/686351/686351_14072210010020384083.jpg?ca=2&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 232건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 232건 기반.",
+      "reviews": [
+        {
+          "text": "We will definitely be coming back here.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "They were absolutely lovely.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "The staff were excellent.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Our kids had so much fun.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "We loved our stay here.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "rating",
+    "base": "australia-bundalong",
+    "count": 7,
+    "builtAt": "2026-08-03T23:37:54.665Z"
+  }
+}

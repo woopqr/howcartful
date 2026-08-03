@@ -8,7 +8,11 @@
     "australia-burill-lake-premium",
     "australia-burill-lake-star4",
     "australia-burill-lake-reviewed",
-    "australia-bundalong"
+    "australia-bundalong",
+    "australia-bundalong-rating",
+    "australia-bundalong-station",
+    "australia-bundalong-star4",
+    "australia-bundalong-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
