@@ -1,0 +1,334 @@
+{
+  "slug": "australia-burill-lake-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "ulladulla-au",
+  "cityName": "부릴 레이크",
+  "cityId": 710301,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "부릴 레이크",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/472036340.jpg?k=cfc285266fd6bbfce11933c58dc7da37c75b265dcf5f268eac72e35af5870e02&o=",
+  "heroAlt": "부릴 레이크",
+  "heroSub": "실제 아고다 리뷰로 부릴 레이크의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>Fish Cottage BYO Linen Pet Friendly Sleeps 8</b>입니다 (평점 9.6·리뷰 37건·1박 약 34만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/472036340.jpg?k=cfc285266fd6bbfce11933c58dc7da37c75b265dcf5f268eac72e35af5870e02&o=",
+  "outroTitle": "🌙 부릴 레이크, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 부릴 레이크 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Fish Cottage BYO Linen Pet Friendly Sleeps 8",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/fish-cottage-ulladulla-linen-not-supplied/hotel/all/ulladulla-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 37,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 34만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/472036340.jpg?k=cfc285266fd6bbfce11933c58dc7da37c75b265dcf5f268eac72e35af5870e02&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 34만원",
+        "📝 리뷰 37건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 37건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Milton Village Retreat - secluded comfort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/milton-village-retreat-secluded-comfort/hotel/all/milton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 37,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/782011266.jpg?k=d426ba5622e289098298845b8da58fb7c981b862d397819d11d44570d6c20ce9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 37건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 37건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Motel Molly - Boutique Hotel Mollymook",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/motel-molly-boutique-hotel-mollymook/hotel/all/mollymook-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 565,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 28만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/407358646.jpg?k=d93fc6e62a8bf41658496e90e8105105150506671775b94b9af2642dcb6e1813&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 28만원",
+        "📝 리뷰 565건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 565건 기반.",
+      "reviews": [
+        {
+          "text": "Also great location near beach and very helpful staff",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "I liked that beach and indoor towels were provided.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "The staff were very friendly and helpful.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Stylish and comfortable",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2023.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Dolphins Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dolphins-of-mollymook-motel-and-fifth-green-apartments/hotel/all/mollymook-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 37,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/857804126.jpg?k=f9e1f48a3615d62411092d45e6535956767f3d7e4d22fb8808ded190feeef6f8&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 37건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 37건 기반.",
+      "reviews": [
+        {
+          "text": "Short walk to the beach.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Archy's on the Lake",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/edgewater-motel/hotel/all/burrill-lake-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 301,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 29만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/412289/0/1b2a36ae95b49d2a56daa4f254bf0ae3.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 29만원",
+        "📝 리뷰 301건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 301건 기반.",
+      "reviews": [
+        {
+          "text": "We had an amazing time staying at Edgewater motel.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The cabin had a window view to the lake full of pelicans.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "We would highly recommend and can’t wait to go back",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Amazing location in a cozy cabin",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "몰리무크 쇼어 모텔 (Mollymook Shores Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mollymook-motel/hotel/mollymook-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 158,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5.7,
+      "img": "//pix8.agoda.net/hotelImages/4592044/-1/a2beb79082dad03fd30b78a570f90581.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 158건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 158건 기반.",
+      "reviews": [
+        {
+          "text": "The bed was super comfortable, which is paramount for me.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "It was lovely being across from the beach heading the waves.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "It’s the only venue we stay at in Mollymook!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Nice Thai restaurant on site which had lovely food.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Lovely room walking distance to beach and club.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Salter Brothers Mollymook Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bannisters-pavilion/hotel/mollymook-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 68,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 33만원",
+      "valueIndex": 5,
+      "img": "//pix8.agoda.net/hotelImages/1159421/-1/54c16c5590d006069c92e339f9fd9d64.jpg?ca=7&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 33만원",
+        "📝 리뷰 68건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 68건 기반.",
+      "reviews": [
+        {
+          "text": "Penthouse was amazing.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Great location and modern hotel",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Good location, we had a great time.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Clean and comfortable stay.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Clean and comfy stay",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-burill-lake",
+    "count": 7,
+    "builtAt": "2026-08-03T14:04:00.864Z"
+  }
+}
