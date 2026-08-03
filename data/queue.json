@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-03T14:04:00.870Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 5,
+  "lastPostedAt": "2026-08-03T16:34:59.633Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 6,
   "postedDate": "2026-08-03",
   "queue": [
-    "australia-burley-station",
     "australia-burley-reviewed",
     "australia-burill-lake",
     "australia-burill-lake-rating",
@@ -388,6 +387,7 @@
     "australia-boona",
     "australia-burowa",
     "australia-burley",
-    "australia-burley-rating"
+    "australia-burley-rating",
+    "australia-burley-station"
   ]
 }
