@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-04T07:06:38.385Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 3,
+  "lastPostedAt": "2026-08-04T09:47:07.188Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 4,
   "postedDate": "2026-08-04",
   "queue": [
-    "australia-bundalong",
     "australia-bundalong-rating",
     "australia-bundalong-station",
     "australia-bundalong-star4",
@@ -394,6 +393,7 @@
     "australia-burill-lake-station",
     "australia-burill-lake-premium",
     "australia-burill-lake-star4",
-    "australia-burill-lake-reviewed"
+    "australia-burill-lake-reviewed",
+    "australia-bundalong"
   ]
 }
