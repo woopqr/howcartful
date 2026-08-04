@@ -1,0 +1,376 @@
+{
+  "slug": "australia-bundamba-rating",
+  "angle": "rating",
+  "angleAdj": "평점 높은",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "분담바",
+  "cityId": 142142,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "분담바",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/292577592.jpg?k=df8bb5c2a5dc745446e992c54c1342ac7c33d4305b87ef441419521a25b61e72&o=",
+  "heroAlt": "분담바",
+  "heroSub": "실제 아고다 리뷰로 분담바의 평점 높은 숙소를 추렸습니다",
+  "verdictHtml": "평점 높은 기준 1순위는 <b>B&B Home in the Country</b>입니다 (평점 9.6·리뷰 130건·1박 가격 변동). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/292577592.jpg?k=df8bb5c2a5dc745446e992c54c1342ac7c33d4305b87ef441419521a25b61e72&o=",
+  "outroTitle": "🌙 분담바, 평점 높은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 분담바 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "B&B Home in the Country",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/b-b-home-in-the-country/hotel/all/ipswich-au.html?cid=1925461",
+      "walkMin": 39,
+      "score": 9.6,
+      "reviewCount": 130,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/292577592.jpg?k=df8bb5c2a5dc745446e992c54c1342ac7c33d4305b87ef441419521a25b61e72&o=",
+      "distanceNote": "약 3095.62m · Dinmore Railway Station 인근",
+      "metaTags": [
+        "📝 리뷰 130건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 130건 기반.",
+      "reviews": [
+        {
+          "text": "Highly recommended thier B & B.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Studio Apartment",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/studio-apartment/hotel/all/ipswich-au.html?cid=1925461",
+      "walkMin": 39,
+      "score": 9.4,
+      "reviewCount": 98,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/592475933.jpg?k=68fa9c6f8dc725625840ca197ca3fb03d349ed0cbba048470b80cebaafffe410&o=",
+      "distanceNote": "약 3137.39m · Riverview Railway Station 인근",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 98건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 98건 기반.",
+      "reviews": [
+        {
+          "text": "Bathroom nice and spacious, including a small spa.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Very clean, the owner greeted me at the gate.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Clean, nice and great low price, definately will book again",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Lovely host - clean studio apartment with amenities",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Clean and tidy, lovely host, worth the money.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Cumquat House ",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cumquat-accommodation/hotel/ipswich-au.html?cid=1925461",
+      "walkMin": 19,
+      "score": 9.2,
+      "reviewCount": 83,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 20만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/126/1266011/1266011_16071013100044546219.jpg?ca=6&ce=1",
+      "distanceNote": "약 1526.11m · Ipswich Station 인근",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 83건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 83건 기반.",
+      "reviews": [
+        {
+          "text": "The room is very cute,reminds me of an old English hotel.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The bed was very comfortable and everything clean.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Beautiful building, great location, good parking.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Lovely manager that I met and very helpful with my luggage.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "It is very clean and friendly 😀",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "퀘스트 이피스위크 (Quest Ipswich)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quest-ipswich/hotel/ipswich-au.html?cid=1925461",
+      "walkMin": 17,
+      "score": 9.1,
+      "reviewCount": 768,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/9558741.jpg?k=888e2cdd79bdb297ff489a39adb01cffe6df3f5f63a6763258b2b15b707d1b64&o=",
+      "distanceNote": "약 1372.57m · Ipswich Station 인근",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 768건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 768건 기반.",
+      "reviews": [
+        {
+          "text": "Housekeeping was also spot on, efficient and thorough.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "I had a wonderful stay at Quest Ipswich!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "The cleanliness of the facilities was top-notch",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The staff on the reception very friendly",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "I am a travel consultant and 100% would sell this place",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Bee house",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bee-house/hotel/all/ipswich-au.html?cid=1925461",
+      "walkMin": 4,
+      "score": 9.1,
+      "reviewCount": 44,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/645188315.jpg?k=06d55238b69fe8c7460983aba98bd254c77a2acee53a7f5a6456d456925c3e59&o=",
+      "distanceNote": "약 339.59m · Dinmore Railway Station 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 44건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 44건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "컨트리 모텔 입스위치 (Country Motel Ipswich)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ipswich-country-motel_5/hotel/ipswich-au.html?cid=1925461",
+      "walkMin": 42,
+      "score": 8.9,
+      "reviewCount": 173,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/13426729/-1/cdfb6b1a1ca5afe00f6cc2fdc22a9649.jpg?ca=16&ce=1",
+      "distanceNote": "약 3398.38m · Bundamba Station 인근",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 173건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 173건 기반.",
+      "reviews": [
+        {
+          "text": "Staff were friendly and lovely restaurant attached to hotel.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "The room was spacious and well appointed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Licensed restaurant on site for breakfast and evening meals.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The room was very clean and comfortable.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Very accomodating clean and tidy rooms",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "오크스 입스위치 에스파이어 스위트 (Oaks Ipswich Aspire Suites)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oaks-aspire-apartment/hotel/ipswich-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8.6,
+      "reviewCount": 1128,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 31만원",
+      "valueIndex": 5,
+      "img": "//pix8.agoda.net/hotelImages/147892/-1/174b1a7bfe9a792b9d6fc659fda077d5.jpg?ca=0&ce=1",
+      "distanceNote": "약 486.4m · Ipswich Station 인근",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 1,128건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,128건 기반.",
+      "reviews": [
+        {
+          "text": "Staff are very friendly&efficient with their service.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The apartment was well looked after though, tidy and clean.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Would 💯 return this hotel, staff and facilities were good.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "The staff are amazing, location is great rooms are clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "It was fantastic and staff could not do more for you.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "rating",
+    "base": "australia-bundamba",
+    "count": 7,
+    "builtAt": "2026-08-04T13:27:43.656Z"
+  }
+}
