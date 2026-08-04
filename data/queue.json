@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-04T09:47:07.188Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 4,
+  "lastPostedAt": "2026-08-04T11:50:38.680Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 5,
   "postedDate": "2026-08-04",
   "queue": [
-    "australia-bundalong-rating",
     "australia-bundalong-station",
     "australia-bundalong-star4",
-    "australia-bundalong-reviewed"
+    "australia-bundalong-reviewed",
+    "australia-bundamba"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 279,
+    "cityIndex": 280,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -394,6 +394,7 @@
     "australia-burill-lake-premium",
     "australia-burill-lake-star4",
     "australia-burill-lake-reviewed",
-    "australia-bundalong"
+    "australia-bundalong",
+    "australia-bundalong-rating"
   ]
 }
