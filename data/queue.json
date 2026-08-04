@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-04T15:55:26.735Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 7,
+  "lastPostedAt": "2026-08-04T17:42:45.768Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 8,
   "postedDate": "2026-08-04",
   "queue": [
-    "australia-bundalong-reviewed",
     "australia-bundamba",
     "australia-bundamba-rating",
     "australia-bundamba-station",
@@ -399,6 +398,7 @@
     "australia-bundalong",
     "australia-bundalong-rating",
     "australia-bundalong-station",
-    "australia-bundalong-star4"
+    "australia-bundalong-star4",
+    "australia-bundalong-reviewed"
   ]
 }
