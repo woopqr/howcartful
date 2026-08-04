@@ -1,0 +1,299 @@
+{
+  "slug": "australia-bulli-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "wollongong-au",
+  "cityName": "불리",
+  "cityId": 141454,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "불리",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/408908491.jpg?k=3cea7518d3439b747e05b61804e29e3484db95ff02296c25a3dde2f75d43aacd&o=",
+  "heroAlt": "불리",
+  "heroSub": "실제 아고다 리뷰로 불리의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>Point Bulli</b>입니다 (평점 9.5·리뷰 63건·1박 약 37만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/408908491.jpg?k=3cea7518d3439b747e05b61804e29e3484db95ff02296c25a3dde2f75d43aacd&o=",
+  "outroTitle": "🌙 불리, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 불리 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Point Bulli",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/point-bulli/hotel/all/bulli-au.html?cid=1925461",
+      "walkMin": 11,
+      "score": 9.5,
+      "reviewCount": 63,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 37만원",
+      "valueIndex": 5.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/408908491.jpg?k=3cea7518d3439b747e05b61804e29e3484db95ff02296c25a3dde2f75d43aacd&o=",
+      "distanceNote": "약 898.21m · Bulli Beach 인근",
+      "metaTags": [
+        "💰 약 37만원",
+        "📝 리뷰 63건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 63건 기반.",
+      "reviews": [
+        {
+          "text": "Highly recommends Point Bulli.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "We had a peaceful and relaxing time.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Near enough to walk to the beach.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Very homely and fully equipped",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "East Woonona Sea Esta Studio",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/east-woonona-sea-esta-studio/hotel/all/wollongong-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 9.4,
+      "reviewCount": 89,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/659193843.jpg?k=ef6b67204ca7ff1af122a52054f67c33bedeead0896325105899fed86dcd275f&o=",
+      "distanceNote": "약 414.38m · Woonona 인근",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 89건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 89건 기반.",
+      "reviews": [
+        {
+          "text": "The location is good; very close to beach!",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "It was a perfect lovely stay!",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Hosts were so warm!",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Overall a clean and great place to stay overnight.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "Wonderful Studio",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Woonona Stays",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hopetoun-villa/hotel/all/wollongong-au.html?cid=1925461",
+      "walkMin": 13,
+      "score": 9.2,
+      "reviewCount": 91,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 28만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/696956303.jpg?k=cd0369a98a8076b528125009a280f96f0f2709605d57597e91b3d6eb3b160dfa&o=",
+      "distanceNote": "약 1049.53m · Woonona 인근",
+      "metaTags": [
+        "💰 약 28만원",
+        "📝 리뷰 91건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 91건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "The Beach House North Wollongong",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-beach-house-north-wollongong/hotel/all/wollongong-au.html?cid=1925461",
+      "walkMin": 11,
+      "score": 8.8,
+      "reviewCount": 71,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 45만원",
+      "valueIndex": 4.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/129757296.jpg?k=fb2ef4290f1311a23ea7d45402b43948f763ba3e189409c86ac2e71f82a13af7&o=",
+      "distanceNote": "약 869.45m · North Wollongong Station 인근",
+      "metaTags": [
+        "💰 약 45만원",
+        "📝 리뷰 71건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 71건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Central 2 Bedroom Apartment - Walk to Beach & CBD - Sleeps 5",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/central-wollongong-apartment-2-bedrooms/hotel/all/wollongong-au.html?cid=1925461",
+      "walkMin": 12,
+      "score": 8.5,
+      "reviewCount": 50,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/873031699.jpg?k=397284554ba8bd19c59be213d41d71017a7d3e2a8e2a06a77552156c7d946d54&o=",
+      "distanceNote": "약 994.14m · North Wollongong Station 인근",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 50건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 50건 기반.",
+      "reviews": [
+        {
+          "text": "Very nice and comfortable.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "노보텔 울런공 노스비치 (Novotel Wollongong Northbeach)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/novotel-northbeach-hotel/hotel/wollongong-au.html?cid=1925461",
+      "walkMin": 16,
+      "score": 8.4,
+      "reviewCount": 808,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/341725827.jpg?k=54bf9d9316e717d731d308df5094203efb9a00b513e67a2011c8ce619fa280fd&o=",
+      "distanceNote": "약 1258.26m · North Wollongong Station 인근",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 808건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 808건 기반.",
+      "reviews": [
+        {
+          "text": "It has the best location in Wollongong, just next to beach .",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "The location and view from the room is unbeatable.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "A nice clean and quiet hotel that is great for babies.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Amazing location straight accross from Nth Woolongong Beach.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Perfect for a morning stroll to catch the sunrise or sunset.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Solhaus - Modern 1BR by Towradgi Beach",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/soho-on-the-beach-towradgi/hotel/all/wollongong-au.html?cid=1925461",
+      "walkMin": 11,
+      "score": 8.4,
+      "reviewCount": 36,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 31만원",
+      "valueIndex": 4.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/515734678.jpg?k=6b087b979e242b7a63be0efb5022ef1a049d3e7286a983f99eee6f7bf6a1816f&o=",
+      "distanceNote": "약 906.78m · Towradgi 인근",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 36건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 36건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-bulli",
+    "count": 7,
+    "builtAt": "2026-08-04T21:56:26.480Z"
+  }
+}

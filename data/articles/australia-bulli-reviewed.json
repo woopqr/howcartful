@@ -1,0 +1,418 @@
+{
+  "slug": "australia-bulli-reviewed",
+  "angle": "reviewed",
+  "angleAdj": "후기 많은",
+  "lang": "ko-kr",
+  "citySlug": "wollongong-au",
+  "cityName": "불리",
+  "cityId": 141454,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "불리",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/236642167.jpg?k=2825c0705547f89e113306ee114ac6780ee3906457066f8c0d2970396f2d8d6f&o=",
+  "heroAlt": "불리",
+  "heroSub": "실제 아고다 리뷰로 불리의 리뷰 많은 숙소를 추렸습니다",
+  "verdictHtml": "리뷰 많은 기준 1순위는 <b>나이트캡 앳 더 찰스 호텔</b>입니다 (평점 8.5·리뷰 947건·1박 약 17만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/236642167.jpg?k=2825c0705547f89e113306ee114ac6780ee3906457066f8c0d2970396f2d8d6f&o=",
+  "outroTitle": "🌙 불리, 리뷰 많은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 불리 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "나이트캡 앳 더 찰스 호텔 (Nightcap at the Charles Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nightcap-at-the-charles-hotel_3/hotel/wollongong-au.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.5,
+      "reviewCount": 947,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/236642167.jpg?k=2825c0705547f89e113306ee114ac6780ee3906457066f8c0d2970396f2d8d6f&o=",
+      "distanceNote": "약 341.76m · Fairy Meadow 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 947건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 947건 기반.",
+      "reviews": [
+        {
+          "text": "The room had everything we needed and the location is ideal.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The room very clean the bed so wonderful to sleep in",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Our room was quite spacious and very clean.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Staff were very helpful and courteous.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "I will definately coming back in the next trip.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "퀄리티 스위트 피오니어 샌드 (Quality Suites Pioneer Sands)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quality-suites-pioneer-sands/hotel/wollongong-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8.4,
+      "reviewCount": 944,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/294131/0/2c47b98e1c7ac769901235c043364ccb.jpg?ca=0&ce=1",
+      "distanceNote": "약 479.65m · Towradgi 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 944건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 944건 기반.",
+      "reviews": [
+        {
+          "text": "We will absolutely stay here again",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Good facilities, close to beach, pubs and restaurants",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Great accommodation, great location",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Room was clean and comfortable.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Fantastic Stay Experience",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "노보텔 울런공 노스비치 (Novotel Wollongong Northbeach)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/novotel-northbeach-hotel/hotel/wollongong-au.html?cid=1925461",
+      "walkMin": 16,
+      "score": 8.4,
+      "reviewCount": 808,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/341725827.jpg?k=54bf9d9316e717d731d308df5094203efb9a00b513e67a2011c8ce619fa280fd&o=",
+      "distanceNote": "약 1258.26m · North Wollongong Station 인근",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 808건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 808건 기반.",
+      "reviews": [
+        {
+          "text": "It has the best location in Wollongong, just next to beach .",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "The location and view from the room is unbeatable.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "A nice clean and quiet hotel that is great for babies.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Amazing location straight accross from Nth Woolongong Beach.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Perfect for a morning stroll to catch the sunrise or sunset.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "컴포트 인 토우래지 비치 (Comfort Inn Towradgi Beach)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/comfort-inn-towradgi-beach/hotel/wollongong-au.html?cid=1925461",
+      "walkMin": 9,
+      "score": 8.7,
+      "reviewCount": 654,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/1004445/-1/86ae5c51e7a14c2221e29abbddfbc440.jpg?ca=18&ce=1",
+      "distanceNote": "약 680.78m · Towradgi 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 654건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 654건 기반.",
+      "reviews": [
+        {
+          "text": "Clean , spacious and very comfortable King Bed",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Service with a Smile 😊 Would Highly Recommend this Place 👍",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Rooms are quite large compared some hotels.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Compare to other places, it’s cheap and connivence.",
+          "score": "9.6",
+          "country": "태국",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Good hotel to take rest before driving down South of Sydney",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Argo Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/argo-apartments/hotel/wollongong-au.html?cid=1925461",
+      "walkMin": 13,
+      "score": 9.4,
+      "reviewCount": 647,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/274349687.jpg?k=54a5243665779a2ca7f8fe2489a306ea9c5a6bfa6d75199ef7b00f87c96292dd&o=",
+      "distanceNote": "약 1005.8m · Wollongong 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 647건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 647건 기반.",
+      "reviews": [
+        {
+          "text": "Exceptional value for the quality of the apartment",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "From check in to check out an absolute delightful stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Would stay in Argo again if we visit Wollongong next time",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "The one bedroom suite we stayed was clean and spacious.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "The apt is clean and tidy and very spacious.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "헤드랜즈 호텔 오스틴머르 (Headlands Hotel Austinmer)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/headlands-hotel-austinmer/hotel/wollongong-au.html?cid=1925461",
+      "walkMin": 14,
+      "score": 8.7,
+      "reviewCount": 321,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/2235591/-1/dd7f238e75290c2bacd3317fea2e2180.jpg?ca=9&ce=1",
+      "distanceNote": "약 1155.79m · Austinmer 인근",
+      "metaTags": [
+        "📝 리뷰 321건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 321건 기반.",
+      "reviews": [
+        {
+          "text": "Clean spacious rooms, good facilities and friendly staff",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "The reception staff were lovely and very welcoming.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Beautiful, very comfortable apartment overlooking the beach.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Overall, i would recommend this hotel to anyone.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Wonderful location and closeness to the beach is a plus.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Southview Guest House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/southview-guest-house_2/hotel/all/bulli-au.html?cid=1925461",
+      "walkMin": 10,
+      "score": 9.3,
+      "reviewCount": 222,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/263782076.jpg?k=66309f6c269b187a3fcb867d95a7b85c4551aad245cab7afbc2f4dfae90efe31&o=",
+      "distanceNote": "약 794.79m · Bulli Beach 인근",
+      "metaTags": [
+        "📝 리뷰 222건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 222건 기반.",
+      "reviews": [
+        {
+          "text": "Would definitely stay there again and highly recommended.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Great Space",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "reviewed",
+    "base": "australia-bulli",
+    "count": 7,
+    "builtAt": "2026-08-04T21:56:26.481Z"
+  }
+}

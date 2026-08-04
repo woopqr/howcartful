@@ -8,7 +8,12 @@
     "australia-bundamba-station",
     "australia-bundamba-premium",
     "australia-bundamba-reviewed",
-    "australia-bulli"
+    "australia-bulli",
+    "australia-bulli-rating",
+    "australia-bulli-station",
+    "australia-bulli-premium",
+    "australia-bulli-star4",
+    "australia-bulli-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
