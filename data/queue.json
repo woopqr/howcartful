@@ -1,14 +1,16 @@
 {
-  "lastPostedAt": "2026-08-05T15:22:17.389Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 7,
+  "lastPostedAt": "2026-08-05T16:56:24.162Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 8,
   "postedDate": "2026-08-05",
   "queue": [
-    "australia-bulli-star4",
     "australia-bulli-reviewed",
     "australia-bewshan",
-    "australia-beauty-point-beaconfield"
+    "australia-beauty-point-beaconfield",
+    "australia-beauty-point-beaconfield-rating",
+    "australia-beauty-point-beaconfield-station",
+    "australia-beauty-point-beaconfield-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -407,6 +409,7 @@
     "australia-bulli",
     "australia-bulli-rating",
     "australia-bulli-station",
-    "australia-bulli-premium"
+    "australia-bulli-premium",
+    "australia-bulli-star4"
   ]
 }
