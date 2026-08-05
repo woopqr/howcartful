@@ -1,0 +1,331 @@
+{
+  "slug": "australia-beauty-point-beaconfield",
+  "title": "뷰티 포인트 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 뷰티 포인트 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "뷰티 포인트",
+  "cityId": 512809,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "뷰티 포인트",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/491930829.jpg?k=066ae6f7bf6797391a9f6161126a3c2f34508f3cb18aaf874a6462f6f78b08a6&o=",
+  "heroAlt": "뷰티 포인트",
+  "heroTitleHtml": "뷰티 포인트 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>GOLDFIELDS STUDIO APARTMENT, Beaconsfield - Fully Self-contained, air-conditioning</b>(평점 9.9·리뷰 138건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>GOLDFIELDS STUDIO APARTMENT, Beaconsfield - Fully Self-contained, air-conditioning</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/491930829.jpg?k=066ae6f7bf6797391a9f6161126a3c2f34508f3cb18aaf874a6462f6f78b08a6&o=",
+  "outroTitle": "🌙 뷰티 포인트, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 뷰티 포인트 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 뷰티 포인트 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "GOLDFIELDS STUDIO APARTMENT, Beaconsfield - Fully Self-contained, air-conditioning",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/goldfields-studio-apartment-beaconsfield-fully-self-contained-air-conditioning/hotel/all/beauty-point-beaconsfield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.9,
+      "reviewCount": 138,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/491930829.jpg?k=066ae6f7bf6797391a9f6161126a3c2f34508f3cb18aaf874a6462f6f78b08a6&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 138건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.9</b> · 실제 투숙객 리뷰 138건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Beauty Point Waterfront Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beauty-point-waterfront-hotel-h31706216/hotel/beauty-point-beaconsfield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 120,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/property/37671446/0/e7971e365807ecbd7b2a8e48451f7b2e.jpeg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 120건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 120건 기반.",
+      "reviews": [
+        {
+          "text": "뷰티 포인트 워터 프론트 호텔은 내 모든 기대를 뛰어 넘었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "친절하고 깨끗함",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "뷰티 포인트 워터프론트 호텔은 훌륭한 경험이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "무료 차, 커피, 빵 및 아침 식사 옵션.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "물 위의 멋진 작은 호텔",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "뷰티 포인트 투어리스트 파크 캐빈 (Beauty Point Tourist Park Cabins)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beauty-point-tourist-park-cabins/hotel/beauty-point-beaconsfield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 669,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/724076/0/1554006015534d5a615a1de4062753eb.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 669건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 669건 기반.",
+      "reviews": [
+        {
+          "text": "타마르강(Tamar River) 기슭을 바라보는 편안한 캐빈입니다.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "완비된 주방과 좋은 세탁 시설.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "공원 자체는 항상 깨끗하고 너무 시끄럽지 않습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 따뜻한 숙소.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "사랑스럽고 매력적인 시설.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "The Exchange Beaconsfield - Offering Heritage Accommodation",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-exchange-hotel-offering-heritage-style-accomodation/hotel/all/beauty-point-beaconsfield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 95,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/602135552.jpg?k=bdb520f20fd6189cf31e7b21d7b761357c8429e17112067e1154a6a6024f619e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 95건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 95건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Comfort Inn The Pier",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/comfort-inn-the-pier-hotel/hotel/george-town-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 64,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/487397/0/a94e535f33a2bb889118d97a2383a286.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 64건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 64건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 깔끔하게 새롭게 단장된 캐릭터 호텔입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고, 가격대비 괜찮고, 방도 깨끗하고 좋습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 곳 직원이 매우 친절함",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "매우 편안하고 청결도가 뛰어납니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "하룻밤을 보내기에 좋은 작은 장소.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "요크 코브 (York Cove)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/york-cove/hotel/george-town-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 50,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/161/161944/161944_17101212000057712587.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 50건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 50건 기반.",
+      "reviews": [
+        {
+          "text": "체육관은 이용 가능한 장비가 많아 매우 좋았습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "사랑스럽고 객실이 편안하며",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "아름다운 방.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "아름다운 풍경.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Wingtons Glamping",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wingtons-glamping/hotel/all/clarence-point-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 80,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 28만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/652417006.jpg?k=2d2c25c1793e2abf19fc01f70355908e51a4440740eda7b44fcdc769ae44f763&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 28만원",
+        "📝 리뷰 80건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 80건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-05T15:22:37.257Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
