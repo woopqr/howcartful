@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-05T06:09:13.847Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 3,
+  "lastPostedAt": "2026-08-05T08:49:58.039Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 4,
   "postedDate": "2026-08-05",
   "queue": [
-    "australia-bulli",
     "australia-bulli-rating",
     "australia-bulli-station",
     "australia-bulli-premium",
@@ -405,6 +404,7 @@
     "australia-bundamba-rating",
     "australia-bundamba-station",
     "australia-bundamba-premium",
-    "australia-bundamba-reviewed"
+    "australia-bundamba-reviewed",
+    "australia-bulli"
   ]
 }
