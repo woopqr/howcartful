@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-05T11:08:39.104Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 5,
+  "lastPostedAt": "2026-08-05T13:01:22.552Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 6,
   "postedDate": "2026-08-05",
   "queue": [
-    "australia-bulli-station",
     "australia-bulli-premium",
     "australia-bulli-star4",
-    "australia-bulli-reviewed"
+    "australia-bulli-reviewed",
+    "australia-bewshan"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 281,
+    "cityIndex": 282,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -405,6 +405,7 @@
     "australia-bundamba-premium",
     "australia-bundamba-reviewed",
     "australia-bulli",
-    "australia-bulli-rating"
+    "australia-bulli-rating",
+    "australia-bulli-station"
   ]
 }
