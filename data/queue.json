@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-06T11:45:05.653Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 5,
+  "lastPostedAt": "2026-08-06T13:22:02.116Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 6,
   "postedDate": "2026-08-06",
   "queue": [
-    "australia-bright-rating",
     "australia-bright-station",
     "australia-bright-premium",
-    "australia-bright-reviewed"
+    "australia-bright-reviewed",
+    "australia-bramston-beach"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 284,
+    "cityIndex": 285,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -415,6 +415,7 @@
     "australia-beauty-point-beaconfield-rating",
     "australia-beauty-point-beaconfield-station",
     "australia-beauty-point-beaconfield-reviewed",
-    "australia-bright"
+    "australia-bright",
+    "australia-bright-rating"
   ]
 }

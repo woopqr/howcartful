@@ -1,0 +1,299 @@
+{
+  "slug": "australia-bramston-beach",
+  "title": "브램스톤 비치 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 브램스톤 비치 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "babinda-au",
+  "cityName": "브램스톤 비치",
+  "cityId": 513145,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "브램스톤 비치",
+  "heroImg": "https://pix8.agoda.net/hotelImages/1120812/0/485273850c2ef3529b4b882e907e2da9.jpeg?ce=0",
+  "heroAlt": "브램스톤 비치",
+  "heroTitleHtml": "브램스톤 비치 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>바빈다 쿼터스</b>(평점 9.4·리뷰 619건·1박 약 17만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>바빈다 쿼터스</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/1120812/0/485273850c2ef3529b4b882e907e2da9.jpeg?ce=0",
+  "outroTitle": "🌙 브램스톤 비치, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 브램스톤 비치 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 브램스톤 비치 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "바빈다 쿼터스 (Babinda Quarters)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/babinda-quarters/hotel/babinda-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 619,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/1120812/0/485273850c2ef3529b4b882e907e2da9.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 619건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 619건 기반.",
+      "reviews": [
+        {
+          "text": "방은 깨끗하고 넓었으며 침대가 매우 편안했습니다.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "뜨거운 물이 많이 나오는 멋진 타일 샤워기.",
+          "score": "8.8",
+          "country": "Thailand",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "숙소는 다양한 성격으로 매우 매력적이었습니다.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 객실을 갖춘 매력적인 숙소",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "김씨의 세심한 배려 10/10.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Innisfail Riverfront Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/innisfail-riverfront-motel/hotel/innisfail-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.4,
+      "reviewCount": 278,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/70617911/1118270980/41c26fe4aab0a0087eecf49a3beedef9.png?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 278건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.4</b> · 실제 투숙객 리뷰 278건 기반.",
+      "reviews": [
+        {
+          "text": "들어서면서 정말 깜짝 놀랐습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "숙박에 필요한 모든 것을 갖추고 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 가격 대비 훌륭한 가치",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "머물기 좋은 곳",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Flying Fish Point Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/flying-fish-point-tourist-park/hotel/all/flying-fish-point-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 302,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/237375883.jpg?k=4c94efc699657328fcec698938b22f075077c880bc2c5685f1d777636e8277c5&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 302건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 302건 기반.",
+      "reviews": [
+        {
+          "text": "아름다운 장소에 있는 멋진 오두막.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "서비스는 훌륭했고 매우 친절했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "정말 좋았고 깨끗하고 깔끔한 숙소였습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "며칠 밤 동안 오두막에서 휴식을 취하기에 좋은 장소입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 곳",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Black Marlin Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/black-marlin-motel/hotel/all/innisfail-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.2,
+      "reviewCount": 371,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 5.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/362805774.jpg?k=4027f96effa9872eabe3e90c1b0ad205ff0655aab5fb7a7857f317aa0494c457&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 371건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.2</b> · 실제 투숙객 리뷰 371건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 3성급 모텔",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "모텔은 깨끗하고 깔끔해요.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Innisfail City Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/innisfail-city-motel/hotel/all/innisfail-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.1,
+      "reviewCount": 190,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 5.3,
+      "img": "//pix8.agoda.net/property/70162577/0/09fae7b602866b1f9028a4d24abd8375.jpeg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 190건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.1</b> · 실제 투숙객 리뷰 190건 기반.",
+      "reviews": [
+        {
+          "text": "저렴하고 편안한 침대, 깨끗하고 에어컨과 TV가 갖춰져 있습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "서비스가 마음에 들었고 위치도 훌륭해요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "길가에서 멀리 떨어진 매우 조용한 위치입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "Wi-Fi가 포함되어 있으며 차와 커피가 제공됩니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "MaryLoo는 매우 유익하고 수다스럽고 도움이 되었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-06T13:22:23.059Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}
