@@ -1,14 +1,17 @@
 {
-  "lastPostedAt": "2026-08-07T00:30:53.810Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 1,
+  "lastPostedAt": "2026-08-07T03:32:51.024Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 2,
   "postedDate": "2026-08-07",
   "queue": [
-    "australia-bright-premium",
     "australia-bright-reviewed",
     "australia-bramston-beach",
-    "australia-brunswick-heads"
+    "australia-brunswick-heads",
+    "australia-brunswick-heads-rating",
+    "australia-brunswick-heads-station",
+    "australia-brunswick-heads-premium",
+    "australia-brunswick-heads-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -417,6 +420,7 @@
     "australia-beauty-point-beaconfield-reviewed",
     "australia-bright",
     "australia-bright-rating",
-    "australia-bright-station"
+    "australia-bright-station",
+    "australia-bright-premium"
   ]
 }
