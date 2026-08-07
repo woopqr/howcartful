@@ -1,0 +1,403 @@
+{
+  "slug": "australia-brunswick-heads",
+  "title": "브런즈윅 헤즈 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 브런즈윅 헤즈 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "브런즈윅 헤즈",
+  "cityId": 141449,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "브런즈윅 헤즈",
+  "heroImg": "https://pix8.agoda.net/property/77028867/0/8e488df2d8da4bd40d481112cea24443.jpeg?ce=3",
+  "heroAlt": "브런즈윅 헤즈",
+  "heroTitleHtml": "브런즈윅 헤즈 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>The Mullum Motel</b>(평점 8.1·리뷰 104건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>The Mullum Motel</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/property/77028867/0/8e488df2d8da4bd40d481112cea24443.jpeg?ce=3",
+  "outroTitle": "🌙 브런즈윅 헤즈, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 브런즈윅 헤즈 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 브런즈윅 헤즈 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Mullum Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-mullum-motel/hotel/all/mullumbimby-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 104,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/property/77028867/0/8e488df2d8da4bd40d481112cea24443.jpeg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 104건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 104건 기반.",
+      "reviews": [
+        {
+          "text": "기본 모텔 객실, 침대는 편안하고 조용하며 매우 깨끗합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "매우 환영받는 직원과 매우 좋은 깨끗한 방.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "술집, 레스토랑, 카페 및 상점은 굉장했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "위치는 카페와 상점을 둘러보기에 편리했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "상당히 깨끗하고 다루기 쉽습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "The Sails Motel Brunswick Heads",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-sails-motel-brunswick-heads/hotel/all/brunswick-heads-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 1491,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/280880102.jpg?k=714915e1f23c2c8cff7ed630726142c95b9741197dde1ac2302939b96928ca1b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 1,491건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 1,491건 기반.",
+      "reviews": [
+        {
+          "text": "1박 묵었는데 방이 너무 깨끗하고 좋았습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "사랑스럽게 개조된 매우 편안한 모텔입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 현대적이며 편안했습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 현대적입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 AC, 멋지고 넓은 수영장 공간.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "더 미들 펍 (The Middle Pub)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-middle-pub/hotel/all/mullumbimby-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 757,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/58348257.jpg?k=435d7c6fe6d7e6e32a97b896e001135990f21b81171d436175fc4a3951fdbd09&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 757건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 757건 기반.",
+      "reviews": [
+        {
+          "text": "넓고 편안한 객실과 침대",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "모든 편의 시설을 갖춘 매우 깨끗한 객실",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "장거리 운전 중에 하룻밤 묵기 정말 좋았습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "편안하고 넓은 객실과 침대, 즐거운 발코니",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "편안하고 조용하며 깨끗한 방.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "The Brunswick, Brunswick Heads",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-brunswick-brunswick-heads/hotel/all/brunswick-heads-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 878,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/540931150.jpg?k=eaf57eca28c8e7cc90b79787115c7b90f628aaabeb560ac994d7090aadcb38ae&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 878건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 878건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 위치와 편안한 침대.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋아요!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 공용 공간과 매우 도움이 되는 직원.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 작은 호텔",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "수영장이 있는 멋진 주변 환경.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Private Access Retreat 1 Queen Bedroom w Stunning Pool and Ocean Views",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/self-contained-1bdrm-byron-winter-sun-retreat-private-access/hotel/all/ocean-shores-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 152,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/586560630.jpg?k=fee7f9b5244a69d757aa255833db03ad51909c680fd240f6e0c0b1d1065c4a88&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 152건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 152건 기반.",
+      "reviews": [
+        {
+          "text": "장소는 믿을 수 없을 정도로 깨끗하고 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "이곳은 매우 편안하게 머물 수 있는 곳이었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "너무 즐거운 숙박이었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 깔끔합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "아름다운 작은 할머니 플랫",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Billinudgel Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/billinudgel-hotel_4/hotel/all/ocean-shores-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.5,
+      "reviewCount": 201,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/553327680.jpg?k=a1c9cdecc6221586268952e13515e8648b3773730d249b752cb42083b02cb23c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 201건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 201건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Chalet Motel Brunswick Heads",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/chalet-motel-brunswick-heads_3/hotel/all/brunswick-heads-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 71,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/property/82541726/0/662234479915d55ae7d670884f6929b8.jpeg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 71건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 71건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 귀엽고 아늑했으며 편안한 침대와 매우 중앙에 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "객실은 잘 디자인되어 있으며 매우 깨끗하고 편안합니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "원활한 예약 및 체크인 절차, 깔끔하고 심플한 객실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "편안한 모텔, 좋은 위치에 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "직원들은 훌륭했고 매우 수용적이고 도움이 되었습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-07T00:31:26.435Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
