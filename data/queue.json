@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-07T07:54:55.821Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 5,
+  "lastPostedAt": "2026-08-07T09:45:22.733Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 6,
   "postedDate": "2026-08-07",
   "queue": [
-    "australia-brunswick-heads-rating",
     "australia-brunswick-heads-station",
     "australia-brunswick-heads-premium",
-    "australia-brunswick-heads-reviewed"
+    "australia-brunswick-heads-reviewed",
+    "australia-brunkerville"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 286,
+    "cityIndex": 287,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -421,6 +421,7 @@
     "australia-bright-premium",
     "australia-bright-reviewed",
     "australia-bramston-beach",
-    "australia-brunswick-heads"
+    "australia-brunswick-heads",
+    "australia-brunswick-heads-rating"
   ]
 }
