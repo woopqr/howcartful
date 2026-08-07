@@ -8,7 +8,11 @@
     "australia-brunswick-heads-station",
     "australia-brunswick-heads-premium",
     "australia-brunswick-heads-reviewed",
-    "australia-brunkerville"
+    "australia-brunkerville",
+    "australia-brunkerville-rating",
+    "australia-brunkerville-station",
+    "australia-brunkerville-budget",
+    "australia-brunkerville-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
