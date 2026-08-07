@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-07T05:18:07.061Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 3,
+  "lastPostedAt": "2026-08-07T06:36:29.710Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 4,
   "postedDate": "2026-08-07",
   "queue": [
-    "australia-bramston-beach",
     "australia-brunswick-heads",
     "australia-brunswick-heads-rating",
     "australia-brunswick-heads-station",
@@ -421,6 +420,7 @@
     "australia-bright-rating",
     "australia-bright-station",
     "australia-bright-premium",
-    "australia-bright-reviewed"
+    "australia-bright-reviewed",
+    "australia-bramston-beach"
   ]
 }
