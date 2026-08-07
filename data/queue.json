@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-07T13:37:16.295Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 8,
+  "lastPostedAt": "2026-08-07T15:31:13.860Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 9,
   "postedDate": "2026-08-07",
   "queue": [
-    "australia-brunswick-heads-reviewed",
     "australia-brunkerville",
     "australia-brunkerville-rating",
     "australia-brunkerville-station",
@@ -426,6 +425,7 @@
     "australia-brunswick-heads",
     "australia-brunswick-heads-rating",
     "australia-brunswick-heads-station",
-    "australia-brunswick-heads-premium"
+    "australia-brunswick-heads-premium",
+    "australia-brunswick-heads-reviewed"
   ]
 }
