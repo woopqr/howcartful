@@ -1,0 +1,333 @@
+{
+  "slug": "australia-broken-hill-rating",
+  "angle": "rating",
+  "angleAdj": "평점 높은",
+  "lang": "ko-kr",
+  "citySlug": "broken-hill-au",
+  "cityName": "브로큰 힐",
+  "cityId": 8731,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "브로큰 힐",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/478457826.jpg?k=9f15c5b83e9cb175126b6d39168a5c1d88e704323728689f71d1823999cae45a&o=",
+  "heroAlt": "브로큰 힐",
+  "heroSub": "실제 아고다 리뷰로 브로큰 힐의 평점 높은 숙소를 추렸습니다",
+  "verdictHtml": "평점 높은 기준 1순위는 <b>City Villa 41 Blende st Broken Hill NSW 2880</b>입니다 (평점 9.7·리뷰 151건·1박 약 14만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/478457826.jpg?k=9f15c5b83e9cb175126b6d39168a5c1d88e704323728689f71d1823999cae45a&o=",
+  "outroTitle": "🌙 브로큰 힐, 평점 높은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 브로큰 힐 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "City Villa 41 Blende st Broken Hill NSW 2880",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/city-villa-41-blende-st-broken-hill-nsw-2880/hotel/all/broken-hill-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 151,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/478457826.jpg?k=9f15c5b83e9cb175126b6d39168a5c1d88e704323728689f71d1823999cae45a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 151건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 151건 기반.",
+      "reviews": [
+        {
+          "text": "Spent two nights here and had a wonderful time.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Would definitely stay here again.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Excellent accommodation",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Very comfortable for two people.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Loved extras like coffee and toiletries.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Red Earth Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/red-earth-motel/hotel/all/broken-hill-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 1019,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/252980985.jpg?k=33e7d53b9b43c2fa92578e005a901419205dc4f7227ed5bc3086c0a3005e0477&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 1,019건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 1,019건 기반.",
+      "reviews": [
+        {
+          "text": "Walking distance to cafés shops and tourist attractions",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Friendly staff and all the mod cons.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Perfect for overnight stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Great motel",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Excellent value for money",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "City Villa 39 Blende st Broken Hill NSW 2880",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/city-villa-39-blende-st-broken-hill-nsw-2880/hotel/all/broken-hill-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 176,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/476485343.jpg?k=72387a4febdb4e7c1b100732c875178cf0c3ce31ce7c662d2e981ac2de53b985&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 176건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 176건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "McGowen st accommodation",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mcgowen-st-accommodation/hotel/all/broken-hill-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 47,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/749190219.jpg?k=85dd579f105b05f3994157035e9e135ca95defafd5b0ad337a4e3700ee14daf9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 47건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 47건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Gateway Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/gateway-motor-inn-self-check-in/hotel/all/broken-hill-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 460,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/66057927.jpg?k=ceeec638db562c1188c39b156f2a6450c0ec2e72d6664ed62ffe80c90e47558f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 460건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 460건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Broken Hill Outback Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/broken-hill-outback-resort/hotel/all/broken-hill-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 52,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/194172765.jpg?k=84cbb5df6fe4235347123bf0e9b720d5e3ad105c34e6ab2b5931fb44f0344ba5&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 52건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 52건 기반.",
+      "reviews": [
+        {
+          "text": "Well appointed and luxurious rooms.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Room was clean and staff friendly and helpful .",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Lovely cabin with great facilities, very clean and tidy.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "We were absolutely blown away with the tranquility.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Stunning room and location",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "이비스 스타일 브로큰 힐 (Ibis Styles Broken Hill)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ibis-styles-broken-hill/hotel/broken-hill-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 431,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/267/267498/267498_16060714100043230983.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 431건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 431건 기반.",
+      "reviews": [
+        {
+          "text": "Everything is a walkable distance from the hotel too.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Perfect hotel for what we needed.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Hot water was readily available.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Location was convenient.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Property was clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "rating",
+    "base": "australia-broken-hill",
+    "count": 7,
+    "builtAt": "2026-08-08T03:58:16.049Z"
+  }
+}
