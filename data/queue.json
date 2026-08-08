@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-08T06:26:25.322Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 5,
+  "lastPostedAt": "2026-08-08T07:28:46.577Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 6,
   "postedDate": "2026-08-08",
   "queue": [
-    "australia-broken-hill",
     "australia-broken-hill-rating",
     "australia-broken-hill-station",
     "australia-broken-hill-budget",
@@ -432,6 +431,7 @@
     "australia-brunkerville-station",
     "australia-brunkerville-budget",
     "australia-brunkerville-reviewed",
-    "australia-bremer-island"
+    "australia-bremer-island",
+    "australia-broken-hill"
   ]
 }
