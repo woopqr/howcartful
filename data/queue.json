@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-08T00:44:00.146Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 1,
+  "lastPostedAt": "2026-08-08T02:44:25.136Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 2,
   "postedDate": "2026-08-08",
   "queue": [
-    "australia-brunkerville-station",
     "australia-brunkerville-budget",
     "australia-brunkerville-reviewed",
-    "australia-bremer-island"
+    "australia-bremer-island",
+    "australia-broken-hill"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 288,
+    "cityIndex": 289,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -427,6 +427,7 @@
     "australia-brunswick-heads-premium",
     "australia-brunswick-heads-reviewed",
     "australia-brunkerville",
-    "australia-brunkerville-rating"
+    "australia-brunkerville-rating",
+    "australia-brunkerville-station"
   ]
 }
