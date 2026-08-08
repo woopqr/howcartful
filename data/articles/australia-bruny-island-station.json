@@ -1,0 +1,369 @@
+{
+  "slug": "australia-bruny-island-station",
+  "angle": "station",
+  "angleAdj": "역세권",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "브루니 아일랜드",
+  "cityId": 102360,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "브루니 아일랜드",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/833285924.jpg?k=90c3cc3f8a03f46fe9e8bf10dea5b0a32a5f86796dd1d06302ed9f303b489292&o=",
+  "heroAlt": "브루니 아일랜드",
+  "heroSub": "실제 아고다 리뷰로 브루니 아일랜드의 역세권 숙소를 추렸습니다",
+  "verdictHtml": "역세권 기준 1순위는 <b>브루니 아일랜드 이스케이프 호텔</b>입니다 (평점 8.5·리뷰 1,941건·1박 약 19만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/833285924.jpg?k=90c3cc3f8a03f46fe9e8bf10dea5b0a32a5f86796dd1d06302ed9f303b489292&o=",
+  "outroTitle": "🌙 브루니 아일랜드, 역세권으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 브루니 아일랜드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "브루니 아일랜드 이스케이프 호텔 (Bruny Island Escapes Accommodation)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bruny-island-escapes-accommodation/hotel/bruny-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 1941,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/833285924.jpg?k=90c3cc3f8a03f46fe9e8bf10dea5b0a32a5f86796dd1d06302ed9f303b489292&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 1,941건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 1,941건 기반.",
+      "reviews": [
+        {
+          "text": "The modern house is neatly furnished with a heated mattress.",
+          "score": "10",
+          "country": "中國",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "All of our rooms have a beautiful sunset view.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Great location, stunning sea view with friendly staff",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "Room has microwave, toaster, kettle and a lovely heater.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The whole place is new and well furnished.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "43 디그리즈 브루니 아일랜드 (43 Degrees Bruny Island)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/43-degrees-bruny-island/hotel/glenorchy-tas-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 871,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/942/9426168/9426168_19082813040080085924.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 871건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 871건 기반.",
+      "reviews": [
+        {
+          "text": "The hot bread in the mornings delivered to door was magic !",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Nice accommodation with cute wallaby living around.",
+          "score": "7.6",
+          "country": "中國香港",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Unit 4 had the bath spa and provided a peaceful stay.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Very unusual but fully functional and in a great location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Clean, cosy and warm room upon arrival,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Little Belmont",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/little-belmont/hotel/all/bruny-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 180,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 42만원",
+      "valueIndex": 5.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/467249760.jpg?k=6a259f3b57b1fd157a0584d01acb46861a438ec80875514cc8d98f62ac96e81a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 42만원",
+        "📝 리뷰 180건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 180건 기반.",
+      "reviews": [
+        {
+          "text": "Very warm style, many equipments and kitchen supplies!",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Nice house with lovely yard!",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Really like their environment, house super cozy.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Highly Recommended!!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Nice Place to stay",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "사우스 브루니의 빌라 (15m², 침실 3개, 프라이빗 욕실 3개) (Cloudy Bay Villa)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cloudy-bay-villa/hotel/bruny-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 31,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/agoda-homes/13348708/8f0e18e0cf20b36f2535053035fdb1ad.jpg?ca=10&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 31건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 31건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Dreamscapes on Bruny Island",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dreamscapes-on-bruny-island/hotel/all/bruny-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 53,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 49만원",
+      "valueIndex": 5.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/508756059.jpg?k=373ede122f59cada89fb42b710849d015e8cc231fe5c9d4cdda955536a0a82c4&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 49만원",
+        "📝 리뷰 53건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 53건 기반.",
+      "reviews": [
+        {
+          "text": "The unit is spacious, clean and quiet.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Spectacular view facing the sea and the Neck.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Spacious with amazing view",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Great view and serenity",
+          "score": "9.6",
+          "country": "China",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Breathtaking views",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "The Stone Cottage - Bruny Island",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-stone-cottage-bruny-island/hotel/all/bruny-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 239,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 35만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/416932391.jpg?k=acff4d6bd17379416ad101fadee4fab9bf15b9965f1058f7b0d3c61e944e47bd&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 35만원",
+        "📝 리뷰 239건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 239건 기반.",
+      "reviews": [
+        {
+          "text": "We absolutely loved this room!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "I love this accommodation.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Very comfortable stay",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Loveeee this house",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Sanctuary - Bruny Island",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sanctuary-bruny-island-h63799453/hotel/all/bruny-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 61,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 46만원",
+      "valueIndex": 4.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/621357400.jpg?k=726e82f5844da20d1777af46e65b9b1e75aebd54a579303508f362fe96aeeaad&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 46만원",
+        "📝 리뷰 61건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 61건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "station",
+    "base": "australia-bruny-island",
+    "count": 7,
+    "builtAt": "2026-08-08T09:34:31.509Z"
+  }
+}
