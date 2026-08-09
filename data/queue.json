@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-09T02:23:22.998Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 2,
+  "lastPostedAt": "2026-08-09T03:56:25.342Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 3,
   "postedDate": "2026-08-09",
   "queue": [
-    "australia-bruny-island-station",
     "australia-bruny-island-premium",
     "australia-bruny-island-star4",
-    "australia-bruny-island-reviewed"
+    "australia-bruny-island-reviewed",
+    "australia-broome"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 290,
+    "cityIndex": 291,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -438,6 +438,7 @@
     "australia-broken-hill-budget",
     "australia-broken-hill-reviewed",
     "australia-bruny-island",
-    "australia-bruny-island-rating"
+    "australia-bruny-island-rating",
+    "australia-bruny-island-station"
   ]
 }

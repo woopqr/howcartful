@@ -1,0 +1,408 @@
+{
+  "slug": "australia-broome",
+  "title": "브룸 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 브룸 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "broome-au",
+  "cityName": "브룸",
+  "cityId": 9824,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "브룸",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/41497875.jpg?k=c3d7ece6785df1e376e7477476f1b4d743c74985f7efaf7a3c8b7239baf298f3&o=",
+  "heroAlt": "브룸",
+  "heroTitleHtml": "브룸 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>비치 오브 브룸</b>(평점 8.8·리뷰 99건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>비치 오브 브룸</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/41497875.jpg?k=c3d7ece6785df1e376e7477476f1b4d743c74985f7efaf7a3c8b7239baf298f3&o=",
+  "outroTitle": "🌙 브룸, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 브룸 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 브룸 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "비치 오브 브룸 (Beaches of Broome)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beaches-of-broome/hotel/broome-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 99,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/41497875.jpg?k=c3d7ece6785df1e376e7477476f1b4d743c74985f7efaf7a3c8b7239baf298f3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 99건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 99건 기반.",
+      "reviews": [
+        {
+          "text": "레스토랑과 케이블 해변이 도보 거리에 매우 가깝습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "기대했던 것보다 시설이 더 좋아요.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "모두 합쳐서 좋은 3xp3rience와 좋은 가치입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "별 6개를 줄 수 있다면",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "완벽한 주말 휴가",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "케이블 비치 백패커스 (Cable Beach Backpackers)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cable-beach-backpackers/hotel/broome-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 121,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.1,
+      "img": "//pix8.agoda.net/hotelImages/564383/-1/8a47dea5cba2ed2691423c87bf47c551.jpg?ca=29&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 121건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 121건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 편안한 숙소와 친절한 직원",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "근처의 다른 호스텔보다 저렴하고 더 편안한 소셜 호스텔입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "케이블 비치 백패커스에서 숙박하세요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "다시 머물 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "시원하고 좋은 호스텔",
+          "score": "8.4",
+          "country": "Austrálie",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Kimberley Travellers Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kimberley-travellers-lodge-broome-yha/hotel/all/broome-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 95,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/257141279.jpg?k=0e2835a9e9a051b46417f08504d49369c97f2d4116bfa631a5ec04aabcd5354e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 95건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 95건 기반.",
+      "reviews": [
+        {
+          "text": "Darren 관리자는 훌륭했고 매우 도움이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "주방과 욕실 시설은 깔끔하고 깨끗하게 유지됩니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "위치는 완벽했지만 해변과는 거리가 멀습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "좋은 예산의 숙소",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "대부분 장기 체류 손님이지만 모두 친절한 사람들입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "로벅 베이 백패커스 앤 파티 바 (Roebuck Bay Backpackers and Party Bar)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/roey-backpackers-and-party-bar/hotel/broome-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.1,
+      "reviewCount": 35,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/163/1636429/1636429_16120909300049559621.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 35건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.1</b> · 실제 투숙객 리뷰 35건 기반.",
+      "reviews": [
+        {
+          "text": "사랑스러운 직원과 수영장을 갖춘 저렴한 숙소",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "픽업 및 하차가 가능한 무료 버스입니다.",
+          "score": "8.8",
+          "country": "澳洲",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "위치는 매우 중심적입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "나는 정말 즐거운 시간을 보냈습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "저렴한 가격 좋은 위치, 가능하다면 다시 올 것입니다",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "문라이트 베이 스위트  (Moonlight Bay Suites)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/moonlight-bay-suites/hotel/broome-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 1176,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/4865396/0/ad9b257f2c521d2104040b6fc021c85a.jpeg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 1,176건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 1,176건 기반.",
+      "reviews": [
+        {
+          "text": "최고 수준의 설비와 설비를 갖춘 멋진 대형 욕실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "우리의 2베드룸 스위트는 넓었고 필요한 모든 것을 갖추고 있었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "수영장은 아름답고 전망이 좋습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "내 숙소는 완전히 개조되었으며 매우 깨끗했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "2베드룸 방은 돈의 가치가 충분히 있었습니다!",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "맥알파인 하우스 호텔 (McAlpine House Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mcalpine-house-hotel/hotel/broome-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 264,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/4887823/0/3b40be5e9388a260796667c958ad179f.jpeg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 264건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 264건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 숙박",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "베이사이드 홀리데이 아파트먼트 (Bayside Holiday Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bayside-holiday-apartments/hotel/broome-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 648,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/102766698.jpg?k=078877a6036e809171d15d427fb8789179df003da6873940fe102449f43c4cd6&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 648건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 648건 기반.",
+      "reviews": [
+        {
+          "text": "무료 세탁 및 공유 선반을 이용하실 수 있습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "자동차와 트레일러도 안전하게 주차할 수 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "맛소 양조장 맞은편에 위치가 좋습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "주방은 제공된 모든 물품으로 훌륭하게 작동합니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "높은 울타리와 잠긴 대문이 있어 안전함을 느꼈습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-09T03:56:57.544Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
