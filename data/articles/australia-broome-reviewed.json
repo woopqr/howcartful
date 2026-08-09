@@ -1,0 +1,413 @@
+{
+  "slug": "australia-broome-reviewed",
+  "angle": "reviewed",
+  "angleAdj": "후기 많은",
+  "lang": "ko-kr",
+  "citySlug": "broome-au",
+  "cityName": "브룸",
+  "cityId": 9824,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "브룸",
+  "heroImg": "https://pix8.agoda.net/property/3136033/0/920f7c58ac70bac819912d4d76d97128.jpeg?ce=2",
+  "heroAlt": "브룸",
+  "heroSub": "실제 아고다 리뷰로 브룸의 리뷰 많은 숙소를 추렸습니다",
+  "verdictHtml": "리뷰 많은 기준 1순위는 <b>The Continental Hotel</b>입니다 (평점 8.5·리뷰 1,389건·1박 약 26만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/property/3136033/0/920f7c58ac70bac819912d4d76d97128.jpeg?ce=2",
+  "outroTitle": "🌙 브룸, 리뷰 많은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 브룸 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Continental Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-continental-hotel_2/hotel/all/broome-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 1389,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.5,
+      "img": "//pix8.agoda.net/property/3136033/0/920f7c58ac70bac819912d4d76d97128.jpeg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 1,389건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 1,389건 기반.",
+      "reviews": [
+        {
+          "text": "Best price in busy time",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Great Hotel close to Old Broome",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "comfy rooms with kitchenette",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Nice big pool, good restaurant",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Comfy bed and great pillows.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "오크스 브룸 호텔 (Oaks Broome Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oaks-broome-hotel/hotel/broome-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 1302,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 44만원",
+      "valueIndex": 4.9,
+      "img": "//pix8.agoda.net/hotelImages/48791979/0/b353f23d6e63abb3fa3e396891ffcea9.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 44만원",
+        "📝 리뷰 1,302건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 1,302건 기반.",
+      "reviews": [
+        {
+          "text": "Large bath which the kids loved.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Close to town, marketplace, seaside park and town beach.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Clean and comfy beds with a large fridge.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Full Breakfast included in price great value",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Great stay love 24/7 check in",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "문라이트 베이 스위트  (Moonlight Bay Suites)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/moonlight-bay-suites/hotel/broome-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 1176,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/4865396/0/ad9b257f2c521d2104040b6fc021c85a.jpeg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 1,176건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 1,176건 기반.",
+      "reviews": [
+        {
+          "text": "Nice large Bathroom with top class fixtures and fittings.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Our 2 bed suite was spacious and had everything you needed.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "pool is beautiful with great views",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "my unit was a fully renovated one and very clean.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "The 2 bedroom room was well worth the money!",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "오크스 케이블 비치 리조트 (Oaks Cable Beach Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oaks-cable-beach-sanctuary/hotel/broome-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 1127,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 48만원",
+      "valueIndex": 4.7,
+      "img": "//pix8.agoda.net/hotelImages/48792042/0/87e61b6217ba624bd3d9cbbd98f9d80b.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 48만원",
+        "📝 리뷰 1,127건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 1,127건 기반.",
+      "reviews": [
+        {
+          "text": "Great 2 bedroom apartment clean has everything needed",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Beautiful location, not far from cable beach sunset.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Pool areas were fabulous and well maintained.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Plenty of rooms for parking private vehicle.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "One of my favourite hotels to stay at when visiting broome",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Pinctada Hotel Broome",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kimberley-sands-resort-and-spa_3/hotel/all/broome-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 906,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 36만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/789025055.jpg?k=9c58ac523888349975fdb65c1a9e170d7e68b5436c6fe536858e1fdb92870ab8&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 36만원",
+        "📝 리뷰 906건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 906건 기반.",
+      "reviews": [
+        {
+          "text": "Enjoyed our stay",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "씨쉘스 브룸 (Seashells Broome)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/seashells-broome/hotel/broome-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 902,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 35만원",
+      "valueIndex": 5.2,
+      "img": "//pix8.agoda.net/hotelImages/11670/0/18ea16ccf8ca287ac2b68fadd1443ef9.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 35만원",
+        "📝 리뷰 902건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 902건 기반.",
+      "reviews": [
+        {
+          "text": "The shady tree lined balcony was enjoyable to relax on,",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "The property is far more extensive than first thought,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "A great pool and close to eateries and cable beach.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The apartment had great views and was so clean.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "We particularly liked the oversized bath tub.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Eco Beach Wilderness Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ramada-eco-beach-resort/hotel/broome-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 712,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/178326/0/43bd9afe5d21f60e2d3ea93c182c8f05.jpg?ca=7&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 712건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 712건 기반.",
+      "reviews": [
+        {
+          "text": "Rooms are very big and nature and wild life all round.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Tent is quite big with bathroom , super comfy bed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Was moved to another tent and it felt completely different!",
+          "score": "8",
+          "country": "United Kingdom",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "They have bar/restaurant and lovely pool in the complex.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "We stayed in one of the Villas close to the ocean front.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "reviewed",
+    "base": "australia-broome",
+    "count": 7,
+    "builtAt": "2026-08-09T05:02:52.789Z"
+  }
+}
