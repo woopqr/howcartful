@@ -8,7 +8,10 @@
     "australia-broome-star4",
     "australia-broome-reviewed",
     "australia-bridport",
-    "australia-bribie-island"
+    "australia-bribie-island",
+    "australia-bribie-island-rating",
+    "australia-bribie-island-station",
+    "australia-bribie-island-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
