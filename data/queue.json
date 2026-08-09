@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-09T06:38:23.640Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 5,
+  "lastPostedAt": "2026-08-09T07:39:00.372Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 6,
   "postedDate": "2026-08-09",
   "queue": [
-    "australia-bruny-island-reviewed",
     "australia-broome",
     "australia-broome-rating",
     "australia-broome-station",
@@ -444,6 +443,7 @@
     "australia-bruny-island-rating",
     "australia-bruny-island-station",
     "australia-bruny-island-premium",
-    "australia-bruny-island-star4"
+    "australia-bruny-island-star4",
+    "australia-bruny-island-reviewed"
   ]
 }
