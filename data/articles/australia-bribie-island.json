@@ -1,0 +1,345 @@
+{
+  "slug": "australia-bribie-island",
+  "title": "브리비 아일랜드 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 브리비 아일랜드 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "bribie-island-au",
+  "cityName": "브리비 아일랜드",
+  "cityId": 142355,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "브리비 아일랜드",
+  "heroImg": "https://pix8.agoda.net/hotelImages/64004006/0/0173e2f1132bd0d7b38e46d4d76c0d0f.jpg?ce=3",
+  "heroAlt": "브리비 아일랜드",
+  "heroTitleHtml": "브리비 아일랜드 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Bribie Island Caravan Park</b>(평점 8.4·리뷰 382건·1박 약 11만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Bribie Island Caravan Park</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/64004006/0/0173e2f1132bd0d7b38e46d4d76c0d0f.jpg?ce=3",
+  "outroTitle": "🌙 브리비 아일랜드, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 브리비 아일랜드 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 브리비 아일랜드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Bribie Island Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bribie-island-caravan-park/hotel/bribie-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 382,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/64004006/0/0173e2f1132bd0d7b38e46d4d76c0d0f.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 382건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 382건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 훌륭했고 매우 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "캐빈에 머물렀으며 올해 언젠가 재예약하려고 합니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "놀라운 숙박",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "직원들은 사랑스럽고 친절하며 미소로 맞이합니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "멋지고 조용한 공원이 있으며 상점과 해변까지 도보로 쉽게 갈 수 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Bribie Island Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bribie-island-hotel/hotel/bribie-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 73,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/174531354.jpg?k=cf727ca2f0331783a8b37e5ec67df3d4bb5e4f45e59ca38dcab0f092fa143d5f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 73건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 73건 기반.",
+      "reviews": [
+        {
+          "text": "머그잔, 유리잔, 수저, 그릇 제공",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "Bribie의 편안한 지역에 있는 모든 것에 가깝습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "아름다운 일몰, 깨끗하고 최근 개조된 욕실 등",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 직원이 현지인이 아닌 것처럼 환영받는 느낌을 받았습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "넓고 깨끗한 방.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Bribie Waterways Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bribie-waterways-motel_2/hotel/all/bribie-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 1271,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/899321542.jpg?k=9c41d90bab2ab44dfd3d072eeb44e6918da13fe3bf0f2e7e10bcd3825683fd4f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 1,271건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,271건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗한 객실과 친절한 직원",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "Bribie Island에 머물기에 훌륭한 장소",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗했고 침대도 매우 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "Bribie Waterways Motel에 머무는 것은 이번이 두 번째입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 요리하기 좋은 주방과 해안가.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "The Gums Anchorage",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-gums-anchorage/hotel/all/bribie-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 239,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/87720840.jpg?k=a3006f44d21c65291dab6dfebef4514d26c668c02ca48a96ea5e1dc245b5542a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 239건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 239건 기반.",
+      "reviews": [
+        {
+          "text": "물과 카페에 가까운 Bribie Island의 훌륭한 위치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 시설, 깨끗하고 잘 관리되어 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "바다 전망을 갖춘 가족을 위한 완벽한 숙소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "위치는 우리가 필요로 했던 것에 완벽했습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "우리 큰 그룹에 너무 적응해주셔서 감사합니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Oceanview",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oceanview/hotel/all/bribie-island-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 162,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 33만원",
+      "valueIndex": 5.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/482713296.jpg?k=42497dd280407a6156748b9d9f0a82adf1beb0b3d08721d2192ee18059bcb727&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 33만원",
+        "📝 리뷰 162건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 162건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 빠른 휴가를 보내고 아고다를 통해 이 보석을 발견했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 곳",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "주인은 매우 즐겁고 도움이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "우리는 다시 돌아올 것이다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "적극 권장",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Island Bungalow",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/island-bungalow/hotel/all/brisbane-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 69,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 30만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/288745919.jpg?k=88bba3c22f7e38dcf007c4b2dce2ae0b4ec96ae7facb6d95218ea6c4bdcbed54&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 30만원",
+        "📝 리뷰 69건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 69건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-09T12:51:07.793Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}

@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-09T11:30:19.185Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 9,
+  "lastPostedAt": "2026-08-09T12:50:41.462Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 10,
   "postedDate": "2026-08-09",
   "queue": [
-    "australia-broome-premium",
     "australia-broome-star4",
     "australia-broome-reviewed",
-    "australia-bridport"
+    "australia-bridport",
+    "australia-bribie-island"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 292,
+    "cityIndex": 293,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -445,6 +445,7 @@
     "australia-bruny-island-reviewed",
     "australia-broome",
     "australia-broome-rating",
-    "australia-broome-station"
+    "australia-broome-station",
+    "australia-broome-premium"
   ]
 }
