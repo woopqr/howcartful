@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-08T13:06:24.388Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 10,
-  "postedDate": "2026-08-08",
+  "lastPostedAt": "2026-08-09T00:03:40.362Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-08-09",
   "queue": [
-    "australia-bruny-island",
     "australia-bruny-island-rating",
     "australia-bruny-island-station",
     "australia-bruny-island-premium",
@@ -438,6 +437,7 @@
     "australia-broken-hill-rating",
     "australia-broken-hill-station",
     "australia-broken-hill-budget",
-    "australia-broken-hill-reviewed"
+    "australia-broken-hill-reviewed",
+    "australia-bruny-island"
   ]
 }
