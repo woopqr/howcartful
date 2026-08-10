@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-10T04:46:32.966Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 3,
+  "lastPostedAt": "2026-08-10T06:02:58.415Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 4,
   "postedDate": "2026-08-10",
   "queue": [
-    "australia-bribie-island",
     "australia-bribie-island-rating",
     "australia-bribie-island-station",
-    "australia-bribie-island-reviewed"
+    "australia-bribie-island-reviewed",
+    "australia-brisbane"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 293,
+    "cityIndex": 294,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -449,6 +449,7 @@
     "australia-broome-premium",
     "australia-broome-star4",
     "australia-broome-reviewed",
-    "australia-bridport"
+    "australia-bridport",
+    "australia-bribie-island"
   ]
 }
