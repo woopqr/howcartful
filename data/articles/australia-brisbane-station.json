@@ -1,0 +1,442 @@
+{
+  "slug": "australia-brisbane-station",
+  "angle": "station",
+  "angleAdj": "역세권",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "브리즈번",
+  "cityId": 9466,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "브리즈번",
+  "heroImg": "https://pix8.agoda.net/hotelImages/666044/-1/810c22e7e2dbf1308363c517a46f89d3.png?ca=17&ce=1",
+  "heroAlt": "브리즈번",
+  "heroSub": "실제 아고다 리뷰로 브리즈번의 역세권 숙소를 추렸습니다",
+  "verdictHtml": "역세권 기준 1순위는 <b>하얏트 리젠시 브리즈번</b>입니다 (평점 8.9·리뷰 1,588건·1박 약 40만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/666044/-1/810c22e7e2dbf1308363c517a46f89d3.png?ca=17&ce=1",
+  "outroTitle": "🌙 브리즈번, 역세권으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 브리즈번 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "하얏트 리젠시 브리즈번 (Hyatt Regency Brisbane)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/next-hotel-brisbane/hotel/brisbane-au.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.9,
+      "reviewCount": 1588,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 40만원",
+      "valueIndex": 5.2,
+      "img": "//pix8.agoda.net/hotelImages/666044/-1/810c22e7e2dbf1308363c517a46f89d3.png?ca=17&ce=1",
+      "distanceNote": "약 91.46m · 퀸 스트리트 버스환승장 인근",
+      "metaTags": [
+        "💰 약 40만원",
+        "📝 리뷰 1,588건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,588건 기반.",
+      "reviews": [
+        {
+          "text": "I’ll be definitely here when coming to Brisbane again.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The room is spacious, comfortable bed and pillows.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Can't fault the staff they are wonderfull and very helpful.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Good location, clean and Breakfast is excellent!",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Lovely accommodation close to everything in Brisbane's CBD",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "로머 브리즈번 (Roamer Brisbane)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/selina-brisbane/hotel/masig-island-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.6,
+      "reviewCount": 1620,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/32751876/-1/f8b02e78e5f20097c70bda71dacab71a.jpg?ce=0",
+      "distanceNote": "약 193.8m · 로마 스트리트역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 1,620건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,620건 기반.",
+      "reviews": [
+        {
+          "text": "Beth one of the staff members help a lot really kind",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Spacious rooms and really friendly staff at the front desk!",
+          "score": "9.2",
+          "country": "Germany",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The facilities are great and staff were above and beyond.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "And the breakfast at the restaurant is so good 😊 thanks",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Rooms are clean and just what you need for quick stay.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "이비스 스타일 브리즈번 엘리자베스 스트리트 (Ibis Styles Brisbane Elizabeth Street)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ibis-styles-brisbane-elizabeth-street/hotel/brisbane-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.8,
+      "reviewCount": 8667,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.7,
+      "img": "//pix8.agoda.net/hotelImages/1161079/-1/f9f7645a855cb3bd4810c0669f6ee3fe.jpg?ca=10&ce=1",
+      "distanceNote": "약 146.97m · 퀸 스트리트 버스환승장 인근",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 8,667건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 8,667건 기반.",
+      "reviews": [
+        {
+          "text": "I have actually stayed here before and love the location",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Very comfortable bed, clean towels and a neatly kept room.",
+          "score": "10",
+          "country": "Papua New Guinea",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Excellent location, able to walk to everything in the city.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Great hotel with extremely professional and friendly staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Walking distance the bridge and to north quay for cruising.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "더 스타 그랜드 브리즈번 (The Star Grand Brisbane)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-star-grand-brisbane/hotel/brisbane-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 9.2,
+      "reviewCount": 2656,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 51만원",
+      "valueIndex": 5.3,
+      "img": "//pix8.agoda.net/hotelImages/47843314/0/66a1f3773ef87ef0b9d6c49fd6804d86.jpg?ce=2",
+      "distanceNote": "약 142.63m · 퀸 스트리트 버스환승장 인근",
+      "metaTags": [
+        "💰 약 51만원",
+        "📝 리뷰 2,656건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 2,656건 기반.",
+      "reviews": [
+        {
+          "text": "My wife and I could not believe how beautiful the room was.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Design, service, quality of fittings, amenities, position.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Hotel , as you would expect is exceptional in all aspects.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "This will be my go to hotel when I travel to Brisbane now.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "The Room: Modern, sleek, and exceptionally comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "브리즈번 - 쿼터스 (Brisbane - Quarters)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/brisbane-quarters/hotel/brisbane-au.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.5,
+      "reviewCount": 5326,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.5,
+      "img": "//pix8.agoda.net/hotelImages/41730045/-1/7b780ff23aae054b38cfad8ad648b707.jpg?ce=0",
+      "distanceNote": "약 217.14m · 센트럴역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 5,326건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 5,326건 기반.",
+      "reviews": [
+        {
+          "text": "Good location and great hostel.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Very good location close to buses and train station.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The rooms and bathrooms and showers were clean and spacious.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Great location, super super clean, great free breakfast.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The staff a pleasant and very help full.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "조지 호텔 브리즈번, 인디펜던트 컬렉션 바이 EVT (George Hotel Brisbane, Independent Collection by EVT)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/george-williams-hotel/hotel/brisbane-au.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.1,
+      "reviewCount": 1861,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/502446/-1/d4b7007c33766d858e2814acb54469b1.jpg?ca=9&ce=1",
+      "distanceNote": "약 269.97m · 킹 조지 스퀘어 버스환승장 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 1,861건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 1,861건 기반.",
+      "reviews": [
+        {
+          "text": "Quiet place with all the mod cons, bed was comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The room was clean and well maintained.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Overall, it is a 5 star recommended place to stay.",
+          "score": "10",
+          "country": "Nauru",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Close to the river, the main train station, and restaurants.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The room was very clean, comfortable bed with clean bedding.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "옥스 브리즈번 페스티벌 스위트 (Oaks Brisbane Festival Suites)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oaks-festival-towers-apartments/hotel/brisbane-au.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.6,
+      "reviewCount": 2678,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/96340/-1/4f8a35e8272e15201f248ad0dbceef41.jpg?ca=23&ce=0",
+      "distanceNote": "약 250.84m · 퀸 스트리트 버스환승장 인근",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 2,678건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 2,678건 기반.",
+      "reviews": [
+        {
+          "text": "If you want five star service it is the best place to stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Staff were super friendly and helpful throughout our stay.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The facilities were great pool was warm , in a great spot",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Booked a one bedroom but ended up with a two bedroom suite",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Oaks is by the far the best hotel I have ever stayed in.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "station",
+    "base": "australia-brisbane",
+    "count": 7,
+    "builtAt": "2026-08-10T07:58:48.735Z"
+  }
+}
