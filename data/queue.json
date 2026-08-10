@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-09T12:50:41.462Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 10,
-  "postedDate": "2026-08-09",
+  "lastPostedAt": "2026-08-10T00:45:16.210Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 1,
+  "postedDate": "2026-08-10",
   "queue": [
-    "australia-broome-star4",
     "australia-broome-reviewed",
     "australia-bridport",
     "australia-bribie-island",
@@ -449,6 +448,7 @@
     "australia-broome",
     "australia-broome-rating",
     "australia-broome-station",
-    "australia-broome-premium"
+    "australia-broome-premium",
+    "australia-broome-star4"
   ]
 }
