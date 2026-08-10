@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-10T07:58:48.747Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 5,
+  "lastPostedAt": "2026-08-10T09:38:38.474Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 6,
   "postedDate": "2026-08-10",
   "queue": [
-    "australia-bribie-island-station",
     "australia-bribie-island-reviewed",
     "australia-brisbane",
     "australia-brisbane-rating",
@@ -456,6 +455,7 @@
     "australia-broome-reviewed",
     "australia-bridport",
     "australia-bribie-island",
-    "australia-bribie-island-rating"
+    "australia-bribie-island-rating",
+    "australia-bribie-island-station"
   ]
 }
