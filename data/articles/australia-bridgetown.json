@@ -1,0 +1,255 @@
+{
+  "slug": "australia-bridgetown",
+  "title": "브리지타운 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 브리지타운 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "bridgetown-au",
+  "cityName": "브리지타운",
+  "cityId": 143424,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "브리지타운",
+  "heroImg": "https://pix8.agoda.net/hotelImages/255208/0/473b4ac59c43234a9e518facd3b2b209.jpeg?ce=0",
+  "heroAlt": "브리지타운",
+  "heroTitleHtml": "브리지타운 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>포드 하우스 리트리트</b>(평점 9.3·리뷰 674건·1박 약 20만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>포드 하우스 리트리트</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/255208/0/473b4ac59c43234a9e518facd3b2b209.jpeg?ce=0",
+  "outroTitle": "🌙 브리지타운, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 브리지타운 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 브리지타운 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "포드 하우스 리트리트 (Ford House Retreat)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ford-house-retreat/hotel/bridgetown-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 674,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 20만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/255208/0/473b4ac59c43234a9e518facd3b2b209.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 674건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 674건 기반.",
+      "reviews": [
+        {
+          "text": "아름다운 정원과 숙소.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "정말 좋았어요. 돌아올게요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 곧 다시 돌아올 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "위치가 훌륭합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 하룻밤 숙박",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "샴발라 게스트하우스 (Shambhala Guest House)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/shambhala-guest-house/hotel/bridgetown-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 189,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/263/263868/263868_16052714070042798250.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 189건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 189건 기반.",
+      "reviews": [
+        {
+          "text": "아름다운 위치, 매우 깨끗하고 매우 친절한 주인.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "아내와 함께 샴발라 게스트하우스에서 즐거운 시간을 보냈습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 Shambhala Guest House에서의 숙박을 좋아했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "일부 R&R을 위한 완벽한 볼트 구멍으로 적극 권장됩니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "주인 Ruth의 따뜻하고 정중한 환영.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "The Bridgetown Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-bridgetown-hotel/hotel/all/bridgetown-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 581,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/123974936.jpg?k=cdb08e1f33c8885ed061cebed931b8200312d007b7742943c7b7ab20e8133f8b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 581건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 581건 기반.",
+      "reviews": [
+        {
+          "text": "브리지타운에서의 숙박을 위한 최고의 위치입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "큰 객실과 멋진 레스토랑과 바.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗한 방.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "별도의 스파/샤워실/화장실을 갖춘 넓은 객실",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "좋은 곳에 있는 완벽한 호텔",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Nelsons of Bridgetown",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nelsons-of-bridgetown/hotel/all/bridgetown-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 172,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 5.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/33640160.jpg?k=bb06576a6cb27fc93d9fa9eb8d9d64bfc818c99d8762e98e8f0d521d2ca4d35b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 172건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 172건 기반.",
+      "reviews": [
+        {
+          "text": "방은 매우 깨끗하고 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "확실히 다시 여기에 머물 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "확실히 추천하겠습니다",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "저예산 객실에 아주 좋습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-11T00:37:25.346Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}

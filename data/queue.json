@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-10T14:54:51.353Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 10,
-  "postedDate": "2026-08-10",
+  "lastPostedAt": "2026-08-11T00:37:03.366Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-08-11",
   "queue": [
-    "australia-brisbane-budget",
     "australia-brisbane-premium",
     "australia-brisbane-star4",
-    "australia-brisbane-reviewed"
+    "australia-brisbane-reviewed",
+    "australia-bridgetown"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 294,
+    "cityIndex": 295,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -456,6 +456,7 @@
     "australia-bribie-island-reviewed",
     "australia-brisbane",
     "australia-brisbane-rating",
-    "australia-brisbane-station"
+    "australia-brisbane-station",
+    "australia-brisbane-budget"
   ]
 }
