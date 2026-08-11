@@ -1,14 +1,19 @@
 {
-  "lastPostedAt": "2026-08-11T07:33:40.567Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 5,
+  "lastPostedAt": "2026-08-11T08:33:15.721Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 6,
   "postedDate": "2026-08-11",
   "queue": [
-    "australia-black-point",
     "australia-blackwater",
     "australia-blainy",
-    "australia-blue-mountains"
+    "australia-blue-mountains",
+    "australia-blue-mountains-rating",
+    "australia-blue-mountains-station",
+    "australia-blue-mountains-budget",
+    "australia-blue-mountains-premium",
+    "australia-blue-mountains-star4",
+    "australia-blue-mountains-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -461,6 +466,7 @@
     "australia-brisbane-premium",
     "australia-brisbane-star4",
     "australia-brisbane-reviewed",
-    "australia-bridgetown"
+    "australia-bridgetown",
+    "australia-black-point"
   ]
 }

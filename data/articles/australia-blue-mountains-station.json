@@ -1,0 +1,441 @@
+{
+  "slug": "australia-blue-mountains-station",
+  "angle": "station",
+  "angleAdj": "역세권",
+  "lang": "ko-kr",
+  "citySlug": "blue-mountains-au",
+  "cityName": "블루 마운틴스",
+  "cityId": 17892,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "블루 마운틴스",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/62487735.jpg?k=7857cfdc64fefbc13a98e6b34f48f20ee7c0a559fba18adb6dff66e11d2fc934&o=",
+  "heroAlt": "블루 마운틴스",
+  "heroSub": "실제 아고다 리뷰로 블루 마운틴스의 역세권 숙소를 추렸습니다",
+  "verdictHtml": "역세권 기준 1순위는 <b>로열 - 호텔</b>입니다 (평점 8·리뷰 114건·1박 약 9만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/62487735.jpg?k=7857cfdc64fefbc13a98e6b34f48f20ee7c0a559fba18adb6dff66e11d2fc934&o=",
+  "outroTitle": "🌙 블루 마운틴스, 역세권으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 블루 마운틴스 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "로열 - 호텔 (Royal - Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/royal-hotel_2/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8,
+      "reviewCount": 114,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/62487735.jpg?k=7857cfdc64fefbc13a98e6b34f48f20ee7c0a559fba18adb6dff66e11d2fc934&o=",
+      "distanceNote": "약 40.91m · Springwood 인근",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 114건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 114건 기반.",
+      "reviews": [
+        {
+          "text": "I had one meal in the dining room and was happy with it.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The train station is across the road from the hotel.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "I’ve stayed a few times and enjoyed every night excellent 1",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "It was spacious and there was a separate sitting area.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The food at the bistro was amazing",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "더 캐링턴 호텔 (Carrington Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/carrington-hotel/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.8,
+      "reviewCount": 2599,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/182484/0/dde587c2e78d5db1bbc5dcc063d1f537.jpeg?ce=3",
+      "distanceNote": "약 127.59m · Katoomba Railway Station 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 2,599건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 2,599건 기반.",
+      "reviews": [
+        {
+          "text": "The rooms and amenities were very comfortable and clean.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "We enjoyed our stay at this wonderful heritage hotel.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Staff were exceptional, rooms airy and comfortable.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The Carrington is a beautiful example of an historic hotel.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Large rooms, beautiful lounges full of memorabilia.",
+          "score": "9.2",
+          "country": "New Zealand",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "메트로폴 카툼바 호텔 (Metropole Katoomba)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/metropole-katoomba/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.5,
+      "reviewCount": 2219,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/225537/0/f377c2e076623164d164e9747337286f.jpeg?ce=3",
+      "distanceNote": "약 127.12m · Katoomba Railway Station 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 2,219건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 2,219건 기반.",
+      "reviews": [
+        {
+          "text": "The room was clean & cozy with a really comfortable bed.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "We had a large, bright, very comfortable, renovated room",
+          "score": "8",
+          "country": "Ireland",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "We used public transport and it is so conveniently located.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Food was amazing and staff were so helpful and friendly.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "A beautiful old building which is clean and comfortable.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Gardners Inn Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/gardners-inn-hotel/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.6,
+      "reviewCount": 66,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/782579352.jpg?k=483aeef22aca11706a69911b0aa62b55a36125e55248729e0a59b29dab022568&o=",
+      "distanceNote": "약 175.44m · Blackheath 인근",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 66건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 66건 기반.",
+      "reviews": [
+        {
+          "text": "Amazing value for queen room with ensuite.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The owner and staff were very friendly and helpful!",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Very nice place, well located and very clear.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Warm room and electric blankets in the beds!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Excellent location and value",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "블랙히스 모터 인 (Blackheath Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/blackheath-motor-inn/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.5,
+      "reviewCount": 128,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/276249/0/48e01db623d7cf7ee24cf6c53ee32db0.jpeg?ce=3",
+      "distanceNote": "약 172.35m · Blackheath 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 128건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 128건 기반.",
+      "reviews": [
+        {
+          "text": "The check-in and check-out process was smooth and efficient.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Very clean (though old) and we thoroughly enjoyed our stay.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Staff were extremely helpful and accomodating.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Location is good and parking are provided.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Comfortable and cozy room",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2023.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Katoomba Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/katoomba-hotel/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.3,
+      "reviewCount": 232,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/104244125.jpg?k=86a450cd88e4982fca93aab2f4fc65a10bf87c41e17c12bd82f106c76c4166b5&o=",
+      "distanceNote": "약 125.53m · Katoomba Railway Station 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 232건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 232건 기반.",
+      "reviews": [
+        {
+          "text": "Amazing staff! Excellent customer service!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Clean rooms, friendly staff and good items in the room.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Clean, renovated but small room.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Good location",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Small room but decent value for money",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Rowan Brae Historic Guesthouse",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rowan-brae-historic-guesthouse/hotel/all/blue-mountains-au.html?cid=1925461",
+      "walkMin": 3,
+      "score": 9,
+      "reviewCount": 947,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/405401841.jpg?k=654814717bd00ca1cb51d8df73884f6cb917dc163d78b97303c594cae24a441d&o=",
+      "distanceNote": "약 267m · Blackheath 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 947건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 947건 기반.",
+      "reviews": [
+        {
+          "text": "Outstanding property and terrific staff",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Will stay here again when in blue mountains. 😊",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Has a lovely spread of food for breakfast.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Lovely accommodation near to train station.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Bed is very comfortable.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "station",
+    "base": "australia-blue-mountains",
+    "count": 7,
+    "builtAt": "2026-08-11T08:33:15.703Z"
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "slug": "australia-blue-mountains-budget",
+  "angle": "budget",
+  "angleAdj": "가격 착한",
+  "lang": "ko-kr",
+  "citySlug": "blue-mountains-au",
+  "cityName": "블루 마운틴스",
+  "cityId": 17892,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "블루 마운틴스",
+  "heroImg": "https://pix8.agoda.net/hotelImages/271074/-1/660d584a2c393eacc268a964e3cb343f.jpg?ce=0",
+  "heroAlt": "블루 마운틴스",
+  "heroSub": "실제 아고다 리뷰로 블루 마운틴스의 저가 실속 숙소를 추렸습니다",
+  "verdictHtml": "저가 실속 기준 1순위는 <b>YHA 블루 마운틴 카툼바</b>입니다 (평점 8.9·리뷰 3,119건·1박 약 3만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/271074/-1/660d584a2c393eacc268a964e3cb343f.jpg?ce=0",
+  "outroTitle": "🌙 블루 마운틴스, 저가 실속으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 블루 마운틴스 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "YHA 블루 마운틴 카툼바 (YHA Blue Mountains Katoomba)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/blue-mountains-yha/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 9,
+      "score": 8.9,
+      "reviewCount": 3119,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8.9,
+      "img": "//pix8.agoda.net/hotelImages/271074/-1/660d584a2c393eacc268a964e3cb343f.jpg?ce=0",
+      "distanceNote": "약 687.09m · Katoomba Railway Station 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 3,119건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 3,119건 기반.",
+      "reviews": [
+        {
+          "text": "Location is perfect, plenty of restaurants and hikes nearby.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The room was clean, the kitchen was well equipped organised.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Staff were great, room was clean, and sleep was comfortable.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "It's a very relaxed and comfortable environment.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "The room was very clean and the staffs were very friendly.",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2023.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "카툼바 마운틴 로지 (Katoomba Mountain Lodge)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/katoomba-mountain-lodge/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 7.5,
+      "reviewCount": 246,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/235356/0/9674b602f2d097dec8cec8c15108fde5.jpeg?ce=3",
+      "distanceNote": "약 360.64m · Katoomba Railway Station 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 246건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 246건 기반.",
+      "reviews": [
+        {
+          "text": "The room is big enough and the bed is confortable.",
+          "score": "8.4",
+          "country": "Magyarország",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Good value accommodation 1 minute walk to Katoomba Street.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "I really enjoyed my stay at Mountain Lodge.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Value for money right in the heart of town.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "I went with my friend for a weekend and we had a great time",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Commercial Hotel Motel Lithgow",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/commercial-hotel-motel-lithgow/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 7.6,
+      "reviewCount": 94,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 7.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/143282678.jpg?k=7aac53e14b29cbeabfd0c345ae9730ac8e20d20b8fab1d0e15c62a0bc17b7703&o=",
+      "distanceNote": "약 484.37m · Lithgow 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 94건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 94건 기반.",
+      "reviews": [
+        {
+          "text": "The bed in the room was huge!!!but soooo comfortable",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Nice comfy room, central heating - great now in winter.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Good value for money",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "Reasonably priced",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "Super clean, comfy bed, great location.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Hearty Center Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hearty-center/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 12,
+      "score": 7.6,
+      "reviewCount": 815,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 7.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/374493423.jpg?k=867c49dc6c3f36680a7b59d3970260753f90b014c0248817863066d2f631c64b&o=",
+      "distanceNote": "약 989.58m · Katoomba Railway Station 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 815건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 815건 기반.",
+      "reviews": [
+        {
+          "text": "The room, shower, and common living room were all perfect.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "The room was very clean, the shared bathroom was very clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Valid and Sound Holistic Retreat perfect for holistic care",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Complimentary with tea/coffee and kettle inside the room 👍",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Nice and close to town",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Hotel Blue & Cottages",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-blue-conference-centre/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 11,
+      "score": 8.1,
+      "reviewCount": 308,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8,
+      "img": "//pix8.agoda.net/hotelImages/254892/0/c6e3833c29bc6958acdb62736a7a73b2.jpeg?ce=3",
+      "distanceNote": "약 847.86m · Katoomba Railway Station 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 308건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 308건 기반.",
+      "reviews": [
+        {
+          "text": "Really great place to stay, extremely clean and comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "It was very very spacy, beautiful with lots of sunlight.",
+          "score": "10",
+          "country": "Úc",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Person at reception was very nice and accomodating.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The staff was friendly and the breakfast was inclusive.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "An affordable stay to explore the Blue Mountain treks.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "스카이 라이더 모터 인 (Sky Rider Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sky-rider-motor-inn/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 14,
+      "score": 8.6,
+      "reviewCount": 931,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 8만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/276922/0/03e67cbf275d29d3bf25c66aca346a28.jpeg",
+      "distanceNote": "약 1129.31m · Katoomba Railway Station 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 931건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 931건 기반.",
+      "reviews": [
+        {
+          "text": "Overall, a highly recommended choice for an enjoyable stay.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Location is great, a nice walk into the town center.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended for a great place to stay with kids.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "The room was spacious, clean, fragrant, comfortable.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Great value, immaculately clean, comfortable, good location.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "로열 - 호텔 (Royal - Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/royal-hotel_2/hotel/blue-mountains-au.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8,
+      "reviewCount": 114,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/62487735.jpg?k=7857cfdc64fefbc13a98e6b34f48f20ee7c0a559fba18adb6dff66e11d2fc934&o=",
+      "distanceNote": "약 40.91m · Springwood 인근",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 114건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 114건 기반.",
+      "reviews": [
+        {
+          "text": "I had one meal in the dining room and was happy with it.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The train station is across the road from the hotel.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "I’ve stayed a few times and enjoyed every night excellent 1",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "It was spacious and there was a separate sitting area.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The food at the bistro was amazing",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "budget",
+    "base": "australia-blue-mountains",
+    "count": 7,
+    "builtAt": "2026-08-11T08:33:15.703Z"
+  }
+}
