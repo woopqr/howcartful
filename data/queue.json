@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-11T08:33:15.721Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 6,
+  "lastPostedAt": "2026-08-11T09:34:57.978Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 7,
   "postedDate": "2026-08-11",
   "queue": [
-    "australia-blackwater",
     "australia-blainy",
     "australia-blue-mountains",
     "australia-blue-mountains-rating",
@@ -467,6 +466,7 @@
     "australia-brisbane-star4",
     "australia-brisbane-reviewed",
     "australia-bridgetown",
-    "australia-black-point"
+    "australia-black-point",
+    "australia-blackwater"
   ]
 }
