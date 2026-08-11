@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-11T05:19:37.750Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 4,
+  "lastPostedAt": "2026-08-11T07:33:40.567Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 5,
   "postedDate": "2026-08-11",
   "queue": [
-    "australia-bridgetown",
     "australia-black-point",
     "australia-blackwater",
-    "australia-blainy"
+    "australia-blainy",
+    "australia-blue-mountains"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 298,
+    "cityIndex": 299,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -460,6 +460,7 @@
     "australia-brisbane-budget",
     "australia-brisbane-premium",
     "australia-brisbane-star4",
-    "australia-brisbane-reviewed"
+    "australia-brisbane-reviewed",
+    "australia-bridgetown"
   ]
 }
