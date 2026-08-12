@@ -1,0 +1,314 @@
+{
+  "slug": "australia-binalong-bay-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "비나롱 베이",
+  "cityId": 513479,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "비나롱 베이",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/215572551.jpg?k=da1e68a6897567d6f73ad6dde9622499f0757d664f19b6ea8e6448c4d5199ce3&o=",
+  "heroAlt": "비나롱 베이",
+  "heroSub": "실제 아고다 리뷰로 비나롱 베이의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>THE LOFT @ Bay of Fires Seascape</b>입니다 (평점 9.7·리뷰 123건·1박 약 31만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/215572551.jpg?k=da1e68a6897567d6f73ad6dde9622499f0757d664f19b6ea8e6448c4d5199ce3&o=",
+  "outroTitle": "🌙 비나롱 베이, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 비나롱 베이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "THE LOFT @ Bay of Fires Seascape",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-loft-bay-of-fires-seascape/hotel/all/binalong-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 123,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 31만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/215572551.jpg?k=da1e68a6897567d6f73ad6dde9622499f0757d664f19b6ea8e6448c4d5199ce3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 123건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 123건 기반.",
+      "reviews": [
+        {
+          "text": "The house is just perfect",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Relaxing stayed over for 2 nights",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "BINALONG BEACH COTTAGE Beachfront at Bay of Fires Next to Restaurant",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/binalong-beach-cottage-beachfront-at-bay-of-fires-next-to-restaurant/hotel/all/binalong-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 171,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 35만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/274783352.jpg?k=6f2632db3eb9d922e7d7d96f23cfca9f716fd82da5756c793625831d3ba5a120&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 35만원",
+        "📝 리뷰 171건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 171건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "DOLPHIN LOOKOUT COTTAGE - amazing views of the Bay of Fires",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dolphin-lookout-cottage-amazing-views-of-the-bay-of-fires/hotel/all/binalong-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 146,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 36만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/225526001.jpg?k=5cb9bf110a85a79499e2ea6486c2f1e24d740e589171ebf3e9f821d80fab5199&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 36만원",
+        "📝 리뷰 146건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 146건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "House with bay views - St Helens family escape",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/house-with-bay-views-st-helens-pet-friendly/hotel/all/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 61,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 46만원",
+      "valueIndex": 5.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/543450031.jpg?k=48a9a8e319babbc283cef0411d3bc8d06f2c877af9db865b7a63cdf453a8c76c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 46만원",
+        "📝 리뷰 61건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 61건 기반.",
+      "reviews": [
+        {
+          "text": "Most well supplied Air BnB we've ever stayed in, seriously!!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Beds were comfy, we couldn't fault this wonderful home!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Laundry & bathrooms same, sensational!!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Thank you owners for thinking of everything!!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Exceptional Home away from Home!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "BAY OF FIRES SEACHANGE Ocean frontage",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bay-of-fires-seachange-ocean-frontage/hotel/all/binalong-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 116,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 35만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/141655813.jpg?k=95a275038b4c35a1befef5789c2140238dd46b1aaaf341000bb47e57f5e62082&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 35만원",
+        "📝 리뷰 116건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 116건 기반.",
+      "reviews": [
+        {
+          "text": "100% satisfaction and highly recommend it",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "A convenient location to visit the Bay of Fires",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Great location, comfortable house",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Beautiful stay",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "BAY OF FIRES ECO HUT off grid experience at Binalong Bay",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bay-of-fires-eco-hut-off-grid-experience-at-binalong-bay/hotel/all/binalong-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 78,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/165773802.jpg?k=7ba47112e489381d04a89291391ed27d5a0981bc45681644d11a948071a9f49e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 78건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 78건 기반.",
+      "reviews": [
+        {
+          "text": "Great location",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "파노라마 세인트 헬렌스 (Panorama St Helens)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tidal-waters-resort/hotel/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 2688,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/771167943.jpg?k=a51a51c705d5d40c32e51a495ccbcdb044808944febb3f3e5300d2dde79d1916&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 2,688건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 2,688건 기반.",
+      "reviews": [
+        {
+          "text": "The bedroom has a warm heater and the view is great.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Simple hotel with a location on a bird estuary.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Very efficient check in and check out process.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The hotel offers all amenities including bar and bistro.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "The rooms are large and clean.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-binalong-bay",
+    "count": 7,
+    "builtAt": "2026-08-12T04:27:41.539Z"
+  }
+}

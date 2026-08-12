@@ -1,0 +1,402 @@
+{
+  "slug": "australia-binalong-bay-reviewed",
+  "angle": "reviewed",
+  "angleAdj": "후기 많은",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "비나롱 베이",
+  "cityId": 513479,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "비나롱 베이",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/771167943.jpg?k=a51a51c705d5d40c32e51a495ccbcdb044808944febb3f3e5300d2dde79d1916&o=",
+  "heroAlt": "비나롱 베이",
+  "heroSub": "실제 아고다 리뷰로 비나롱 베이의 리뷰 많은 숙소를 추렸습니다",
+  "verdictHtml": "리뷰 많은 기준 1순위는 <b>파노라마 세인트 헬렌스</b>입니다 (평점 8.7·리뷰 2,688건·1박 약 20만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/771167943.jpg?k=a51a51c705d5d40c32e51a495ccbcdb044808944febb3f3e5300d2dde79d1916&o=",
+  "outroTitle": "🌙 비나롱 베이, 리뷰 많은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 비나롱 베이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "파노라마 세인트 헬렌스 (Panorama St Helens)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tidal-waters-resort/hotel/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 2688,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/771167943.jpg?k=a51a51c705d5d40c32e51a495ccbcdb044808944febb3f3e5300d2dde79d1916&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 2,688건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 2,688건 기반.",
+      "reviews": [
+        {
+          "text": "The bedroom has a warm heater and the view is great.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Simple hotel with a location on a bird estuary.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Very efficient check in and check out process.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The hotel offers all amenities including bar and bistro.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "The rooms are large and clean.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Anchor Wheel Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/anchor-wheel-motel/hotel/all/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 980,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/847629182.jpg?k=1723feecd0870ec7f9b81d552152bfedd0af769f34d1168c4718c79cb8a32387&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 980건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 980건 기반.",
+      "reviews": [
+        {
+          "text": "We will definitely recommend Anchor Wheel Motel to everyone!",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The motel is clean could be benchmark to 5 star hotels.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Very very nice hotel and good facilities and very clean",
+          "score": "10",
+          "country": "中国",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The rooms are clean, very spacious and beds are cosy.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The room was spacious with sitting area and a dining area.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Bay of Fires Holiday Suites - Town Centre",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bay-of-fires-apartments/hotel/all/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 970,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/809494227.jpg?k=93c0ac051b5ebdebcb2ac001a34eda56128b6aaa0044621d04a7b5b3dd30aad4&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 970건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 970건 기반.",
+      "reviews": [
+        {
+          "text": "Toiletries are from Appelles and they smell divine!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "There is also free laundry for guest to use which is great.",
+          "score": "9.2",
+          "country": "中國香港",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "I had the best shower and best sleep.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "Great spot wound definitely stay here again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Beautifully furnished and comfortable stay!",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2023.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Kellraine Holiday Units",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kellraine-holiday-units/hotel/all/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 745,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/836579355.jpg?k=ce2e1eef28825520a6283355ea3dd4bc6f41b49f13b842c7e0f60f26cccb9b7d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 745건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 745건 기반.",
+      "reviews": [
+        {
+          "text": "It has been a pleasant stay there.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "There is also a washing machine which is very convenient.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Room perfect and wonderful",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The apartment is clean and tidy",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Comfortable, clean and close to facilities.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Bay of Fires Bush Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bay-of-fires-bush-retreat/hotel/all/binalong-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 467,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/200576974.jpg?k=4250e37b533ba51b1171f3e3fca334cd6c9906baac79b63355d5454a12806256&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 467건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 467건 기반.",
+      "reviews": [
+        {
+          "text": "This retreat was a highlight in my Tasmania trip.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Very unique, comfortable, great location.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "We had a great stay!",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "An experience like no others!",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Loved my stay here.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "호텔 베이사이드 (Hotel Bayside)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/comfort-hotel-bayside/hotel/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 281,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/756969811.jpg?k=7bc6fcb531c70ccc49968ef16f8ebff551ee612459129a8e501229655d98dd3f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 281건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 281건 기반.",
+      "reviews": [
+        {
+          "text": "It was a perfect location, right next to the water front.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Very nice bed and pillows, very good shower and pool",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "F&B on site as well as within walking distance.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "I love the stay there ! Peaceful and awesome view.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Comfortable quiet room with plenty of space.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "BINALONG BEACH COTTAGE Beachfront at Bay of Fires Next to Restaurant",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/binalong-beach-cottage-beachfront-at-bay-of-fires-next-to-restaurant/hotel/all/binalong-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 171,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 35만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/274783352.jpg?k=6f2632db3eb9d922e7d7d96f23cfca9f716fd82da5756c793625831d3ba5a120&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 35만원",
+        "📝 리뷰 171건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 171건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "reviewed",
+    "base": "australia-binalong-bay",
+    "count": 7,
+    "builtAt": "2026-08-12T04:27:41.539Z"
+  }
+}
