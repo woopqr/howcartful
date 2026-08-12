@@ -1,0 +1,300 @@
+{
+  "slug": "australia-venus-bay",
+  "title": "비너스 베이 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 비너스 베이 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "inverloch-au",
+  "cityName": "비너스 베이",
+  "cityId": 390208,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "비너스 베이",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/671876444.jpg?k=cd59eb70854e8a041fcba63a2325411379ef5d5c4df18364aa541c4978d39a04&o=",
+  "heroAlt": "비너스 베이",
+  "heroTitleHtml": "비너스 베이 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Inverloch Motel</b>(평점 8.7·리뷰 725건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Inverloch Motel</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/671876444.jpg?k=cd59eb70854e8a041fcba63a2325411379ef5d5c4df18364aa541c4978d39a04&o=",
+  "outroTitle": "🌙 비너스 베이, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 비너스 베이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 비너스 베이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Inverloch Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/inverloch-motel-h14723716/hotel/inverloch-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 725,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/671876444.jpg?k=cd59eb70854e8a041fcba63a2325411379ef5d5c4df18364aa541c4978d39a04&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 725건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 725건 기반.",
+      "reviews": [
+        {
+          "text": "비너스 베이(Venus Bay)와 윌슨스 프롬(Wilsons Prom) 모두에 좋은 위치입니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "방은 현대적이고 깨끗했으며 직원들은 친절했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "뒷마당은 숙박 중 가장 좋았습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "샤워기 헤드도 수압도 좋았어요!",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "가치가 뛰어났어요",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Motel On A'Beckett",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/motel-on-a-beckett/hotel/all/inverloch-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 588,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/282646715.jpg?k=e0355eb25cb0d77869779314ac8b601e0b5a1d35c28e1d984eb5f8d010bc16b3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 588건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 588건 기반.",
+      "reviews": [
+        {
+          "text": "그 외에도 훌륭한 위치와 현대적인 욕실이 있습니다.",
+          "score": "7.2",
+          "country": "Thailand",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "좋은 장소였고 시설도 갖춘 놀라운 곳이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "아름다운 휴양지, 위치가 환상적입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 도움이 되었습니다. 꼭 다시 갈 것입니다",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "정말 친절해서 꼭 추천합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Broadbeach Inverloch",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/broadbeach-inverloch/hotel/all/inverloch-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 49,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/23531549.jpg?k=f22cb055cc5a7112a0c875a47757071db3705c20479181765f96f9de7e10042c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 49건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 49건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "RACV Inverloch Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/racv-inverloch-resort/hotel/gippsland-region-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 52,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.5,
+      "img": "//pix8.agoda.net/hotelImages/4657112/0/4864d2cbae3cc27693991c49bdf941a8.jpg?ca=24&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 52건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 52건 기반.",
+      "reviews": [
+        {
+          "text": "필립 아일랜드에서 motogp를 할 때 이상적인 위치입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "객실과 레스토랑에서 보이는 멋진 전망.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "아이들은 이 리조트, 깨끗한 숙박 시설, 놀기 좋은 곳을 좋아합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "어린 자녀 2명이 있는 가족이 이용하기에는 방이 매우 넓었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "놀라운 전망과 할 일이 많습니다",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Vacation on Nation",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/vacation-on-nation/hotel/all/inverloch-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 102,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/361088734.jpg?k=fccc5b46aba2be9294e745524ef69adff880f800243d8ef5bdc65bac0524e6d5&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 102건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 102건 기반.",
+      "reviews": [
+        {
+          "text": "편안하고 반려견 친화적인 훌륭한 장소입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "적극 추천합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Scotty’s Place – Luxury Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/scotty-s-place-luxury-retreat/hotel/all/inverloch-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 47,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 87만원",
+      "valueIndex": 5.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/522186151.jpg?k=5cd06d69ac90b4985f8b2d758a311d2c2623318bbc6820a05e43d258b20732eb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 87만원",
+        "📝 리뷰 47건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 47건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-12T11:32:48.804Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}
