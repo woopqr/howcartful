@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-12T04:27:41.554Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 3,
+  "lastPostedAt": "2026-08-12T05:55:57.549Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 4,
   "postedDate": "2026-08-12",
   "queue": [
-    "australia-blue-mountains-star4",
     "australia-blue-mountains-reviewed",
     "australia-binalong-bay",
     "australia-binalong-bay-rating",
@@ -473,6 +472,7 @@
     "australia-blue-mountains-rating",
     "australia-blue-mountains-station",
     "australia-blue-mountains-budget",
-    "australia-blue-mountains-premium"
+    "australia-blue-mountains-premium",
+    "australia-blue-mountains-star4"
   ]
 }
