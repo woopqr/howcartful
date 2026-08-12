@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-12T00:09:13.550Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 1,
+  "lastPostedAt": "2026-08-12T02:41:36.524Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 2,
   "postedDate": "2026-08-12",
   "queue": [
-    "australia-blue-mountains-budget",
     "australia-blue-mountains-premium",
     "australia-blue-mountains-star4",
-    "australia-blue-mountains-reviewed"
+    "australia-blue-mountains-reviewed",
+    "australia-binalong-bay"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 299,
+    "cityIndex": 300,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -467,6 +467,7 @@
     "australia-blainy",
     "australia-blue-mountains",
     "australia-blue-mountains-rating",
-    "australia-blue-mountains-station"
+    "australia-blue-mountains-station",
+    "australia-blue-mountains-budget"
   ]
 }
