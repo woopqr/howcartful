@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-12T11:32:35.261Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 8,
+  "lastPostedAt": "2026-08-12T13:57:36.945Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 9,
   "postedDate": "2026-08-12",
   "queue": [
-    "australia-binalong-bay-premium",
     "australia-binalong-bay-star4",
     "australia-binalong-bay-reviewed",
     "australia-venus-bay",
@@ -477,6 +476,7 @@
     "australia-blue-mountains-reviewed",
     "australia-binalong-bay",
     "australia-binalong-bay-rating",
-    "australia-binalong-bay-station"
+    "australia-binalong-bay-station",
+    "australia-binalong-bay-premium"
   ]
 }
