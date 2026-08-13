@@ -1,14 +1,17 @@
 {
-  "lastPostedAt": "2026-08-13T13:58:49.339Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 9,
+  "lastPostedAt": "2026-08-13T15:02:09.698Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 10,
   "postedDate": "2026-08-13",
   "queue": [
-    "australia-bicheno-star4",
     "australia-bicheno-reviewed",
     "australia-beechworth",
-    "australia-beachport"
+    "australia-beachport",
+    "australia-beachport-rating",
+    "australia-beachport-station",
+    "australia-beachport-budget",
+    "australia-beachport-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -485,6 +488,7 @@
     "australia-bicheno",
     "australia-bicheno-rating",
     "australia-bicheno-station",
-    "australia-bicheno-premium"
+    "australia-bicheno-premium",
+    "australia-bicheno-star4"
   ]
 }
