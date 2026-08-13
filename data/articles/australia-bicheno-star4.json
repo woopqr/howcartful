@@ -1,0 +1,348 @@
+{
+  "slug": "australia-bicheno-star4",
+  "angle": "star4",
+  "angleAdj": "4성급",
+  "lang": "ko-kr",
+  "citySlug": "bicheno-au",
+  "cityName": "비체노",
+  "cityId": 10254,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "비체노",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/123971203.jpg?k=70ed6ca65b1174a52692cf083d4c11420c0f53d5095917e621f778d93559017f&o=",
+  "heroAlt": "비체노",
+  "heroSub": "실제 아고다 리뷰로 비체노의 4성급 숙소를 추렸습니다",
+  "verdictHtml": "4성급 기준 1순위는 <b>Apartments on Fraser Bicheno</b>입니다 (평점 9.6·리뷰 257건·1박 약 17만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/123971203.jpg?k=70ed6ca65b1174a52692cf083d4c11420c0f53d5095917e621f778d93559017f&o=",
+  "outroTitle": "🌙 비체노, 4성급으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 비체노 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Apartments on Fraser Bicheno",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/apartments-on-fraser-bicheno/hotel/all/bicheno-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 257,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/123971203.jpg?k=70ed6ca65b1174a52692cf083d4c11420c0f53d5095917e621f778d93559017f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 257건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 257건 기반.",
+      "reviews": [
+        {
+          "text": "A very modern, clean, well presented property.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "We would love to stay here again when we are in East Coast.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "This is a beautiful, well maintained, clean and neat unit.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Great location, walking distance to everything.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Entire house is exceptionally clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "샌드피퍼 오션 코티지 (Sandpiper Ocean Cottages)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sandpiper-ocean-cottages/hotel/bicheno-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 146,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/255295/-1/2b827eb1ccb3641de010626dcaac9566.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 146건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 146건 기반.",
+      "reviews": [
+        {
+          "text": "Beautiful to hear the ocean while lying in bed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Lovely and cozy.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "다이아몬드 아일랜드 리조트 (Diamond Island Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/diamond-island-resort-and-penguin-parade-nightly/hotel/bicheno-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 2449,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/322020768.jpg?k=239bf37940d75dd8f95ff42fe40a8c5a3b2295695a83dd8b3f1e82f0d0732a9a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 2,449건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 2,449건 기반.",
+      "reviews": [
+        {
+          "text": "Room are equipped with all the essential features.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "We had a great holiday at Diamond Island Resort",
+          "score": "10",
+          "country": "澳洲",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Friendly and helpful staff, great breakfast, good coffee.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Staff are fantastic & resort has everything needed.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "This resort has good facilities and friendly staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Sea Shanty",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sea-shanty/hotel/all/bicheno-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 58,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/630606527.jpg?k=2c6f3d9c676ebdd1d5128417c57b01dff657ae91f5af31a4047edbd5f7ecd0ed&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 58건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 58건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Bicheno Garden Cottages",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bicheno-garden-cottages/hotel/all/bicheno-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 357,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 28만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/510835993.jpg?k=15700cd66ab63f74e898badeaf764e308fbee5dcebd4ecae129d4e7c752316c0&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 28만원",
+        "📝 리뷰 357건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 357건 기반.",
+      "reviews": [
+        {
+          "text": "The design and coziness is amazing.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "It’s near to many places and worth the price.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Nice little cottage perfect for a short stay.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Only stayed one night and enjoyed the space.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Great little cottage for an overnight stay",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Up the Back",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/up-the-back_2/hotel/all/bicheno-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 254,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/663154267.jpg?k=bcae712ed5ec2e48cdbb8c11ab0fa5cd57aa2272b58dc3f645ec7c3ec66c13f4&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 254건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 254건 기반.",
+      "reviews": [
+        {
+          "text": "Majestic view, nice warm and cosy home and very nice owner",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "We have a wonderful stay at up the back.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "We absolutely loved our stay at this lovely shack!",
+          "score": "10",
+          "country": "China",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend and definitely will be back again!!!!",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "We had such a wonderful stay",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Ocean Dreams",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ocean-dreams/hotel/all/bicheno-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 30,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/630607434.jpg?k=f7490371f7107604a6886de25ae456c54177e946253368d9922e5f8d0c731f22&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 30건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 30건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "star4",
+    "base": "australia-bicheno",
+    "count": 7,
+    "builtAt": "2026-08-13T05:36:20.084Z"
+  }
+}
