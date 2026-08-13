@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-13T05:36:20.104Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 3,
+  "lastPostedAt": "2026-08-13T07:01:25.505Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 4,
   "postedDate": "2026-08-13",
   "queue": [
-    "australia-venus-bay-station",
     "australia-venus-bay-reviewed",
     "australia-bicheno",
     "australia-bicheno-rating",
@@ -483,6 +482,7 @@
     "australia-binalong-bay-star4",
     "australia-binalong-bay-reviewed",
     "australia-venus-bay",
-    "australia-venus-bay-rating"
+    "australia-venus-bay-rating",
+    "australia-venus-bay-station"
   ]
 }
