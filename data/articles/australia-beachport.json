@@ -1,0 +1,368 @@
+{
+  "slug": "australia-beachport",
+  "title": "비치포트 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 비치포트 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "비치포트",
+  "cityId": 513186,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "비치포트",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/349086379.jpg?k=a357d08c030d9cb45c62076603e5df6b39b1b3650eaecfde2f1093426a1712fc&o=",
+  "heroAlt": "비치포트",
+  "heroTitleHtml": "비치포트 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Millicent Hillview Caravan Park</b>(평점 9.1·리뷰 365건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Millicent Hillview Caravan Park</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/349086379.jpg?k=a357d08c030d9cb45c62076603e5df6b39b1b3650eaecfde2f1093426a1712fc&o=",
+  "outroTitle": "🌙 비치포트, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 비치포트 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 비치포트 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Millicent Hillview Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/millicent-hillview-caravan-park/hotel/all/millicent-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 365,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/349086379.jpg?k=a357d08c030d9cb45c62076603e5df6b39b1b3650eaecfde2f1093426a1712fc&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 365건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 365건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗한 캐빈과 우리 캐빈에서는 언덕이 보입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "에어컨은 40도에서도 견딜 수 있을 만큼 강력했습니다.",
+          "score": "9.6",
+          "country": "澳洲",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "정말 고마워요 앨런! 💖",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "집에서 온 진짜 집",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 곳",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Beachport Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beachport-caravan-park/hotel/beachport-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 113,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/787486233.jpg?k=978b330cbe760811a1967ced1675f29622c1169c79f42a8936853e4944b97e28&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 113건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 113건 기반.",
+      "reviews": [
+        {
+          "text": "우리는 캠프 주방이 실내에 있고 항상 깨끗하기 때문에 좋아합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "우리가 3박 동안 머물렀던 멋지고 작은 숙소입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "머물기 좋은 곳",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "MILLICENT MOTEL",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/millicent-motel/hotel/millicent-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 68,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/256/2562756/2562756_17082811270055759256.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 68건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 68건 기반.",
+      "reviews": [
+        {
+          "text": "늦게 체크인했는데도 직원분들이 너무 친절하셨어요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "직원들도 괜찮았고, 객실도 매우 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "가격도 좋고 주인도 사랑스럽습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "침대는 도시 바로 외곽에 있는 편안하고 조용한 위치입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "룸컨디션은 깨끗하고 편안했습니다.",
+          "score": "7.6",
+          "country": "호주",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Bompas At Beachport",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bompas-at-beachport/hotel/all/beachport-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.8,
+      "reviewCount": 46,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/762613520.jpg?k=265e84a65603ce43aad821dfc78f3ad3b24bf3c510b89131bbd6edba22143ac6&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 46건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 46건 기반.",
+      "reviews": [
+        {
+          "text": "장거리 운전 후 목욕은 훌륭했습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "위치는 훌륭했습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "침대가 편안해요.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Sandpipers @ Millicent Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sandpipers-millicent-hotel/hotel/millicent-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.8,
+      "reviewCount": 36,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/687151/0/cab5d59b544bf2a61170deb329d0d0c3.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 36건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 36건 기반.",
+      "reviews": [
+        {
+          "text": "객실에서는 정원, 수영장, 바비큐 시설이 내려다보였습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "방은 필요한 모든 것을 갖춘 개인적이고 조용했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "리셉션 직원은 도움이 되고 친절했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "객실 바로 앞에 주차할 수 있어 편리했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 편안합니다.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Traveller's Haven",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/traveller-s-haven/hotel/all/millicent-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 87,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/740532514.jpg?k=4f33fcd671c3fb6c7b4366551a2b789735ef2e6e60606c364a13e6a1baf519c5&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 87건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 87건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Harbour Masters Beachport",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/harbour-masters-beachport/hotel/all/beachport-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 109,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 38만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/426428721.jpg?k=b8ee1c3d43f598ece97a1a1816b8fafdc02a2f0860d32ed719caf68a25b31f55&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 38만원",
+        "📝 리뷰 109건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 109건 기반.",
+      "reviews": [
+        {
+          "text": "중심부의 완벽한 위치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "정말 사랑스러운 곳이었어요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "완벽한 휴양지",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 그것을 좋아했습니다 🥰",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-13T13:59:15.546Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
