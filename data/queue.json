@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-13T10:45:47.410Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 7,
+  "lastPostedAt": "2026-08-13T12:28:44.987Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 8,
   "postedDate": "2026-08-13",
   "queue": [
-    "australia-bicheno-station",
     "australia-bicheno-premium",
     "australia-bicheno-star4",
-    "australia-bicheno-reviewed"
+    "australia-bicheno-reviewed",
+    "australia-beechworth"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 302,
+    "cityIndex": 303,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -483,6 +483,7 @@
     "australia-venus-bay-station",
     "australia-venus-bay-reviewed",
     "australia-bicheno",
-    "australia-bicheno-rating"
+    "australia-bicheno-rating",
+    "australia-bicheno-station"
   ]
 }

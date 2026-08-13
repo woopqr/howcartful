@@ -1,0 +1,286 @@
+{
+  "slug": "australia-beechworth",
+  "title": "비치워스 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 비치워스 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "비치워스",
+  "cityId": 9829,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "비치워스",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/69677384.jpg?k=c592d389175c98e6fcdf8967cd453241055fc310d7f95e9049d07d79d063c668&o=",
+  "heroAlt": "비치워스",
+  "heroTitleHtml": "비치워스 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Armour Motor Inn</b>(평점 9.2·리뷰 2,033건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Armour Motor Inn</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/69677384.jpg?k=c592d389175c98e6fcdf8967cd453241055fc310d7f95e9049d07d79d063c668&o=",
+  "outroTitle": "🌙 비치워스, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 비치워스 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 비치워스 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Armour Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/armour-motor-inn/hotel/all/beechworth-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 2033,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/69677384.jpg?k=c592d389175c98e6fcdf8967cd453241055fc310d7f95e9049d07d79d063c668&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 2,033건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 2,033건 기반.",
+      "reviews": [
+        {
+          "text": "객실은 매우 편안한 침대로 세련되게 장식되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 환대, 환상적인 위치, 매우 깨끗함… 감동받았습니다!!!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "식사와 지역 명소를 둘러볼 수 있는 훌륭한 옵션입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "도심까지 도보로 이동이 용이하며,",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 우리에게 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Eldorado Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/camp-crusty-eldorado/hotel/all/beechworth-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 192,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/503005815.jpg?k=44751b35b180a5d46b676c166608a2e20c68df6c5375d221286fa2b6baef7508&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 192건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 192건 기반.",
+      "reviews": [
+        {
+          "text": "시설이 잘 갖추어져 있고 매우 편안하고 아늑합니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 글램핑 텐트에 묵었습니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "The Grand Oaks Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/george-kerferd-hotel/hotel/beechworth-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 240,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/519536/-1/d3410ff00a5c0c098d2d203d5d46b125.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 240건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 240건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 가격대비 괜찮고 음식도 맛있고 직원도 친절해요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "냉장고와 에어컨이 잘 작동했고 침대도 편안했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "웅장한 환경의 훌륭한 숙소.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "Beechworth의 아름다운 부지에 위치한 멋진 호텔입니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "좋은 깨끗한 방과 도움이 되는 친절한 직원.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Beechworth Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beechworth-holiday-park/hotel/all/beechworth-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.5,
+      "reviewCount": 442,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/579026366.jpg?k=8947d35648423162d6fcb73b0fd22309b6245edb1a4c1d160fb009ec42fdb4c3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 442건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 442건 기반.",
+      "reviews": [
+        {
+          "text": "캐빈에는 모든 기본 필수품이 갖추어져 있습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "머물기에 환상적인 장소.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "Paul 매니저는 이보다 더 도움이 될 수 없었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "완벽한 주변환경과 숙소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "좋은 숙박, 매우 편안함",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "비치워스 모터 인 (Beechworth Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-beechworth-motor-inn/hotel/beechworth-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 378,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 33만원",
+      "valueIndex": 5.3,
+      "img": "//pix8.agoda.net/hotelImages/89465/-1/4612b84dfa4809a6440596dbcca7daff.jpg?ca=12&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 33만원",
+        "📝 리뷰 378건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 378건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 숙박",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "다음 여행에 다시 올 것이다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "베리클린",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-13T12:29:07.451Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}
