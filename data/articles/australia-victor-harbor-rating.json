@@ -1,0 +1,289 @@
+{
+  "slug": "australia-victor-harbor-rating",
+  "angle": "rating",
+  "angleAdj": "평점 높은",
+  "lang": "ko-kr",
+  "citySlug": "victor-harbor-au",
+  "cityName": "빅터 하버",
+  "cityId": 10849,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "빅터 하버",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/491372810.jpg?k=d192d8529427bc1865ea5a55b870089834f947646168b58a9c832e7084fea1bc&o=",
+  "heroAlt": "빅터 하버",
+  "heroSub": "실제 아고다 리뷰로 빅터 하버의 평점 높은 숙소를 추렸습니다",
+  "verdictHtml": "평점 높은 기준 1순위는 <b>Seascape Retreat</b>입니다 (평점 10·리뷰 66건·1박 가격 변동). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/491372810.jpg?k=d192d8529427bc1865ea5a55b870089834f947646168b58a9c832e7084fea1bc&o=",
+  "outroTitle": "🌙 빅터 하버, 평점 높은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 빅터 하버 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Seascape Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/seascape-retreat_2/hotel/all/victor-harbor-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 10,
+      "reviewCount": 66,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/491372810.jpg?k=d192d8529427bc1865ea5a55b870089834f947646168b58a9c832e7084fea1bc&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 66건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>10</b> · 실제 투숙객 리뷰 66건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Away At Ancell",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/away-at-ancell/hotel/all/victor-harbor-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 67,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 29만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/607536541.jpg?k=b902d9a4b40dd03d3a77c0eeaeafaef8272815457cc3138c0b4369f6bc0d5ead&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 29만원",
+        "📝 리뷰 67건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 67건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "비치 헛 미들턴 (Beach Huts Middleton)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beach-huts-middleton_2/hotel/all/victor-harbor-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 360,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/257919162.jpg?k=db60a83cc9ae8de7d2739d415daa2307d187606467247f1038b63b456db9a769&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 360건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 360건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Blue Wren Studio Apartment",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/blue-wren-studio-apartment/hotel/all/victor-harbor-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 67,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/452644633.jpg?k=763e21bede6a821a2e0a41817925bc462bfccd9770d6d19dbaa963f12b6b8983&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 67건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 67건 기반.",
+      "reviews": [
+        {
+          "text": "We highly recommend this place for couples.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Great place to have a relax time",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Friendly and helpful owners.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "빅토르 하버 시티 인 (Victor Harbor City Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/victor-harbor-city-inn/hotel/victor-harbor-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 1045,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/55006211.jpg?k=4b744a407a96cf588018956532c5c5fe3d4b5ee0473ad06ea8f3d0af8ffa419a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 1,045건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 1,045건 기반.",
+      "reviews": [
+        {
+          "text": "Very clean modern room with all conceivable amenities.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Clean room, efficient check-in and pleasant reception staff.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Clean tidy everything we needed for our 2 night stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Our room had everything we needed and was clean and quiet.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "It had a very comfortable bed with good quality linens.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "YHA Port Elliot Beach House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/port-elliot-beach-house-yha-hostel/hotel/victor-harbor-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 86,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/480949705.jpg?k=cec6dddb9fda0fb4ee864b7713145558d6ef00e181054cb9ecd8b6155de62e0a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 86건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 86건 기반.",
+      "reviews": [
+        {
+          "text": "Good location facing the beautiful ocean view!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "A very quite seaside hostel kept meticulously clean.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Great hostel in beautiful surroundings",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Our room was clean even when the hotel itself was a bit old.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Quaint hostel that was so much better than we expected.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Harbour Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/harbour-retreat/hotel/all/victor-harbor-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 49,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/785869559.jpg?k=d9fa41aeca814ef2fd34ee9afce2ad5da73d2ff88b475d648a0773f775bace59&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 49건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 49건 기반.",
+      "reviews": [
+        {
+          "text": "Room was very clean, with the shower one of the best ever!",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "rating",
+    "base": "australia-victor-harbor",
+    "count": 7,
+    "builtAt": "2026-08-14T08:03:59.816Z"
+  }
+}
