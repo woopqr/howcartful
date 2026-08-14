@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-14T13:10:45.280Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 9,
+  "lastPostedAt": "2026-08-14T14:19:15.608Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 10,
   "postedDate": "2026-08-14",
   "queue": [
-    "australia-victor-harbor-station",
     "australia-victor-harbor-budget",
     "australia-victor-harbor-premium",
     "australia-victor-harbor-star4",
@@ -496,6 +495,7 @@
     "australia-beachport-budget",
     "australia-beachport-reviewed",
     "australia-victor-harbor",
-    "australia-victor-harbor-rating"
+    "australia-victor-harbor-rating",
+    "australia-victor-harbor-station"
   ]
 }
