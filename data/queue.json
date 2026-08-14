@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-14T05:20:40.029Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 3,
+  "lastPostedAt": "2026-08-14T06:48:39.676Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 4,
   "postedDate": "2026-08-14",
   "queue": [
-    "australia-beachport-rating",
     "australia-beachport-station",
     "australia-beachport-budget",
-    "australia-beachport-reviewed"
+    "australia-beachport-reviewed",
+    "australia-victor-harbor"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 304,
+    "cityIndex": 305,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -489,6 +489,7 @@
     "australia-bicheno-star4",
     "australia-bicheno-reviewed",
     "australia-beechworth",
-    "australia-beachport"
+    "australia-beachport",
+    "australia-beachport-rating"
   ]
 }
