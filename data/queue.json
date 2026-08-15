@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-15T04:48:58.080Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 4,
+  "lastPostedAt": "2026-08-15T05:59:33.050Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 5,
   "postedDate": "2026-08-15",
   "queue": [
-    "australia-villoella",
     "australia-sarina",
     "australia-south-mission-beach",
     "australia-south-mission-beach-rating",
@@ -503,6 +502,7 @@
     "australia-victor-harbor-budget",
     "australia-victor-harbor-premium",
     "australia-victor-harbor-star4",
-    "australia-victor-harbor-reviewed"
+    "australia-victor-harbor-reviewed",
+    "australia-villoella"
   ]
 }
