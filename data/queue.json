@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-15T02:03:36.666Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 2,
+  "lastPostedAt": "2026-08-15T03:46:55.486Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 3,
   "postedDate": "2026-08-15",
   "queue": [
-    "australia-victor-harbor-star4",
     "australia-victor-harbor-reviewed",
     "australia-villoella",
-    "australia-sarina"
+    "australia-sarina",
+    "australia-south-mission-beach"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 307,
+    "cityIndex": 308,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -498,6 +498,7 @@
     "australia-victor-harbor-rating",
     "australia-victor-harbor-station",
     "australia-victor-harbor-budget",
-    "australia-victor-harbor-premium"
+    "australia-victor-harbor-premium",
+    "australia-victor-harbor-star4"
   ]
 }
