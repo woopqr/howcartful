@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-15T08:38:59.085Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 7,
+  "lastPostedAt": "2026-08-15T09:53:15.437Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 8,
   "postedDate": "2026-08-15",
   "queue": [
-    "australia-south-mission-beach-rating",
     "australia-south-mission-beach-station",
     "australia-south-mission-beach-star4",
-    "australia-south-mission-beach-reviewed"
+    "australia-south-mission-beach-reviewed",
+    "australia-south-west-rocks"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 308,
+    "cityIndex": 309,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -503,6 +503,7 @@
     "australia-victor-harbor-reviewed",
     "australia-villoella",
     "australia-sarina",
-    "australia-south-mission-beach"
+    "australia-south-mission-beach",
+    "australia-south-mission-beach-rating"
   ]
 }
