@@ -8,7 +8,10 @@
     "australia-south-mission-beach-station",
     "australia-south-mission-beach-star4",
     "australia-south-mission-beach-reviewed",
-    "australia-south-west-rocks"
+    "australia-south-west-rocks",
+    "australia-south-west-rocks-rating",
+    "australia-south-west-rocks-station",
+    "australia-south-west-rocks-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
