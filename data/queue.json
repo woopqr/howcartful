@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-14T14:19:15.608Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 10,
-  "postedDate": "2026-08-14",
+  "lastPostedAt": "2026-08-15T00:41:24.870Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-08-15",
   "queue": [
-    "australia-victor-harbor-budget",
     "australia-victor-harbor-premium",
     "australia-victor-harbor-star4",
-    "australia-victor-harbor-reviewed"
+    "australia-victor-harbor-reviewed",
+    "australia-villoella"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 305,
+    "cityIndex": 306,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -496,6 +496,7 @@
     "australia-beachport-reviewed",
     "australia-victor-harbor",
     "australia-victor-harbor-rating",
-    "australia-victor-harbor-station"
+    "australia-victor-harbor-station",
+    "australia-victor-harbor-budget"
   ]
 }
