@@ -1,0 +1,270 @@
+{
+  "slug": "australia-south-mission-beach-rating",
+  "angle": "rating",
+  "angleAdj": "평점 높은",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "사우스 미션 비치",
+  "cityId": 102398,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "사우스 미션 비치",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/597414348.jpg?k=2cd9f60e0f6e4791922d30e0d4f20288caaa325bc756763f9c3512fbcff4f705&o=",
+  "heroAlt": "사우스 미션 비치",
+  "heroSub": "실제 아고다 리뷰로 사우스 미션 비치의 평점 높은 숙소를 추렸습니다",
+  "verdictHtml": "평점 높은 기준 1순위는 <b>Licuala Lodge</b>입니다 (평점 9.7·리뷰 170건·1박 가격 변동). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/597414348.jpg?k=2cd9f60e0f6e4791922d30e0d4f20288caaa325bc756763f9c3512fbcff4f705&o=",
+  "outroTitle": "🌙 사우스 미션 비치, 평점 높은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 사우스 미션 비치 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Licuala Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/licuala-lodge_2/hotel/all/wongaling-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 170,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/597414348.jpg?k=2cd9f60e0f6e4791922d30e0d4f20288caaa325bc756763f9c3512fbcff4f705&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 170건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 170건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Hull River Guesthouse Mission Beach",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hull-river-guesthouse-mission-beach/hotel/all/south-mission-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 86,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/593502330.jpg?k=6e733f98f55500ec8c5f6753855cb306a0abc4faef19fcb8308401868aec10df&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 86건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 86건 기반.",
+      "reviews": [
+        {
+          "text": "Lovely cottage",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Hidden Gem Holiday Let",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hidden-gem-holiday-let/hotel/all/south-mission-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 68,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/349408645.jpg?k=9b77a4f8b1650acc243edc51229030126fd17b081982d6b2bf94879f9369cbdd&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 68건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 68건 기반.",
+      "reviews": [
+        {
+          "text": "They are very nice and helpful,",
+          "score": "9.6",
+          "country": "China",
+          "date": "2023.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "The Elandra",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-elandra/hotel/all/south-mission-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 318,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 41만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/519331836.jpg?k=6cb9ee237799fa8bc816edb3df6179899c02257e37ffcdb78b4b3c1abc1b3bbb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 41만원",
+        "📝 리뷰 318건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 318건 기반.",
+      "reviews": [
+        {
+          "text": "Beautiful resort with friendly and helpful staff.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Beautiful location, rooms, view, and staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "The Bungalows - Absolute Beachfront",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-bungalows/hotel/all/wongaling-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 186,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/411363622.jpg?k=3d6fb506f45375dfc11578629bf68d8469d27e170ffab1d18299f27ea8ea9ee9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 186건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 186건 기반.",
+      "reviews": [
+        {
+          "text": "I highly recommend this place.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Everything was fantastic.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Mission Beach Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mission-beach-lodge/hotel/all/wongaling-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 623,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/property/83763845/0/ec5fb3adbf82cfd3e7766fa2bb2c7a81.jpeg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 623건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 623건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Rainforest Motel, Mission Beach",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rainforest-motel/hotel/all/mission-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 633,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/property/44659227/0/da36ca8490dd8e62976d98ac40f39ba1.jpeg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 633건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 633건 기반.",
+      "reviews": [
+        {
+          "text": "Clean rooms, friendly staff and great location.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Lovely Motel and great location!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Peaceful spot, nice and clean with a good vibe.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Lovely staff the location is fantastic",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "We would recommend this facility to everyone.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "rating",
+    "base": "australia-south-mission-beach",
+    "count": 7,
+    "builtAt": "2026-08-15T04:15:02.486Z"
+  }
+}

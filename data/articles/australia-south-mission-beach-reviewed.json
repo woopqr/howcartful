@@ -1,0 +1,406 @@
+{
+  "slug": "australia-south-mission-beach-reviewed",
+  "angle": "reviewed",
+  "angleAdj": "후기 많은",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "사우스 미션 비치",
+  "cityId": 102398,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "사우스 미션 비치",
+  "heroImg": "https://pix8.agoda.net/hotelImages/49812/0/49280b7d220f36b3e90a154a94e40da7.jpg?ce=3",
+  "heroAlt": "사우스 미션 비치",
+  "heroSub": "실제 아고다 리뷰로 사우스 미션 비치의 리뷰 많은 숙소를 추렸습니다",
+  "verdictHtml": "리뷰 많은 기준 1순위는 <b>Club Wyndham Mission Beach</b>입니다 (평점 8.6·리뷰 1,399건·1박 약 18만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/49812/0/49280b7d220f36b3e90a154a94e40da7.jpg?ce=3",
+  "outroTitle": "🌙 사우스 미션 비치, 리뷰 많은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 사우스 미션 비치 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Club Wyndham Mission Beach",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/castaways-resort-and-spa/hotel/mission-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 1399,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/49812/0/49280b7d220f36b3e90a154a94e40da7.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 1,399건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,399건 기반.",
+      "reviews": [
+        {
+          "text": "All and all, we had a great time and would stay here again.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "A definite return for me, and will recommend to other's.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "And the room was clean, comfortable, and well-equipped.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "All the staff were so helpful during our stay there.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "And the location was perfect for exploring the area.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Nightelier Mission Beach",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mission-beach-resort/hotel/wongaling-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 1389,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/281/281187/281187_14122308160024127194.jpg?ca=3&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 1,389건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,389건 기반.",
+      "reviews": [
+        {
+          "text": "Clean and comfortable with all hotel facilities.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Friendly staff, clean rooms an d good value for money.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "We had a great stay thank you everything was good.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Room was clean, comfortable and great facilities,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "We enjoyed our stay at the Mission Beach Resort.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "BIG4 Tasman Holiday Parks - South Mission Beach",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-tasman-holiday-parks-south-mission-beach/hotel/all/south-mission-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 712,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/563622170.jpg?k=339901cabae90fe9dcbbbc2896c162674b02cf305a15c99534a7ae7b4cfbcd67&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 712건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 712건 기반.",
+      "reviews": [
+        {
+          "text": "Great value for money deffo staying again when we have time",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Nice location and the cabins were amazing!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "The location was wonderful (across from the beach)",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Super clean and very friendly staff!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Perfect facilities for couples or families.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Rainforest Motel, Mission Beach",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rainforest-motel/hotel/all/mission-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 633,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/property/44659227/0/da36ca8490dd8e62976d98ac40f39ba1.jpeg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 633건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 633건 기반.",
+      "reviews": [
+        {
+          "text": "Clean rooms, friendly staff and great location.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Lovely Motel and great location!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Peaceful spot, nice and clean with a good vibe.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Lovely staff the location is fantastic",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "We would recommend this facility to everyone.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Mission Beach Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mission-beach-lodge/hotel/all/wongaling-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 623,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/property/83763845/0/ec5fb3adbf82cfd3e7766fa2bb2c7a81.jpeg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 623건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 623건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Bali Hai Child Free Holiday Park Mission Beach",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bali-hai-holiday-park-mission-beach/hotel/all/wongaling-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 516,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/632297520.jpg?k=a0e71bc5362eae36db5d665271d8c286ad63e0d3be27adde5adbd97edde803e8&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 516건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 516건 기반.",
+      "reviews": [
+        {
+          "text": "Simply excellent on all levels.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "LOCATION WAS THE BEST!!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Was very happy with the studio.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Lovely holiday park.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Excellent location",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "미션 리프 리조트 (Mission Reef Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mission-reef-resort/hotel/wongaling-beach-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 437,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/145/14501177/14501177_20050112500090189601.jpg?ca=11&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 437건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 437건 기반.",
+      "reviews": [
+        {
+          "text": "Great kitchen facilities if you want to do some meals!!",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Great rooms with all necessities you need for holidays",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "The apartments were spotless and had all we needed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Great large apartment with everything you could want in it.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "One of the cleanest and best locations we have stayed at.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "reviewed",
+    "base": "australia-south-mission-beach",
+    "count": 7,
+    "builtAt": "2026-08-15T04:15:02.486Z"
+  }
+}
