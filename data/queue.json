@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-15T09:53:15.437Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 8,
+  "lastPostedAt": "2026-08-15T10:56:51.101Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 9,
   "postedDate": "2026-08-15",
   "queue": [
-    "australia-south-mission-beach-station",
     "australia-south-mission-beach-star4",
     "australia-south-mission-beach-reviewed",
     "australia-south-west-rocks",
@@ -507,6 +506,7 @@
     "australia-villoella",
     "australia-sarina",
     "australia-south-mission-beach",
-    "australia-south-mission-beach-rating"
+    "australia-south-mission-beach-rating",
+    "australia-south-mission-beach-station"
   ]
 }
