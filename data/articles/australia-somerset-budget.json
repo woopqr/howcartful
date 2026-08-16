@@ -1,0 +1,323 @@
+{
+  "slug": "australia-somerset-budget",
+  "angle": "budget",
+  "angleAdj": "가격 착한",
+  "lang": "ko-kr",
+  "citySlug": "somerset-au",
+  "cityName": "서머셋",
+  "cityId": 142826,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "서머셋",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/226789012.jpg?k=8ee3a41e0931d260a56703be6f042022fab03b3f09347c58c2c8aeb440842cb8&o=",
+  "heroAlt": "서머셋",
+  "heroSub": "실제 아고다 리뷰로 서머셋의 저가 실속 숙소를 추렸습니다",
+  "verdictHtml": "저가 실속 기준 1순위는 <b>Top of the Town Hotel Motel</b>입니다 (평점 8.3·리뷰 145건·1박 약 8만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/226789012.jpg?k=8ee3a41e0931d260a56703be6f042022fab03b3f09347c58c2c8aeb440842cb8&o=",
+  "outroTitle": "🌙 서머셋, 저가 실속으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 서머셋 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Top of the Town Hotel Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/top-of-the-town-hotel-motel/hotel/all/burnie-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 145,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 8만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/226789012.jpg?k=8ee3a41e0931d260a56703be6f042022fab03b3f09347c58c2c8aeb440842cb8&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 145건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 145건 기반.",
+      "reviews": [
+        {
+          "text": "Room was serviced daily, clean and quiet accommodation.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "The car park Is massive and the rooms are great.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Great value for money, and I will definitely come back!",
+          "score": "10",
+          "country": "Úc",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The room was a decent size and had everything we needed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Totally recommend to a conscious budget traveller to Burnie.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "버니 오션 뷰 모텔 (Burnie Ocean View Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/burnie-ocean-view-motel/hotel/burnie-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 99,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/291367/0/c54094c8f0bfe2af26be563d3028fb74.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 99건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 99건 기반.",
+      "reviews": [
+        {
+          "text": "Warm, very clean and cosy room and had a beautiful rest.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "The place was as advertised, friendly, warm and clean",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Close to the city, great pool, clean and the best staff :-)",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Happy with my stay in the Deluxe cabin for one night.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Value for money, very clean, and large room.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "서머셋 호텔 (Somerset Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/somerset-hotel/hotel/somerset-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 623,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/482379718.jpg?k=eda6df51584dae0f6a62314c0c76c049f9d9a756324d35df86c47144b8cc0728&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 623건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 623건 기반.",
+      "reviews": [
+        {
+          "text": "Let me check in very early for free.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Clean and tidy room with very good ensuite.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Good central location with ocean view from the room,",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Friendly staff, clean and great room",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Great Stay with Best Value",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "베스트웨스턴 버니 (Best Western Burnie)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-murchison-lodge_6/hotel/somerset-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 498,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/499/49938/49938_16060908130043310347.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 498건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 498건 기반.",
+      "reviews": [
+        {
+          "text": "Nicely appointed motel room, v friendly staff",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Definitely stay here again without a second thought.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The reception staff were very friendly & helpful.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Clean, comfortable and quiet accommodation",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "We would stay there again",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Seabrook Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/seabrook-hotel/hotel/all/somerset-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 56,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/339455/0/8c69b7ece6ad1bfcb70afa2bb57ab992.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 56건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 56건 기반.",
+      "reviews": [
+        {
+          "text": "Seabrook hotel provides excellent accommodation.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Room was clean & tidy staff were really helpful.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The apartment was very big and it could fit 7 adults.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "One of the best stays in Tasmania.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Excellent accommodation",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "budget",
+    "base": "australia-somerset",
+    "count": 5,
+    "builtAt": "2026-08-16T05:18:28.353Z"
+  }
+}
