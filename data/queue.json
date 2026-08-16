@@ -8,7 +8,10 @@
     "australia-somerset-station",
     "australia-somerset-budget",
     "australia-somerset-reviewed",
-    "australia-sussex-inlet"
+    "australia-sussex-inlet",
+    "australia-sussex-inlet-rating",
+    "australia-sussex-inlet-station",
+    "australia-sussex-inlet-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
