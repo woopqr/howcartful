@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-16T08:58:45.600Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 6,
+  "lastPostedAt": "2026-08-16T10:14:03.630Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 7,
   "postedDate": "2026-08-16",
   "queue": [
-    "australia-somerset",
     "australia-somerset-rating",
     "australia-somerset-station",
     "australia-somerset-budget",
@@ -513,6 +512,7 @@
     "australia-south-west-rocks-rating",
     "australia-south-west-rocks-station",
     "australia-south-west-rocks-reviewed",
-    "australia-charleville"
+    "australia-charleville",
+    "australia-somerset"
   ]
 }
