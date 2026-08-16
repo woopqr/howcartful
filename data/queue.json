@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-16T06:15:05.640Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 4,
+  "lastPostedAt": "2026-08-16T07:37:48.762Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 5,
   "postedDate": "2026-08-16",
   "queue": [
-    "australia-south-west-rocks-reviewed",
     "australia-charleville",
     "australia-somerset",
     "australia-somerset-rating",
@@ -513,6 +512,7 @@
     "australia-south-mission-beach-reviewed",
     "australia-south-west-rocks",
     "australia-south-west-rocks-rating",
-    "australia-south-west-rocks-station"
+    "australia-south-west-rocks-station",
+    "australia-south-west-rocks-reviewed"
   ]
 }
