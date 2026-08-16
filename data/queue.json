@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-16T10:14:03.630Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 7,
+  "lastPostedAt": "2026-08-16T11:24:51.440Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 8,
   "postedDate": "2026-08-16",
   "queue": [
-    "australia-somerset-rating",
     "australia-somerset-station",
     "australia-somerset-budget",
-    "australia-somerset-reviewed"
+    "australia-somerset-reviewed",
+    "australia-sussex-inlet"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 311,
+    "cityIndex": 312,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -513,6 +513,7 @@
     "australia-south-west-rocks-station",
     "australia-south-west-rocks-reviewed",
     "australia-charleville",
-    "australia-somerset"
+    "australia-somerset",
+    "australia-somerset-rating"
   ]
 }
