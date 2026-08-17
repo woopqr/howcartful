@@ -1,0 +1,440 @@
+{
+  "slug": "australia-sunshine-bay-station",
+  "angle": "station",
+  "angleAdj": "역세권",
+  "lang": "ko-kr",
+  "citySlug": "batemans-bay-au",
+  "cityName": "선샤인 베이",
+  "cityId": 710929,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "선샤인 베이",
+  "heroImg": "https://pix8.agoda.net/hotelImages/12666749/-1/0b2c3342ac0caf8ae8224956d650630c.jpg?ca=10&ce=1",
+  "heroAlt": "선샤인 베이",
+  "heroSub": "실제 아고다 리뷰로 선샤인 베이의 역세권 숙소를 추렸습니다",
+  "verdictHtml": "역세권 기준 1순위는 <b>아보데 말루아 베이</b>입니다 (평점 9·리뷰 679건·1박 약 13만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/12666749/-1/0b2c3342ac0caf8ae8224956d650630c.jpg?ca=10&ce=1",
+  "outroTitle": "🌙 선샤인 베이, 역세권으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 선샤인 베이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "아보데 말루아 베이 (Abode Malua Bay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/abode-malua-bay/hotel/batemans-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 679,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/12666749/-1/0b2c3342ac0caf8ae8224956d650630c.jpg?ca=10&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 679건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 679건 기반.",
+      "reviews": [
+        {
+          "text": "Our room was cleaned daily with items replenished aswell.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The location was convenient and the facilities were great.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "This stay was so perfect, the beach is at your doorstep.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The rooms were clean, well-maintained, and comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Beach is next door and restaurants and groceries very near.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Batemans Bay Marina Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/coachhouse-marina-resort/hotel/batemans-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 2803,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/64003966/0/d466898fdde2c08803327c6c936b13c1.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 2,803건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 2,803건 기반.",
+      "reviews": [
+        {
+          "text": "Villa was great with nice view and close to all amenities.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Very nice villa, great size and layout, very clean and tidy.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "We always use the marina resort when visiting Batemans bay.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "We enjoyed our stay here as the facilities served us well.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Clean and tidy with everything you would need",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "키 호텔 (Quays Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quays-hotel/hotel/batemans-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 2643,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/181/181871/181871_16103110480048277379.png?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 2,643건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,643건 기반.",
+      "reviews": [
+        {
+          "text": "The rooms are so clean and the beds are so comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Best motel I’ve stayed at in my 2 week holiday.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "A really comfortable stay in a modern and very clean room.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Had everything we needed and was nice and clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Amazing location with beautiful, clean and spacious room.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Zorba Waterfront Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/zorba-waterfront-motel/hotel/all/batemans-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 65,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/263858/0/b71a8aa92246cc07509e0a1e5340fda0.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 65건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 65건 기반.",
+      "reviews": [
+        {
+          "text": "Great location by the sea, near to cafes and restaurants.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The room was cleaned daily with new towels and sheets.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Easy walk to river views and clean, comfortable room.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Room are spacious at which no fight between my 2 kids.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Excellent place and great services with friendly staffs",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "마리너스 온 더 워터프런트 (Mariners on the Waterfront)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mariners-on-the-waterfront/hotel/all/batemans-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 288,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/89499/0/06110ccc104ff9222f66404a457867d0.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 288건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 288건 기반.",
+      "reviews": [
+        {
+          "text": "Right at the middle of Batesman Bay tourist area.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Excellent location, child friendly environment.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The people here went above and beyond and it was amazing.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "The room was comfortable with nice view of the bay area.",
+          "score": "8",
+          "country": "Thailand",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Everything we wanted for a 1 night stay with family.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "The Esplanade Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-esplanade-motel/hotel/all/batemans-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 1528,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/78136565.jpg?k=5194fd2bb5dfc82460f401988c18fba0fe845aa0e3d13a187d9cfe2dc2616a0a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 1,528건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,528건 기반.",
+      "reviews": [
+        {
+          "text": "Very large comfortable room and a great location and veiw",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend this property and would stay here again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Great location nearby all shops, eateries, cafes.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Great motel. Clean room with a nice view.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Absolutely perfect, you could not wish for better!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "선시커 모터 인 (Sunseeker Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sunseeker-motor-inn/hotel/batemans-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 763,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/753/75368/75368_18011707210061087635.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 763건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 763건 기반.",
+      "reviews": [
+        {
+          "text": "Reception very helpful, room was clean, bed comfortable.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Clean room, close walk into town",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Quick stay, friendly staff",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Value for money",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Very Comfortable.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "station",
+    "base": "australia-sunshine-bay",
+    "count": 7,
+    "builtAt": "2026-08-17T10:43:24.440Z"
+  }
+}

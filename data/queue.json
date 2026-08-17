@@ -8,7 +8,12 @@
     "australia-sutton-forest-premium",
     "australia-sutton-forest-reviewed",
     "australia-serpentine",
-    "australia-sunshine-bay"
+    "australia-sunshine-bay",
+    "australia-sunshine-bay-rating",
+    "australia-sunshine-bay-station",
+    "australia-sunshine-bay-premium",
+    "australia-sunshine-bay-star4",
+    "australia-sunshine-bay-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
