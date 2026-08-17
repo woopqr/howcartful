@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-16T13:48:13.317Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 10,
-  "postedDate": "2026-08-16",
+  "lastPostedAt": "2026-08-17T00:52:53.190Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-08-17",
   "queue": [
-    "australia-somerset-reviewed",
     "australia-sussex-inlet",
     "australia-sussex-inlet-rating",
     "australia-sussex-inlet-station",
@@ -517,6 +516,7 @@
     "australia-somerset",
     "australia-somerset-rating",
     "australia-somerset-station",
-    "australia-somerset-budget"
+    "australia-somerset-budget",
+    "australia-somerset-reviewed"
   ]
 }
