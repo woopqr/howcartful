@@ -1,0 +1,146 @@
+{
+  "slug": "australia-serpentine",
+  "title": "서펜타인 가성비 호텔 2곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 서펜타인 가성비 호텔 2곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "서펜타인",
+  "cityId": 143536,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "서펜타인",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/645202489.jpg?k=671adeb39b1f0ab57340bf83993b02ed7462984b79879085dec959c3b8f1a229&o=",
+  "heroAlt": "서펜타인",
+  "heroTitleHtml": "서펜타인 가성비 호텔 2곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Tasman Holiday Parks - Serpentine Falls</b>(평점 8.9·리뷰 405건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Rockingham Railway Station 도보 32분</b>의 <b>Rockingham Holiday Village</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/645202489.jpg?k=671adeb39b1f0ab57340bf83993b02ed7462984b79879085dec959c3b8f1a229&o=",
+  "outroTitle": "🌙 서펜타인, 어디에 묵어도 후회없이",
+  "outroText": "위 2곳은 모두 서펜타인 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 서펜타인 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Tasman Holiday Parks - Serpentine Falls",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tasman-holiday-parks-serpentine-falls/hotel/all/serpentine-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 405,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/645202489.jpg?k=671adeb39b1f0ab57340bf83993b02ed7462984b79879085dec959c3b8f1a229&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 405건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 405건 기반.",
+      "reviews": [
+        {
+          "text": "그리고 그녀는 나를 체크인하기 위해 오후 7시에 돌아올 것이라고 말했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고, 근처에 가볼만한 곳도 많아서 좋았습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "그 외에는 에어컨도 훌륭했고 다른 시설도 괜찮았습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "흠집 하나 없는 오두막과 하이킹을 즐기기에 완벽한 위치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "리셉션 직원은 사랑스럽고 매우 도움이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Rockingham Holiday Village",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rockingham-holiday-village/hotel/rockingham-au.html?cid=1925461",
+      "walkMin": 32,
+      "score": 7.6,
+      "reviewCount": 301,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/731989290.jpg?k=d3eac67d317e1ba014f82590e57883fb7ce36d5a1f5d8f6de76f08ced8809c8c&o=",
+      "distanceNote": "약 2553.38m · Rockingham Railway Station 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 301건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 301건 기반.",
+      "reviews": [
+        {
+          "text": "Rockingham 및 Kwinana와 가까운 훌륭한 위치.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "집에서 멀리 떨어진 훌륭한 집.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "가족을 위한 넉넉한 공간을 갖춘 깨끗하고 깔끔한 객실입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "언제나처럼 정말 놀랍습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "나는 확실히 다시 머물 것이다",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-17T08:47:03.831Z",
+    "source": "agoda citySearch",
+    "count": 2
+  }
+}
