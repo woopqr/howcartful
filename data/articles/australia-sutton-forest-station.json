@@ -1,0 +1,391 @@
+{
+  "slug": "australia-sutton-forest-station",
+  "angle": "station",
+  "angleAdj": "역세권",
+  "lang": "ko-kr",
+  "citySlug": "moss-vale-au",
+  "cityName": "서튼 포레스트",
+  "cityId": 512978,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "서튼 포레스트",
+  "heroImg": "https://pix8.agoda.net/hotelImages/49957/0/e14dcb24212cd09521ba88ee849681ac.jpg?ce=2",
+  "heroAlt": "서튼 포레스트",
+  "heroSub": "실제 아고다 리뷰로 서튼 포레스트의 역세권 숙소를 추렸습니다",
+  "verdictHtml": "역세권 기준 1순위는 <b>페퍼스 매너 하우스</b>입니다 (평점 8.6·리뷰 1,012건·1박 약 30만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/49957/0/e14dcb24212cd09521ba88ee849681ac.jpg?ce=2",
+  "outroTitle": "🌙 서튼 포레스트, 역세권으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 서튼 포레스트 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "페퍼스 매너 하우스 (Peppers Manor House)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/peppers-manor-house/hotel/sutton-forest-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 1012,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 30만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/49957/0/e14dcb24212cd09521ba88ee849681ac.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 30만원",
+        "📝 리뷰 1,012건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,012건 기반.",
+      "reviews": [
+        {
+          "text": "The amenities were great & the staff were fantastic.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Beautiful location in a very Historic Manor house.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Lovely peaceful location, the building was stunning.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Manor house was a great place to stay",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Nice clean rooms each with own verandah space.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Argyle Hotel Southern Highlands",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/argyle-hotel-southern-highlands/hotel/all/moss-vale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 80,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/200524035.jpg?k=0364e59966561f88b205986f26fd513bc55f8392fb3ac42ba7f06e3fc5da21cb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 80건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 80건 기반.",
+      "reviews": [
+        {
+          "text": "The location was perfect for exploring the area.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "The staff were incredibly friendly and helpful.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Welcoming and helpful staff made arrival easy.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "My stay at the hotel was fantastic.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Good spot to stop for the night, and the nicest staff!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Dormie House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dormie-house/hotel/all/moss-vale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 1112,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/460780327.jpg?k=59b3356f745adcb9393975bfe677fa0c05deb59ddb9719a0db1921a2b9d43795&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 1,112건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 1,112건 기반.",
+      "reviews": [
+        {
+          "text": "Was perfect for what I needed, would stay again.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Gorgeous little hotel.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Hotel is right on the beautiful Moss Vale golf course.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Good value for money, comfy bed and clean bathroom.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Comfortable room in an old world decor and environment.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "브리아르 컨트리 로지 (Briars Country Lodge)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/briars-country-lodge/hotel/bowral-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 2312,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 5.7,
+      "img": "//pix8.agoda.net/hotelImages/287830/0/25ee26cec12befa9300077031ec1bff1.jpeg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 2,312건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 2,312건 기반.",
+      "reviews": [
+        {
+          "text": "Room very large and clean, would certainly stop there again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend, we would definitely stay here again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Very clean room with comfortable beds, lovely hot showers.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Beautiful surroundings, clean room and delicious breakfast",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Located in a very peaceful spot",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Berrima Bakehouse Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/berrima-bakehouse-motel-h9261794/hotel/berrima-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 117,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/property/63882839/0/87fd590cef96e5234fbd30aba96cfe6a.jpeg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 117건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 117건 기반.",
+      "reviews": [
+        {
+          "text": "Perfect, so comfy, clean, and roomy, just what i needed",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The room was very cozy and the amenities were complete.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "This was our 4th time staying at the Berrimah Bakehouse.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "I found the Bakehouse motel lovely and quaint property.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Great location, friendly staff and nice rooms",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Moss Vale Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/moss-vale-village-park/hotel/moss-vale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 457,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/736733241.jpg?k=4d0b5e2b2c4a10c237f04fef9b3835567202387676f9743d473312df16e4ea89&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 457건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 457건 기반.",
+      "reviews": [
+        {
+          "text": "Nice place to stay especially for work accommodation",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Great place and close to work",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Ronelle Cottage",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ronelle-cottage/hotel/all/berrima-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 129,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 44만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/381511398.jpg?k=daca050de0aca283a3373f02fcbbb19be1cb7017148052b06012458471c0195e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 44만원",
+        "📝 리뷰 129건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 129건 기반.",
+      "reviews": [
+        {
+          "text": "Great little spot in the country side",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "station",
+    "base": "australia-sutton-forest",
+    "count": 7,
+    "builtAt": "2026-08-17T03:13:04.769Z"
+  }
+}
