@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-17T08:46:54.702Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 7,
+  "lastPostedAt": "2026-08-17T10:03:48.272Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 8,
   "postedDate": "2026-08-17",
   "queue": [
-    "australia-sutton-forest-station",
     "australia-sutton-forest-premium",
     "australia-sutton-forest-reviewed",
-    "australia-serpentine"
+    "australia-serpentine",
+    "australia-sunshine-bay"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 314,
+    "cityIndex": 315,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -523,6 +523,7 @@
     "australia-sussex-inlet-station",
     "australia-sussex-inlet-reviewed",
     "australia-sutton-forest",
-    "australia-sutton-forest-rating"
+    "australia-sutton-forest-rating",
+    "australia-sutton-forest-station"
   ]
 }
