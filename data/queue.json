@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-17T00:52:53.190Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 1,
+  "lastPostedAt": "2026-08-17T02:12:36.825Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 2,
   "postedDate": "2026-08-17",
   "queue": [
-    "australia-sussex-inlet",
     "australia-sussex-inlet-rating",
     "australia-sussex-inlet-station",
-    "australia-sussex-inlet-reviewed"
+    "australia-sussex-inlet-reviewed",
+    "australia-sutton-forest"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 312,
+    "cityIndex": 313,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -517,6 +517,7 @@
     "australia-somerset-rating",
     "australia-somerset-station",
     "australia-somerset-budget",
-    "australia-somerset-reviewed"
+    "australia-somerset-reviewed",
+    "australia-sussex-inlet"
   ]
 }
