@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-18T03:27:37.675Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 3,
+  "lastPostedAt": "2026-08-18T04:48:23.776Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 4,
   "postedDate": "2026-08-18",
   "queue": [
-    "australia-sunshine-bay-station",
     "australia-sunshine-bay-premium",
     "australia-sunshine-bay-star4",
-    "australia-sunshine-bay-reviewed"
+    "australia-sunshine-bay-reviewed",
+    "australia-sunshine-coast"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 315,
+    "cityIndex": 316,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -529,6 +529,7 @@
     "australia-sutton-forest-reviewed",
     "australia-serpentine",
     "australia-sunshine-bay",
-    "australia-sunshine-bay-rating"
+    "australia-sunshine-bay-rating",
+    "australia-sunshine-bay-station"
   ]
 }

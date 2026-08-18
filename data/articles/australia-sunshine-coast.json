@@ -1,0 +1,439 @@
+{
+  "slug": "australia-sunshine-coast",
+  "title": "선샤인코스트 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 선샤인코스트 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "sunshine-coast-au",
+  "cityName": "선샤인코스트",
+  "cityId": 19930,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "선샤인코스트",
+  "heroImg": "https://pix8.agoda.net/hotelImages/24253419/-1/4243f52dec9cbb64c343de039d2ad0cd.jpg?ce=0",
+  "heroAlt": "선샤인코스트",
+  "heroTitleHtml": "선샤인코스트 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Noosa Heads Halse Lodge</b>(평점 9.3·리뷰 728건·1박 약 6만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>누사 헤즈 버스정류장 도보 2분</b>의 <b>Noosa Heads Halse Lodge</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/24253419/-1/4243f52dec9cbb64c343de039d2ad0cd.jpg?ce=0",
+  "outroTitle": "🌙 선샤인코스트, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 선샤인코스트 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 선샤인코스트 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Noosa Heads Halse Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/noosa-heads-yha/hotel/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 9.3,
+      "reviewCount": 728,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 9.2,
+      "img": "//pix8.agoda.net/hotelImages/24253419/-1/4243f52dec9cbb64c343de039d2ad0cd.jpg?ce=0",
+      "distanceNote": "약 143.78m · 누사 헤즈 버스정류장 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 728건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 728건 기반.",
+      "reviews": [
+        {
+          "text": "저희는 트윈룸에 묵었는데 공간이 넉넉했어요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "머물기에 좋은 곳과 도움이되는 직원",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "방, 욕실, 샤워실은 매우 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 편의 시설과 친절한 직원.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "누사 헤즈 비치까지는 도보로 약 3분 거리였습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Bounce Noosa",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bounce-noosa/hotel/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 36,
+      "score": 9,
+      "reviewCount": 549,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/318677925.jpg?k=05a31fcfc769bef4a9f679938c963717272fe34921361862bf6eed3e828e8a60&o=",
+      "distanceNote": "약 2852.97m · 누사 정션 버스정류장 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 549건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 549건 기반.",
+      "reviews": [
+        {
+          "text": "내가 머물렀던 최고의 호스텔 중 하나",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "수영장은 보너스이고 침대는 편안합니다.",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "누사빌에서는 완벽해요",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 숙박과 직원은 훌륭했습니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "여기에서 가장 잘 지냈어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "누사 플래시패커스 (Noosa Flashpackers)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/noosa-flashpackers/hotel/all/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 11,
+      "score": 8.9,
+      "reviewCount": 1390,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/514335935.jpg?k=eb682e8a310e9c1b0d59be845e8713af3578d8cc14c7408f6020ad0b482f154f&o=",
+      "distanceNote": "약 868.67m · Coast 2 Coast Bus Service 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 1,390건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,390건 기반.",
+      "reviews": [
+        {
+          "text": "숙소는 매우 아늑하고 깨끗한 주방과 멋진 사교 공간을 갖추고 있습니다.",
+          "score": "9.6",
+          "country": "Danmark",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "그래도 저는 이곳에서 정말 즐거운 시간을 보냈고 다시 올 의향이 있습니다!",
+          "score": "9.2",
+          "country": "Germany",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "샤워실도 너무 좋고 수영장도 너무 좋아요.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 이벤트와 해변까지의 무료 셔틀 서비스.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "우수한 고객 서비스와 직원,",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Abode Mooloolaba",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beach-hostel-mooloolaba_2/hotel/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8.5,
+      "reviewCount": 1491,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.5,
+      "img": "//pix8.agoda.net/hotelImages/276244/0/7b54002b838adfe988e646306aa73067.jpeg?ce=3",
+      "distanceNote": "약 482.75m · 씨라이프 선샤인 코스트 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 1,491건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 1,491건 기반.",
+      "reviews": [
+        {
+          "text": "나는 이곳 직원이 정말 친절하고 도움이 되는 곳을 좋아했습니다.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "멋진 수영장, 액티비티를 운영하고 있으며 해변과 가깝습니다.",
+          "score": "9.6",
+          "country": "Oman",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "정말 친근한 분위기와 깨끗하고 직선적입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 그 이상으로 훌륭했고 훌륭했습니다 👌",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 넓은 객실, 훌륭한 수영장, 레스토랑/바.",
+          "score": "8.4",
+          "country": "New Zealand",
+          "date": "2026.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "쿨럼 버짓 어코모데이션 (Coolum Budget Accommodation)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/coolum-budget-accommodation/hotel/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.4,
+      "reviewCount": 188,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.3,
+      "img": "//pix8.agoda.net/hotelImages/407378/0/c96930d38833500eec2177f5508172bd.jpeg",
+      "distanceNote": "약 296.08m · 쿠럼 비치 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 188건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 188건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 잘 관리된 숙소, 모든 편의시설에 가깝습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 깨끗하며 수건이 깨끗합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "주방 시설은 훌륭하고 매우 깨끗했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "위치도 완벽하고 시설도 항상 깨끗했어요.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Jen's Getaway",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/jen-s-getaway/hotel/all/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 67,
+      "score": 9.5,
+      "reviewCount": 835,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/400371206.jpg?k=dc2cdf6dd0bff6cb410d79d0f662f723a84b896eff7a8619c92cbbb88c3092e9&o=",
+      "distanceNote": "약 5387.79m · Beerwah 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 835건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 835건 기반.",
+      "reviews": [
+        {
+          "text": "호스트는 사랑스럽고 훌륭한 추천을 해주었습니다.",
+          "score": "8.4",
+          "country": "Belgium",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "내 친구 Robyn은 그곳에 머물렀습니다. 그녀는 그곳을 좋아했고 집처럼 느꼈습니다.",
+          "score": "9.6",
+          "country": "Norfolk Island",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "제가 머물렀던 B&B 숙소 중 가장 좋았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "그녀의 집은 현대적이며 훌륭한 시설을 갖추고 완벽하게 관리되어 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "매우 편안한 침대와 사랑스러운 욕실이 있습니다.",
+          "score": "7.6",
+          "country": "New Zealand",
+          "date": "2024.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "노마드 누사 (Nomads Noosa)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nomads-noosa/hotel/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 7.4,
+      "reviewCount": 1309,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 7.4,
+      "img": "//pix8.agoda.net/hotelImages/227075/0/7c212e2a9016e7aeea42b84b70fa63c0.jpeg?ce=3",
+      "distanceNote": "약 534.56m · 누사 정션 버스정류장 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 1,309건",
+        "⭐ 1.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.4</b> · 실제 투숙객 리뷰 1,309건 기반.",
+      "reviews": [
+        {
+          "text": "수영장과 매일 밤 액티비티가 제공되는 훌륭한 호스텔!!",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "그 수영장이 전부였어요! 그곳의 분위기가 너무 좋았어요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "바다와 도시에서도 멀지 않은 유목민.",
+          "score": "9.2",
+          "country": "Vietnam",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 장소이며 매우 편리한 위치와 가격면에서 현명합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "리셉션에 있는 Anna는 숙박 기간을 연장하는 데 정말 놀랐습니다.",
+          "score": "8.8",
+          "country": "United Kingdom",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-18T04:48:58.420Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
