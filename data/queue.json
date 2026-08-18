@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-18T00:01:39.861Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 1,
+  "lastPostedAt": "2026-08-18T01:44:24.132Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 2,
   "postedDate": "2026-08-18",
   "queue": [
-    "australia-sunshine-bay",
     "australia-sunshine-bay-rating",
     "australia-sunshine-bay-station",
     "australia-sunshine-bay-premium",
@@ -529,6 +528,7 @@
     "australia-sutton-forest-station",
     "australia-sutton-forest-premium",
     "australia-sutton-forest-reviewed",
-    "australia-serpentine"
+    "australia-serpentine",
+    "australia-sunshine-bay"
   ]
 }
