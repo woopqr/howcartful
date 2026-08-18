@@ -8,7 +8,13 @@
     "australia-sunshine-bay-premium",
     "australia-sunshine-bay-star4",
     "australia-sunshine-bay-reviewed",
-    "australia-sunshine-coast"
+    "australia-sunshine-coast",
+    "australia-sunshine-coast-rating",
+    "australia-sunshine-coast-station",
+    "australia-sunshine-coast-budget",
+    "australia-sunshine-coast-premium",
+    "australia-sunshine-coast-star4",
+    "australia-sunshine-coast-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,

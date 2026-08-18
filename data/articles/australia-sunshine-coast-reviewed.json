@@ -1,0 +1,441 @@
+{
+  "slug": "australia-sunshine-coast-reviewed",
+  "angle": "reviewed",
+  "angleAdj": "후기 많은",
+  "lang": "ko-kr",
+  "citySlug": "sunshine-coast-au",
+  "cityName": "선샤인코스트",
+  "cityId": 19930,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "선샤인코스트",
+  "heroImg": "https://pix8.agoda.net/hotelImages/426/426386/426386_16092906300047083121.jpg?ca=6&ce=1",
+  "heroAlt": "선샤인코스트",
+  "heroSub": "실제 아고다 리뷰로 선샤인코스트의 리뷰 많은 숙소를 추렸습니다",
+  "verdictHtml": "리뷰 많은 기준 1순위는 <b>Pelican Waters Resort</b>입니다 (평점 8.3·리뷰 4,225건·1박 약 27만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/426/426386/426386_16092906300047083121.jpg?ca=6&ce=1",
+  "outroTitle": "🌙 선샤인코스트, 리뷰 많은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 선샤인코스트 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Pelican Waters Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-sebel-pelican-waters-resort/hotel/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 68,
+      "score": 8.3,
+      "reviewCount": 4225,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.4,
+      "img": "//pix8.agoda.net/hotelImages/426/426386/426386_16092906300047083121.jpg?ca=6&ce=1",
+      "distanceNote": "약 5472.53m · 칼룬드라 버스정류장 인근",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 4,225건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 4,225건 기반.",
+      "reviews": [
+        {
+          "text": "It's a great hotel with a view over a golf course.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Great place to stay - way better than what we expected.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "As a mum you want a place that has everything as this does.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Clean and fresh rooms and facilities were great.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Was a beautiful place to stay and very reasonable priced.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "오션 뷰 리조트 (Ocean Views Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ocean-views-resort_2/hotel/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 8.9,
+      "reviewCount": 2770,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/235525/-1/ab780a9aea1e01ec3ea42737fd256fee.jpg?ca=9&ce=1",
+      "distanceNote": "약 548.8m · 칼룬드라 버스정류장 인근",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 2,770건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 2,770건 기반.",
+      "reviews": [
+        {
+          "text": "The hotel has a rooftop, heated pool, spa and sauna.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "I’ve now stayed her three times and this is my go to place.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "The pool is heated and is at just the right temperature.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "OVR is in the perfect location for everything you want.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "The staff were amazing and the facilities top notch.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "오크스 선샤인 코스트 시포스 리조트 (Oaks Sunshine Coast Seaforth Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oaks-seaforth-apartments/hotel/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 26,
+      "score": 8.9,
+      "reviewCount": 2662,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 29만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/11870/-1/1d2a8553d6dc2c4515f56f4bccad2e83.jpg?ca=25&ce=0",
+      "distanceNote": "약 2051.49m · 물루라바 비치 인근",
+      "metaTags": [
+        "💰 약 29만원",
+        "📝 리뷰 2,662건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 2,662건 기반.",
+      "reviews": [
+        {
+          "text": "Superb location … but the pools are to die for!!!!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Absolutely beautiful by far my go to resort/hotel to stay at",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Beautiful pools, great staff and lovely apartments.",
+          "score": "9.2",
+          "country": "New Zealand",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Warmly greeted by front desk and allowed to book in early.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Comfortable beds, everything was well equipped and clean.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "알렉스 비치 캐빈 (Alex Beach Cabins)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/alex-beach-cabins/hotel/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 25,
+      "score": 9,
+      "reviewCount": 1886,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/909/909029/909029_16101208400047643614.jpg?ca=6&ce=1",
+      "distanceNote": "약 2030.59m · 물루라바 비치 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 1,886건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,886건 기반.",
+      "reviews": [
+        {
+          "text": "Great location close to the beach for great morning walks.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "The cabin was clean, comfortable, and well-equipped.",
+          "score": "10",
+          "country": "호주",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "The location was peaceful and close to everything I needed.",
+          "score": "10",
+          "country": "호주",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "We enjoyed our trip and felt quite comfy in the cabin",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Could not fault this park and would definitely recommend.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "몽빌 마운틴 인 리조트 (Montville Mountain Inn Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/montville-mountain-inn-resort/hotel/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 86,
+      "score": 8.9,
+      "reviewCount": 1833,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/412870/0/c8c485da5c34f07e8e0eae8822fbeb97.jpeg?ce=0",
+      "distanceNote": "약 6882.8m · Palmwoods Railway Station 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 1,833건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,833건 기반.",
+      "reviews": [
+        {
+          "text": "The location is amazing to walk to go to Montville shops.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "Fabulous location at top of main street of Montville.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Adequately equipped kitchen area: microwave , fridge, sink.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Good size bedroom with one single and one double bed.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "I sent email before travelling and the staff replied well.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "오크스 선샤인 코스트 오아시스 리조트 (Oaks Sunshine Coast Oasis Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oaks-oasis/hotel/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 13,
+      "score": 8.6,
+      "reviewCount": 1749,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 28만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/620/6208/6208_14071606360020285234.jpg?ca=2&ce=1",
+      "distanceNote": "약 1009.77m · 칼룬드라 버스정류장 인근",
+      "metaTags": [
+        "💰 약 28만원",
+        "📝 리뷰 1,749건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,749건 기반.",
+      "reviews": [
+        {
+          "text": "Great helpful staff, good rates, amazing restaurant.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "I highly recommend this hotel for anyone visiting the area.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "The room was huge, well appointed and very comfortable.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Loved the pool and spa and cocktail hour by the pool",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The pool, spa, playground, and water park were all awesome.",
+          "score": "9.6",
+          "country": "호주",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "럼바 비치 리조트 (Rumba Beach Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rumba-beach-resort/hotel/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 9.1,
+      "reviewCount": 1743,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/178/178338/178338_15073013100033331584.jpg?ca=5&ce=1",
+      "distanceNote": "약 166.49m · 칼룬드라 버스정류장 인근",
+      "metaTags": [
+        "📝 리뷰 1,743건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 1,743건 기반.",
+      "reviews": [
+        {
+          "text": "We were very impressed with the room, cleanliness, location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Dining, beaches and rooms right in the heart of the action.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The location is fantastic and pool and spa are excellent.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Room amenities, pool, view and staff were all excellent.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Staff and front office very friendly, helpful and efficient.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "reviewed",
+    "base": "australia-sunshine-coast",
+    "count": 7,
+    "builtAt": "2026-08-18T05:15:37.294Z"
+  }
+}

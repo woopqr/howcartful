@@ -1,0 +1,441 @@
+{
+  "slug": "australia-sunshine-coast-star4",
+  "angle": "star4",
+  "angleAdj": "4성급",
+  "lang": "ko-kr",
+  "citySlug": "sunshine-coast-au",
+  "cityName": "선샤인코스트",
+  "cityId": 19930,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "선샤인코스트",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/514335935.jpg?k=eb682e8a310e9c1b0d59be845e8713af3578d8cc14c7408f6020ad0b482f154f&o=",
+  "heroAlt": "선샤인코스트",
+  "heroSub": "실제 아고다 리뷰로 선샤인코스트의 4성급 숙소를 추렸습니다",
+  "verdictHtml": "4성급 기준 1순위는 <b>누사 플래시패커스</b>입니다 (평점 8.9·리뷰 1,390건·1박 약 7만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/514335935.jpg?k=eb682e8a310e9c1b0d59be845e8713af3578d8cc14c7408f6020ad0b482f154f&o=",
+  "outroTitle": "🌙 선샤인코스트, 4성급으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 선샤인코스트 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "누사 플래시패커스 (Noosa Flashpackers)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/noosa-flashpackers/hotel/all/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 11,
+      "score": 8.9,
+      "reviewCount": 1390,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/514335935.jpg?k=eb682e8a310e9c1b0d59be845e8713af3578d8cc14c7408f6020ad0b482f154f&o=",
+      "distanceNote": "약 868.67m · Coast 2 Coast Bus Service 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 1,390건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,390건 기반.",
+      "reviews": [
+        {
+          "text": "The place is very cozy, clean kitchen and nice social areas.",
+          "score": "9.6",
+          "country": "Danmark",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Still, I really enjoyed my stay here and would come again!",
+          "score": "9.2",
+          "country": "Germany",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "The showers are really nice and the pool is good too.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Great events and free shuttle service to the beach.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Excellent customer service and staff,",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Golden Beach Motor Inn, Caloundra",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/golden-beach-motor-inn/hotel/all/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 17,
+      "score": 8.8,
+      "reviewCount": 913,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/533324976.jpg?k=eacb4fa001d4c1caea82348af13d730408df754847f6f9a19ba4b87f46a6fd11&o=",
+      "distanceNote": "약 1335.73m · 칼룬드라 버스정류장 인근",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 913건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 913건 기반.",
+      "reviews": [
+        {
+          "text": "Very clean and comfortable room with friendly staff",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Nice location, lot's of places to eat nearby.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "We had a wonderful stay, staff were friendly.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "It was nice and clean, the beds were very comfy.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "It has a little balcony outside the room with 2 chairs.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Peppers Noosa Resort & Villas",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/peppers-noosa-resort-villas/hotel/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.6,
+      "reviewCount": 684,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/187086/0/16529ae395d954dff512bfced87820c6.jpeg?ce=3",
+      "distanceNote": "약 358.38m · 누사 헤즈 버스정류장 인근",
+      "metaTags": [
+        "📝 리뷰 684건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 684건 기반.",
+      "reviews": [
+        {
+          "text": "The location is great, only 10 min away from the main beach.",
+          "score": "7.6",
+          "country": "Thailand",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Loved the golf cart trips to and from Hastings Street.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Apartments are spacious, clean & are fully equipped.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Excellent location and top class resort.. highly recommended",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "The staff went out and above to make our stay enjoyable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "라마다 바이 윈덤 마르쿨라 비치 (Ramada By Wyndham Marcoola Beach)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ramada-by-wyndham-marcoola-beach/hotel/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 111,
+      "score": 8.1,
+      "reviewCount": 1262,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/49997/-1/149a45e4adf972ada85c9cf0c20b6744.jpg?ca=0&ce=1",
+      "distanceNote": "약 8882.23m · 물루라바 비치 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 1,262건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 1,262건 기반.",
+      "reviews": [
+        {
+          "text": "Pool and garden area exceptional for a lazy day by the pool.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "We also had an amazing meal at the restaurant below.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "It is only a couple of km from the airport as well.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Staff were lovely and nothing was too much trouble for them.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Love being able to get to the beach so steadily and quickly.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Holiday Inn & Suites Sunshine Coast by IHG",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/holiday-inn-suites-sunshine-coast-by-ihg-h31570537/hotel/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 44,
+      "score": 8.8,
+      "reviewCount": 1457,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.7,
+      "img": "//pix8.agoda.net/hotelImages/31570537/506154313/7070bc813904602d542c95459c79c53e.jpg?ce=3",
+      "distanceNote": "약 3538.57m · 물루라바 비치 인근",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 1,457건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,457건 기반.",
+      "reviews": [
+        {
+          "text": "The rooms are so clean and the bed/pillows are amazing!",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Great location, spotless rooms, and fantastic facilities.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The breakfast in the morning was fabulous for the price.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Great location, beautiful rooms and value for money 👌",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Our room was very clean and the staff were friendly.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "뉴포트 물루라바 아파트 (Newport Mooloolaba Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/newport-mooloolaba-apartments_2/hotel/all/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.9,
+      "reviewCount": 633,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/191055486.jpg?k=aa2531960dc0b68f0abf63b6ca118a196f2bf8bb17fcdd598b2aa00f74b2b2ca&o=",
+      "distanceNote": "약 112.29m · 씨라이프 선샤인 코스트 인근",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 633건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 633건 기반.",
+      "reviews": [
+        {
+          "text": "The room was very clean and fresh",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "The staff were very welcoming and helpful",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Room was clean and spacious, hotel is well located.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Clean, quiet, excellent location.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Good location",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "안코르 모텔 누사 (Anchor Motel Noosa)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/anchor-motel-noosa/hotel/sunshine-coast-au.html?cid=1925461",
+      "walkMin": 28,
+      "score": 8.7,
+      "reviewCount": 1361,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/227583/0/f2026b9fb727120c0b1cfb420c48e8b7.jpeg?ce=0",
+      "distanceNote": "약 2268.11m · 누사 정션 버스정류장 인근",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 1,361건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,361건 기반.",
+      "reviews": [
+        {
+          "text": "Very nice stuff, clean and comfortable accommodation.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "The anchor motel was perfect for a last minute getaway.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Super friendly staff, perfect for what we needed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Great location, clean room and friendly staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Extremely Clean, Beautifully Designed and Presented.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "star4",
+    "base": "australia-sunshine-coast",
+    "count": 7,
+    "builtAt": "2026-08-18T05:15:37.294Z"
+  }
+}
