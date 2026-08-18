@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-18T06:16:58.014Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 5,
+  "lastPostedAt": "2026-08-18T07:50:13.222Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 6,
   "postedDate": "2026-08-18",
   "queue": [
-    "australia-sunshine-bay-star4",
     "australia-sunshine-bay-reviewed",
     "australia-sunshine-coast",
     "australia-sunshine-coast-rating",
@@ -536,6 +535,7 @@
     "australia-sunshine-bay",
     "australia-sunshine-bay-rating",
     "australia-sunshine-bay-station",
-    "australia-sunshine-bay-premium"
+    "australia-sunshine-bay-premium",
+    "australia-sunshine-bay-star4"
   ]
 }
