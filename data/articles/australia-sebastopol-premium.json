@@ -1,0 +1,427 @@
+{
+  "slug": "australia-sebastopol-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "ballarat-au",
+  "cityName": "세바스토폴",
+  "cityId": 143288,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "세바스토폴",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/411376522.jpg?k=af4f2a9a680986bcd3f58ece18677cb6abfa3f704256d18dae4d4a84dab2b011&o=",
+  "heroAlt": "세바스토폴",
+  "heroSub": "실제 아고다 리뷰로 세바스토폴의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>Hotel Vera Ballarat</b>입니다 (평점 9.7·리뷰 295건·1박 약 38만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/411376522.jpg?k=af4f2a9a680986bcd3f58ece18677cb6abfa3f704256d18dae4d4a84dab2b011&o=",
+  "outroTitle": "🌙 세바스토폴, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 세바스토폴 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Hotel Vera Ballarat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-vera-ballarat/hotel/all/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 295,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 38만원",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/411376522.jpg?k=af4f2a9a680986bcd3f58ece18677cb6abfa3f704256d18dae4d4a84dab2b011&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 38만원",
+        "📝 리뷰 295건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 295건 기반.",
+      "reviews": [
+        {
+          "text": "The location, staff, and facilities are all prefect.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "This hotel is excellent and stylish.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Everything in the room is so considered and creative.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "I highly recommend Vera to all my friends!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Beautiful property and lovely hosts.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Magnolia By Lake",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/magnolia-by-lake/hotel/all/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 122,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/584977281.jpg?k=99ea11334f27949f0b4252225eb5d7532e9110a78a10ec5f07b5b6aac8dc6f27&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 122건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 122건 기반.",
+      "reviews": [
+        {
+          "text": "Amazing place to stay and good value.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "So much effort put in by the hosts.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "소베레이그 파크 모터 인 (Sovereign Park Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sovereign-park-motor-inn/hotel/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 2169,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/49994/-1/e36435c0ee292e0ea16b1aecdf751742.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 2,169건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 2,169건 기반.",
+      "reviews": [
+        {
+          "text": "We couldn’t fault our stay and will be back! Thank you",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Fantastic pace to stay with a great room, couldn’t fault it",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "We had a fantastic experience at Sovereign Park Motor Inn.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Great service, awesome facilities and immaculately clean!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "We loved the pool and the room has clean and comfortable.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "퀘스트 밸러랫 스테이션 (Quest Ballarat Station)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quest-ballarat-station/hotel/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 1422,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 29만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/16675740/-1/60562d82cc4fc365fc2171c4e44a4346.jpg?ca=16&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 29만원",
+        "📝 리뷰 1,422건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 1,422건 기반.",
+      "reviews": [
+        {
+          "text": "Staying at Quest Ballarat Station is always my first choice.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Staff on arrival were amazing friendly and helpful.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Centrally located, thoughtful amenities, and friendly staff.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "But other than that, it was a really pleasant place to stay,",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "And our stay was fantastic in an extremely comfortable bed",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "퀘스트 발라랏 (Quest Ballarat)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quest-ballarat/hotel/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 855,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/209229/-1/ba475630c9999ea578d4f6bf0d5d6e27.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 855건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 855건 기반.",
+      "reviews": [
+        {
+          "text": "Room had everything needed and the bed was comfortable.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The Quest was well priced & a perfect location to everything",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "We love our stay and would definitely staying here again.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Facility very clean and comfortable and safe.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Would recommend for family need to stay in Ballarat",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "발라랏 레이크 인 (Ballarat Lake Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ballarat-lake-inn/hotel/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 882,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 42만원",
+      "valueIndex": 5.2,
+      "img": "//pix8.agoda.net/hotelImages/730/73086/73086_16101312360047714004.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 42만원",
+        "📝 리뷰 882건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 882건 기반.",
+      "reviews": [
+        {
+          "text": "Walking distance to lake and downtown central Ballarat.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Very spacious clean, tidy quiet room with comfy bed.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Excellent service staff very very helpful",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "5minute walk to the lake and a couple of cafes nearby.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Very good value, no complaints.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "퀄리티 인 허리테이지 온 리디아드 (Quality Inn Heritage on Lydiard)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quality-inn-heritage-on-lydiard/hotel/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 449,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/108697/0/364ee480e8cd8f5f703f6119f691a23d.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 449건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 449건 기반.",
+      "reviews": [
+        {
+          "text": "Excellent hotel with relatively small number of rooms",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Beautiful hotel, clean and great location.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Best property I have ever stayed in Ballarat.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "High quality accommodation, in the middle of Ballarat.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Modern quality accomodation, with excellent staff",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-sebastopol",
+    "count": 7,
+    "builtAt": "2026-08-19T11:10:49.536Z"
+  }
+}
