@@ -1,0 +1,439 @@
+{
+  "slug": "australia-sebastopol",
+  "title": "세바스토폴 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 세바스토폴 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "ballarat-au",
+  "cityName": "세바스토폴",
+  "cityId": 143288,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "세바스토폴",
+  "heroImg": "https://pix8.agoda.net/hotelImages/87233227/0/bb667b6c8184a1deaa875a721081a8e9.jpg?ce=3",
+  "heroAlt": "세바스토폴",
+  "heroTitleHtml": "세바스토폴 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Victoriana Motor Inn</b>(평점 9.1·리뷰 1,100건·1박 약 9만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Victoriana Motor Inn</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/87233227/0/bb667b6c8184a1deaa875a721081a8e9.jpg?ce=3",
+  "outroTitle": "🌙 세바스토폴, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 세바스토폴 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 세바스토폴 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Victoriana Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/victoriana-motor-inn/hotel/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 1100,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7.7,
+      "img": "//pix8.agoda.net/hotelImages/87233227/0/bb667b6c8184a1deaa875a721081a8e9.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 1,100건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 1,100건 기반.",
+      "reviews": [
+        {
+          "text": "꼭 추천하고 다시 이용하겠습니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": true
+        },
+        {
+          "text": "밸러랫에서 매우 저렴한 가격에 깨끗하고 편안한 객실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 추가 침구를 제공하는데 매우 도움이 되었습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": true
+        },
+        {
+          "text": "직원들은 사랑스럽고 가격 대비 방이 잘 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원이 있는 사랑스럽고 깨끗한 장소.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Ambassador Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ambassador-motor-inn/hotel/all/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 1103,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/41172329.jpg?k=cc6fffa6f4652486d372c0cf3a3137a491912ee7cbf47dacefdf17793e2dbe94&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,103건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,103건 기반.",
+      "reviews": [
+        {
+          "text": "대사에서의 전반적으로 훌륭한 경험.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "나의 야간 근무일 수면 요구에 매우 적응하고 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치 조용하고 친절한 직원과 넓은 욕실",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치, 상점이 도보로 1분 거리에 있음",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "추운 밸러랫 겨울에는 깨끗하고 따뜻합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "알프레드 모터 인 (Alfred Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/alfred-motor-inn/hotel/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 774,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/335620/-1/34b9a69d3c0b20ff09ec3b9f33c52098.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 774건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 774건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 깔끔했고 직원들이 매우 친절했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 깨끗했으며 물론 매우 편안했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원, 깨끗한 객실 및 기본 필수품이 포함되어 있습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안했고 나는 바위처럼 잤습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "침대는 매우 편안했고 방은 매우 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "애브뉴  모텔 (Avenue Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/avenue-motel/hotel/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 1907,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/467052/-1/7ebd9b1591e44bc6e181d182d23d5659.jpg?ca=23&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 1,907건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 1,907건 기반.",
+      "reviews": [
+        {
+          "text": "훌륭한 에어컨, 큰 냉장고, 좋은 TV.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 침대는 매우 편안했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "적절한 무료 아침 식사가 제공되는 잘 갖춰진 객실입니다.",
+          "score": "9.6",
+          "country": "Sweden",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "예상보다 일찍 끝났을 때 크레딧을 주기도 했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭하고 깨끗하며 매우 단순하지만 우리에게 필요한 것에 이상적입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "The Menzies Ballarat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quality-inn-suites-the-menzies_3/hotel/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 65,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/72072936/0/6536272b0fca74be3adcd38956ac4780.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 65건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 65건 기반.",
+      "reviews": [
+        {
+          "text": "여행자에게 좋은 위치, 깨끗하고 넓은 방!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "매우 중앙에 있고 편안한 침대에는 전기 담요도 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "길 위의 사랑스러운 호텔과 아름다운 음식.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "이곳에 4번 머물렀습니다. 너무 좋아요 다음 주에 다시 올게요",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "The Menzies에 머무르는 것을 적극 권장합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "웨스턴 호텔 (Western Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/western-hotel/hotel/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 226,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/116/1164548/1164548_16032310140041005966.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 226건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 226건 기반.",
+      "reviews": [
+        {
+          "text": "깨끗하고 편안한 객실과 깨끗한 공용 욕실.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "펍 뒤편에 주차 가능합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "가성비 좋은 펍 숙소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "매우 수용적이고 편안하며 머물기 좋은 곳",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "특별한",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "발라랏 유레카 로지 모텔 (Ballarat Eureka Lodge Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ballarat-eureka-lodge-motel/hotel/ballarat-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 100,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/1080421/-1/3009b099bd0d2d36f3fad7e15c9fcae8.jpg?ca=16&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 100건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 100건 기반.",
+      "reviews": [
+        {
+          "text": "길 건너편에는 수영장, 놀이터, 유레카 센터가 있습니다!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "패밀리룸에는 완비된 주방 시설이 마련되어 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 방과 편안한 침대",
+          "score": "7.6",
+          "country": "United Kingdom",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안합니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 방은 깨끗합니다.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-19T10:49:41.393Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
