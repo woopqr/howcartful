@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-19T01:57:30.117Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 2,
+  "lastPostedAt": "2026-08-19T02:57:54.016Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 3,
   "postedDate": "2026-08-19",
   "queue": [
-    "australia-sunshine-coast-star4",
     "australia-sunshine-coast-reviewed",
     "australia-ceduna",
     "australia-ceduna-rating",
@@ -541,6 +540,7 @@
     "australia-sunshine-coast-rating",
     "australia-sunshine-coast-station",
     "australia-sunshine-coast-budget",
-    "australia-sunshine-coast-premium"
+    "australia-sunshine-coast-premium",
+    "australia-sunshine-coast-star4"
   ]
 }
