@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-19T10:49:04.842Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 9,
+  "lastPostedAt": "2026-08-19T11:58:34.544Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 10,
   "postedDate": "2026-08-19",
   "queue": [
-    "australia-cervantes-rating",
     "australia-cervantes-station",
     "australia-cervantes-reviewed",
     "australia-sebastopol",
@@ -552,6 +551,7 @@
     "australia-ceduna-rating",
     "australia-ceduna-station",
     "australia-ceduna-reviewed",
-    "australia-cervantes"
+    "australia-cervantes",
+    "australia-cervantes-rating"
   ]
 }
