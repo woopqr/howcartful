@@ -8,7 +8,10 @@
     "australia-ceduna-rating",
     "australia-ceduna-station",
     "australia-ceduna-reviewed",
-    "australia-cervantes"
+    "australia-cervantes",
+    "australia-cervantes-rating",
+    "australia-cervantes-station",
+    "australia-cervantes-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
