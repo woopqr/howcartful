@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-18T13:23:30.437Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 10,
-  "postedDate": "2026-08-18",
+  "lastPostedAt": "2026-08-19T00:23:09.369Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-08-19",
   "queue": [
-    "australia-sunshine-coast-budget",
     "australia-sunshine-coast-premium",
     "australia-sunshine-coast-star4",
-    "australia-sunshine-coast-reviewed"
+    "australia-sunshine-coast-reviewed",
+    "australia-ceduna"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 316,
+    "cityIndex": 318,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -23,7 +23,8 @@
       512713,
       710240,
       709701,
-      719612
+      719612,
+      512953
     ]
   },
   "publishedSlugs": [
@@ -536,6 +537,7 @@
     "australia-sunshine-bay-reviewed",
     "australia-sunshine-coast",
     "australia-sunshine-coast-rating",
-    "australia-sunshine-coast-station"
+    "australia-sunshine-coast-station",
+    "australia-sunshine-coast-budget"
   ]
 }
