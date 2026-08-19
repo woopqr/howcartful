@@ -1,0 +1,351 @@
+{
+  "slug": "australia-cervantes",
+  "title": "세르반테스 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 세르반테스 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "cervantes-au",
+  "cityName": "세르반테스",
+  "cityId": 13375,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "세르반테스",
+  "heroImg": "https://pix8.agoda.net/property/70349206/0/3fe33ea5b7d12e5d6ee24ff66421eece.jpeg?ce=2",
+  "heroAlt": "세르반테스",
+  "heroTitleHtml": "세르반테스 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Cervantes Lodge</b>(평점 8.6·리뷰 38건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Cervantes Lodge</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/property/70349206/0/3fe33ea5b7d12e5d6ee24ff66421eece.jpeg?ce=2",
+  "outroTitle": "🌙 세르반테스, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 세르반테스 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 세르반테스 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Cervantes Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cervantes-lodge_4/hotel/cervantes-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 38,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/property/70349206/0/3fe33ea5b7d12e5d6ee24ff66421eece.jpeg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 38건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 38건 기반.",
+      "reviews": [
+        {
+          "text": "우리 방은 흠이 없었고 침대는 훌륭했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "전용 욕실을 갖춘 흠잡을 데 없이 밝은 객실",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "직원들이 매우 친절하고 일찍 체크인할 수 있게 해주었습니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "롯지 자체는 관광객을 위해 특별히 지어졌습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "욕실은 깨끗했고 온수도 잘 나왔습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "세르반테 피나클스 모텔 (Cervantes Pinnacles Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cervantes-pinnacles-motel/hotel/cervantes-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 1436,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/498/49815/49815_14061313040019836432.jpg?ca=2&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 1,436건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 1,436건 기반.",
+      "reviews": [
+        {
+          "text": "우리 방에는 편리한 주방 시설이 포함되어 있었습니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "넓은 2베드룸 유닛이며 사진보다 더 좋아 보입니다.",
+          "score": "8",
+          "country": "Malaysia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "우리는 이 모텔에서 하룻밤을 묵었는데 정말 즐거운 시간이었습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "이 모텔에 두 번째로 묵고 꼭 다시 오세요 ​​🤗",
+          "score": "9.6",
+          "country": "India",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "넓은 주차 공간과 객실 청결도는 최고 수준입니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "세르반테스 홀리데이 홈 (Cervantes Holiday Homes)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cervantes-holiday-homes/hotel/cervantes-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 217,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/263897/0/d503e69ff44e68a8574e9b9dc4cea9f9.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 217건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 217건 기반.",
+      "reviews": [
+        {
+          "text": "객실은 넓고 깨끗하며 편안합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 기능적입니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "넓은 거실 공간.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "체크인은 쉽고 빨랐습니다",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "아주 깨끗하고 좋은 곳",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "RAC Cervantes Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rac-cervantes-holiday-park/hotel/cervantes-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 423,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/500357284.jpg?k=ab5c590a5c352b4ae4654c18828a22f22718e1783ebff88b60baa8b9cafed6b3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 423건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 423건 기반.",
+      "reviews": [
+        {
+          "text": "샬레 자체는 너무 깨끗하고 시설이 잘 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "위치는 이상적이었고 직원들은 도움이 되었습니다.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "완벽한 위치와 시설",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "지금까지 우리가 머물렀던 최고의 장소.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "주방 가전제품과 주방용품 전체 세트를 즐겨보세요.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "dhu drop inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dhu-drop-inn/hotel/all/cervantes-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 425,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 41만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/471900444.jpg?k=2e4c02af6c5048eafee52be9fb4d2fbdf6403dbe993c809f955f0e64a0c7cc2a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 41만원",
+        "📝 리뷰 425건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 425건 기반.",
+      "reviews": [
+        {
+          "text": "전반적으로 우리의 체류는 좋습니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "피나클 엣지 리조트 (Pinnacles Edge Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pinnacles-edge-resort/hotel/cervantes-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 647,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.3,
+      "img": "//pix8.agoda.net/hotelImages/178347/0/d5e67133c66cf4c5586d19ab6a1d3e5a.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 647건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 647건 기반.",
+      "reviews": [
+        {
+          "text": "직원들은 매우 친절하고 특히 Cara에게 도움이 되었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고 시설도 직원도 모두 훌륭했습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "가족을 위한 충분한 공간을 갖추고 편안하게 꾸며져 있습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "친구들과 저는 Pinnacle Edge에서 즐거운 시간을 보냈습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 깨끗하며 조용한 환경입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-19T05:35:00.466Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}

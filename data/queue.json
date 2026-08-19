@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-19T04:22:43.983Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 4,
+  "lastPostedAt": "2026-08-19T05:34:33.739Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 5,
   "postedDate": "2026-08-19",
   "queue": [
-    "australia-ceduna",
     "australia-ceduna-rating",
     "australia-ceduna-station",
-    "australia-ceduna-reviewed"
+    "australia-ceduna-reviewed",
+    "australia-cervantes"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 318,
+    "cityIndex": 319,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -541,6 +541,7 @@
     "australia-sunshine-coast-budget",
     "australia-sunshine-coast-premium",
     "australia-sunshine-coast-star4",
-    "australia-sunshine-coast-reviewed"
+    "australia-sunshine-coast-reviewed",
+    "australia-ceduna"
   ]
 }
