@@ -1,0 +1,420 @@
+{
+  "slug": "australia-ceduna-rating",
+  "angle": "rating",
+  "angleAdj": "평점 높은",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "세두나",
+  "cityId": 10081,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "세두나",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/407187313.jpg?k=31b778dc582ae63d3ae04624e7288d9bb45f61e8bb7dc8b9d05b62aece3b4600&o=",
+  "heroAlt": "세두나",
+  "heroSub": "실제 아고다 리뷰로 세두나의 평점 높은 숙소를 추렸습니다",
+  "verdictHtml": "평점 높은 기준 1순위는 <b>Ceduna Foreshore Caravan Park</b>입니다 (평점 9.3·리뷰 932건·1박 약 14만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/407187313.jpg?k=31b778dc582ae63d3ae04624e7288d9bb45f61e8bb7dc8b9d05b62aece3b4600&o=",
+  "outroTitle": "🌙 세두나, 평점 높은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 세두나 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Ceduna Foreshore Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ceduna-foreshore-caravan-park_2/hotel/all/ceduna-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 932,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/407187313.jpg?k=31b778dc582ae63d3ae04624e7288d9bb45f61e8bb7dc8b9d05b62aece3b4600&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 932건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 932건 기반.",
+      "reviews": [
+        {
+          "text": "Cabin well positioned and equipped - very comfortable stay",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Great facilities, very clean and easy to access.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Loved our one night stay in this friendly caravan park.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "We found this park to be an excellent place to stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "RAA EV charging station in adjacent hotel carpark.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Ceduna Shelly Beach Caravan Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ceduna-shelly-beach-caravan-park/hotel/all/ceduna-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 929,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/522895316.jpg?k=d7b4f499e7e497b33d532eaf116d76edb2e0e9ec06f23bee458b42c28fafc259&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 929건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 929건 기반.",
+      "reviews": [
+        {
+          "text": "Room was super clean, bed comfortable & great pricing too.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The ocean views cottages are next level for location.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Great little last minute booking after a long drive.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "No complaints, clean facilities all amenities well supplied.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The view was spectacular and the bed was comfy.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Ceduna Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-ceduna-tourist-park_2/hotel/all/ceduna-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 610,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/139380853.jpg?k=9beb685926294df497ae720a6d5aea56a061bc0a9071ac5b247460465b415b0d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 610건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 610건 기반.",
+      "reviews": [
+        {
+          "text": "Great service very clean",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Room is so clean and got everything you need .",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "The cabin was newly renovated and was lovely.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Clean cabin, room enough for 2 people.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "It was a really comfortable place.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Ceduna Foreshore Hotel Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ceduna-foreshore-hotel-motel_3/hotel/all/ceduna-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 43,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/497638130.jpg?k=7562712a84dbabffe5f21670f5a56943ecfca1a88d30cb35b0c1e5581518d036&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 43건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 43건 기반.",
+      "reviews": [
+        {
+          "text": "If you are stopping in Ceduna it's a must stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Secure parking and ideal location on the seafront.",
+          "score": "8.4",
+          "country": "United Kingdom",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Our room (13) was large, clean and spacious.",
+          "score": "8.4",
+          "country": "United Kingdom",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Comfortable well appointed hotel accommodation.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Easy access to Bistro/Bar was good, Bisyro was also good.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Highway One Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/highway-one-motel/hotel/all/ceduna-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 830,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/property/37412244/1328161755/196af83e257e487d64580f383a159325.jpeg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 830건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 830건 기반.",
+      "reviews": [
+        {
+          "text": "A great place to stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "It was clean and comfortable.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "세두나 모터 인 (Ceduna Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ceduna-motor-inn_3/hotel/ceduna-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 91,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/441/4410012/4410012_18013015310061404034.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 91건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 91건 기반.",
+      "reviews": [
+        {
+          "text": "A great place after a long trip across the Nullarbor.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Fantastic Budget Stay with All the Essentials!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Clean amenities, pleasant staff",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "The hotel location is in the middle of the city.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Nice place to stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "East West Motel Ceduna",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/east-west-motel-ceduna_2/hotel/all/ceduna-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 149,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/324365407.jpg?k=5ef0fe725d1dbcde9c11711d3abe3ffbd74faf9ea497584706f541d8ad924665&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 149건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 149건 기반.",
+      "reviews": [
+        {
+          "text": "Great place to stay on your long trip across Australia",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Run by a lovely family who where very welcoming",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "The rooms were clean and we had a good night’s sleep.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Great location, very spacious and comfy.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Very understanding and friendly staff!! Thank you!!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "rating",
+    "base": "australia-ceduna",
+    "count": 7,
+    "builtAt": "2026-08-19T01:57:30.106Z"
+  }
+}
