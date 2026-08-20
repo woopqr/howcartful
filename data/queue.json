@@ -8,7 +8,10 @@
     "australia-sebastopol-premium",
     "australia-sebastopol-star4",
     "australia-sebastopol-reviewed",
-    "australia-saint-marys"
+    "australia-saint-marys",
+    "australia-saint-marys-rating",
+    "australia-saint-marys-station",
+    "australia-saint-marys-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
