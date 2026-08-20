@@ -1,0 +1,288 @@
+{
+  "slug": "australia-saint-marys",
+  "title": " 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해  가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "",
+  "cityId": 142820,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/583269552.jpg?k=fa9fa16e85db4467a69c2e14cb5d234d6e4190d57b6db9120fe24f22322e30e5&o=",
+  "heroAlt": "",
+  "heroTitleHtml": " 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>St Marys Hotel</b>(평점 8.2·리뷰 259건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>St Marys Hotel</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/583269552.jpg?k=fa9fa16e85db4467a69c2e14cb5d234d6e4190d57b6db9120fe24f22322e30e5&o=",
+  "outroTitle": "🌙 , 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두  역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서  전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "St Marys Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/st-marys-hotel/hotel/all/saint-marys-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 259,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/583269552.jpg?k=fa9fa16e85db4467a69c2e14cb5d234d6e4190d57b6db9120fe24f22322e30e5&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 259건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 259건 기반.",
+      "reviews": [
+        {
+          "text": "항상 머물기에 좋은 곳.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "항상 완벽해요!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "항상 훌륭한 숙박이었고 손님을 위한 아주 좋은 아침 식사였습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 직원과 아늑한 객실",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 아늑한 객실",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Little Beach Co",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/little-beach-glamping/hotel/four-mile-creek-tasmania-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 195,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/45570937/0/b88a002c44043420e0b3951402a5582e.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 195건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 195건 기반.",
+      "reviews": [
+        {
+          "text": "매우 깨끗하고 훌륭한 숙박이었습니다. 이곳을 적극 추천합니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "이 장소에 대해 나쁜 점은 하나도 없습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "린과 폴은 그들이 할 수 있는 모든 방법으로 우리를 도왔습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "우리는 여기서 보낸 모든 순간을 사랑했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 수용 가능합니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Oakdene Heritage Accommodation",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oakdene-heritage-accommodation/hotel/st-marys-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 74,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 20만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/339114/0/c19f4a9b7672f0b949b3cc04c8104df6.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 74건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 74건 기반.",
+      "reviews": [
+        {
+          "text": "전반적으로 훌륭한 경험입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 부동산!!!!!",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2022.11",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "루메라 에코 샬레 (Lumera Eco Chalets)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lumera-eco-chalets/hotel/st-marys-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 61,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 5.7,
+      "img": "//pix8.agoda.net/hotelImages/286/286011/286011_14053016310019648585.jpg?ca=2&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 61건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 61건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "화이트 샌드 이스테이트 (White Sands Estate)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/white-sands-estate/hotel/saint-marys-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 40,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.4,
+      "img": "//pix8.agoda.net/hotelImages/317777/-1/8a8bec9e1d81f36e0ba686b8e8a5d220.jpg?ca=7&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 40건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 40건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 곳! 객실은 깨끗하고 넓은 발코니가 있습니다.",
+          "score": "8",
+          "country": "新加坡",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 것을 갖춘 환상적인 숙소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "전망과 시설이 끝내줍니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "숙소는 깨끗했고 가족이 지내기에 완벽했습니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "높은 수준의 청결도",
+          "score": "8",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "포 마일 크릭의 프라이빗 하우스 (m², 침실 3개, 프라이빗 욕실 2개) (Black Wattle Coastal Retreat)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/black-wattle-coastal-retreat-h80267396/hotel/four-mile-creek-tasmania-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 198,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 58만원",
+      "valueIndex": 5.4,
+      "img": "//pix8.agoda.net/hotelImages/80267396/0/adad8aaf70be1fda2eeb499e839113bb.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 58만원",
+        "📝 리뷰 198건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 198건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-20T07:56:34.208Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}
