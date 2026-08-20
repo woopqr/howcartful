@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-20T07:56:14.908Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 6,
+  "lastPostedAt": "2026-08-20T09:08:23.406Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 7,
   "postedDate": "2026-08-20",
   "queue": [
-    "australia-sebastopol-premium",
     "australia-sebastopol-star4",
     "australia-sebastopol-reviewed",
     "australia-saint-marys",
@@ -556,6 +555,7 @@
     "australia-sebastopol",
     "australia-sebastopol-rating",
     "australia-sebastopol-station",
-    "australia-sebastopol-budget"
+    "australia-sebastopol-budget",
+    "australia-sebastopol-premium"
   ]
 }
