@@ -1,0 +1,220 @@
+{
+  "slug": "australia-saint-george",
+  "title": "세인트 조지 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 세인트 조지 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "saint-george-au",
+  "cityName": "세인트 조지",
+  "cityId": 710854,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "세인트 조지",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/295584021.jpg?k=ec2316064cf842971d7a30d184c06c162151b083764026c7ec6426f4703c749a&o=",
+  "heroAlt": "세인트 조지",
+  "heroTitleHtml": "세인트 조지 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Jacaranda Country Motel</b>(평점 8.8·리뷰 567건·1박 약 19만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Jacaranda Country Motel</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/295584021.jpg?k=ec2316064cf842971d7a30d184c06c162151b083764026c7ec6426f4703c749a&o=",
+  "outroTitle": "🌙 세인트 조지, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 세인트 조지 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 세인트 조지 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Jacaranda Country Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/jacaranda-country-motel/hotel/saint-george-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 567,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/295584021.jpg?k=ec2316064cf842971d7a30d184c06c162151b083764026c7ec6426f4703c749a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 567건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 567건 기반.",
+      "reviews": [
+        {
+          "text": "다행히 바람이 잦아들고 숙면을 취했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "자카란다 모텔은 매우 깨끗하고 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "모든 것을 사랑했습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "세인트 조지로 돌아간다면 다시 머물고 싶습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Pelican Rest Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pelican-rest-tourist-park/hotel/all/saint-george-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 272,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/807/807089/807089_15011610450024640977.jpg?va=1&ca=3&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 272건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 272건 기반.",
+      "reviews": [
+        {
+          "text": "조용하고 깨끗하며 현대적인 캐빈 숙소.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 고객",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "St George Hotel Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/st-george-hotel-motel/hotel/all/saint-george-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 6.7,
+      "reviewCount": 236,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 8만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/513375476.jpg?k=f7aa9adcbde6be0b38b66e9c68f29c2149e29d3dfed37ea9901ced82acb0360d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 236건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>6.7</b> · 실제 투숙객 리뷰 236건 기반.",
+      "reviews": [
+        {
+          "text": "좋은 위치.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": true
+        },
+        {
+          "text": "편안한.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Balonne River Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/balonne-river-motor-inn/hotel/st-george-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.8,
+      "reviewCount": 890,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/145662766.jpg?k=37eb7a03297e94864b6b0110effbcfe890dd8158803818a90f93f07f13520c2f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 890건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 890건 기반.",
+      "reviews": [
+        {
+          "text": "침대는 매우 편안했습니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절했습니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "좋고 깨끗한 방",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "번쩍이는 것은 없지만 깨끗하고 편안합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "강과 가까워서 좋아요.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-20T13:05:13.449Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}

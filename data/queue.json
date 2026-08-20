@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-20T11:42:48.030Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 9,
+  "lastPostedAt": "2026-08-20T13:04:58.774Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 10,
   "postedDate": "2026-08-20",
   "queue": [
-    "australia-saint-marys",
     "australia-saint-marys-rating",
     "australia-saint-marys-station",
-    "australia-saint-marys-reviewed"
+    "australia-saint-marys-reviewed",
+    "australia-saint-george"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 321,
+    "cityIndex": 323,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -556,6 +556,7 @@
     "australia-sebastopol-budget",
     "australia-sebastopol-premium",
     "australia-sebastopol-star4",
-    "australia-sebastopol-reviewed"
+    "australia-sebastopol-reviewed",
+    "australia-saint-marys"
   ]
 }
