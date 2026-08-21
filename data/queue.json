@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-21T07:13:14.214Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 6,
+  "lastPostedAt": "2026-08-21T08:43:10.978Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 7,
   "postedDate": "2026-08-21",
   "queue": [
-    "australia-saint-helen-station",
     "australia-saint-helen-premium",
     "australia-saint-helen-star4",
-    "australia-saint-helen-reviewed"
+    "australia-saint-helen-reviewed",
+    "australia-central-coast"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 324,
+    "cityIndex": 325,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -563,6 +563,7 @@
     "australia-saint-marys-reviewed",
     "australia-saint-george",
     "australia-saint-helen",
-    "australia-saint-helen-rating"
+    "australia-saint-helen-rating",
+    "australia-saint-helen-station"
   ]
 }

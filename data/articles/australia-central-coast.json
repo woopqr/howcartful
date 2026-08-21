@@ -1,0 +1,412 @@
+{
+  "slug": "australia-central-coast",
+  "title": "센트럴 코스트 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 센트럴 코스트 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "central-coast-au",
+  "cityName": "센트럴 코스트",
+  "cityId": 243553,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "센트럴 코스트",
+  "heroImg": "https://pix8.agoda.net/hotelImages/305833/0/08c0bc3829cb3c40e3d416c61e629daa.jpeg?ce=3",
+  "heroAlt": "센트럴 코스트",
+  "heroTitleHtml": "센트럴 코스트 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>호텔 고스포드</b>(평점 8.5·리뷰 1,603건·1박 약 6만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>고스퍼드역 도보 2분</b>의 <b>호텔 고스포드</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/305833/0/08c0bc3829cb3c40e3d416c61e629daa.jpeg?ce=3",
+  "outroTitle": "🌙 센트럴 코스트, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 센트럴 코스트 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 센트럴 코스트 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "호텔 고스포드 (Hotel Gosford)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-gosford/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.5,
+      "reviewCount": 1603,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.5,
+      "img": "//pix8.agoda.net/hotelImages/305833/0/08c0bc3829cb3c40e3d416c61e629daa.jpeg?ce=3",
+      "distanceNote": "약 162.71m · 고스퍼드역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 1,603건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 1,603건 기반.",
+      "reviews": [
+        {
+          "text": "이 호텔이 얼마나 좋은지에 대해 기쁘게 놀랐습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "이 호텔은 우리가 머물렀던 최고의 호텔 중 하나입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "가장 좋았던 점은 방이 깨끗하고 편안했다는 점이었습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "체크인 절차가 간단하고, 방이 깨끗하고, 온수 샤워가 좋습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "비스트로는 매우 다양한 메뉴로 훌륭합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "더 레이크 호텔 (The Lakes Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-lakes-hotel_4/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 103,
+      "score": 8.4,
+      "reviewCount": 313,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.3,
+      "img": "//pix8.agoda.net/hotelImages/5509595/0/0b4ffb39d40b0c74a0bef2c7bb9119be.jpeg?ce=3",
+      "distanceNote": "약 8228.08m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 313건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 313건 기반.",
+      "reviews": [
+        {
+          "text": "아름다운 숙박, 깨끗하고 조용하며 매우 친절하고 도움이 되는 직원.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 뛰어난 가치를 자랑하며 이곳에 다시 묵을 예정입니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "호텔은 매우 깨끗하고 모든 편의시설의 중심에 있습니다 👍.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "나는 그곳의 분위기를 정말 좋아하고 호텔은 너무 깨끗합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "방도 좋고, 위치도 좋고, 가격도 좋고, 깨끗합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "엔트런스 백패커스 (The Entrance Backpackers)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-entrance-backpackers/hotel/all/central-coast-au.html?cid=1925461",
+      "walkMin": 102,
+      "score": 8.3,
+      "reviewCount": 99,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.1,
+      "img": "//pix8.agoda.net/hotelImages/920/920773/920773_15042810320027125650.jpg?ca=4&ce=1",
+      "distanceNote": "약 8187.91m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 99건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 99건 기반.",
+      "reviews": [
+        {
+          "text": "잘 관리되는 호스텔",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Bayview Hotel Woy Woy",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-bayview-hotel/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8,
+      "reviewCount": 127,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 7.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/120767861.jpg?k=a110daa816563ff493ddf9dd7429aeca7b8837792c8ee3d5f7556662bcc1c86e&o=",
+      "distanceNote": "약 183.35m · Woy Woy 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 127건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 127건 기반.",
+      "reviews": [
+        {
+          "text": "Bayview는 수년 동안 제가 가장 좋아하는 호텔이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "소나기는 환상적이었고 뜨겁고 압력도 좋았습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "5년동안 자주 묵었는데 항상 완전 만족합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "나는 수년에 걸쳐 여러 가지 이유로 그곳에 머물고 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "그것이 제가 5년 넘게 The Bayview에 머물렀던 이유입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "이비스 스타일 디 엔트랜스 (ibis Styles The Entrance)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ibis-styles-the-entrance-hotel/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 102,
+      "score": 8.7,
+      "reviewCount": 1766,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/879208726.jpg?k=ad4c342cda3d374c991b552704c2583f8b51b831bd159e7483f9ba671c649398&o=",
+      "distanceNote": "약 8195.84m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 1,766건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,766건 기반.",
+      "reviews": [
+        {
+          "text": "항상 깨끗하고 잘 관리된 곳에서 지내는 것이 좋습니다!",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "Netflix와 YouTube를 이용할 수 있는 대형 더블 침대와 TV가 마련되어 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 객실, 편안한 침대, 탁월한 고객 서비스.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 호텔에서의 짧은 체류를 완전히 즐겼습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 더 나은 호텔을 예약할 수 없었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Venus Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/venus-resort/hotel/long-jetty-au.html?cid=1925461",
+      "walkMin": 102,
+      "score": 8.7,
+      "reviewCount": 751,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/56032952/-1/e4b1856e9b0dfa3d18c88c0472a75676.jpg?ce=0",
+      "distanceNote": "약 8172.65m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 751건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 751건 기반.",
+      "reviews": [
+        {
+          "text": "4성급 호텔 느낌의 객실 내부",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "금성에서는 항상 그 이상으로 나아갑니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안하며 도움이되는 직원.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "청결도가 마음에 들고, 직원들이 친절합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "어떤 요청도 번거롭지 않습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "애쉬우드 모텔 (Ashwood Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ashwood-motel/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 25,
+      "score": 8.6,
+      "reviewCount": 182,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/412/412355/412355_15052807350027878661.jpg?ca=4&ce=1",
+      "distanceNote": "약 2039.42m · 고스퍼드역 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 182건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 182건 기반.",
+      "reviews": [
+        {
+          "text": "24시간 리셉션도 있어서 매우 편리했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안했어요 적극 추천합니다",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 매우 편안하고 잘 관리된 모텔입니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "물은 뜨거웠고 추운 밤에는 에어컨이 완벽하게 작동했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "위치는 훌륭하고 상점과 테이크아웃에 편리합니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-21T08:43:43.766Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
