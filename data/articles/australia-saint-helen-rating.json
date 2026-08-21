@@ -1,0 +1,331 @@
+{
+  "slug": "australia-saint-helen-rating",
+  "angle": "rating",
+  "angleAdj": "평점 높은",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "세인트 헬렌",
+  "cityId": 17920,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "세인트 헬렌",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/288998669.jpg?k=f53387a22849a7a14c13bbf5c243e922fd3dec2d0de82cd10a4fb18d67aa4f93&o=",
+  "heroAlt": "세인트 헬렌",
+  "heroSub": "실제 아고다 리뷰로 세인트 헬렌의 평점 높은 숙소를 추렸습니다",
+  "verdictHtml": "평점 높은 기준 1순위는 <b>BINALONG BRAE @ Bay of Fires Two bedroom both with ensuites</b>입니다 (평점 9.8·리뷰 109건·1박 약 33만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/288998669.jpg?k=f53387a22849a7a14c13bbf5c243e922fd3dec2d0de82cd10a4fb18d67aa4f93&o=",
+  "outroTitle": "🌙 세인트 헬렌, 평점 높은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 세인트 헬렌 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "BINALONG BRAE @ Bay of Fires Two bedroom both with ensuites",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/binalong-brae-bay-of-fires-two-bedroom-both-with-ensuites/hotel/all/binalong-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.8,
+      "reviewCount": 109,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 33만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/288998669.jpg?k=f53387a22849a7a14c13bbf5c243e922fd3dec2d0de82cd10a4fb18d67aa4f93&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 33만원",
+        "📝 리뷰 109건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 109건 기반.",
+      "reviews": [
+        {
+          "text": "The rooms are clean and quite big for 2 persons.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "We’ve got the whole house with two bedrooms.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Beds are really nice with heater.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Lawsons Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pelican-point-tasmania_2/hotel/all/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.8,
+      "reviewCount": 246,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/901456052.jpg?k=bcdd51b80b6359fa3981a6a4b1695b0e56834ca55f7f61a72f641fa92289f938&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 246건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 246건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "George River Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/george-river-park/hotel/all/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 35,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/215172407.jpg?k=fde7a9409b25722ebf0e308a4711e30c3df0f97a314e9dd2785b6531f5a90a8f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 35건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 35건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "THE LOFT @ Bay of Fires Seascape",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-loft-bay-of-fires-seascape/hotel/all/binalong-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 123,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 31만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/215572551.jpg?k=da1e68a6897567d6f73ad6dde9622499f0757d664f19b6ea8e6448c4d5199ce3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 123건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 123건 기반.",
+      "reviews": [
+        {
+          "text": "The house is just perfect",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Relaxing stayed over for 2 nights",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Glamping 148 Tasmania",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/glamping-148-tasmania/hotel/all/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 198,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 29만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/448318792.jpg?k=2d59f9d1977513953f2e39f4fb1687e101c94b0125fc13c2f9faefe631295fea&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 29만원",
+        "📝 리뷰 198건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 198건 기반.",
+      "reviews": [
+        {
+          "text": "Everything about it was absolutely fantastic.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Really beautiful glamping and cozy.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Excellent location close to town as well",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "We cannot wait to go back.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Fantastic getaway",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "펠리칸 포인트 생추어리 (Pelican Point Sanctuary)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pelican-point-sanctuary_2/hotel/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 54,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/120/1203519/1203519_16072308010044878487.jpg?va=1&ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 54건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 54건 기반.",
+      "reviews": [
+        {
+          "text": "I had an amazing stay at Pelican Point Sanctuary!",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Perfect for solo/family",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Beautiful spot and lovely spacious accommodation.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "The villa is spacious and comfy with full kitchen!",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "Lovely and unique location.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Anchor Wheel Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/anchor-wheel-motel/hotel/all/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 981,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/312494584.jpg?k=83068807d2694de54040c65cfa69fca1bfe395763a8733fa391b7a8a9872e643&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 981건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 981건 기반.",
+      "reviews": [
+        {
+          "text": "We will definitely recommend Anchor Wheel Motel to everyone!",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Very very nice hotel and good facilities and very clean",
+          "score": "10",
+          "country": "中国",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The motel is clean could be benchmark to 5 star hotels.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Room: upgraded to two room suites, spacious and cozy.",
+          "score": "10",
+          "country": "中国",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "The rooms are clean, very spacious and beds are cosy.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "rating",
+    "base": "australia-saint-helen",
+    "count": 7,
+    "builtAt": "2026-08-21T02:06:33.999Z"
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "slug": "australia-saint-helen-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "세인트 헬렌",
+  "cityId": 17920,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "세인트 헬렌",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/288998669.jpg?k=f53387a22849a7a14c13bbf5c243e922fd3dec2d0de82cd10a4fb18d67aa4f93&o=",
+  "heroAlt": "세인트 헬렌",
+  "heroSub": "실제 아고다 리뷰로 세인트 헬렌의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>BINALONG BRAE @ Bay of Fires Two bedroom both with ensuites</b>입니다 (평점 9.8·리뷰 109건·1박 약 33만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/288998669.jpg?k=f53387a22849a7a14c13bbf5c243e922fd3dec2d0de82cd10a4fb18d67aa4f93&o=",
+  "outroTitle": "🌙 세인트 헬렌, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 세인트 헬렌 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "BINALONG BRAE @ Bay of Fires Two bedroom both with ensuites",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/binalong-brae-bay-of-fires-two-bedroom-both-with-ensuites/hotel/all/binalong-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.8,
+      "reviewCount": 109,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 33만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/288998669.jpg?k=f53387a22849a7a14c13bbf5c243e922fd3dec2d0de82cd10a4fb18d67aa4f93&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 33만원",
+        "📝 리뷰 109건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 109건 기반.",
+      "reviews": [
+        {
+          "text": "The rooms are clean and quite big for 2 persons.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "We’ve got the whole house with two bedrooms.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Beds are really nice with heater.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "THE LOFT @ Bay of Fires Seascape",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-loft-bay-of-fires-seascape/hotel/all/binalong-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 123,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 31만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/215572551.jpg?k=da1e68a6897567d6f73ad6dde9622499f0757d664f19b6ea8e6448c4d5199ce3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 123건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 123건 기반.",
+      "reviews": [
+        {
+          "text": "The house is just perfect",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Relaxing stayed over for 2 nights",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Glamping 148 Tasmania",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/glamping-148-tasmania/hotel/all/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 198,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 29만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/448318792.jpg?k=2d59f9d1977513953f2e39f4fb1687e101c94b0125fc13c2f9faefe631295fea&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 29만원",
+        "📝 리뷰 198건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 198건 기반.",
+      "reviews": [
+        {
+          "text": "Everything about it was absolutely fantastic.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Really beautiful glamping and cozy.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Excellent location close to town as well",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "We cannot wait to go back.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Fantastic getaway",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "House with bay views - St Helens family escape",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/house-with-bay-views-st-helens-pet-friendly/hotel/all/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 61,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 52만원",
+      "valueIndex": 5.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/908632098.jpg?k=130f8fc52a70939a402fcadd766037bfb158a3492da24610fca8fb5ae0733a5d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 52만원",
+        "📝 리뷰 61건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 61건 기반.",
+      "reviews": [
+        {
+          "text": "Most well supplied Air BnB we've ever stayed in, seriously!!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Beds were comfy, we couldn't fault this wonderful home!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Laundry & bathrooms same, sensational!!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Thank you owners for thinking of everything!!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Exceptional Home away from Home!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Bay of Fires Bush Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bay-of-fires-bush-retreat/hotel/all/binalong-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 467,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/537707171.jpg?k=12ce351fb45ca788be661721ee13089db9b5bf78c3c212b8ae5997a9cf81be17&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 467건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 467건 기반.",
+      "reviews": [
+        {
+          "text": "This retreat was a highlight in my Tasmania trip.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Very unique, comfortable, great location.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "We had a great stay!",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Loved my stay here.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "An experience like no others!",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "KINGFISHER COTTAGE Beachfront at the Binalong Bay",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kingfisher-cottage-beachfront-at-the-binalong-bay/hotel/all/binalong-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 105,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 37만원",
+      "valueIndex": 5.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/187903747.jpg?k=b94064c631d574aca7be01e104081d40eeaa8c339c845add44726a9f88c9c468&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 37만원",
+        "📝 리뷰 105건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 105건 기반.",
+      "reviews": [
+        {
+          "text": "Everything about this stay was exceptional.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "I would stay here again in a heart beat",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Everything you could’ve hoped and more",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Beautiful Views",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Bella Cottage - Bay of Fires Beach House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bella-costa-bay-of-fires-beach-house/hotel/all/binalong-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 73,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 43만원",
+      "valueIndex": 4.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/872616320.jpg?k=84991cb06948761dc71fb0c764c01e3fbd7b21495d725253709b11fdb6eb2e31&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 43만원",
+        "📝 리뷰 73건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 73건 기반.",
+      "reviews": [
+        {
+          "text": "Definitely gonna go back here and stay for couple of nights.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Great place to stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Very clean and cozy.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-saint-helen",
+    "count": 7,
+    "builtAt": "2026-08-21T02:06:33.999Z"
+  }
+}

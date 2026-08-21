@@ -1,0 +1,368 @@
+{
+  "slug": "australia-saint-helen-star4",
+  "angle": "star4",
+  "angleAdj": "4성급",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "세인트 헬렌",
+  "cityId": 17920,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "세인트 헬렌",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/447225812.jpg?k=4cca064712e8f16819df8cf7fb54cae7bcd5e6013e346dafefb1e75bc2fc96f5&o=",
+  "heroAlt": "세인트 헬렌",
+  "heroSub": "실제 아고다 리뷰로 세인트 헬렌의 4성급 숙소를 추렸습니다",
+  "verdictHtml": "4성급 기준 1순위는 <b>Tasman Holiday Parks - St Helens</b>입니다 (평점 9.1·리뷰 1,997건·1박 약 12만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/447225812.jpg?k=4cca064712e8f16819df8cf7fb54cae7bcd5e6013e346dafefb1e75bc2fc96f5&o=",
+  "outroTitle": "🌙 세인트 헬렌, 4성급으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 세인트 헬렌 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Tasman Holiday Parks - St Helens",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nrma-st-helens-waterfront-holiday-park/hotel/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 1997,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/447225812.jpg?k=4cca064712e8f16819df8cf7fb54cae7bcd5e6013e346dafefb1e75bc2fc96f5&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,997건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 1,997건 기반.",
+      "reviews": [
+        {
+          "text": "The cabin is nicely renovated, things are clean and tidy.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Beautiful accommodation and great facilities",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Staff are friendly and the park is nice and clean.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The interior and furniture are modern, love it.",
+          "score": "8.8",
+          "country": "Indonesia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Beautiful and modern place with everything you need.!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Lawsons Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pelican-point-tasmania_2/hotel/all/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.8,
+      "reviewCount": 246,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/901456052.jpg?k=bcdd51b80b6359fa3981a6a4b1695b0e56834ca55f7f61a72f641fa92289f938&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 246건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 246건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Queechy Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/queechy-motel/hotel/all/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 1194,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/132577664.jpg?k=80e22a7ea455008357e95b3bc65f830c0b3c6f62d5eeced7592f9b06143db193&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 1,194건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 1,194건 기반.",
+      "reviews": [
+        {
+          "text": "A clean comfortable self contained room in a great location",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "So good to be staying in a motel that is clean and roomy !",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "The accommodation has everything you need plus more!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Lovely apartment absolutely spotlessly clean.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Spotless with the nicest welcome you can imagine.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "홈리 어코모데이션 (Homelea Accommodation)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/homelea-accommodation/hotel/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 2917,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/317920/-1/2752abcd78feb631c7584fb1f1402e78.jpg?va=1&ca=7&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 2,917건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 2,917건 기반.",
+      "reviews": [
+        {
+          "text": "The room is clean, comfortable, with everything we need.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Self checkin, clean, warm and cozy.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Apartment is new and located right opposite the wharf.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Clean and nice cozy place to stay",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Nice clean cozy place.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "파노라마 세인트 헬렌스 (Panorama St Helens)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tidal-waters-resort/hotel/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 2688,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/88884/0/4d51937c8d8be6fbfedbd2ed430341a3.jpeg?va=1&ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 2,688건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 2,688건 기반.",
+      "reviews": [
+        {
+          "text": "Overall it was the location that made it worth the money.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Clean and comfy rooms, great food and easy checkin",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Rooms were clean and spacious and had everything we needed.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Beautiful big room with an incredible view over the water.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "The hotel offers all amenities including bar and bistro.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "George River Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/george-river-park/hotel/all/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 35,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/215172407.jpg?k=fde7a9409b25722ebf0e308a4711e30c3df0f97a314e9dd2785b6531f5a90a8f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 35건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 35건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "BIG4 Tassie Getaway Parks St Helens",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-st-helens-holiday-park_3/hotel/all/st-helens-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 545,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/521269316.jpg?k=b110e9223d28de6c2b8add61cc818a6976f53f77daef39179036ef387a33cd70&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 545건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 545건 기반.",
+      "reviews": [
+        {
+          "text": "From all of us thank you for a great stay,we will be back",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Excellent location, staff and facilities .",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Congrats to park owners on there great hospitality!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Quiet and clean that was important to us.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Good place with good staff",
+          "score": "9.6",
+          "country": "台灣",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "star4",
+    "base": "australia-saint-helen",
+    "count": 7,
+    "builtAt": "2026-08-21T02:06:33.999Z"
+  }
+}
