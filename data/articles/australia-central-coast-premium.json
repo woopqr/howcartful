@@ -1,0 +1,340 @@
+{
+  "slug": "australia-central-coast-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "central-coast-au",
+  "cityName": "센트럴 코스트",
+  "cityId": 243553,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "센트럴 코스트",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/670375540.jpg?k=f727a09ddd67a1c5c2aee9a8f22c5964a73cadd88e5b02841f96d67cb1e91da6&o=",
+  "heroAlt": "센트럴 코스트",
+  "heroSub": "실제 아고다 리뷰로 센트럴 코스트의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>Kims Beachside Retreat</b>입니다 (평점 9.6·리뷰 69건·1박 약 68만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/670375540.jpg?k=f727a09ddd67a1c5c2aee9a8f22c5964a73cadd88e5b02841f96d67cb1e91da6&o=",
+  "outroTitle": "🌙 센트럴 코스트, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 센트럴 코스트 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Kims Beachside Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kims-beachside-retreat_2/hotel/all/central-coast-au.html?cid=1925461",
+      "walkMin": 117,
+      "score": 9.6,
+      "reviewCount": 69,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 68만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/670375540.jpg?k=f727a09ddd67a1c5c2aee9a8f22c5964a73cadd88e5b02841f96d67cb1e91da6&o=",
+      "distanceNote": "약 9393.08m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 68만원",
+        "📝 리뷰 69건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 69건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "voco Gosford By IHG",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/voco-gosford/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 9.1,
+      "reviewCount": 62,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/65862254/0/078df43db438a612f5cff6527b0f6b27.jpeg?ce=3",
+      "distanceNote": "약 360.51m · 고스퍼드역 인근",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 62건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 62건 기반.",
+      "reviews": [
+        {
+          "text": "Room was a great size with all new fixtures and fittings.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Beautiful hotel, great staff and fabulous facilities",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Absolutely insane food and views at Astra on rooftop.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Very neat, clean and excellent location.",
+          "score": "10",
+          "country": "Fiji",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "This was the perfect place to stay for a family gathering.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Long Jetty Lake House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/long-jetty-lake-house_3/hotel/all/central-coast-au.html?cid=1925461",
+      "walkMin": 101,
+      "score": 8.9,
+      "reviewCount": 83,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 56만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/440957419.jpg?k=90f6594ce77a2498213a5aeb5e0414d9a64f5458ab22178647cb1bc502ea9804&o=",
+      "distanceNote": "약 8108.22m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 56만원",
+        "📝 리뷰 83건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 83건 기반.",
+      "reviews": [
+        {
+          "text": "Enjoyed a weekend at this super house at Long Jetty",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Awesome weekend break at Long Jetty",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Loved Loved Loved",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Large space",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "크라운 플라자 테리갈 바이 IHG (Crowne Plaza Terrigal By IHG)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/crowne-plaza-terrigal/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 125,
+      "score": 8.8,
+      "reviewCount": 2894,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5.7,
+      "img": "//pix8.agoda.net/hotelImages/4863693/0/c885516a254f3d31a8036417b6e1a84c.jpg?ce=0",
+      "distanceNote": "약 9985.36m · 고스퍼드역 인근",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 2,894건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 2,894건 기반.",
+      "reviews": [
+        {
+          "text": "Ocean View, Big Clean Room, Comfy Bed, 5 Star Facilities.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Right across the road from beach with plenty of restaurants.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The Meribella restaurant was excellent with great service.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "I loved our room and my son loved the swimming pool and spa.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Location is great, other shops and cafes are close by.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "만트라 에탈롱 비치 (Mantra Ettalong Beach)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mantra-ettalong-beach-hotel/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 43,
+      "score": 8.4,
+      "reviewCount": 3204,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.4,
+      "img": "//pix8.agoda.net/hotelImages/161906/-1/e6ae7e88a6b0bd96fbb7e3d8c45c3d6b.jpg?ce=0",
+      "distanceNote": "약 3430.3m · Woy Woy 인근",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 3,204건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 3,204건 기반.",
+      "reviews": [
+        {
+          "text": "This is a nice and relaxing hotel, right opposite the beach.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Always clean and has everything we need for a short stay",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "We have been back twice as this place is just amazing.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "We have a lovely stay and would come back here again.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "The view was exceptional... will definitely come back again",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "풀먼 마젠타 쇼어 리조트 (Pullman Magenta Shores Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pullman-magenta-shores-resort/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 119,
+      "score": 8.3,
+      "reviewCount": 319,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/439297817.jpg?k=802f7bd3fbb175c7c33172fbb95207e8b85061ba6fbdde57c3d568537f493cfc&o=",
+      "distanceNote": "약 9527.76m · Wyong 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 319건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 319건 기반.",
+      "reviews": [
+        {
+          "text": "We dined in the restaurant which served great food",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "My stay at Pullman Magenta Shores was very enjoyable!",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Exceptional rooms and facilities for group meetings.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Love to come back again but stay 3 nights instead of 2.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Great location and with great facilities.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-central-coast",
+    "count": 6,
+    "builtAt": "2026-08-21T09:19:29.195Z"
+  }
+}

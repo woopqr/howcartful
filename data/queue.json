@@ -8,7 +8,13 @@
     "australia-saint-helen-premium",
     "australia-saint-helen-star4",
     "australia-saint-helen-reviewed",
-    "australia-central-coast"
+    "australia-central-coast",
+    "australia-central-coast-rating",
+    "australia-central-coast-station",
+    "australia-central-coast-budget",
+    "australia-central-coast-premium",
+    "australia-central-coast-star4",
+    "australia-central-coast-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,

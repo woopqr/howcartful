@@ -1,0 +1,405 @@
+{
+  "slug": "australia-central-coast-rating",
+  "angle": "rating",
+  "angleAdj": "평점 높은",
+  "lang": "ko-kr",
+  "citySlug": "central-coast-au",
+  "cityName": "센트럴 코스트",
+  "cityId": 243553,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "센트럴 코스트",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/670375540.jpg?k=f727a09ddd67a1c5c2aee9a8f22c5964a73cadd88e5b02841f96d67cb1e91da6&o=",
+  "heroAlt": "센트럴 코스트",
+  "heroSub": "실제 아고다 리뷰로 센트럴 코스트의 평점 높은 숙소를 추렸습니다",
+  "verdictHtml": "평점 높은 기준 1순위는 <b>Kims Beachside Retreat</b>입니다 (평점 9.6·리뷰 69건·1박 약 68만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/670375540.jpg?k=f727a09ddd67a1c5c2aee9a8f22c5964a73cadd88e5b02841f96d67cb1e91da6&o=",
+  "outroTitle": "🌙 센트럴 코스트, 평점 높은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 센트럴 코스트 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Kims Beachside Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kims-beachside-retreat_2/hotel/all/central-coast-au.html?cid=1925461",
+      "walkMin": 117,
+      "score": 9.6,
+      "reviewCount": 69,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 68만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/670375540.jpg?k=f727a09ddd67a1c5c2aee9a8f22c5964a73cadd88e5b02841f96d67cb1e91da6&o=",
+      "distanceNote": "약 9393.08m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 68만원",
+        "📝 리뷰 69건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 69건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Encore by Mingara",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/encore-by-mingara/hotel/berkeley-vale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 1238,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/696432754.jpg?k=95741050d7724a92914b38bb2272bcc076475e7ff2c838df133d5d84cf1b1743&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 1,238건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 1,238건 기반.",
+      "reviews": [
+        {
+          "text": "We love the accomodation, everything is new and beautiful.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Encore by Mingara was a great place to stay.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Indoor pools and fitness centre included in your stay!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Great rooms, comfortable beds, extensive amenities.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Beautiful staff and the whole resort was beautiful",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "voco Gosford By IHG",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/voco-gosford/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 9.1,
+      "reviewCount": 62,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/65862254/0/078df43db438a612f5cff6527b0f6b27.jpeg?ce=3",
+      "distanceNote": "약 360.51m · 고스퍼드역 인근",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 62건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 62건 기반.",
+      "reviews": [
+        {
+          "text": "Room was a great size with all new fixtures and fittings.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Beautiful hotel, great staff and fabulous facilities",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Absolutely insane food and views at Astra on rooftop.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Very neat, clean and excellent location.",
+          "score": "10",
+          "country": "Fiji",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "This was the perfect place to stay for a family gathering.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Ocean Front Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ocean-front-motel_2/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 114,
+      "score": 9,
+      "reviewCount": 2182,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/330341164.jpg?k=3ce8d9c404dd54ecfb0e53826a30954b0a64c7b5a64e79bf95ca905364d8d151&o=",
+      "distanceNote": "약 9081.84m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 2,182건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,182건 기반.",
+      "reviews": [
+        {
+          "text": "Reception was wonderful, spa room was great.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Gorgeous location with nice clean rooms - highly recommend",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Clean and close to everywhere! The view is amazing!!",
+          "score": "10",
+          "country": "澳洲",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Impressive Ocean view with modern room design.",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Absolutely amazing view and room we will be back",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "티아리 테리갈 (Tiarri Terrigal)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tiarri-terrigal/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.9,
+      "reviewCount": 168,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/290950/0/c88e2ab6c6086dde6003bc0fe6999736.jpeg",
+      "distanceNote": "약 407.49m · 테리걸 해변 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 168건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 168건 기반.",
+      "reviews": [
+        {
+          "text": "Lovely facility, clean and cosy with wonderful staff",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Room was comfortable, well maintained & very clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "It was a big comfortable room and was very clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Very comfortable and Exelente location I would recommend",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "We have stayed here a few times and loved it.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "The Galaxy Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/galaxy-motel_2/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 24,
+      "score": 8.9,
+      "reviewCount": 1051,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/80037666.jpg?k=230d69972b9bd5f420c4c6e0980e0cba85090ed016c97455d9fd7d15b315a857&o=",
+      "distanceNote": "약 1887.97m · 고스퍼드역 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 1,051건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,051건 기반.",
+      "reviews": [
+        {
+          "text": "The staff I found to be very helpful and friendly.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Staff Corine very helpful to get me accommodated earlier",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "When you first walk into the hotel, it always smells nice.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "The hotel is very modern and clean and tidy",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Staff were both super friendly and helpful.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "치타웨이 모텔 (Chittaway Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/chittaway-motel_3/hotel/central-coast-au.html?cid=1925461",
+      "walkMin": 28,
+      "score": 8.9,
+      "reviewCount": 1534,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/582/5828656/5828656_18092708520068180142.jpg?ca=7&ce=1",
+      "distanceNote": "약 2255.3m · 투게라역 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 1,534건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,534건 기반.",
+      "reviews": [
+        {
+          "text": "It was super clean and comfortable and in a great location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Friendly staff, Clean, tidy and well maintain room.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "This is our go to motel on our travels.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "The room is very spacious.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Great location, comfortable stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "rating",
+    "base": "australia-central-coast",
+    "count": 7,
+    "builtAt": "2026-08-21T09:19:29.195Z"
+  }
+}
