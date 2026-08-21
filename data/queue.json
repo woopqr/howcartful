@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-21T09:55:09.263Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 8,
+  "lastPostedAt": "2026-08-21T11:19:58.702Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 9,
   "postedDate": "2026-08-21",
   "queue": [
-    "australia-saint-helen-star4",
     "australia-saint-helen-reviewed",
     "australia-central-coast",
     "australia-central-coast-rating",
@@ -570,6 +569,7 @@
     "australia-saint-helen",
     "australia-saint-helen-rating",
     "australia-saint-helen-station",
-    "australia-saint-helen-premium"
+    "australia-saint-helen-premium",
+    "australia-saint-helen-star4"
   ]
 }
