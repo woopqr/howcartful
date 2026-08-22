@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-22T08:47:39.071Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 7,
+  "lastPostedAt": "2026-08-22T09:59:42.778Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 8,
   "postedDate": "2026-08-22",
   "queue": [
-    "australia-celicks-hill",
     "australia-sherbrook",
     "australia-sherbrook-rating",
     "australia-sherbrook-station",
@@ -577,6 +576,7 @@
     "australia-central-coast-budget",
     "australia-central-coast-premium",
     "australia-central-coast-star4",
-    "australia-central-coast-reviewed"
+    "australia-central-coast-reviewed",
+    "australia-celicks-hill"
   ]
 }
