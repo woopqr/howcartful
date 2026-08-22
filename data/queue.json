@@ -8,7 +8,12 @@
     "australia-central-coast-star4",
     "australia-central-coast-reviewed",
     "australia-celicks-hill",
-    "australia-sherbrook"
+    "australia-sherbrook",
+    "australia-sherbrook-rating",
+    "australia-sherbrook-station",
+    "australia-sherbrook-premium",
+    "australia-sherbrook-star4",
+    "australia-sherbrook-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,

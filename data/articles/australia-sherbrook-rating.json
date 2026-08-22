@@ -1,0 +1,305 @@
+{
+  "slug": "australia-sherbrook-rating",
+  "angle": "rating",
+  "angleAdj": "평점 높은",
+  "lang": "ko-kr",
+  "citySlug": "yarra-valley-au",
+  "cityName": "셔브루크",
+  "cityId": 711074,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "셔브루크",
+  "heroImg": "https://pix8.agoda.net/hotelImages/55534036/0/ef80fa7cfa3e8ffd8fe3891292af3b10.jpg?ce=0",
+  "heroAlt": "셔브루크",
+  "heroSub": "실제 아고다 리뷰로 셔브루크의 평점 높은 숙소를 추렸습니다",
+  "verdictHtml": "평점 높은 기준 1순위는 <b>업웨이의 방갈로</b>입니다 (평점 10·리뷰 42건·1박 약 28만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/55534036/0/ef80fa7cfa3e8ffd8fe3891292af3b10.jpg?ce=0",
+  "outroTitle": "🌙 셔브루크, 평점 높은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 셔브루크 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "업웨이의 방갈로 (30m², 침실 1개, 프라이빗 욕실 1개) (Little Violet - Just For Two)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/little-violet/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 10,
+      "reviewCount": 42,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 28만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/55534036/0/ef80fa7cfa3e8ffd8fe3891292af3b10.jpg?ce=0",
+      "distanceNote": "약 399.72m · Tecoma 인근",
+      "metaTags": [
+        "💰 약 28만원",
+        "📝 리뷰 42건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>10</b> · 실제 투숙객 리뷰 42건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "마운트 단데농 레인지스의 프라이빗 하우스 (3997m², 침실 3개, 프라이빗 욕실 2개) (Topview Villa in Dandenong Ranges)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/topview-villa-in-kalorama-h36931354/hotel/mount-dandenong-ranges-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 228,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 49만원",
+      "valueIndex": 5.5,
+      "img": "//pix8.agoda.net/hotelImages/36931354/0/5dfd9469ea0e5f63d4f6abe034c8a2f4.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 49만원",
+        "📝 리뷰 228건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 228건 기반.",
+      "reviews": [
+        {
+          "text": "Clean, spacious, well-equipped with stunning views.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Wonderful villa up in the woods",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Great place",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Emerald Creek Cottages",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/emerald-creek-cottages/hotel/all/melbourne-au.html?cid=1925461",
+      "walkMin": 46,
+      "score": 9.6,
+      "reviewCount": 243,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/255209047.jpg?k=0b70ceed1cf4cfffac256f53c77e22042e5f227ad5cddc2db72289feffb983f1&o=",
+      "distanceNote": "약 3700.32m · Lakeside Railway station 인근",
+      "metaTags": [
+        "📝 리뷰 243건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 243건 기반.",
+      "reviews": [
+        {
+          "text": "Added extras just added to an already amazing stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "The cottage was honestly amazing, communication was great.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Lovely spacious cottage in beautiful peaceful surroundings.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Ultra clean, comfortable beds with crisp linen.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Beautiful cottage nestled on the forest edge",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Lakeview On Sycamore",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lakeview-on-sycamore/hotel/all/melbourne-au.html?cid=1925461",
+      "walkMin": 22,
+      "score": 9.6,
+      "reviewCount": 163,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 39만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/168924784.jpg?k=c7812be43fb1b47c945d0127c426db73199d5bc2f23696e5b3c23e6bd56bd34a&o=",
+      "distanceNote": "약 1774.92m · Lakeside Railway station 인근",
+      "metaTags": [
+        "💰 약 39만원",
+        "📝 리뷰 163건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 163건 기반.",
+      "reviews": [
+        {
+          "text": "Place is clean, cosy and comfortable.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Excellent location and service",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "We found the property to be so peaceful.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "A great place to recharge and enjoy nature.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Lyn and hubby were nice and accommodative.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "퍼니 크릭의 방갈로 (22m², 침실 1개, 프라이빗 욕실 1개) (Juniper & Rye - Romantic Cottage Sherbrooke Forest)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/juniper-rye-cottage-for-two/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 89,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 38만원",
+      "valueIndex": 5.2,
+      "img": "//pix8.agoda.net/hotelImages/55533979/0/579534c626cbe766ad784609fab8b3b3.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 38만원",
+        "📝 리뷰 89건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 89건 기반.",
+      "reviews": [
+        {
+          "text": "Highly recommended",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Nice cozy cottage for couples retreat",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Paradise in the hills.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "메로우 코티지 (Merrow Cottages)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/merrow-cottages/hotel/mount-dandenong-ranges-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 46,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 41만원",
+      "valueIndex": 5,
+      "img": "//pix8.agoda.net/hotelImages/336/336516/336516_17081610140055415809.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 41만원",
+        "📝 리뷰 46건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 46건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "8 Heather",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/8-heather/hotel/all/sherbrooke-au.html?cid=1925461",
+      "walkMin": 33,
+      "score": 9.4,
+      "reviewCount": 65,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/505164641.jpg?k=c381488303e20a754491e18b9072e00ef687fe05dbb29a5398d7f366e542dbd4&o=",
+      "distanceNote": "약 2623.82m · Selby Station 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 65건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 65건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "rating",
+    "base": "australia-sherbrook",
+    "count": 7,
+    "builtAt": "2026-08-22T06:49:30.911Z"
+  }
+}
