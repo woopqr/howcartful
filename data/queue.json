@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-23T05:28:12.135Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 4,
+  "lastPostedAt": "2026-08-23T06:32:47.858Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 5,
   "postedDate": "2026-08-23",
   "queue": [
-    "australia-shepparton",
     "australia-shepparton-rating",
     "australia-shepparton-station",
     "australia-shepparton-budget",
@@ -584,6 +583,7 @@
     "australia-sherbrook-station",
     "australia-sherbrook-premium",
     "australia-sherbrook-star4",
-    "australia-sherbrook-reviewed"
+    "australia-sherbrook-reviewed",
+    "australia-shepparton"
   ]
 }
