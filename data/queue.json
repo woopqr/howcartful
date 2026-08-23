@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-23T09:13:05.575Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 7,
+  "lastPostedAt": "2026-08-23T10:32:35.103Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 8,
   "postedDate": "2026-08-23",
   "queue": [
-    "australia-shepparton-budget",
     "australia-shepparton-premium",
     "australia-shepparton-star4",
-    "australia-shepparton-reviewed"
+    "australia-shepparton-reviewed",
+    "australia-sheffield"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 328,
+    "cityIndex": 329,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -584,6 +584,7 @@
     "australia-sherbrook-reviewed",
     "australia-shepparton",
     "australia-shepparton-rating",
-    "australia-shepparton-station"
+    "australia-shepparton-station",
+    "australia-shepparton-budget"
   ]
 }
