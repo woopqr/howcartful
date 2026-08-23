@@ -1,0 +1,437 @@
+{
+  "slug": "australia-shepparton",
+  "title": "셰퍼턴 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 셰퍼턴 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "셰퍼턴",
+  "cityId": 12479,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "셰퍼턴",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/300049688.jpg?k=2360e73eb6707c083a674f0f94e6647999dd582e6c44d29df4ab74c7e42ebcfe&o=",
+  "heroAlt": "셰퍼턴",
+  "heroTitleHtml": "셰퍼턴 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Southgate</b>(평점 8.8·리뷰 874건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Southgate</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/300049688.jpg?k=2360e73eb6707c083a674f0f94e6647999dd582e6c44d29df4ab74c7e42ebcfe&o=",
+  "outroTitle": "🌙 셰퍼턴, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 셰퍼턴 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 셰퍼턴 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Southgate",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/southgate/hotel/all/shepparton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 874,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/300049688.jpg?k=2360e73eb6707c083a674f0f94e6647999dd582e6c44d29df4ab74c7e42ebcfe&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 874건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 874건 기반.",
+      "reviews": [
+        {
+          "text": "The staff friendly and the room is clean and comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "My wife and I were surprised how amazing the room was!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Southgate at Shepparton is a nice quiet place to stay.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "A great place to stay for an over-night work trip.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Great place to stay very clean",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "윈드하미어 모텔 쉐퍼턴 (Wyndhamere Motel Shepperton)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wyndhamere-motel-shepperton/hotel/shepparton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 254,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/807216784.jpg?k=3b547dcd022af4845d5b0fc0d4adb90d21f77db0fd4acfb3786760cc271daa87&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 254건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 254건 기반.",
+      "reviews": [
+        {
+          "text": "I love that the water and mini chocolates are complimentary!",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "I'll definitely return to stay here in 2025 if required.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "And the staff have always been a pleasure to deal with.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "We were upgraded to a one bedroom unit nearby the motel.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Clean rooms, comfy beds, and super convenient location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Big Valley Lakeside Paradise Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big-valley-lakeside-paradise-motor-inn/hotel/all/shepparton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 119,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/286781/0/95bb67ac7f0cea7101172c5676bea3cd.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 119건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 119건 기반.",
+      "reviews": [
+        {
+          "text": "Staff was welcoming, polite and accommodating.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Bed was comfy, room was large and place was quiet.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Location is perfect with easy access to nearby attractions",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Perfect location with easy access to nearby attractions",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "The staff is fantastic and I can check in late.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "컨트리 홈 모터 인 (Country Home Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/country-home-motor-inn/hotel/shepparton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 102,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/203/203919/203919_15062414130030634733.jpg?ca=4&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 102건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 102건 기반.",
+      "reviews": [
+        {
+          "text": "Clean, comfy beds, lovely hot water and very quiet.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "For an overnight stay, the room suited my needs.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Vintage motel at good value and welcoming reception person",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The staff are amazing going above an beyond very friendly",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The motel is perfect and close to where we are working.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Rodney Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rodney-motor-inn-h24438613/hotel/shepparton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 35,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/property/69679350/0/314b2f9dbab1c88db904556451195271.jpeg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 35건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 35건 기반.",
+      "reviews": [
+        {
+          "text": "I had a room on the second floor, very clean and tidy.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Great location in the heart of Mooroopna",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The rooms are well fitted out with a comfortable beds.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Would definitely stay again.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Lovely host, rooms were spotlessly clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "쉡파톤 벨타워 (Shepparton Belltower)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/shepparton-belltower/hotel/shepparton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 343,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/286791/0/99aa93864b4786f52bbdc6d35a9b3001.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 343건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 343건 기반.",
+      "reviews": [
+        {
+          "text": "Was great service and a very adequate room for the price.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Beds comfortable and good facility and good Size room",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Everything we required and comfy bed. Definitely recommend.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "We would be very happy to stay at this motel again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The room was spacious, very clean and comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "애디슨 모터 인 (Addison Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/addison-motor-inn/hotel/shepparton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 778,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/434067/-1/368266900d1bb4ce7ccdab5d210337fc.jpg?ca=21&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 778건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 778건 기반.",
+      "reviews": [
+        {
+          "text": "Has a full sized microwave and larger than normal fridge.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Modern and well finished, and the bed was super comfortable.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Great staff, easy check in - highly recommended",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "This is one of the cleaniest hotel we have stayed.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Overall, it’s value for money and would book again soon.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-23T01:47:46.572Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

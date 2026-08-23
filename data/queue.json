@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-22T12:12:33.635Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 10,
-  "postedDate": "2026-08-22",
+  "lastPostedAt": "2026-08-23T01:47:28.759Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-08-23",
   "queue": [
-    "australia-sherbrook-station",
     "australia-sherbrook-premium",
     "australia-sherbrook-star4",
-    "australia-sherbrook-reviewed"
+    "australia-sherbrook-reviewed",
+    "australia-shepparton"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 327,
+    "cityIndex": 328,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -577,6 +577,7 @@
     "australia-central-coast-reviewed",
     "australia-celicks-hill",
     "australia-sherbrook",
-    "australia-sherbrook-rating"
+    "australia-sherbrook-rating",
+    "australia-sherbrook-station"
   ]
 }
