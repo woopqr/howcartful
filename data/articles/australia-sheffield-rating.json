@@ -1,0 +1,376 @@
+{
+  "slug": "australia-sheffield-rating",
+  "angle": "rating",
+  "angleAdj": "평점 높은",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "셰필드",
+  "cityId": 292818,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "셰필드",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/601892569.jpg?k=d0ce274c8f02850235bc89e90bcc125ae9b25030468ed4caea99fb56bbb51c69&o=",
+  "heroAlt": "셰필드",
+  "heroSub": "실제 아고다 리뷰로 셰필드의 평점 높은 숙소를 추렸습니다",
+  "verdictHtml": "평점 높은 기준 1순위는 <b>Badger's View Farmstay GREEN HORNET Cabin</b>입니다 (평점 9.7·리뷰 60건·1박 약 21만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/601892569.jpg?k=d0ce274c8f02850235bc89e90bcc125ae9b25030468ed4caea99fb56bbb51c69&o=",
+  "outroTitle": "🌙 셰필드, 평점 높은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 셰필드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Badger's View Farmstay GREEN HORNET Cabin",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/badger-s-view-farmstay-cabin/hotel/all/railton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 60,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/601892569.jpg?k=d0ce274c8f02850235bc89e90bcc125ae9b25030468ed4caea99fb56bbb51c69&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 60건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 60건 기반.",
+      "reviews": [
+        {
+          "text": "It was by far the best accommodation we’ve ever stayed at.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "We absolutely loved our stay at Badger’s View Farmstay.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The Best Farm Stay We’ve Ever Stayed At! ⭐⭐⭐⭐⭐",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Overall, our stay at Diana's farm was unforgettable.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "We had such a lovely stay at this farmstay cabin.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Spiritwood, BnB for 2 in a quiet rural setting",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/spiritwood-bnb-for-2-in-a-quiet-rural-setting/hotel/all/devonport-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 98,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/341689805.jpg?k=fc641bc297584b0f7a2b0f70eda6fde3f7a88e901dda76787c1b8e2cf567000e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 98건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 98건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "글렌코 컨트리 비앤비 (Glencoe Country Bed and Breakfast)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/glencoe-country-bed-and-breakfast/hotel/devonport-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 202,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/2347255/-1/061d5e4f5040196c30162d77f930ec92.jpg?ca=7&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 202건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 202건 기반.",
+      "reviews": [
+        {
+          "text": "Great breakfast with friendly hosts",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Four Square Short Stay Accommodation Railton",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/four-square-short-stay-accommodation-railton/hotel/all/railton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 169,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/597684457.jpg?k=cc370bc7f5f07ac36d83b4052babb7cc413c06df872338207078445f7b116019&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 169건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 169건 기반.",
+      "reviews": [
+        {
+          "text": "Everything within the apartment was very clean.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "We could not fault our accommodation",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "The room was well presented and staff amazing.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Cozy and wonderful stay ⭐️⭐️⭐️⭐️⭐️",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Very thoughtful and decorated accommodation",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Eagles Nest Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/eagles-nest-retreat/hotel/all/west-kentish-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 72,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 70만원",
+      "valueIndex": 5.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/524418400.jpg?k=7693a90244b3318387b173b671453bf7b91e3bee32ae81b9803d6e5c97b20fdb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 70만원",
+        "📝 리뷰 72건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 72건 기반.",
+      "reviews": [
+        {
+          "text": "Best place to stay ever so nice and hidden away",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Had an amazing stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Would recommend for short get away.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Fantastic stay",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Stunning views!",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "켄티시 힐즈 리트리트 (Kentish Hills Retreat)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kentish-hills-retreat/hotel/sheffield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 627,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/271634/3985970/699850db2022eff89b51189ca13b5f73.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 627건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 627건 기반.",
+      "reviews": [
+        {
+          "text": "The room was extremely clean, large and well set out.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "This has to be the cleanest accommodation we have stayed in.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Large room, all the facilities you want for an overnight.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Large, clean rooms, comfortable beds and beautiful gardens.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Helpful friendly staff made our stay pleasant and relaxing.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "쉐프필드 모터 인 (Sheffield Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sheffield-motor-inn/hotel/sheffield-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 873,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/344351/-1/2163dc3876a29d999365ad422cf27b8f.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 873건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 873건 기반.",
+      "reviews": [
+        {
+          "text": "The rooms are well set up, comfortable and spacious.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Surprisingly clean and good motor in. recommended",
+          "score": "8.8",
+          "country": "中國香港",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Everything was as it should be.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Close to everything and room was very comfortable.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The room has everything we need for 1 night stay.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "rating",
+    "base": "australia-sheffield",
+    "count": 7,
+    "builtAt": "2026-08-23T10:53:29.163Z"
+  }
+}

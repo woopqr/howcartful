@@ -8,7 +8,10 @@
     "australia-shepparton-premium",
     "australia-shepparton-star4",
     "australia-shepparton-reviewed",
-    "australia-sheffield"
+    "australia-sheffield",
+    "australia-sheffield-rating",
+    "australia-sheffield-station",
+    "australia-sheffield-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
