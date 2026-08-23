@@ -1,0 +1,252 @@
+{
+  "slug": "australia-shepparton-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "셰퍼턴",
+  "cityId": 12479,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "셰퍼턴",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/658163524.jpg?k=db7f94fbab093e4f98a02b1816a1556e9a6cba8bd52d0f75ff9db53bbecb5137&o=",
+  "heroAlt": "셰퍼턴",
+  "heroSub": "실제 아고다 리뷰로 셰퍼턴의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>The Ashlyn Retreat Shepparton</b>입니다 (평점 9.6·리뷰 52건·1박 약 22만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/658163524.jpg?k=db7f94fbab093e4f98a02b1816a1556e9a6cba8bd52d0f75ff9db53bbecb5137&o=",
+  "outroTitle": "🌙 셰퍼턴, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 셰퍼턴 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Ashlyn Retreat Shepparton",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ashlyn/hotel/all/shepparton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 52,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/658163524.jpg?k=db7f94fbab093e4f98a02b1816a1556e9a6cba8bd52d0f75ff9db53bbecb5137&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 52건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 52건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "퀘스트 셰퍼턴 (Quest Shepparton)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quest-shepparton-apartments/hotel/shepparton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 545,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.7,
+      "img": "//pix8.agoda.net/hotelImages/862249/-1/67665d9bd73891728dee8a328c0c801c.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 545건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 545건 기반.",
+      "reviews": [
+        {
+          "text": "Will always stay there where visiting Shepparton",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Great location, very cleaned and friendly staff.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Walking Distance to shops, restaurants and Lake Victoria.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Clean, tidy, good parking, great for our needs",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Great cooking facilities and so clean.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "퀄리티 호텔 파크레이크 셰파턴 (Quality Hotel Parklake Shepparton)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quality-hotel-parklake-shepparton_3/hotel/shepparton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 85,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/604998147.jpg?k=afec0d3466e0bbc4c56fc36b81b3b64e4c7c8f439f611fbbd9cc032aea2178db&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 85건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 85건 기반.",
+      "reviews": [
+        {
+          "text": "Clean, convenient, great facility with nice swimming pool",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "An excellent place to stay after a long hard day's work.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Comfy beds good a/c comfy couch, very nice bathoom",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "I love this hotel because clean and friendly staff",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Clean room, good restaurant and friendly staff",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "The Carrington Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-carrington-hotel/hotel/all/shepparton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 531,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/791941208.jpg?k=1d22cfa977145f0382dceffa32264215af553bdf53c6812f6c370622574a1914&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 531건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 531건 기반.",
+      "reviews": [
+        {
+          "text": "Very happy with the stay.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Easy going staff made every effort to help",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Well above the standard you would expect in a Country town.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "Great service and an excellent restaurant.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "Will never stay anywhere else in Shepparton again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Lovely 2 BR Spa apartment, Opposite Shepp Lake",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lovely-2-bedroom-apartment-across-from-shepp-lake/hotel/all/shepparton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 97,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 36만원",
+      "valueIndex": 4.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/557178690.jpg?k=1c4863e19bd85572a29d57c6b986f6a41b7d7b9ff490452e3fb0fede7022700a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 36만원",
+        "📝 리뷰 97건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 97건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-shepparton",
+    "count": 5,
+    "builtAt": "2026-08-23T02:50:46.458Z"
+  }
+}
