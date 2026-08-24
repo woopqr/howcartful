@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-24T10:48:10.268Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 7,
+  "lastPostedAt": "2026-08-24T12:15:16.081Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 8,
   "postedDate": "2026-08-24",
   "queue": [
-    "australia-sorell-station",
     "australia-sorell-star4",
     "australia-sorell-reviewed",
     "australia-shoalhaven-heads",
@@ -598,6 +597,7 @@
     "australia-sheffield-station",
     "australia-sheffield-reviewed",
     "australia-sorell",
-    "australia-sorell-rating"
+    "australia-sorell-rating",
+    "australia-sorell-station"
   ]
 }
