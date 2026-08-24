@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-24T05:51:40.761Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 4,
+  "lastPostedAt": "2026-08-24T07:37:59.678Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 5,
   "postedDate": "2026-08-24",
   "queue": [
-    "australia-sheffield-reviewed",
     "australia-sorell",
     "australia-sorell-rating",
     "australia-sorell-station",
@@ -593,6 +592,7 @@
     "australia-shepparton-reviewed",
     "australia-sheffield",
     "australia-sheffield-rating",
-    "australia-sheffield-station"
+    "australia-sheffield-station",
+    "australia-sheffield-reviewed"
   ]
 }
