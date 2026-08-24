@@ -8,7 +8,11 @@
     "australia-sheffield-rating",
     "australia-sheffield-station",
     "australia-sheffield-reviewed",
-    "australia-sorell"
+    "australia-sorell",
+    "australia-sorell-rating",
+    "australia-sorell-station",
+    "australia-sorell-star4",
+    "australia-sorell-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
