@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-24T09:11:25.998Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 6,
+  "lastPostedAt": "2026-08-24T10:48:10.268Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 7,
   "postedDate": "2026-08-24",
   "queue": [
-    "australia-sorell-rating",
     "australia-sorell-station",
     "australia-sorell-star4",
-    "australia-sorell-reviewed"
+    "australia-sorell-reviewed",
+    "australia-shoalhaven-heads"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 330,
+    "cityIndex": 332,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -24,7 +24,8 @@
       710240,
       709701,
       719612,
-      512953
+      512953,
+      718483
     ]
   },
   "publishedSlugs": [
@@ -593,6 +594,7 @@
     "australia-sheffield-rating",
     "australia-sheffield-station",
     "australia-sheffield-reviewed",
-    "australia-sorell"
+    "australia-sorell",
+    "australia-sorell-rating"
   ]
 }

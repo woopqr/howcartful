@@ -1,0 +1,350 @@
+{
+  "slug": "australia-shoalhaven-heads",
+  "title": "숄헤이븐 헤즈 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 숄헤이븐 헤즈 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "shoalhaven-heads-au",
+  "cityName": "숄헤이븐 헤즈",
+  "cityId": 513350,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "숄헤이븐 헤즈",
+  "heroImg": "https://pix8.agoda.net/hotelImages/509/5095387/5095387_18070213140066590115.jpg?va=1&ca=0&ce=1",
+  "heroAlt": "숄헤이븐 헤즈",
+  "heroTitleHtml": "숄헤이븐 헤즈 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>뱅갈레이 럭셔리 빌라</b>(평점 9.4·리뷰 201건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>뱅갈레이 럭셔리 빌라</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/509/5095387/5095387_18070213140066590115.jpg?va=1&ca=0&ce=1",
+  "outroTitle": "🌙 숄헤이븐 헤즈, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 숄헤이븐 헤즈 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 숄헤이븐 헤즈 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "뱅갈레이 럭셔리 빌라 (Bangalay Luxury Villas)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bangalay-luxury-villas/hotel/shoalhaven-heads-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 201,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/509/5095387/5095387_18070213140066590115.jpg?va=1&ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 201건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 201건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "베리 빌리지 부티크 모텔 (Berry Village Boutique Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/berry-village-boutique-motel_9/hotel/berry-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 1444,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/555356/-1/11412babf49258b3a71696bafe015bf2.jpg?va=1&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 1,444건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 1,444건 기반.",
+      "reviews": [
+        {
+          "text": "Spacious room with table, chairs, generous sized balcony.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "The room was clean and comfortable, with a cosy lounge area.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Spacious clean rooms with a balcony in the heart of Berry",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Would be my 1st choice of stay in Berry.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Great location with convenient parking and friendly staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "The Homestead",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-homestead/hotel/all/berry-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 175,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/634539862.jpg?k=35300b5ff911c624454ec680ffd000c7a4005bb8eac714791dbbd45033ba56fb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 175건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 175건 기반.",
+      "reviews": [
+        {
+          "text": "Good amenities and excellently kept gardens and ground",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Very comfortable and stylish cottage",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Excellent luxurious stay",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "안코어 베이 모텔 (Anchor Bay Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/anchor-bay-motel/hotel/nowra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 187,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/274/274384/274384_121001120158679.jpg?va=1&ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 187건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 187건 기반.",
+      "reviews": [
+        {
+          "text": "But other than that it's a great place to stay!",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "One thing that stood out was how clean the room was.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Beautiful location, lovely room, excellent shower.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "I highly recommend it to anyone travelling around this area.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Everything is perfect! Highly recommended!",
+          "score": "10",
+          "country": "China",
+          "date": "2023.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "THE BERRY HOTEL",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-berry-hotel/hotel/all/berry-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.4,
+      "reviewCount": 247,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/478784460.jpg?k=c8de6c6adafd476ac2e206a9f9168e535c2c577928fb878d6a72b9719ffe2238&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 247건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.4</b> · 실제 투숙객 리뷰 247건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Culburra Beach Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/culburra-beach-motel/hotel/jervis-bay-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 662,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/22848135/0/a25f21d7f68c4dc8561898cbea20b846.jpg?va=1&ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 662건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 662건 기반.",
+      "reviews": [
+        {
+          "text": "Clean, comfy, cosy, convenient and affordable accommodation",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Had the pleasure of staying at this motel for one night.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "We had bbq at the motel and utensils are provided as well.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Clean room, tranquil location , ideal for a weekend retreat",
+          "score": "9.2",
+          "country": "澳大利亚",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Everything was well provided for during our stay.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Coolangatta Estate Shoalhaven Heads",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/coolangatta-estate-shoalhaven-heads/hotel/all/coolangatta-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 56,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/519054882.jpg?k=dec27d9945a7e5532002592c9f84eb335b1d4110c9acc3655becf9a97b7911ed&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 56건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 56건 기반.",
+      "reviews": [
+        {
+          "text": "Spacious room with sofa and extra bed for our toddler.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "We feel like we are at home but better!",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "The room was clean and I liked the eighteen-hundreds charm.",
+          "score": "8.4",
+          "country": "Thailand",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Had the best time here! Would definitely recommend.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Most recommended stay if you will go on a trip in Berry NSW!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-24T10:48:22.707Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
