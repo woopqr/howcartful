@@ -1,0 +1,324 @@
+{
+  "slug": "australia-shellharbour",
+  "title": "쉘하버 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 쉘하버 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "shellharbour-au",
+  "cityName": "쉘하버",
+  "cityId": 513304,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "쉘하버",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/445385144.jpg?k=4924c6c8ab666d5bf5307ec8d37369a16fc0b31edb46e4ff71df4f4368e222cb&o=",
+  "heroAlt": "쉘하버",
+  "heroTitleHtml": "쉘하버 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Shellharbour Holiday Village</b>(평점 8.2·리뷰 378건·1박 약 10만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Dapto 도보 33분</b>의 <b>Wellness Stay in Private Home near beaches, rainforest and South Coast, 2 rooms booked separately</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/445385144.jpg?k=4924c6c8ab666d5bf5307ec8d37369a16fc0b31edb46e4ff71df4f4368e222cb&o=",
+  "outroTitle": "🌙 쉘하버, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 쉘하버 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 쉘하버 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Shellharbour Holiday Village",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/surfrider-caravan-park/hotel/shellharbour-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 378,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/445385144.jpg?k=4924c6c8ab666d5bf5307ec8d37369a16fc0b31edb46e4ff71df4f4368e222cb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 378건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 378건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Warriwul Farmland Rural Retreat BnB, Curramore/Jamberoo",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/warriwul-farmland-rural-retreat-bnb-curramore-jamberoo/hotel/all/kiama-au.html?cid=1925461",
+      "walkMin": 123,
+      "score": 9.4,
+      "reviewCount": 46,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/550140846.jpg?k=5f739172ef88672dda88379747cc387decb9c612d46d2d6c885d0ecde33c4c5a&o=",
+      "distanceNote": "약 9832.7m · 키아마역 인근",
+      "metaTags": [
+        "📝 리뷰 46건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 46건 기반.",
+      "reviews": [
+        {
+          "text": "It was super comfortable & a gorgeous place.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Loved this cosy stay in the cool months.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Wellness Stay in Private Home near beaches, rainforest and South Coast, 2 rooms booked separately",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/1-bedroom-with-full-amenities-and-breakfast/hotel/all/wollongong-au.html?cid=1925461",
+      "walkMin": 33,
+      "score": 9.1,
+      "reviewCount": 103,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/499578116.jpg?k=69142688c2622ffe1c1fca02d38c2db91db0db1a88064c5e3b064a7f618a2478&o=",
+      "distanceNote": "약 2632.42m · Dapto 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 103건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 103건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Entire Residential Home - Lake Illawarra And Beachside Home Sleeps 12",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/entire-residential-home-lake-illawarra-hampton/hotel/all/lake-illawarra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.8,
+      "reviewCount": 32,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/322582064.jpg?k=53c1d842f160656b70ee6b545999b27ed5aa3af66f57b43051f043176afcdfa3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 32건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 32건 기반.",
+      "reviews": [
+        {
+          "text": "Beautiful home had a wonderful time awesome location",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Good location with well equipped vacation home",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "레이크뷰 호텔 모텔 (Lakeview Hotel Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lakeview-hotel-motel/hotel/all/shellharbour-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 1558,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/476204169.jpg?k=3bd860b9355c24f37d9654504849f1e702451b8d3527cea26ba0a1ec81b83e0c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 1,558건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,558건 기반.",
+      "reviews": [
+        {
+          "text": "Would definitely return and use as a base for a longer stay.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Best budget priced room I have ever stayed in.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The family room was lovely very modern and clean thank you",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Clean , comfortable beds . Fantastic shower. Great staff.",
+          "score": "8.667",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Rooms where clean, I loved the layout of the bathrooms.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "더 옥스 호텔 모텔 (The Oaks Hotel Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-oaks-hotel-motel/hotel/all/albion-park-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 728,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/705894309.jpg?k=24dab9ad327dc751e2cdbc5feb17daf64ec7c779e7d29bef79c690d3e717c95c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 728건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 728건 기반.",
+      "reviews": [
+        {
+          "text": "The room was clean, great shower and comfy beds.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Overall, the accommodation itself was excellent.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Great food, comfy stay, spacious room, reasonable price",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Very clean and tidy and great location",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Great stay and pub next door was a bonus",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "쉘하버 빌리지 모텔 (Shellharbour Village Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/shellharbour-village-motel_2/hotel/all/shellharbour-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 32,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/503229992.jpg?k=67d6b8a5fc7611cc74c3dc6b7f3a6c544afbebebc06f6f16f40d526ff51b5f1f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 32건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 32건 기반.",
+      "reviews": [
+        {
+          "text": "Clean, modern and beautifully renovated rooms.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The room was clean, spacious and functional.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Very well equipped, friedly and supportive staff.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Great priced accommodation",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Rooms were clean and comfortable.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-25T01:20:51.198Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
