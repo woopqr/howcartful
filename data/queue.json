@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-25T07:22:47.068Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 6,
+  "lastPostedAt": "2026-08-25T08:54:28.326Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 7,
   "postedDate": "2026-08-25",
   "queue": [
-    "australia-shellharbour-station",
     "australia-shellharbour-premium",
     "australia-shellharbour-reviewed",
-    "australia-snowy-mountains"
+    "australia-snowy-mountains",
+    "australia-thredbo-village"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 334,
+    "cityIndex": 335,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -604,6 +604,7 @@
     "australia-shoalhaven-heads-station",
     "australia-shoalhaven-heads-reviewed",
     "australia-shellharbour",
-    "australia-shellharbour-rating"
+    "australia-shellharbour-rating",
+    "australia-shellharbour-station"
   ]
 }
