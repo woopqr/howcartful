@@ -8,7 +8,10 @@
     "australia-shellharbour-premium",
     "australia-shellharbour-reviewed",
     "australia-snowy-mountains",
-    "australia-thredbo-village"
+    "australia-thredbo-village",
+    "australia-thredbo-village-rating",
+    "australia-thredbo-village-station",
+    "australia-thredbo-village-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
