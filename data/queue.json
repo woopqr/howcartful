@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-25T08:54:28.326Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 7,
+  "lastPostedAt": "2026-08-25T10:01:24.815Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 8,
   "postedDate": "2026-08-25",
   "queue": [
-    "australia-shellharbour-premium",
     "australia-shellharbour-reviewed",
     "australia-snowy-mountains",
     "australia-thredbo-village",
@@ -608,6 +607,7 @@
     "australia-shoalhaven-heads-reviewed",
     "australia-shellharbour",
     "australia-shellharbour-rating",
-    "australia-shellharbour-station"
+    "australia-shellharbour-station",
+    "australia-shellharbour-premium"
   ]
 }
