@@ -1,0 +1,251 @@
+{
+  "slug": "australia-snowy-mountains",
+  "title": "스노위 마운틴스 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 스노위 마운틴스 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "스노위 마운틴스",
+  "cityId": 17919,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "스노위 마운틴스",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/554228521.jpg?k=846d0e433ea7a99f97322f1ad74189cdc12ac54a94a88bb28091379e07508d17&o=",
+  "heroAlt": "스노위 마운틴스",
+  "heroTitleHtml": "스노위 마운틴스 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>The Berri Bubble Lodge</b>(평점 9.1·리뷰 143건·1박 약 20만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>The Berri Bubble Lodge</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/554228521.jpg?k=846d0e433ea7a99f97322f1ad74189cdc12ac54a94a88bb28091379e07508d17&o=",
+  "outroTitle": "🌙 스노위 마운틴스, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 스노위 마운틴스 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 스노위 마운틴스 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Berri Bubble Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-berri-bubble-lodge/hotel/all/snowy-mountains-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 143,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 20만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/554228521.jpg?k=846d0e433ea7a99f97322f1ad74189cdc12ac54a94a88bb28091379e07508d17&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 143건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 143건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "The Kabbage",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-kabbage/hotel/all/snowy-mountains-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.8,
+      "reviewCount": 101,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/520964411.jpg?k=378872545b5b28f8d5eb41a9d8375596039959457012495a03f42ef11001e275&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 101건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 101건 기반.",
+      "reviews": [
+        {
+          "text": "We really enjoyed our stay and would definitely come back.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "One of the best accommodations we’ve stayed at!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Great Location and Exceptional Hospitality",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Ken was very welcoming and accommodating.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Berridale Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/berridale-inn/hotel/all/snowy-mountains-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 30,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/823759107.jpg?k=0f3f5ddd90f8c4dce02ee8a1e416a0fba32fe0bc05d734d170cf69016b9adb68&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 30건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 30건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "시에스타 빌라 (Siesta Villa)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/siesta-villa/hotel/all/snowy-mountains-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.8,
+      "reviewCount": 74,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/28198079.jpg?k=37086bc6ecc14666e3c88e289d9587b5456d282cd2572c6d912e552c6c08672c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 74건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 74건 기반.",
+      "reviews": [
+        {
+          "text": "Friendly staff and a homely atmosphere.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Altogether a great place and we will definitely be back.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended, pleasant stay,",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "A simple and beautiful place with stunning views",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Easy access, friendly staff and great breakfast!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "코튼우드 모텔 (Cottonwood Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cottonwood-motel/hotel/snowy-mountains-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 43,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5.4,
+      "img": "//pix8.agoda.net/property/89058392/0/d1a8ec986495009a2ad9fe00c589715e.jpeg?va=1&ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 43건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 43건 기반.",
+      "reviews": [
+        {
+          "text": "Good clean room with spacious bathroom.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Breakfast provided as part of the accomodation.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The room we had was absolutely fabulous.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "It has decent facilities for the price of the accommodation",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "An excellent budget motel with good facilities",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-25T07:22:54.613Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}
