@@ -1,0 +1,291 @@
+{
+  "slug": "australia-shellharbour-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "shellharbour-au",
+  "cityName": "쉘하버",
+  "cityId": 513304,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "쉘하버",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/538275816.jpg?k=dd141767e6fe43a7cfda6de5250485dfab90120f66813316100ec2ea8189141f&o=",
+  "heroAlt": "쉘하버",
+  "heroSub": "실제 아고다 리뷰로 쉘하버의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>Sea & Country Kiama - Stunning Views - Free EVCharging - Travellers Award 2025 & 2026</b>입니다 (평점 9.9·리뷰 43건·1박 약 59만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/538275816.jpg?k=dd141767e6fe43a7cfda6de5250485dfab90120f66813316100ec2ea8189141f&o=",
+  "outroTitle": "🌙 쉘하버, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 쉘하버 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Sea & Country Kiama - Stunning Views - Free EVCharging - Travellers Award 2025 & 2026",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sea-country-kiama-winter-savings/hotel/all/kiama-au.html?cid=1925461",
+      "walkMin": 19,
+      "score": 9.9,
+      "reviewCount": 43,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 59만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/538275816.jpg?k=dd141767e6fe43a7cfda6de5250485dfab90120f66813316100ec2ea8189141f&o=",
+      "distanceNote": "약 1529.31m · 키아마역 인근",
+      "metaTags": [
+        "💰 약 59만원",
+        "📝 리뷰 43건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.9</b> · 실제 투숙객 리뷰 43건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Entire Residential Home - Lake Illawarra And Beachside Home Sleeps 12",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/entire-residential-home-lake-illawarra-hampton/hotel/all/lake-illawarra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.8,
+      "reviewCount": 32,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/322582064.jpg?k=53c1d842f160656b70ee6b545999b27ed5aa3af66f57b43051f043176afcdfa3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 32건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 32건 기반.",
+      "reviews": [
+        {
+          "text": "Beautiful home had a wonderful time awesome location",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Good location with well equipped vacation home",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Modern Studio with Outdoor Bath and Cabin Sauna",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/studio-on-park/hotel/all/albion-park-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 54,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 28만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/331040090.jpg?k=d741ea216d5ea65db4e8b336879bbdaedcf7077e25c288ff57c779dcabf67e32&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 28만원",
+        "📝 리뷰 54건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 54건 기반.",
+      "reviews": [
+        {
+          "text": "It was so simple & I can’t wait to go again!",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "So cozy & comfortable!",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "I loved the bathroom!",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The studio was clean, organised and well stocked.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Seamless check in & check out.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Beachy Keen",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beachy-keen/hotel/all/kiama-au.html?cid=1925461",
+      "walkMin": 54,
+      "score": 9.4,
+      "reviewCount": 40,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 54만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/450544757.jpg?k=e7e2c5221c53ac56ebf6bdd5833d7416311c4dbb7c7532a0a99bac7b03014916&o=",
+      "distanceNote": "약 4289.74m · 키아마역 인근",
+      "metaTags": [
+        "💰 약 54만원",
+        "📝 리뷰 40건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 40건 기반.",
+      "reviews": [
+        {
+          "text": "Spa and coffee machine a plus.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Felt very welcomed and would come again.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Sea La Vie",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sea-la-vie/hotel/all/shellharbour-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 39,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 53만원",
+      "valueIndex": 4.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/524666475.jpg?k=4e072ef80e41b48ed60ab162eeed74fc59459b1e320a4970592fed43c47ae1e1&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 53만원",
+        "📝 리뷰 39건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 39건 기반.",
+      "reviews": [
+        {
+          "text": "Very happy with our stay.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Kitchen fully equipped.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Beds were comfortable.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Beautiful house.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Comfortable stay",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "7 Aurora Ave Dunmore",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/7-aurora-ave-dunmore/hotel/all/shellharbour-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 47,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 78만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/485162149.jpg?k=17dba7b9d0b8007451fb228783ff80c55e28a547792c9d93b43977c6131cc34c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 78만원",
+        "📝 리뷰 47건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 47건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Villa Nura",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/villa-nura/hotel/all/shellharbour-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 72,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/630763529.jpg?k=46336cbe302524f1d4fccc75d2d970e92b3a815c8f2935ba9706379fc75442a4&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 72건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 72건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-shellharbour",
+    "count": 7,
+    "builtAt": "2026-08-25T02:32:50.985Z"
+  }
+}

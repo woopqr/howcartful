@@ -1,0 +1,404 @@
+{
+  "slug": "australia-shellharbour-reviewed",
+  "angle": "reviewed",
+  "angleAdj": "후기 많은",
+  "lang": "ko-kr",
+  "citySlug": "shellharbour-au",
+  "cityName": "쉘하버",
+  "cityId": 513304,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "쉘하버",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/435718108.jpg?k=5e3a96dbcae18bb2416b81a69f1700e5f18bd22832f7a13e5062dd910448bdae&o=",
+  "heroAlt": "쉘하버",
+  "heroSub": "실제 아고다 리뷰로 쉘하버의 리뷰 많은 숙소를 추렸습니다",
+  "verdictHtml": "리뷰 많은 기준 1순위는 <b>키아마 쇼어</b>입니다 (평점 9·리뷰 2,637건·1박 약 27만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/435718108.jpg?k=5e3a96dbcae18bb2416b81a69f1700e5f18bd22832f7a13e5062dd910448bdae&o=",
+  "outroTitle": "🌙 쉘하버, 리뷰 많은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 쉘하버 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "키아마 쇼어 (Kiama Shores)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kiama-shores-motel/hotel/kiama-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 9,
+      "reviewCount": 2637,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/435718108.jpg?k=5e3a96dbcae18bb2416b81a69f1700e5f18bd22832f7a13e5062dd910448bdae&o=",
+      "distanceNote": "약 511.42m · 키아마역 인근",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 2,637건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,637건 기반.",
+      "reviews": [
+        {
+          "text": "A lovely motel with clean modern rooms in a great location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Facilities were great and you can't beat the location.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Great place, amazing bed, beautiful room and bathroom.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Will definitely stay here when we head back to Kiama",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "The room is clean and spacious and free parking.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "레이크뷰 호텔 모텔 (Lakeview Hotel Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lakeview-hotel-motel/hotel/all/shellharbour-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 1558,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/476204169.jpg?k=3bd860b9355c24f37d9654504849f1e702451b8d3527cea26ba0a1ec81b83e0c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 1,558건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,558건 기반.",
+      "reviews": [
+        {
+          "text": "Would definitely return and use as a base for a longer stay.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Best budget priced room I have ever stayed in.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The family room was lovely very modern and clean thank you",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Clean , comfortable beds . Fantastic shower. Great staff.",
+          "score": "8.667",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Rooms where clean, I loved the layout of the bathrooms.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Golf Place Inn Wollongong",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/comfort-inn-fairways-h9130008/hotel/wollongong-au.html?cid=1925461",
+      "walkMin": 51,
+      "score": 7.6,
+      "reviewCount": 1003,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/515183889.jpg?k=62160ef85416e876abd74dac1f095b74846fe054c85cb38d1a97fb4f5d0b96a9&o=",
+      "distanceNote": "약 4041.46m · Port Kembla North 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 1,003건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 1,003건 기반.",
+      "reviews": [
+        {
+          "text": "Excellent place for families",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Suited my needs as a traveller with all expectations met.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The room was spacious and clean, we enjoyed our stay.",
+          "score": "8.8",
+          "country": "India",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Golf Place Inn - good quiet location for trip to Wollongong.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "We love staying here as we take my therapy dog with us",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "쉘하버 리조트 앤 컨퍼런스 센터 (Shellharbour Resort and Conference Centre)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/shellharbour-resort-and-conference-centre/hotel/shellharbour-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 833,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/251716610.jpg?k=4b1ee95661eb306e6f3c0297c8992475fa4338f1acf8752d1715329fe8b3beea&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 833건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 833건 기반.",
+      "reviews": [
+        {
+          "text": "The bed was comfortable and the shower worked well.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Nice enough for what it was…rooms were exceptionally clean.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "And the lady at reception was absolutely lovely.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "I will stay again when I'm visiting Shellharbour again",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Soft large towels and clean and fresh smelling rooms.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "바락 포인트 홀리데이즈 (Barrack Point Holidays)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/barrack-point-holidays/hotel/all/shellharbour-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 764,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/329414524.jpg?k=fdb7776036e2cb023f8b46c5dd75ebf33d51343d5481bba8244528ddd4f3aa37&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 764건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 764건 기반.",
+      "reviews": [
+        {
+          "text": "After speaking to staff was given a unit at no extra cost.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The staff we're very helpful and friendly.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Cabins roomy and well equipped.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "The place is good and view is beautiful.",
+          "score": "9.2",
+          "country": "Taiwan",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Location was not far from groceries and restaurant!",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2023.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "더 옥스 호텔 모텔 (The Oaks Hotel Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-oaks-hotel-motel/hotel/all/albion-park-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 728,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/705894309.jpg?k=24dab9ad327dc751e2cdbc5feb17daf64ec7c779e7d29bef79c690d3e717c95c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 728건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 728건 기반.",
+      "reviews": [
+        {
+          "text": "The room was clean, great shower and comfy beds.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Overall, the accommodation itself was excellent.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Great food, comfy stay, spacious room, reasonable price",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Very clean and tidy and great location",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Great stay and pub next door was a bonus",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Shellharbour Holiday Village",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/surfrider-caravan-park/hotel/shellharbour-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 378,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/445385144.jpg?k=4924c6c8ab666d5bf5307ec8d37369a16fc0b31edb46e4ff71df4f4368e222cb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 378건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 378건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "reviewed",
+    "base": "australia-shellharbour",
+    "count": 7,
+    "builtAt": "2026-08-25T02:32:50.985Z"
+  }
+}

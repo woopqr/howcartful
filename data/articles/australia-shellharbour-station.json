@@ -1,0 +1,284 @@
+{
+  "slug": "australia-shellharbour-station",
+  "angle": "station",
+  "angleAdj": "역세권",
+  "lang": "ko-kr",
+  "citySlug": "shellharbour-au",
+  "cityName": "쉘하버",
+  "cityId": 513304,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "쉘하버",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/435718108.jpg?k=5e3a96dbcae18bb2416b81a69f1700e5f18bd22832f7a13e5062dd910448bdae&o=",
+  "heroAlt": "쉘하버",
+  "heroSub": "실제 아고다 리뷰로 쉘하버의 역세권 숙소를 추렸습니다",
+  "verdictHtml": "역세권 기준 1순위는 <b>키아마 쇼어</b>입니다 (평점 9·리뷰 2,637건·1박 약 27만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/435718108.jpg?k=5e3a96dbcae18bb2416b81a69f1700e5f18bd22832f7a13e5062dd910448bdae&o=",
+  "outroTitle": "🌙 쉘하버, 역세권으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 쉘하버 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "키아마 쇼어 (Kiama Shores)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kiama-shores-motel/hotel/kiama-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 9,
+      "reviewCount": 2637,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/435718108.jpg?k=5e3a96dbcae18bb2416b81a69f1700e5f18bd22832f7a13e5062dd910448bdae&o=",
+      "distanceNote": "약 511.42m · 키아마역 인근",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 2,637건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 2,637건 기반.",
+      "reviews": [
+        {
+          "text": "A lovely motel with clean modern rooms in a great location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Facilities were great and you can't beat the location.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Great place, amazing bed, beautiful room and bathroom.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Will definitely stay here when we head back to Kiama",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "The room is clean and spacious and free parking.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Sea & Country Kiama - Stunning Views - Free EVCharging - Travellers Award 2025 & 2026",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sea-country-kiama-winter-savings/hotel/all/kiama-au.html?cid=1925461",
+      "walkMin": 19,
+      "score": 9.9,
+      "reviewCount": 43,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 59만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/538275816.jpg?k=dd141767e6fe43a7cfda6de5250485dfab90120f66813316100ec2ea8189141f&o=",
+      "distanceNote": "약 1529.31m · 키아마역 인근",
+      "metaTags": [
+        "💰 약 59만원",
+        "📝 리뷰 43건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.9</b> · 실제 투숙객 리뷰 43건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Wellness Stay in Private Home near beaches, rainforest and South Coast, 2 rooms booked separately",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/1-bedroom-with-full-amenities-and-breakfast/hotel/all/wollongong-au.html?cid=1925461",
+      "walkMin": 33,
+      "score": 9.1,
+      "reviewCount": 103,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/499578116.jpg?k=69142688c2622ffe1c1fca02d38c2db91db0db1a88064c5e3b064a7f618a2478&o=",
+      "distanceNote": "약 2632.42m · Dapto 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 103건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 103건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Jones Beach Haven Studio - Kiama Downs Beachside Escape",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/jones-beach-haven-studio-kiama-downs-beachside-escape/hotel/all/kiama-au.html?cid=1925461",
+      "walkMin": 46,
+      "score": 8.8,
+      "reviewCount": 91,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 46만원",
+      "valueIndex": 4.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/283259542.jpg?k=02736c8dbbc36df42a06958628fa5e07057b9251eaef9be320c5a50fd4cefdcb&o=",
+      "distanceNote": "약 3658.26m · 키아마역 인근",
+      "metaTags": [
+        "💰 약 46만원",
+        "📝 리뷰 91건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 91건 기반.",
+      "reviews": [
+        {
+          "text": "A nice studio near the beach",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "페어웨이 하우스 (Fairway House)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/fairway-house/hotel/wollongong-au.html?cid=1925461",
+      "walkMin": 50,
+      "score": 6.5,
+      "reviewCount": 36,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 5.1,
+      "img": "//pix8.agoda.net/hotelImages/297206/0/22b17d24582063c8aa12be906c1b0bdc.jpeg?ce=0",
+      "distanceNote": "약 4011.36m · Port Kembla North 인근",
+      "metaTags": [
+        "📝 리뷰 36건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>6.5</b> · 실제 투숙객 리뷰 36건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Golf Place Inn Wollongong",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/comfort-inn-fairways-h9130008/hotel/wollongong-au.html?cid=1925461",
+      "walkMin": 51,
+      "score": 7.6,
+      "reviewCount": 1003,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/515183889.jpg?k=62160ef85416e876abd74dac1f095b74846fe054c85cb38d1a97fb4f5d0b96a9&o=",
+      "distanceNote": "약 4041.46m · Port Kembla North 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 1,003건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 1,003건 기반.",
+      "reviews": [
+        {
+          "text": "Excellent place for families",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Suited my needs as a traveller with all expectations met.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The room was spacious and clean, we enjoyed our stay.",
+          "score": "8.8",
+          "country": "India",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Golf Place Inn - good quiet location for trip to Wollongong.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "We love staying here as we take my therapy dog with us",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Beachy Keen",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beachy-keen/hotel/all/kiama-au.html?cid=1925461",
+      "walkMin": 54,
+      "score": 9.4,
+      "reviewCount": 40,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 54만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/450544757.jpg?k=e7e2c5221c53ac56ebf6bdd5833d7416311c4dbb7c7532a0a99bac7b03014916&o=",
+      "distanceNote": "약 4289.74m · 키아마역 인근",
+      "metaTags": [
+        "💰 약 54만원",
+        "📝 리뷰 40건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 40건 기반.",
+      "reviews": [
+        {
+          "text": "Spa and coffee machine a plus.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Felt very welcomed and would come again.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "station",
+    "base": "australia-shellharbour",
+    "count": 7,
+    "builtAt": "2026-08-25T02:32:50.985Z"
+  }
+}
