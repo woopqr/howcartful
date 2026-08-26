@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-26T02:53:51.463Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 3,
+  "lastPostedAt": "2026-08-26T04:25:06.491Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 4,
   "postedDate": "2026-08-26",
   "queue": [
-    "australia-thredbo-village-reviewed",
     "australia-smithton",
     "australia-swan-hill",
     "australia-swan-hill-rating",
@@ -614,6 +613,7 @@
     "australia-snowy-mountains",
     "australia-thredbo-village",
     "australia-thredbo-village-rating",
-    "australia-thredbo-village-station"
+    "australia-thredbo-village-station",
+    "australia-thredbo-village-reviewed"
   ]
 }
