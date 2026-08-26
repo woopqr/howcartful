@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-26T10:08:16.343Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 8,
+  "lastPostedAt": "2026-08-26T11:15:43.511Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 9,
   "postedDate": "2026-08-26",
   "queue": [
-    "australia-swan-hill-budget",
     "australia-swan-hill-reviewed",
     "australia-swansea",
     "australia-swansea-rating",
@@ -619,6 +618,7 @@
     "australia-smithton",
     "australia-swan-hill",
     "australia-swan-hill-rating",
-    "australia-swan-hill-station"
+    "australia-swan-hill-station",
+    "australia-swan-hill-budget"
   ]
 }
