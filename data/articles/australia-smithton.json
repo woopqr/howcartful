@@ -1,0 +1,249 @@
+{
+  "slug": "australia-smithton",
+  "title": "스미스턴 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 스미스턴 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "smithton-au",
+  "cityName": "스미스턴",
+  "cityId": 11588,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "스미스턴",
+  "heroImg": "https://pix8.agoda.net/hotelImages/339177/0/97bcfa778ba8592858c158e1744f1265.jpeg?ce=0",
+  "heroAlt": "스미스턴",
+  "heroTitleHtml": "스미스턴 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>더 브리지 호텔</b>(평점 8.3·리뷰 1,090건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>더 브리지 호텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/339177/0/97bcfa778ba8592858c158e1744f1265.jpeg?ce=0",
+  "outroTitle": "🌙 스미스턴, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 스미스턴 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 스미스턴 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 브리지 호텔 (The Bridge Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-bridge-hotel/hotel/smithton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 1090,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.3,
+      "img": "//pix8.agoda.net/hotelImages/339177/0/97bcfa778ba8592858c158e1744f1265.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 1,090건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 1,090건 기반.",
+      "reviews": [
+        {
+          "text": "WiFi was excellent and the staff very friendly and helpful.",
+          "score": "8.4",
+          "country": "Deutschland",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Bed was comfy and it was quiet during the night.",
+          "score": "8.4",
+          "country": "Deutschland",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Upgrading from a hotel to motel room was also not a problem.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Friendly staff and a restaurant with delicious meals.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Convenient for travelers who will rest for a night. 🙂",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "로즈뱅크 코티지 컬렉션 (Rosebank Cottage Collection)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rosebank-cottage-collection/hotel/smithton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 113,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/178488/0/652d5e45d3351423ce6b20fd3bf4e80e.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 113건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 113건 기반.",
+      "reviews": [
+        {
+          "text": "Best we've stayed at so far",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Very comfortable stay.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Great stay",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Charming hideaway",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "톨 팀버 타스마니아 호텔 (Tall Timbers Tasmania Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tall-timbers-tasmania-hotel/hotel/smithton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 207,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/11863/-1/167bab77b655dd25ec36793604a4805e.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 207건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 207건 기반.",
+      "reviews": [
+        {
+          "text": "Pool, tennis courts and ducks to keep the kids entertained.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The pool temperature was excellent for a cold winters day.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Fantastic heated indoor with huge spa, showers and gym.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Big rooms with bar bistro swimming pool on the complex",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The staff are exceptionally helpful and professional.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Sheer Pleasure Accommodation",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sheer-pleasure-accommodation_3/hotel/all/smithton-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 184,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/733751366.jpg?k=cdaeefbd6d95bd1a6cf3324dcd13a22d4e212797a929e65b87f4ccb85f93932f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 184건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 184건 기반.",
+      "reviews": [
+        {
+          "text": "The unit was modern and comfortable.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Central location was appreciated.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Parking area is very good.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Great location",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-26T00:00:23.987Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}
