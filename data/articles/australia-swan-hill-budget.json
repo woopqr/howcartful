@@ -1,0 +1,347 @@
+{
+  "slug": "australia-swan-hill-budget",
+  "angle": "budget",
+  "angleAdj": "가격 착한",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "스완 힐",
+  "cityId": 589,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "스완 힐",
+  "heroImg": "https://pix8.agoda.net/hotelImages/267500/-1/160bbd511608cd73d0e79d99afa2e32d.jpg?va=1&ce=0",
+  "heroAlt": "스완 힐",
+  "heroSub": "실제 아고다 리뷰로 스완 힐의 저가 실속 숙소를 추렸습니다",
+  "verdictHtml": "저가 실속 기준 1순위는 <b>스완 힐 리조트</b>입니다 (평점 8.1·리뷰 570건·1박 약 10만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/267500/-1/160bbd511608cd73d0e79d99afa2e32d.jpg?va=1&ce=0",
+  "outroTitle": "🌙 스완 힐, 저가 실속으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 스완 힐 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "스완 힐 리조트 (Swan Hill Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/swan-hill-resort/hotel/swan-hill-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8.1,
+      "reviewCount": 570,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/267500/-1/160bbd511608cd73d0e79d99afa2e32d.jpg?va=1&ce=0",
+      "distanceNote": "약 515.84m · 스완 힐역 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 570건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 570건 기반.",
+      "reviews": [
+        {
+          "text": "Good location … very close to Maccas (that’s a plus).",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "I always stay in Swan Hill Resort whenever I’m in Swan Hill.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Best pool I have seen in a motel of this price.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Comfortable and clean accomodation and facilities.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The facilities and pools are just lovely, enjoyed our stay",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "트래블러스 레스트 모터 인 (Travellers Rest Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-travellers-rest-motor-inn/hotel/swan-hill-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 8.5,
+      "reviewCount": 164,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/5686882/0/9c7e13cb1bfe95c5f5a74cace2832e6c.jpeg?va=1&ce=0",
+      "distanceNote": "약 592.75m · 스완 힐역 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 164건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 164건 기반.",
+      "reviews": [
+        {
+          "text": "Staff were great, clean room and good facilities.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The Travellers Rest is perfect for a short of long stay.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Motel is conveniently located close to centre of town.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Very clean great price brand new bathroom with spa.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Bed was comfy, kettle & toaster made breakfast easy to make.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "파이오니아 스테이션 모터 인  (Pioneer Station Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pioneer-station-motor-inn/hotel/swan-hill-au.html?cid=1925461",
+      "walkMin": 8,
+      "score": 7.5,
+      "reviewCount": 80,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/property/34470108/0/9820007a3cf9f5b432c3fadd4d41a3e4.jpeg?va=1&ce=3",
+      "distanceNote": "약 656.47m · 스완 힐역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 80건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 80건 기반.",
+      "reviews": [
+        {
+          "text": "Basic but clean and quiet with efficient helpful staff",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Clean, excellent value for money, friendly staff.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Great location and clean room.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Tidy little room in a quiet spot on the edge of town.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Clean and can park at the front of room.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "레이지 리버 모터 인 (Lazy River Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lazy-river-motor-inn/hotel/swan-hill-au.html?cid=1925461",
+      "walkMin": 1,
+      "score": 7.4,
+      "reviewCount": 73,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/646009329.jpg?k=6c2964997ed4e975b4a710f9b3ae84940214669a71cac7431053c8295a49d9a7&o=",
+      "distanceNote": "약 119.32m · 스완 힐역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 73건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.4</b> · 실제 투숙객 리뷰 73건 기반.",
+      "reviews": [
+        {
+          "text": "Free hassle of check in motel.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Resolved my issue immediately.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Friendly family accommodation",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Nice and friendly staff.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Perfect service.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "HOSTS offer HOME STAY on HIGH Queen Bed -Private Home -Private Bathroom",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/80-high-street-swan-hill/hotel/all/swan-hill-au.html?cid=1925461",
+      "walkMin": 8,
+      "score": 9.3,
+      "reviewCount": 57,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/606728692.jpg?k=b0ab6bb3751fa8e9c9896035f23e432b0c3132d6d0ffc77597ce121cfea9aa75&o=",
+      "distanceNote": "약 662.88m · 스완 힐역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 57건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 57건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "썬 센터 모텔 (Sun Centre Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sun-centre-motel/hotel/swan-hill-au.html?cid=1925461",
+      "walkMin": 17,
+      "score": 8.2,
+      "reviewCount": 758,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/344567/-1/a32db19ccc9fc16a7357c8362afd7bbd.jpg?va=1&ca=27&ce=0",
+      "distanceNote": "약 1393.7m · 스완 힐역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 758건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 758건 기반.",
+      "reviews": [
+        {
+          "text": "I'll always coming back here whenever I go to swan hill",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "The team at Sun Centre were very friendly and helpful.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Sun Centre Motel covered all of our needs and more.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Lovely clean and quiet room with breakfast",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Great value for money perfect stop for our long car journey!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "budget",
+    "base": "australia-swan-hill",
+    "count": 6,
+    "builtAt": "2026-08-26T02:53:51.455Z"
+  }
+}
