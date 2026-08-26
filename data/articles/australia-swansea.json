@@ -1,0 +1,403 @@
+{
+  "slug": "australia-swansea",
+  "title": "스완지 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 스완지 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "swansea-au",
+  "cityName": "스완지",
+  "cityId": 17221,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "스완지",
+  "heroImg": "https://pix8.agoda.net/hotelImages/211596/-1/cb34872d558e60fe88132e0c696e0c7d.jpg?ca=10&ce=1",
+  "heroAlt": "스완지",
+  "heroTitleHtml": "스완지 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>스완씨 모터 인</b>(평점 8.4·리뷰 1,708건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Waterloo Beach 도보 3분</b>의 <b>스완씨 비치 찰렛</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/211596/-1/cb34872d558e60fe88132e0c696e0c7d.jpg?ca=10&ce=1",
+  "outroTitle": "🌙 스완지, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 스완지 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 스완지 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "스완씨 모터 인 (Swansea Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/swansea-motor-inn/hotel/swansea-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8.4,
+      "reviewCount": 1708,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/211596/-1/cb34872d558e60fe88132e0c696e0c7d.jpg?ca=10&ce=1",
+      "distanceNote": "약 458.33m · Waterloo Beach 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 1,708건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 1,708건 기반.",
+      "reviews": [
+        {
+          "text": "Lovely clean quiet room looking out on the sea.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "We had a great time here, nice and comfy with a good price",
+          "score": "10",
+          "country": "澳洲",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "We had 2 rooms, very clean and comfortable.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Centrally located, near to restaurants and supermarket.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Staff were great, so friendly and helpful.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "스완씨 백패커 (Swansea Backpackers)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/swansea-backpackers/hotel/swansea-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 6.9,
+      "reviewCount": 140,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/338899/0/93c2a3e52fd9c39554cd3ce4c4737c58.jpeg?ce=0",
+      "distanceNote": "약 407.77m · Waterloo Beach 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 140건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>6.9</b> · 실제 투숙객 리뷰 140건 기반.",
+      "reviews": [
+        {
+          "text": "Beyond expectations for a backpackers/hostel.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "There's a very well equipped kitchen and common room.",
+          "score": "7.6",
+          "country": "United Kingdom",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "We had a family room to ourselves which worked well.",
+          "score": "7.6",
+          "country": "United Kingdom",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Close to local bar and restaurant options.",
+          "score": "8.8",
+          "country": "United Kingdom",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "First time at a backpackers and won’t be the last.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "스완씨 비치 찰렛 (Swansea Beach Chalets)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/swansea-beach-chalets/hotel/swansea-au.html?cid=1925461",
+      "walkMin": 3,
+      "score": 9.2,
+      "reviewCount": 2558,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/178508/0/9bfa808d2aea2553496cc6174834d0ce.jpeg?ce=0",
+      "distanceNote": "약 203.94m · Waterloo Beach 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 2,558건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 2,558건 기반.",
+      "reviews": [
+        {
+          "text": "Perfect location to stay and visit the local area.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Staff were amazing and the unit was clean and well stocked.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The cabin was clean, modern and spacious.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Kitchen was available for cooking and it was well equipped.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "View from beachfront chalet was exceptional.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "프레이시네트 워터 (Freycinet Waters)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/freycinet-waters/hotel/swansea-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 9.5,
+      "reviewCount": 181,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/286312/0/e050910594639665fd83361257626b69.jpeg",
+      "distanceNote": "약 368.87m · Waterloo Beach 인근",
+      "metaTags": [
+        "📝 리뷰 181건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 181건 기반.",
+      "reviews": [
+        {
+          "text": "Lovely host, food, rooms and amenities! Very affordable!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "My stay at Freycinet Waters was absolutely wonderful.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Amazing hospitality and pristinely clean property",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Excellent breakfast and knowledgeable and helpful host.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Friendly and made to feel 100% welcome.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Belmont Homestead",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/belmont-homestead_2/hotel/all/swansea-au.html?cid=1925461",
+      "walkMin": 67,
+      "score": 9.3,
+      "reviewCount": 215,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/198717594.jpg?k=71efcfe22079fe56b1780196aa0d4a2b12290166929a4d8569bb76786b39df86&o=",
+      "distanceNote": "약 5385.32m · Waterloo Beach 인근",
+      "metaTags": [
+        "📝 리뷰 215건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 215건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Swansea Holiday Park Tasmania",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/swansea-holiday-park-tasmania/hotel/all/swansea-au.html?cid=1925461",
+      "walkMin": 11,
+      "score": 8.6,
+      "reviewCount": 1750,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/574903352.jpg?k=68dc35381e5c55ecf71b1aebaaa65cd03f3fad57c9d8263494f895bdfd404306&o=",
+      "distanceNote": "약 901.38m · Waterloo Beach 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 1,750건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,750건 기반.",
+      "reviews": [
+        {
+          "text": "Great value, really clean, friendly staff and good views.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Neat and tidy park, with all the facilities that are needed.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Great shower and very clean cabin ,will stay there again",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Perfect seaside location and excellent customer service.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Bedrooms are small with a double bed, but comfy and quiet.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "스완시 워터루 인 (Swansea Waterloo Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/swansea-waterloo-inn/hotel/swansea-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8.6,
+      "reviewCount": 1059,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/463135/0/b06d2c26a9511f6edef757ac0eb2c153.jpeg",
+      "distanceNote": "약 495.75m · Waterloo Beach 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 1,059건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,059건 기반.",
+      "reviews": [
+        {
+          "text": "Friendly staff, room clean and have good views",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Rooms were quiet and roomy with a balcony cosy",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Large clean room with beautiful view of the ocean.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Great location, large room, clean and beds were comfortable",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "A clean & fantastic view motel in this area.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-26T08:54:08.046Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
