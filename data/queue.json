@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-26T05:44:04.803Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 5,
+  "lastPostedAt": "2026-08-26T07:13:09.412Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 6,
   "postedDate": "2026-08-26",
   "queue": [
-    "australia-swan-hill",
     "australia-swan-hill-rating",
     "australia-swan-hill-station",
     "australia-swan-hill-budget",
@@ -614,6 +613,7 @@
     "australia-thredbo-village-rating",
     "australia-thredbo-village-station",
     "australia-thredbo-village-reviewed",
-    "australia-smithton"
+    "australia-smithton",
+    "australia-swan-hill"
   ]
 }
