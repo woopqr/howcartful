@@ -8,7 +8,11 @@
     "australia-swan-hill-station",
     "australia-swan-hill-budget",
     "australia-swan-hill-reviewed",
-    "australia-swansea"
+    "australia-swansea",
+    "australia-swansea-rating",
+    "australia-swansea-station",
+    "australia-swansea-star4",
+    "australia-swansea-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
