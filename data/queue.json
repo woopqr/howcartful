@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-26T12:18:55.469Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 10,
-  "postedDate": "2026-08-26",
+  "lastPostedAt": "2026-08-27T05:06:56.199Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-08-27",
   "queue": [
-    "australia-swansea",
     "australia-swansea-rating",
     "australia-swansea-station",
     "australia-swansea-star4",
@@ -619,6 +618,7 @@
     "australia-swan-hill-rating",
     "australia-swan-hill-station",
     "australia-swan-hill-budget",
-    "australia-swan-hill-reviewed"
+    "australia-swan-hill-reviewed",
+    "australia-swansea"
   ]
 }
