@@ -1,0 +1,168 @@
+{
+  "slug": "australia-scotts-head",
+  "title": "스코츠 헤드 가성비 호텔 3곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 스코츠 헤드 가성비 호텔 3곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "스코츠 헤드",
+  "cityId": 709486,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "스코츠 헤드",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/307739359.jpg?k=052dcd58a5dd2572f5f4fd1da05b46a347e6a810831b8945c97927475f135a63&o=",
+  "heroAlt": "스코츠 헤드",
+  "heroTitleHtml": "스코츠 헤드 가성비 호텔 3곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Jabiru Motel</b>(평점 8.7·리뷰 775건·1박 약 16만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Jabiru Motel</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/307739359.jpg?k=052dcd58a5dd2572f5f4fd1da05b46a347e6a810831b8945c97927475f135a63&o=",
+  "outroTitle": "🌙 스코츠 헤드, 어디에 묵어도 후회없이",
+  "outroText": "위 3곳은 모두 스코츠 헤드 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 스코츠 헤드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Jabiru Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/jabiru-motel/hotel/all/nambucca-heads-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 775,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/307739359.jpg?k=052dcd58a5dd2572f5f4fd1da05b46a347e6a810831b8945c97927475f135a63&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 775건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 775건 기반.",
+      "reviews": [
+        {
+          "text": "The owners are so friendly & very obliging & careing.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Very quiet and clean with excellent staff.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Stay here on a regular basis when visiting Nambucca heads",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "This is a great little motel in a very handy spot,",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Lovely motel, and great host!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Beach Vibes Accommodation",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beach-vibes-accommodation/hotel/all/scotts-head-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 97,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/688789526.jpg?k=f08552e75b8791d36101d2bcb5ea7fe8fb9978c633a5046cc44a6b7d02ce0fcb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 97건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 97건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "만다린 모텔 (Mandarin Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mandarin-motel/hotel/macksville-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 742,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/19466756.jpg?k=7b591d4ce538c0a1df78ef2dd4113ab074e0c87a0e3e1ce75d2ac31f9e041666&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 742건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 742건 기반.",
+      "reviews": [
+        {
+          "text": "Very comfortable room and spacious too.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Rooms were quite nice and the location is excellent.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Had a good night's sleep before driving back to Brisbane.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Nice, clean motel with comfortable beds and pillows.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Great service and cleaniness",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-27T16:27:48.350Z",
+    "source": "agoda citySearch",
+    "count": 3
+  }
+}

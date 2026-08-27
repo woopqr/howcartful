@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-27T05:06:56.199Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 1,
+  "lastPostedAt": "2026-08-27T16:27:42.834Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 2,
   "postedDate": "2026-08-27",
   "queue": [
-    "australia-swansea-rating",
     "australia-swansea-station",
     "australia-swansea-star4",
-    "australia-swansea-reviewed"
+    "australia-swansea-reviewed",
+    "australia-scotts-head"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 338,
+    "cityIndex": 339,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -619,6 +619,7 @@
     "australia-swan-hill-station",
     "australia-swan-hill-budget",
     "australia-swan-hill-reviewed",
-    "australia-swansea"
+    "australia-swansea",
+    "australia-swansea-rating"
   ]
 }
