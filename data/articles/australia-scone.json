@@ -1,0 +1,294 @@
+{
+  "slug": "australia-scone",
+  "title": "스콘 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 스콘 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "스콘",
+  "cityId": 7897,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "스콘",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/117651074.jpg?k=a491d0de04f78ee23112d0c3621abc509d6c6db610c5a7da96b451aaf29e1fb4&o=",
+  "heroAlt": "스콘",
+  "heroTitleHtml": "스콘 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Isis Motel Scone</b>(평점 9.2·리뷰 44건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>스콘역 도보 2분</b>의 <b>Royal Hotel Motel</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/117651074.jpg?k=a491d0de04f78ee23112d0c3621abc509d6c6db610c5a7da96b451aaf29e1fb4&o=",
+  "outroTitle": "🌙 스콘, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 스콘 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 스콘 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Isis Motel Scone",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/isis-motel-scone_2/hotel/all/scone-au.html?cid=1925461",
+      "walkMin": 14,
+      "score": 9.2,
+      "reviewCount": 44,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/117651074.jpg?k=a491d0de04f78ee23112d0c3621abc509d6c6db610c5a7da96b451aaf29e1fb4&o=",
+      "distanceNote": "약 1150.39m · 스콘역 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 44건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 44건 기반.",
+      "reviews": [
+        {
+          "text": "All was as described, comfortable bed & great shower.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "A well cared for motel room, extra helpful staff",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "It's clean and comfortable and the shower - Amazing !!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The location is amazing with so many facilities close by.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Will definitely stay here again next time",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Royal Hotel Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/royal-hotel/hotel/scone-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 7,
+      "reviewCount": 32,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/287/28711680/28711680_211028094200107334705.jpg?va=1",
+      "distanceNote": "약 159.35m · 스콘역 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 32건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7</b> · 실제 투숙객 리뷰 32건 기반.",
+      "reviews": [
+        {
+          "text": "Rooms are clean, furnished nicely,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Rooms were clean, everything you'd expect.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Rooms are nicely updated and for a good price.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "I would stay here again",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Great chef meals, friendly accommodating staff.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "스트라시안 파크 로지 (Strathearn Park Lodge)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/strathearn-park-lodge/hotel/scone-au.html?cid=1925461",
+      "walkMin": 67,
+      "score": 9.5,
+      "reviewCount": 254,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/608024/-1/14c58566c4728548bc00e28b052835f6.jpg?va=1&ca=0&ce=1",
+      "distanceNote": "약 5369.41m · 스콘역 인근",
+      "metaTags": [
+        "📝 리뷰 254건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 254건 기반.",
+      "reviews": [
+        {
+          "text": "I had a comfortable stay and was made to feel very welcome.",
+          "score": "8.8",
+          "country": "South Africa",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "My room was beautiful and very clean.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Lyn and Peter have thought of everything with this place.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "We absolutely loved our stay at Strathearn Park Lodge!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "We had a very relaxing stay at strathearn park lodge.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Scone Motor Inn & Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/scone-motor-inn-apartments/hotel/all/scone-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 9.1,
+      "reviewCount": 386,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/714223899.jpg?k=0f62bb260aa28ec4831c383e46b86421df1f659c59ca444fafbe9ffcaa6e9380&o=",
+      "distanceNote": "약 379.55m · 스콘역 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 386건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 386건 기반.",
+      "reviews": [
+        {
+          "text": "Best bed I've ever slept in though.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Beds terrific",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Gunsynd Studio Apartment",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/gunsynd-studio-apartment/hotel/all/scone-au.html?cid=1925461",
+      "walkMin": 36,
+      "score": 9.2,
+      "reviewCount": 112,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/456942283.jpg?k=ca5230a07b6145318194e977c0a2d5d0d265b79f207cfdd49315c41d47fda5f1&o=",
+      "distanceNote": "약 2846.1m · 스콘역 인근",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 112건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 112건 기반.",
+      "reviews": [
+        {
+          "text": "Lovely studio with all ammenities!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Great and convenient place",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "We had a great experience!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Really recommend this place!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-29T23:17:57.054Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}
