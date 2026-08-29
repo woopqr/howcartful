@@ -1,14 +1,16 @@
 {
-  "lastPostedAt": "2026-08-29T10:31:04.043Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 2,
+  "lastPostedAt": "2026-08-29T15:16:14.710Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 3,
   "postedDate": "2026-08-29",
   "queue": [
-    "australia-scamander-rating",
     "australia-scamander-station",
     "australia-scamander-reviewed",
-    "australia-scottsdale"
+    "australia-scottsdale",
+    "australia-scottsdale-rating",
+    "australia-scottsdale-station",
+    "australia-scottsdale-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -625,6 +627,7 @@
     "australia-swansea-star4",
     "australia-swansea-reviewed",
     "australia-scotts-head",
-    "australia-scamander"
+    "australia-scamander",
+    "australia-scamander-rating"
   ]
 }
