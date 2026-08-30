@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-30T19:29:35.498Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 5,
+  "lastPostedAt": "2026-08-30T22:00:06.308Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 6,
   "postedDate": "2026-08-30",
   "queue": [
-    "australia-stanley-rating",
     "australia-stanley-station",
     "australia-stanley-premium",
     "australia-stanley-star4",
@@ -635,6 +634,7 @@
     "australia-scottsdale-station",
     "australia-scottsdale-reviewed",
     "australia-scone",
-    "australia-stanley"
+    "australia-stanley",
+    "australia-stanley-rating"
   ]
 }
