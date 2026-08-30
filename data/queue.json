@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-29T23:17:46.377Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 6,
-  "postedDate": "2026-08-29",
+  "lastPostedAt": "2026-08-30T01:18:24.831Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 1,
+  "postedDate": "2026-08-30",
   "queue": [
-    "australia-scottsdale-rating",
     "australia-scottsdale-station",
     "australia-scottsdale-reviewed",
-    "australia-scone"
+    "australia-scone",
+    "australia-stanley"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 342,
+    "cityIndex": 343,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -629,6 +629,7 @@
     "australia-scamander-rating",
     "australia-scamander-station",
     "australia-scamander-reviewed",
-    "australia-scottsdale"
+    "australia-scottsdale",
+    "australia-scottsdale-rating"
   ]
 }

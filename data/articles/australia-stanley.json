@@ -1,0 +1,390 @@
+{
+  "slug": "australia-stanley",
+  "title": "스탠리 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 스탠리 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "스탠리",
+  "cityId": 19408,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "스탠리",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/666050074.jpg?k=cfc85aa27b0bbf6ccf07862209ca33ce407395cd2714527ca829a00f09f711fb&o=",
+  "heroAlt": "스탠리",
+  "heroTitleHtml": "스탠리 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Mariner Rose B&B</b>(평점 9.9·리뷰 365건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Mariner Rose B&B</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/666050074.jpg?k=cfc85aa27b0bbf6ccf07862209ca33ce407395cd2714527ca829a00f09f711fb&o=",
+  "outroTitle": "🌙 스탠리, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 스탠리 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 스탠리 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Mariner Rose B&B",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mariner-rose-b-b/hotel/all/stanley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.9,
+      "reviewCount": 365,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/666050074.jpg?k=cfc85aa27b0bbf6ccf07862209ca33ce407395cd2714527ca829a00f09f711fb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 365건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.9</b> · 실제 투숙객 리뷰 365건 기반.",
+      "reviews": [
+        {
+          "text": "Cozy with good breakfast",
+          "score": "10",
+          "country": "澳大利亚",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "We had good time here",
+          "score": "10",
+          "country": "澳大利亚",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "The Old Bank Stanley",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-old-bank-stanley/hotel/all/stanley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 133,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/577374296.jpg?k=869eea53bfd39d0416d7d6924662ce974bb43702130e2f858299f2fad929c784&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 133건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 133건 기반.",
+      "reviews": [
+        {
+          "text": "Good location",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Stanley Holiday Houses a collection of distinctive, self-contained properties in Stanley in various ",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/stanley-holiday-houses/hotel/all/stanley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 319,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/730472084.jpg?k=0f511ddb9fce17c3b9de7de7da2e03bf0d9b93025b4ff9af7321badbda04ec2e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 319건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 319건 기반.",
+      "reviews": [
+        {
+          "text": "Great views",
+          "score": "9.6",
+          "country": "中国",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The house is very big with good facilities!",
+          "score": "10",
+          "country": "澳大利亚",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "A perfect staycation",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Stunning sea view",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Nice sea view",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Stanley Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/stanley-hotel-apartments_3/hotel/all/stanley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 1098,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/property/3128762/0/7e98a88ec536962e64fbc6a908a27304.jpeg?va=1&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 1,098건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,098건 기반.",
+      "reviews": [
+        {
+          "text": "This is the best place to stay right in the centre of town.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Cute & cosy cottage in a picture perfect pretty location",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Amazing historic hotel on the main street of Stanley.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Nice hotel & ready to get to all sightseeing points.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Quiet, comfy and with a balcony to watch the sunset.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "BIG4 Tassie Getaway Park Stanley",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-stanley-holiday-park_4/hotel/all/stanley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 919,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/479093242.jpg?k=fbb997eb203e0b9e21913d2286685046f9c05bb178573e05a6c1ca8e91d893e3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 919건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 919건 기반.",
+      "reviews": [
+        {
+          "text": "What a great location, friendly staff excellent facilities",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "The location is perfect, 6mins walk to Hursey Seafood.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Staff excellent, properly very neat and well laid out.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Nice location, good view, cute but functional cabin~",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Our room gave us a great view of the nut.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Angel's Aisle Cottages",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/touchwood-cottages/hotel/stanley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 65,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/546138/0/8125d8772bea7da92797ac77972c15b5.png?va=1&ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 65건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 65건 기반.",
+      "reviews": [
+        {
+          "text": "The location is fantastic, walking distance to everywhere.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Best accommodation we have had in Tasmania.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Everything to need for a great comfortable stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Vintage style with a comfortable living room and bedroom",
+          "score": "8.8",
+          "country": "中國香港",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "All set up beautifully- old cottage with a modern touch.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Stanley Lakeside Spa Cabins",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/stanley-lakeside-spa-cabins/hotel/stanley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 141,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/58821981/0/3e6673be84ff83f39079eb731b7c9042.jpeg?va=1&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 141건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 141건 기반.",
+      "reviews": [
+        {
+          "text": "Tranquil, secluded, our own jetty, view of the pretty lake.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Nice quiet spot with plenty of space",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "The cabin was very well equipped, clean and comfortable.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Lovely clean cabin that our family of 4 enjoyed.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Extremely beautiful and cosy cabin.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-30T01:18:38.081Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
