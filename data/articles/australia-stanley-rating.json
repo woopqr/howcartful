@@ -1,0 +1,328 @@
+{
+  "slug": "australia-stanley-rating",
+  "angle": "rating",
+  "angleAdj": "평점 높은",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "스탠리",
+  "cityId": 19408,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "스탠리",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/666050074.jpg?k=cfc85aa27b0bbf6ccf07862209ca33ce407395cd2714527ca829a00f09f711fb&o=",
+  "heroAlt": "스탠리",
+  "heroSub": "실제 아고다 리뷰로 스탠리의 평점 높은 숙소를 추렸습니다",
+  "verdictHtml": "평점 높은 기준 1순위는 <b>Mariner Rose B&B</b>입니다 (평점 9.9·리뷰 365건·1박 가격 변동). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/666050074.jpg?k=cfc85aa27b0bbf6ccf07862209ca33ce407395cd2714527ca829a00f09f711fb&o=",
+  "outroTitle": "🌙 스탠리, 평점 높은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 스탠리 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Mariner Rose B&B",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mariner-rose-b-b/hotel/all/stanley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.9,
+      "reviewCount": 365,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/666050074.jpg?k=cfc85aa27b0bbf6ccf07862209ca33ce407395cd2714527ca829a00f09f711fb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 365건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.9</b> · 실제 투숙객 리뷰 365건 기반.",
+      "reviews": [
+        {
+          "text": "Cozy with good breakfast",
+          "score": "10",
+          "country": "澳大利亚",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "We had good time here",
+          "score": "10",
+          "country": "澳大利亚",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "The Inlet Stanley",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-inlet-stanley/hotel/all/stanley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 401,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 30만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/442814404.jpg?k=339deeb6c51ea37688c79f02bf09a49f3f6e59aaddce85649e4bf278241d3fb0&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 30만원",
+        "📝 리뷰 401건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 401건 기반.",
+      "reviews": [
+        {
+          "text": "Clean, well designed, awesome location and helpful hosts.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The place is clean, cozy and comfortable to stay.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "This property exceeded my expectations.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Private with comfortable bed and couch.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Absolutely Stunning",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Church Street Villas",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/church-street-villas/hotel/all/stanley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 236,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/861740070.jpg?k=1b6476501b2370ae1850598fb26faea6b4227ac13682f20d122c0c9e48df360b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 236건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 236건 기반.",
+      "reviews": [
+        {
+          "text": "Great place to stay",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The villa was very clean, cozy and well decorated,.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Clean, spacious and conveniently located.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The house is clean, pleasant and quiet.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Love the place.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Noah's Stanley Luxury Bed and Breakfast",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/noah-s-stanley-luxury-bed-and-breakfast/hotel/all/stanley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 153,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 29만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/158322535.jpg?k=ee93caf317b7041ca9fcd7ad06f387fb01cd3d6e913b5d3ec1d441c135158f29&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 29만원",
+        "📝 리뷰 153건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 153건 기반.",
+      "reviews": [
+        {
+          "text": "Nice place to stay.",
+          "score": "10",
+          "country": "China",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Perfect stay",
+          "score": "10",
+          "country": "China",
+          "date": "2022.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "The Old Bank Stanley",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-old-bank-stanley/hotel/all/stanley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 133,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/577374296.jpg?k=869eea53bfd39d0416d7d6924662ce974bb43702130e2f858299f2fad929c784&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 133건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 133건 기반.",
+      "reviews": [
+        {
+          "text": "Good location",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "LuCo House Stanley",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/luco-house-stanley/hotel/all/stanley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 62,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 33만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/527433011.jpg?k=15c0bd3be9d1c023bacbe721343fa644605bb9ed736b7ff6b59889828f1e9216&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 33만원",
+        "📝 리뷰 62건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 62건 기반.",
+      "reviews": [
+        {
+          "text": "Fully equipped, clean accommodations, good location",
+          "score": "10",
+          "country": "澳洲",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Love this house.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Everything are so nice.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Nice home to stay",
+          "score": "10",
+          "country": "澳洲",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "베이뷰 게스트하우스 (Bayview Guesthouse)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bayview-guesthouse/hotel/stanley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 167,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 41만원",
+      "valueIndex": 5.3,
+      "img": "//pix8.agoda.net/hotelImages/624186/0/db84ee9396e7e98346bf89d40294aeb3.jpeg?va=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 41만원",
+        "📝 리뷰 167건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 167건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "rating",
+    "base": "australia-stanley",
+    "count": 7,
+    "builtAt": "2026-08-30T06:47:32.321Z"
+  }
+}
