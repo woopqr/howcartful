@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-08-31T11:52:36.673Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 3,
+  "lastPostedAt": "2026-08-31T18:18:49.552Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 4,
   "postedDate": "2026-08-31",
   "queue": [
-    "australia-stanley-reviewed",
     "australia-stanthorpe",
     "australia-stanthorpe-rating",
     "australia-stanthorpe-station",
@@ -642,6 +641,7 @@
     "australia-stanley-rating",
     "australia-stanley-station",
     "australia-stanley-premium",
-    "australia-stanley-star4"
+    "australia-stanley-star4",
+    "australia-stanley-reviewed"
   ]
 }
