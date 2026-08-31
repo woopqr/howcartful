@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-08-30T22:00:06.308Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 6,
-  "postedDate": "2026-08-30",
+  "lastPostedAt": "2026-08-31T00:23:01.726Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 1,
+  "postedDate": "2026-08-31",
   "queue": [
-    "australia-stanley-station",
     "australia-stanley-premium",
     "australia-stanley-star4",
-    "australia-stanley-reviewed"
+    "australia-stanley-reviewed",
+    "australia-stanthorpe"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 343,
+    "cityIndex": 345,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -25,7 +25,8 @@
       709701,
       719612,
       512953,
-      718483
+      718483,
+      142681
     ]
   },
   "publishedSlugs": [
@@ -635,6 +636,7 @@
     "australia-scottsdale-reviewed",
     "australia-scone",
     "australia-stanley",
-    "australia-stanley-rating"
+    "australia-stanley-rating",
+    "australia-stanley-station"
   ]
 }

@@ -1,0 +1,417 @@
+{
+  "slug": "australia-stanthorpe",
+  "title": "스탠소프 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 스탠소프 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "stanthorpe-au",
+  "cityName": "스탠소프",
+  "cityId": 1517,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "스탠소프",
+  "heroImg": "https://pix8.agoda.net/hotelImages/339862/0/36020ba6910b472ddac3efe2fd67ac2a.jpeg?ce=0",
+  "heroAlt": "스탠소프",
+  "heroTitleHtml": "스탠소프 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>보울레바드 모텔</b>(평점 8.7·리뷰 1,055건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>보울레바드 모텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/339862/0/36020ba6910b472ddac3efe2fd67ac2a.jpeg?ce=0",
+  "outroTitle": "🌙 스탠소프, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 스탠소프 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 스탠소프 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "보울레바드 모텔 (Boulevard Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/boulevard-motel/hotel/stanthorpe-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 1055,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/339862/0/36020ba6910b472ddac3efe2fd67ac2a.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,055건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,055건 기반.",
+      "reviews": [
+        {
+          "text": "Location is great easy walk to shops cafes etc.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Thankyou for the stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Stunning sightview through the big window",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Clean bathrooms and bed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Good price for family",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "High Street Motor Inn & Steakhouse",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/high-street-motor-inn_2/hotel/all/stanthorpe-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 666,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/884575101.jpg?k=c507338ccf2eb3f1e639d6b03b94ad6d2848120be0f6cfb8bdd00c88b72f83d8&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 666건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 666건 기반.",
+      "reviews": [
+        {
+          "text": "I ate there two nights, and it was sensational both nights.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Smart TV allowed us to use our Netflix login.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "If I was a local I would eat at this restaurant often!",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Very comfy bed and pillows. Absolutely lovely bedding",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Clean rooms lovely staff and the restaurant is to die for.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Granite Gardens Cottages & Lake Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/granite-gardens-cottages-lake-retreat/hotel/all/thorndale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 220,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/815215550.jpg?k=516e7a44f6b5cc0fec143e1b5a3852a090fd26602c0e2bc32d699443b01efc38&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 220건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 220건 기반.",
+      "reviews": [
+        {
+          "text": "Two nights staying was so memorable for us.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Best vacation place for couples",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Certainly we will visit again!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "애플 앤 그레이프 모텔 (Apple & Grape Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/apple-grape-motel/hotel/stanthorpe-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 1576,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/396345/0/97d609fc62a8fe56e18e7108296c8af3.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 1,576건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 1,576건 기반.",
+      "reviews": [
+        {
+          "text": "Perfect location near all bars, restaurants and shops.",
+          "score": "10",
+          "country": "Papua New Guinea",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Super comfortable bed, well appointed motel style room.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "We highly recommend this gem in the town of Stanthorpe.",
+          "score": "9.6",
+          "country": "澳洲",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Amazing room and facilities close to pub and shops.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Nice sized room, even very comfortablely fit in a portacot.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Country Club Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/country-club-motel/hotel/all/stanthorpe-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 55,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/847957976.jpg?k=06105f4fec79e10c19c5c40d7bf7c2eb639e55da30954a3d7e0c4542472c36b4&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 55건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 55건 기반.",
+      "reviews": [
+        {
+          "text": "Good location , walk to shops and woolworths.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Beds were comfortable",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Clean rooms.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Good location",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "아주르 스튜디오 리트리트 (Azjure Studio Retreat)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/azjure-studio-retreat/hotel/stanthorpe-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 115,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/263902/0/402050c1d3d7462a7fefa778fed5b7d0.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 115건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 115건 기반.",
+      "reviews": [
+        {
+          "text": "Cabin is well set up with all required amenities.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "The most amazing of this retreat is their big bath tub.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The spa was great and the view was lovely!!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Cosy and clean, very comfortable to stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Lovely appointed cabin in a very peaceful setting.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Granite Belt Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/granite-belt-motel/hotel/all/stanthorpe-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 72,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/302025432.jpg?k=b0db841eba5449f3103ca232011787355cd849906ae9146779f76263131a8181&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 72건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 72건 기반.",
+      "reviews": [
+        {
+          "text": "Rooms were recently renovated and very clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Very comfortable accomodation with modern decor.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Newly decorated with a comfy bed and nice decor.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Probably the most comfortable bed i have ever slept on !",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Beautiful clean rooms, comfortable beds, wonderful staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-31T00:23:19.960Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
