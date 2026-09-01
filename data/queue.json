@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-01T19:30:57.089Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 5,
+  "lastPostedAt": "2026-09-01T21:56:42.408Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 6,
   "postedDate": "2026-09-01",
   "queue": [
-    "australia-stockton",
     "australia-stockton-rating",
     "australia-stockton-station",
     "australia-stockton-budget",
@@ -649,6 +648,7 @@
     "australia-stanthorpe-station",
     "australia-stanthorpe-premium",
     "australia-stanthorpe-star4",
-    "australia-stanthorpe-reviewed"
+    "australia-stanthorpe-reviewed",
+    "australia-stockton"
   ]
 }
