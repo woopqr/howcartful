@@ -1,0 +1,439 @@
+{
+  "slug": "australia-stockton-reviewed",
+  "angle": "reviewed",
+  "angleAdj": "후기 많은",
+  "lang": "ko-kr",
+  "citySlug": "newcastle-au",
+  "cityName": "스톡턴",
+  "cityId": 141908,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "스톡턴",
+  "heroImg": "https://pix8.agoda.net/hotelImages/478/478049/478049_16050210140041972828.jpg?ca=6&ce=1",
+  "heroAlt": "스톡턴",
+  "heroSub": "실제 아고다 리뷰로 스톡턴의 리뷰 많은 숙소를 추렸습니다",
+  "verdictHtml": "리뷰 많은 기준 1순위는 <b>노아스 온 더 비치</b>입니다 (평점 8.8·리뷰 4,794건·1박 가격 변동). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/478/478049/478049_16050210140041972828.jpg?ca=6&ce=1",
+  "outroTitle": "🌙 스톡턴, 리뷰 많은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 스톡턴 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "노아스 온 더 비치 (NOAH'S on the beach)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quality-hotel-noah-s-on-the-beach/hotel/newcastle-au.html?cid=1925461",
+      "walkMin": 63,
+      "score": 8.8,
+      "reviewCount": 4794,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/478/478049/478049_16050210140041972828.jpg?ca=6&ce=1",
+      "distanceNote": "약 5018.04m · Broadmeadow Railway Station 인근",
+      "metaTags": [
+        "📝 리뷰 4,794건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 4,794건 기반.",
+      "reviews": [
+        {
+          "text": "Staff are wonderful and my room was serviced each day.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Best hotel in Newcastle I believe, few steps to the beach..",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Close to everything, staff were great, rooms were clean",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Conveniently located, friendly staff and clean hotel.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Great location, central to cafes and beautiful views",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "리틀 내셔널 호텔 뉴캐슬 (Little National Hotel Newcastle)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/little-national-hotel-newcastle/hotel/newcastle-au.html?cid=1925461",
+      "walkMin": 34,
+      "score": 9.3,
+      "reviewCount": 4389,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/47946447/764218175/c7e5a4d7cf7ec67c1c1ab3402d4eec56.jpg?ce=0",
+      "distanceNote": "약 2714.23m · Broadmeadow Railway Station 인근",
+      "metaTags": [
+        "📝 리뷰 4,389건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 4,389건 기반.",
+      "reviews": [
+        {
+          "text": "Comfy beds, clean rooms and really great amenities.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Fantastic location, friendly staff and stunning hotel.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Hotel was luxurious with great attention to detail.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Hotel was immaculately clean and staff so friendly.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Room was amazing , as was the rest of the property",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "크리스탈브룩 킹슬리 (Crystalbrook Kingsley)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/crystalbrook-kingsley/hotel/newcastle-au.html?cid=1925461",
+      "walkMin": 45,
+      "score": 8.8,
+      "reviewCount": 4260,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 44만원",
+      "valueIndex": 5.1,
+      "img": "//pix8.agoda.net/hotelImages/33426166/1407153583/8a54af681e3091420a35b44c3001cc31.jpg?ce=3",
+      "distanceNote": "약 3575.03m · Broadmeadow Railway Station 인근",
+      "metaTags": [
+        "💰 약 44만원",
+        "📝 리뷰 4,260건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 4,260건 기반.",
+      "reviews": [
+        {
+          "text": "Second time we have stayed and will definitely stay again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Lovely modern yet artful design, wonderfully helpful staff",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Amazing location, brilliant breakfast, gorgeous rooms…",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "You won’t be disappointed by the Kingsley!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "10/10 Can’t recommend the Kingsley enough",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "홀리데이 인 익스프레스 뉴캐슬 바이 IHG (Holiday Inn Express Newcastle By IHG)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/holiday-inn-express-newcastle/hotel/newcastle-au.html?cid=1925461",
+      "walkMin": 30,
+      "score": 8.9,
+      "reviewCount": 4238,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 37만원",
+      "valueIndex": 5.2,
+      "img": "//pix8.agoda.net/hotelImages/550/5500121/5500121_19042515410074022123.jpg?ca=8&ce=1",
+      "distanceNote": "약 2364.61m · Broadmeadow Railway Station 인근",
+      "metaTags": [
+        "💰 약 37만원",
+        "📝 리뷰 4,238건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 4,238건 기반.",
+      "reviews": [
+        {
+          "text": "The room was lovely and clean and the bed very comfortable.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "We had a wonderful stay at this hotel from start to finish.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "With a rate that includes breakfast, it's value for money!",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Always super clean and comfortable with adequate breakfast",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Loved our stay at Holiday Inn Express so much we extended.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "베스트 웨스턴 플러스 아폴로 호텔 뉴캐슬 (Best Western Plus Apollo Hotel Newcastle)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-plus-apollo-international-hotel/hotel/newcastle-au.html?cid=1925461",
+      "walkMin": 61,
+      "score": 8.8,
+      "reviewCount": 4205,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 31만원",
+      "valueIndex": 5.1,
+      "img": "//pix8.agoda.net/hotelImages/2291076/0/e14561a834037611ec9bfdebb092e6c1.jpg?ca=9&ce=1",
+      "distanceNote": "약 4901.44m · Broadmeadow Railway Station 인근",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 4,205건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 4,205건 기반.",
+      "reviews": [
+        {
+          "text": "Thank you to the lady who checked me in and upgraded me.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Comfy bed, friendly staff, clean and spacious room.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Great to stay at, easy to get to everything around Newcastle",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Great accomodation, very clean with very friendly staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Great room with a view of the bush and local wildlife.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "더 이그제큐티브 인 (The Executive Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-executive-inn/hotel/newcastle-au.html?cid=1925461",
+      "walkMin": 23,
+      "score": 8.4,
+      "reviewCount": 3908,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 68만원",
+      "valueIndex": 4.9,
+      "img": "//pix8.agoda.net/hotelImages/4873582/0/0c662436162fb8d3072ccc0f499c44ed.jpeg?ce=3",
+      "distanceNote": "약 1828.58m · Broadmeadow Railway Station 인근",
+      "metaTags": [
+        "💰 약 68만원",
+        "📝 리뷰 3,908건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 3,908건 기반.",
+      "reviews": [
+        {
+          "text": "Rooms are very well laid out, comfortable and practical.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "One of the best hotels we have been to in a while.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "They have everything inside perfect for staycation",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Nice big room with separate lounge area to store suitcases.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Staff friendly rooms very clean and so close to resturants",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "The Lucky Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-lucky-hotel/hotel/newcastle-au.html?cid=1925461",
+      "walkMin": 50,
+      "score": 9,
+      "reviewCount": 3273,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/398266399.jpg?k=211d0e982b74b22d0077c3fbfec5647f4c82db0116f73a25d33a5cb829bb78ac&o=",
+      "distanceNote": "약 3995.42m · Broadmeadow Railway Station 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 3,273건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 3,273건 기반.",
+      "reviews": [
+        {
+          "text": "The room (including bathroom) was so clean as well.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The staff more than helpful in any query we had.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Friendly staff who provides useful information on parking.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "Loved the location with a very clean and tidy room",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "I like stay here good location easy and nice room.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "reviewed",
+    "base": "australia-stockton",
+    "count": 7,
+    "builtAt": "2026-09-01T12:03:39.158Z"
+  }
+}

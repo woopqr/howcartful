@@ -1,14 +1,19 @@
 {
-  "lastPostedAt": "2026-09-01T06:44:37.748Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 2,
+  "lastPostedAt": "2026-09-01T12:03:39.168Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 3,
   "postedDate": "2026-09-01",
   "queue": [
-    "australia-stanthorpe-premium",
     "australia-stanthorpe-star4",
     "australia-stanthorpe-reviewed",
-    "australia-stockton"
+    "australia-stockton",
+    "australia-stockton-rating",
+    "australia-stockton-station",
+    "australia-stockton-budget",
+    "australia-stockton-premium",
+    "australia-stockton-star4",
+    "australia-stockton-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -643,6 +648,7 @@
     "australia-stanley-reviewed",
     "australia-stanthorpe",
     "australia-stanthorpe-rating",
-    "australia-stanthorpe-station"
+    "australia-stanthorpe-station",
+    "australia-stanthorpe-premium"
   ]
 }
