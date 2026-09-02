@@ -1,0 +1,398 @@
+{
+  "slug": "australia-strahan-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "스트라한",
+  "cityId": 15819,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "스트라한",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/64125199.jpg?k=2fd9568ea1b5c13a85d488164e75c527945b4c6aa5e5db929053c51426b08eff&o=",
+  "heroAlt": "스트라한",
+  "heroSub": "실제 아고다 리뷰로 스트라한의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>알로프트 부티크 어코모데이션</b>입니다 (평점 9.5·리뷰 594건·1박 약 24만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/64125199.jpg?k=2fd9568ea1b5c13a85d488164e75c527945b4c6aa5e5db929053c51426b08eff&o=",
+  "outroTitle": "🌙 스트라한, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 스트라한 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "알로프트 부티크 어코모데이션  (Aloft Boutique Accommodation)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/aloft-boutique-accommodation/hotel/all/strahan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 594,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/64125199.jpg?k=2fd9568ea1b5c13a85d488164e75c527945b4c6aa5e5db929053c51426b08eff&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 594건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 594건 기반.",
+      "reviews": [
+        {
+          "text": "Great linen , comfy bed & plenty of fresh towels etc.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Place was spacious, lovely, parking was hassle free.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend Aloft as a base to explore Strahan",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Clean and tidy and absolutely perfect.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Will definitely stay here again if we are back.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "The Crays Accommodation",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-crays-accommodation/hotel/all/strahan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 936,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/286215/0/a04715923cf55da8fa2e2c1e66d9fd82.jpeg?va=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 936건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 936건 기반.",
+      "reviews": [
+        {
+          "text": "Carefully designed and provided with all daily amenities.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "I had a wonderful stay at The Crays Accomodation.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Clean and spacious in a reasonable location for the area.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Fantastic place to stay whilst in Strahan.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Beautiful cozy studio room (disability friendly).",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Risby Cove Boutique Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/risby-cove_2/hotel/all/strahan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 538,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 53만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/790947557.jpg?k=a54cef83446bd017f6568deafe029943c2de4f6aca2599010bfbedc0b25ebcd9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 53만원",
+        "📝 리뷰 538건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 538건 기반.",
+      "reviews": [
+        {
+          "text": "Great location with stunning water views .",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "The food at restaurant was of the best I’ve tasted,",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Great location and the restaurant was outstanding.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The view from the property is stunning,",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "I liked they provided a laundry service (free)",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "프랑클린 매너 (Franklin Manor)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/franklin-manor/hotel/strahan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 51,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 31만원",
+      "valueIndex": 4.9,
+      "img": "//pix8.agoda.net/hotelImages/11866/-1/9f52a368d49772311fa03d68b0cd5884.jpg?va=1&ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 51건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 51건 기반.",
+      "reviews": [
+        {
+          "text": "We found the room clean and roomy with lovely high ceilings.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "The INCLUDED Breakfast was large, fresh and delicious!",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Thank you Franklin Manor we highly recommend to all guests.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "It's a beautiful manor, conveniently situated in Strahan.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "This B&B has the potential to be the best in the area.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "The Quarters",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-quarters/hotel/all/strahan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 226,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 31만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/469594649.jpg?k=02f799c387e9394f0cf0a0e4580508d5f5f2d0431b4794f19abcfcec5c92a85a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 226건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 226건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Marsden Court Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/marsden-court-apartments-now-incorporating-marsden-court-and-sharonlee-strahan-villas/hotel/all/strahan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 436,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/59583316.jpg?k=e56bf00298e4087fba4a5ed56da066ca37584407be9719652ef2f1380ebf97dd&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 436건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 436건 기반.",
+      "reviews": [
+        {
+          "text": "Very clean and feels very homey.",
+          "score": "9.2",
+          "country": "Indonesia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Would recommend this place!",
+          "score": "9.2",
+          "country": "Indonesia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Spacious and delightful",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Comfortable stay.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2023.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Lady Heleena's At Strahan",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lady-heleena-s-at-strahan/hotel/all/strahan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 550,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/401757899.jpg?k=d4cebcd57a630690c47e7a70dce0dcb72e9bdcda4f9606fc3a20818c092a62be&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 550건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 550건 기반.",
+      "reviews": [
+        {
+          "text": "Free parking just right in front of our unit.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "It gives one a feel of staying in a 2 storey home.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Very nice, clean and spacious.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Clean, spacious and homely",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Very good accommodation.",
+          "score": "8",
+          "country": "United Kingdom",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-strahan",
+    "count": 7,
+    "builtAt": "2026-09-02T18:40:46.441Z"
+  }
+}
