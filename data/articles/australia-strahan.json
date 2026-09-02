@@ -1,0 +1,439 @@
+{
+  "slug": "australia-strahan",
+  "title": "스트라한 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 스트라한 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "스트라한",
+  "cityId": 15819,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "스트라한",
+  "heroImg": "https://pix8.agoda.net/hotelImages/286290/0/958ae00112588cac1129938fd37cd7dc.jpeg?va=1&ce=0",
+  "heroAlt": "스트라한",
+  "heroTitleHtml": "스트라한 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Strahan Retreat Holiday Park</b>(평점 8·리뷰 981건·1박 약 6만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Strahan Retreat Holiday Park</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/286290/0/958ae00112588cac1129938fd37cd7dc.jpeg?va=1&ce=0",
+  "outroTitle": "🌙 스트라한, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 스트라한 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 스트라한 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Strahan Retreat Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/strahan-retreat-holiday-park/hotel/all/strahan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 981,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8,
+      "img": "//pix8.agoda.net/hotelImages/286290/0/958ae00112588cac1129938fd37cd7dc.jpeg?va=1&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 981건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 981건 기반.",
+      "reviews": [
+        {
+          "text": "Great location and fantastic staff",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The cabin was large with a fridge & microwave & cooktop.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Microwave was a convection oven, so could cook & grill.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Fantastic stay! it had everything we needed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Very good quality cooking pots. Lots of utensils.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Strahan Beach Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/strahan-beach-tourist-park/hotel/all/strahan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.8,
+      "reviewCount": 932,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 7.8,
+      "img": "//pix8.agoda.net/hotelImages/399295/0/87b63b296588ff41abf4e1ba2293d123.jpeg?va=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 932건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 932건 기반.",
+      "reviews": [
+        {
+          "text": "Good little cabin , with kitchen and close enough to town ..",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Warm and cosy room, I like the interior design.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Cabin had everything we needed for the night .",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "The toilets were clean and hot water was available",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Everything was clean and well stocked.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Strahan Backpackers",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/strahan-backpackers/hotel/all/strahan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.4,
+      "reviewCount": 302,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/411898686.jpg?k=6026b883dedb747305cf813a53e594f529e4a2386bafe92c8498506e297a7f50&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 302건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.4</b> · 실제 투숙객 리뷰 302건 기반.",
+      "reviews": [
+        {
+          "text": "My friend and I enjoyed our over night stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Over all it was warm and cozy and did the job thanks",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Bed was comfortable and room was clean.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Clean and Tidy, comfortable and warm.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "A nice overnight stay",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Castaway Holiday Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/castaway-holiday-apartments/hotel/all/strahan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 667,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/530738100.jpg?k=b8eb5a2ead7bc9ab022a3e489845df2214f62f833fd9272216e8fb181fe875de&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 667건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 667건 기반.",
+      "reviews": [
+        {
+          "text": "It was well equipped and comfortable for our party of 4.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Fully equipped kitchen and very spacious with 2 bedrooms.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Exceptionally clean and well equipped.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "We stayed in a 2-bedroom apartment at Castaway.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "An extremely clean space with 2 bedrooms.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "The Crays Accommodation",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-crays-accommodation/hotel/all/strahan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 936,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/286215/0/a04715923cf55da8fa2e2c1e66d9fd82.jpeg?va=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 936건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 936건 기반.",
+      "reviews": [
+        {
+          "text": "Carefully designed and provided with all daily amenities.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "I had a wonderful stay at The Crays Accomodation.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Clean and spacious in a reasonable location for the area.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Fantastic place to stay whilst in Strahan.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Beautiful cozy studio room (disability friendly).",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "모텔 스트라한 (Motel Strahan)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/motel-strahan/hotel/strahan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 453,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/178502/0/18fcd10d14c3024e46851956bffdbc27.jpg?va=1&ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 453건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 453건 기반.",
+      "reviews": [
+        {
+          "text": "Lots of extras to ensure a comfortable and quality stay!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "The 5 star ratings needs a 6th star just for Motel Strahan.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "What a beautiful stay - very clean, and accommodating.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Lots of little 'extras' in the room and great appliances.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "The double bed was nice and wide and very comfortable.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "휠하우스 아파트먼트 (Wheelhouse Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wheelhouse-apartments/hotel/strahan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 361,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/529145/0/92ee3bc87cce1e1357a5966ed8481701.jpeg?va=1&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 361건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 361건 기반.",
+      "reviews": [
+        {
+          "text": "The location, size, facilities,views and cleanliness.",
+          "score": "8",
+          "country": "United Kingdom",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "We absolutely loved our accommodation!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Nice place to stay, the whole house was very clean and tidy.",
+          "score": "9.6",
+          "country": "澳大利亚",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Absolutely stunning and beautiful Apartments.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Best view of river from upstairs bedroom.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-02T15:10:30.390Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
