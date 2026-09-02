@@ -1,0 +1,213 @@
+{
+  "slug": "australia-strathgordon",
+  "title": "스트라스고든 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 스트라스고든 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "strathgordon-au",
+  "cityName": "스트라스고든",
+  "cityId": 671717,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "스트라스고든",
+  "heroImg": "https://pix8.agoda.net/hotelImages/1043988/-1/a43563b218df7b3e4dd3ae4bfa278f79.jpg?va=1&ca=7&ce=1",
+  "heroAlt": "스트라스고든",
+  "heroTitleHtml": "스트라스고든 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>페더 와일더니스 로지</b>(평점 9.1·리뷰 690건·1박 약 19만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>페더 와일더니스 로지</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/1043988/-1/a43563b218df7b3e4dd3ae4bfa278f79.jpg?va=1&ca=7&ce=1",
+  "outroTitle": "🌙 스트라스고든, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 스트라스고든 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 스트라스고든 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "페더 와일더니스 로지 (Pedder Wilderness Lodge)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pedder-wilderness-lodge/hotel/strathgordon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 690,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/1043988/-1/a43563b218df7b3e4dd3ae4bfa278f79.jpg?va=1&ca=7&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 690건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 690건 기반.",
+      "reviews": [
+        {
+          "text": "We got the budget room and could not fault it.",
+          "score": "10",
+          "country": "Cambodia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "If I go to Tasmania, I will stay there agian.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "We had our evening meal at the restaurant, great food.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Warm, comfy bed, clean facilities.",
+          "score": "10",
+          "country": "Cambodia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Sit back, relax and enjoy the tranquillity.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Maydena Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/maydena-lodge/hotel/all/fitzgerald-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.1,
+      "reviewCount": 145,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/628672947.jpg?k=f58d45824edaf14f0ac8e3a3f90511e297a5269dbda681577a596fe8408e9da0&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 145건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.1</b> · 실제 투숙객 리뷰 145건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "자이언트 테이블 앤 코티지 (Giants Table & Cottages)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/giants-table-cottages/hotel/maydena-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 620,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/property/63275859/0/ca1c644cfb4f0e3f89aea9c232b1448e.jpeg?va=1&ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 620건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 620건 기반.",
+      "reviews": [
+        {
+          "text": "Excellent facilities very homelike, well set out and clean.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Brilliant place to stay ..homely and well equipped",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Very cosy and comfortable with all the modern amenities.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "It is very nicely done up with ample space for bonding.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "I would highly recommend this facility to stay at.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Maydena Mountain Cabins",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/maydena-mountain-cabins_3/hotel/all/maydena-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 295,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/173066456.jpg?k=9bb1fefdc90cc77dd7eac34d497f97b69b55e696e241644d697fdf38a6bd1ac5&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 295건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 295건 기반.",
+      "reviews": [
+        {
+          "text": "The cabin is beautiful",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Cosy moutain getaway",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Brilliant place",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-02T06:15:10.197Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}

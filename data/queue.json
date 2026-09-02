@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-02T01:28:10.357Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 1,
+  "lastPostedAt": "2026-09-02T06:15:03.651Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 2,
   "postedDate": "2026-09-02",
   "queue": [
-    "australia-stockton-budget",
     "australia-stockton-premium",
     "australia-stockton-star4",
-    "australia-stockton-reviewed"
+    "australia-stockton-reviewed",
+    "australia-strathgordon"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 346,
+    "cityIndex": 347,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -649,6 +649,7 @@
     "australia-stanthorpe-reviewed",
     "australia-stockton",
     "australia-stockton-rating",
-    "australia-stockton-station"
+    "australia-stockton-station",
+    "australia-stockton-budget"
   ]
 }
