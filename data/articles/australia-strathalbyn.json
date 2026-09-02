@@ -1,0 +1,110 @@
+{
+  "slug": "australia-strathalbyn",
+  "title": "스트라탈빈 가성비 호텔 2곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 스트라탈빈 가성비 호텔 2곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "strathalbyn-au",
+  "cityName": "스트라탈빈",
+  "cityId": 142682,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "스트라탈빈",
+  "heroImg": "https://pix8.agoda.net/hotelImages/548403/0/4134ea1ade475990aacaefcedef280fd.jpeg?va=1&ce=0",
+  "heroAlt": "스트라탈빈",
+  "heroTitleHtml": "스트라탈빈 가성비 호텔 2곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>스트라스 모텔</b>(평점 9.4·리뷰 507건·1박 약 17만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>스트라스 모텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/548403/0/4134ea1ade475990aacaefcedef280fd.jpeg?va=1&ce=0",
+  "outroTitle": "🌙 스트라탈빈, 어디에 묵어도 후회없이",
+  "outroText": "위 2곳은 모두 스트라탈빈 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 스트라탈빈 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "스트라스 모텔 (Strath Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/strath-motel/hotel/strathalbyn-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 507,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/548403/0/4134ea1ade475990aacaefcedef280fd.jpeg?va=1&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 507건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 507건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "빅토리아 호텔 스트라탈빈 (Victoria Hotel Strathalbyn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/victoria-hotel-strathalbyn/hotel/strathalbyn-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 94,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/680029906.jpg?k=b9d5bf132fffb0bc470101516c088e7c478ee9bc5fc0e8fc925096d8efacfce9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 94건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 94건 기반.",
+      "reviews": [
+        {
+          "text": "Room was clean, comfortable, spacious, & well presented.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "We stayed in a fam spa room, spacious (3 beds) and clean.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Great stay and value for money and very spacious rooms",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Loved the room, spacious and very comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "In the centre of Strathalbyn very quiet, upstairs room.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-02T11:23:56.423Z",
+    "source": "agoda citySearch",
+    "count": 2
+  }
+}
