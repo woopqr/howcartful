@@ -1,0 +1,204 @@
+{
+  "slug": "australia-steels-creek",
+  "title": "스틸스 크릭 가성비 호텔 3곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 스틸스 크릭 가성비 호텔 3곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "스틸스 크릭",
+  "cityId": 719608,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "스틸스 크릭",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/842303378.jpg?k=8792222c4e48d7bb9739d856f98aad850d45fc07467a110bc869619ad676d05e&o=",
+  "heroAlt": "스틸스 크릭",
+  "heroTitleHtml": "스틸스 크릭 가성비 호텔 3곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>De'Vine Escape</b>(평점 8.6·리뷰 826건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>De'Vine Escape</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/842303378.jpg?k=8792222c4e48d7bb9739d856f98aad850d45fc07467a110bc869619ad676d05e&o=",
+  "outroTitle": "🌙 스틸스 크릭, 어디에 묵어도 후회없이",
+  "outroText": "위 3곳은 모두 스틸스 크릭 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 스틸스 크릭 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "De'Vine Escape",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/de-vine-escape/hotel/all/dixons-creek-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 826,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/842303378.jpg?k=8792222c4e48d7bb9739d856f98aad850d45fc07467a110bc869619ad676d05e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 826건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 826건 기반.",
+      "reviews": [
+        {
+          "text": "Such a good place to stay, everything was perfect!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Accomodation was far better than anticipated!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The location and feel of the stay still made it worthwhile.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Would defiantly stay again",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Booked it for wedding accommodation.",
+          "score": "7.6",
+          "country": "Brunei Darussalam",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "야라 밸리 그랜드 호텔 (Yarra Valley Grand Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/yarra-valley-grand-hotel/hotel/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 408,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 30만원",
+      "valueIndex": 5.5,
+      "img": "//pix8.agoda.net/hotelImages/49979/0/95344523d0c26a8a335b577c8e8224fb.jpeg?va=1&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 30만원",
+        "📝 리뷰 408건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 408건 기반.",
+      "reviews": [
+        {
+          "text": "It is included with lovely breakfast and with hot drinks.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Room was clean, bed was comfortable and staff were friendly.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Large quiet rooms friendly staff, and Continental Breakfast.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Absolutely lovely place to stay and staff where brilliant",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Retro look, lovely staff and a perfect Christmas stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "발고우니 에스테이트 바인야드 리조트 앤 스파 (Balgownie Estate Vineyard Resort & Spa)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/balgownie-estate-vineyard-resort-spa/hotel/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 2705,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 77만원",
+      "valueIndex": 5.1,
+      "img": "//pix8.agoda.net/hotelImages/178521/-1/9ff8639f0efc44c616b63ec0873d1f4b.jpg?va=1&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 77만원",
+        "📝 리뷰 2,705건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 2,705건 기반.",
+      "reviews": [
+        {
+          "text": "It offers the comfort and beautiful natural setting.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Balgownie Estate is a gem in the Yarra Valley.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The room was modern, clean and the bed was comfortable.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Overall, it's a very comfy stay and we will come back.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Excellent food, view is absurd, relaxing property.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-03T17:59:54.038Z",
+    "source": "agoda citySearch",
+    "count": 3
+  }
+}

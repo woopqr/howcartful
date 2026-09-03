@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-03T14:31:25.406Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 4,
+  "lastPostedAt": "2026-09-03T17:59:45.310Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 5,
   "postedDate": "2026-09-03",
   "queue": [
-    "australia-strahan-star4",
     "australia-strahan-reviewed",
     "australia-streaky-bay",
-    "australia-strzelecki"
+    "australia-strzelecki",
+    "australia-steels-creek"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 351,
+    "cityIndex": 352,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -659,6 +659,7 @@
     "australia-strahan",
     "australia-strahan-rating",
     "australia-strahan-station",
-    "australia-strahan-premium"
+    "australia-strahan-premium",
+    "australia-strahan-star4"
   ]
 }
