@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-02T23:21:42.022Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 7,
-  "postedDate": "2026-09-02",
+  "lastPostedAt": "2026-09-03T01:13:21.228Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-09-03",
   "queue": [
-    "australia-strahan",
     "australia-strahan-rating",
     "australia-strahan-station",
     "australia-strahan-premium",
@@ -657,6 +656,7 @@
     "australia-stockton-star4",
     "australia-stockton-reviewed",
     "australia-strathgordon",
-    "australia-strathalbyn"
+    "australia-strathalbyn",
+    "australia-strahan"
   ]
 }
