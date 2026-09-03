@@ -1,0 +1,442 @@
+{
+  "slug": "australia-slade-point-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "australia-slade-point",
+  "cityId": 710906,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "australia-slade-point",
+  "heroImg": "https://pix8.agoda.net/hotelImages/551846/0/e468d92b6081d57accd73bea73082335.jpeg?va=1",
+  "heroAlt": "australia-slade-point",
+  "heroSub": "실제 아고다 리뷰로 australia-slade-point의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>라나이 아파트먼트</b>입니다 (평점 9·리뷰 93건·1박 약 25만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/551846/0/e468d92b6081d57accd73bea73082335.jpeg?va=1",
+  "outroTitle": "🌙 australia-slade-point, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 australia-slade-point 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "라나이 아파트먼트 (Lanai Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lanai-apartments/hotel/mackay-au.html?cid=1925461",
+      "walkMin": 58,
+      "score": 9,
+      "reviewCount": 93,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/551846/0/e468d92b6081d57accd73bea73082335.jpeg?va=1",
+      "distanceNote": "약 4642.85m · Ooralea 인근",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 93건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 93건 기반.",
+      "reviews": [
+        {
+          "text": "I always love this hotel when coming to stay in Mackay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Spacious rooms with good facilities and centrally located.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Space for everyone to have there time apart and together.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "It's our second stay and will definitely stay again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Great service and comfortable get away apartments.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "리비에라 맥케이  (Riviera Mackay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/riviera-mackay/hotel/mackay-au.html?cid=1925461",
+      "walkMin": 58,
+      "score": 8.8,
+      "reviewCount": 167,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/1077626/-1/62d3d5fe0962e5c52fbf4ef00ab53cb0.jpg?va=1&ce=0",
+      "distanceNote": "약 4657.74m · Ooralea 인근",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 167건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 167건 기반.",
+      "reviews": [
+        {
+          "text": "Beautiful room great views and very clean and quiet",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "I would definitely recommend staying here again 🙂👍.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Very modern and tidy in a great central location.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Had everything you need you need for a short or long stay.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Very clean, has everything you need.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "만트라 매카이 (Mantra Mackay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/clarion-hotel-mackay-marina/hotel/mackay-au.html?cid=1925461",
+      "walkMin": 122,
+      "score": 8.6,
+      "reviewCount": 218,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.5,
+      "img": "//pix8.agoda.net/hotelImages/89483/-1/8ac9373be689f9bfc4d970e5e61c97c8.jpg?va=1&ca=9&ce=1",
+      "distanceNote": "약 9762.47m · Ooralea 인근",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 218건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 218건 기반.",
+      "reviews": [
+        {
+          "text": "Stay here regularly, the staff always go above and beyond",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "We thoroughly enjoyed our breakfast meals and the pool.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Great view from the balcony of the harbour.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Room was a clean, staff were accommodating",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "1 bedroom unit with balcony, kitchenette and great bathroom.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "오크스 맥케이 리버마키 호텔 (Oaks Mackay Rivermarque Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oaks-rivermarque-hotel/hotel/mackay-au.html?cid=1925461",
+      "walkMin": 57,
+      "score": 8.5,
+      "reviewCount": 236,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/36954601.jpg?k=1780daab37014919881ded671c3a5acfe9e4e0100e28f5d3389a38b1ebc8c10f&o=",
+      "distanceNote": "약 4596.02m · Ooralea 인근",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 236건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 236건 기반.",
+      "reviews": [
+        {
+          "text": "Comfortable bed and great pool area and amenities.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "This is the 2nd time we've stayed and we will be back.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "From all the rooms are clean ,big ,comfy and worry it …",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Grab the big breakfast downstairs, great start to the day",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Had washing machine and drier so good for extended stay.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "오크스 맥케이 칼라일 스위트 (Oaks Mackay Carlyle Suites)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oaks-carlyle-serviced-apartments/hotel/mackay-au.html?cid=1925461",
+      "walkMin": 59,
+      "score": 8.4,
+      "reviewCount": 701,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.4,
+      "img": "//pix8.agoda.net/hotelImages/788364/-1/48d0a634a2b2ae698d67fb04872bd55d.jpg?va=1&ca=0&ce=1",
+      "distanceNote": "약 4722.27m · Ooralea 인근",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 701건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 701건 기반.",
+      "reviews": [
+        {
+          "text": "The staff front desk incredibly helpful.",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "A fantastic stay thanks to fantastic service and staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "She is a great asset to the hotel a lovely person.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "The staff was friendly, and the room was beyond comfortable.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Great room very clean and great staff.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "리지스 맥케이 스위트 (Rydges Mackay Suites)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rydges-mackay-suites/hotel/mackay-au.html?cid=1925461",
+      "walkMin": 57,
+      "score": 8.3,
+      "reviewCount": 1024,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.4,
+      "img": "//pix8.agoda.net/hotelImages/77456/0/5637bdded408966713b04a7f7d6b1042.jpeg?va=1&ce=0",
+      "distanceNote": "약 4536.05m · Ooralea 인근",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 1,024건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 1,024건 기반.",
+      "reviews": [
+        {
+          "text": "Clean room, great layout, friendly efficient staff.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Staff were so professional n friendly, great service",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Overall a pleasant stay with excellent facilities",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Clean modern rooms in a great location",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "My favourite place to stay in mackay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Pacific Sands Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/direct-hotels-pacific-sands/hotel/mackay-au.html?cid=1925461",
+      "walkMin": 75,
+      "score": 7.4,
+      "reviewCount": 1336,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/46856004.jpg?k=56c138293cd280090553a83345e360e8a3932749fa19f97da7b797774f0345b4&o=",
+      "distanceNote": "약 5964.44m · Ooralea 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 1,336건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.4</b> · 실제 투숙객 리뷰 1,336건 기반.",
+      "reviews": [
+        {
+          "text": "Very nicely appointed and comfortable for my short stay.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Great friendly staff and clean and comfortable room",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "We’ve stayed here a few times now and always a great stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Excellent location with gorgeous view of the beach.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Easy access with key left for late check in real good tnx",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-slade-point",
+    "count": 7,
+    "builtAt": "2026-09-03T22:54:01.663Z"
+  }
+}
