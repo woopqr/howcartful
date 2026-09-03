@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-03T10:08:41.818Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 3,
+  "lastPostedAt": "2026-09-03T14:31:25.406Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 4,
   "postedDate": "2026-09-03",
   "queue": [
-    "australia-strahan-premium",
     "australia-strahan-star4",
     "australia-strahan-reviewed",
-    "australia-streaky-bay"
+    "australia-streaky-bay",
+    "australia-strzelecki"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 350,
+    "cityIndex": 351,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -658,6 +658,7 @@
     "australia-strathalbyn",
     "australia-strahan",
     "australia-strahan-rating",
-    "australia-strahan-station"
+    "australia-strahan-station",
+    "australia-strahan-premium"
   ]
 }
