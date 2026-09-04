@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-04T17:06:16.300Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 5,
+  "lastPostedAt": "2026-09-04T19:31:05.527Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 6,
   "postedDate": "2026-09-04",
   "queue": [
-    "australia-slade-point-budget",
     "australia-slade-point-premium",
     "australia-slade-point-star4",
-    "australia-slade-point-reviewed"
+    "australia-slade-point-reviewed",
+    "australia-sydney"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 354,
+    "cityIndex": 355,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -668,6 +668,7 @@
     "australia-steels-creek",
     "australia-slade-point",
     "australia-slade-point-rating",
-    "australia-slade-point-station"
+    "australia-slade-point-station",
+    "australia-slade-point-budget"
   ]
 }
