@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-04T13:42:24.459Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 4,
+  "lastPostedAt": "2026-09-04T17:06:16.300Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 5,
   "postedDate": "2026-09-04",
   "queue": [
-    "australia-slade-point-station",
     "australia-slade-point-budget",
     "australia-slade-point-premium",
     "australia-slade-point-star4",
@@ -668,6 +667,7 @@
     "australia-strzelecki",
     "australia-steels-creek",
     "australia-slade-point",
-    "australia-slade-point-rating"
+    "australia-slade-point-rating",
+    "australia-slade-point-station"
   ]
 }
