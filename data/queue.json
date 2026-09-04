@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-04T05:01:50.815Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 2,
+  "lastPostedAt": "2026-09-04T09:30:42.171Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 3,
   "postedDate": "2026-09-04",
   "queue": [
-    "australia-slade-point",
     "australia-slade-point-rating",
     "australia-slade-point-station",
     "australia-slade-point-budget",
@@ -668,6 +667,7 @@
     "australia-strahan-reviewed",
     "australia-streaky-bay",
     "australia-strzelecki",
-    "australia-steels-creek"
+    "australia-steels-creek",
+    "australia-slade-point"
   ]
 }
