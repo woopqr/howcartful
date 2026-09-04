@@ -1,0 +1,441 @@
+{
+  "slug": "australia-sydney-station",
+  "angle": "station",
+  "angleAdj": "역세권",
+  "lang": "ko-kr",
+  "citySlug": "sydney-au",
+  "cityName": "시드니",
+  "cityId": 14370,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "시드니",
+  "heroImg": "https://pix8.agoda.net/hotelImages/16403544/0/b9d35a9a2670842ee822002f13b2a458.jpg?va=1&ce=3",
+  "heroAlt": "시드니",
+  "heroSub": "실제 아고다 리뷰로 시드니의 역세권 숙소를 추렸습니다",
+  "verdictHtml": "역세권 기준 1순위는 <b>리틀 내셔널 호텔 시드니</b>입니다 (평점 9.2·리뷰 5,324건·1박 가격 변동). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/16403544/0/b9d35a9a2670842ee822002f13b2a458.jpg?va=1&ce=3",
+  "outroTitle": "🌙 시드니, 역세권으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 시드니 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "리틀 내셔널 호텔 시드니 (Little National Hotel Sydney)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/little-national-hotel-sydney/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 1,
+      "score": 9.2,
+      "reviewCount": 5324,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/16403544/0/b9d35a9a2670842ee822002f13b2a458.jpg?va=1&ce=3",
+      "distanceNote": "약 43.34m · 윈야드역 인근",
+      "metaTags": [
+        "📝 리뷰 5,324건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 5,324건 기반.",
+      "reviews": [
+        {
+          "text": "The hotel generally is very clean, modern designed,",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "The hard flooring made the space feel fresher and cleaner.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The rooms are amazing as well as the service and atmosphere.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "This was our third time at the Little National",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "We had a good sleep after a tiring touring day at the city!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "뷰 시드니 (View Sydney)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/north-sydney-harbourview-hotel/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.7,
+      "reviewCount": 9277,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 31만원",
+      "valueIndex": 5.1,
+      "img": "//pix8.agoda.net/hotelImages/42802/0/ec5eb3a87a4c2b601a989bdef735712b.jpg?va=1&ce=3",
+      "distanceNote": "약 44.18m · 노스 시드니역 인근",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 9,277건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 9,277건 기반.",
+      "reviews": [
+        {
+          "text": "It was close to what I needed and everything is a walk away.",
+          "score": "8",
+          "country": "South Korea",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "The rooms have clearly been refurbed and are lovely.",
+          "score": "8.8",
+          "country": "United Kingdom",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "It’s a great base from which to explore this beautiful city.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "It feels like a million bucks with rooms reasonably priced.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Would definitely stay here again next time we are in Sydney",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "스페이스 Q 캡슐 호텔 (Space Q Capsule Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/space-q-capsule-hotel_2/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 1,
+      "score": 7.5,
+      "reviewCount": 1806,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/4950150/0/902216080fa72c65388980322fd3c296.jpeg?va=1&ce=0",
+      "distanceNote": "약 42.24m · Capitol Square 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 1,806건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 1,806건 기반.",
+      "reviews": [
+        {
+          "text": "Good location right in the middle of hay markets/chinatown.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The pods have stood the test of time - safe, comfy and cosy",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Great location, very safe, staff very friendly and helpful.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Stayed at Space Q Hostel and honestly had a great time!",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The capsule room is clean, and staff are very friendly.",
+          "score": "8.8",
+          "country": "China",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "리지스 시드니 공항 (Rydges Sydney Airport Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rydges-sydney-airport-hotel/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.6,
+      "reviewCount": 18210,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 34만원",
+      "valueIndex": 5,
+      "img": "//pix8.agoda.net/hotelImages/443103/0/f70164ccd4674c0defca6ba6b4228176.jpg?va=1&ca=7&ce=1",
+      "distanceNote": "약 164.05m · International Airport 인근",
+      "metaTags": [
+        "💰 약 34만원",
+        "📝 리뷰 18,210건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 18,210건 기반.",
+      "reviews": [
+        {
+          "text": "It's a two-minute walk from Sydney International Airport.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "I will book this property before every international flight.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The hotel is a great option for stay close to the airport.",
+          "score": "8.4",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The staff were friendly and provided excellent service.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The perfect place to stay when having an early flight.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "YHA 시드니 센트럴 (YHA Sydney Central)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sydney-central-yha/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.6,
+      "reviewCount": 13563,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/178359/-1/0d5ac2d62d5aada596b40c1c6dd1adb4.jpg?va=1&ce=0",
+      "distanceNote": "약 143.68m · 시드니 코치 터미널 인근",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 13,563건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 13,563건 기반.",
+      "reviews": [
+        {
+          "text": "A very calm hostel with great facilities & good common area",
+          "score": "10",
+          "country": "British Virgin Islands",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "So clean, comfy bed, and the staff were so friendly.",
+          "score": "10",
+          "country": "British Virgin Islands",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The staffs are very friendly and the room is clean.",
+          "score": "9.2",
+          "country": "オーストラリア",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Prime location as it’s right next to the central station.",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The service was superb and the facilities were complete.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "메이즈 백패커 (Maze Backpackers)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/maze-backpackers-sydney/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8,
+      "reviewCount": 2519,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8,
+      "img": "//pix8.agoda.net/hotelImages/6530285/-1/34226e330aedb39554f1644420951be1.jpg?va=1&ca=29&ce=0",
+      "distanceNote": "약 193.97m · Capitol Square 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 2,519건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 2,519건 기반.",
+      "reviews": [
+        {
+          "text": "The best thing is Coles supermarket is just at the corner!",
+          "score": "9.2",
+          "country": "Indonesia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Accessibility to it all tied together with an ideal price",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The location is very central in the Sydney CBD area.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The property is clean and had amenities for guests.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Facilities are clean and the staff are friendly and helpful.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "그레이트 서던 호텔 시드니 (Great Southern Hotel Sydney)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/great-southern-hotel-sydney/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.5,
+      "reviewCount": 18025,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 33만원",
+      "valueIndex": 4.9,
+      "img": "//pix8.agoda.net/hotelImages/431/43104/43104_14102812570023001010.jpg?va=1&ca=3&ce=1",
+      "distanceNote": "약 152.92m · Capitol Square 인근",
+      "metaTags": [
+        "💰 약 33만원",
+        "📝 리뷰 18,025건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 18,025건 기반.",
+      "reviews": [
+        {
+          "text": "Lovely room with a great view (as requested) of Chinatown.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Rooms had all I needed and were comfortable if not modern.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The location was perfectly convenient for our purpose.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The rooms were clean and tidy and the breakfast was great.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Staff are amazing, rooms are comfortable, food is good too!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "station",
+    "base": "australia-sydney",
+    "count": 7,
+    "builtAt": "2026-09-04T21:44:31.133Z"
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "slug": "australia-sydney-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "sydney-au",
+  "cityName": "시드니",
+  "cityId": 14370,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "시드니",
+  "heroImg": "https://pix8.agoda.net/hotelImages/41731681/-1/5ba04cb45f2267ac58a957c3b2db80ff.jpg?va=1&ce=0",
+  "heroAlt": "시드니",
+  "heroSub": "실제 아고다 리뷰로 시드니의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>와일드라이프 리트리트 앳 타롱가</b>입니다 (평점 9.3·리뷰 2,182건·1박 약 60만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/41731681/-1/5ba04cb45f2267ac58a957c3b2db80ff.jpg?va=1&ce=0",
+  "outroTitle": "🌙 시드니, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 시드니 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "와일드라이프 리트리트 앳 타롱가 (Wildlife Retreat at Taronga)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wildlife-retreat-at-taronga/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 38,
+      "score": 9.3,
+      "reviewCount": 2182,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 60만원",
+      "valueIndex": 5.4,
+      "img": "//pix8.agoda.net/hotelImages/41731681/-1/5ba04cb45f2267ac58a957c3b2db80ff.jpg?va=1&ce=0",
+      "distanceNote": "약 3021.24m · 밀슨스 포인트역 인근",
+      "metaTags": [
+        "💰 약 60만원",
+        "📝 리뷰 2,182건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 2,182건 기반.",
+      "reviews": [
+        {
+          "text": "What a wonderful stay! We wish we could stay more nights.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Awesome staff , lovely clean rooms with beautiful views !",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Lovely clean rooms with beautiful views !",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Free entry to zoo and private tour inside with guide.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The retreat itself is amazing, rooms are beautiful.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "메리톤 스위트 월드 타워 (Meriton Suites World Tower)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/meriton-suites-world-tower/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 4,
+      "score": 9.1,
+      "reviewCount": 5004,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/889614633.jpg?k=b3850ed82d578bdb3b76facac6489026a3b3f137972d73a536eed5e3f64bae0c&o=",
+      "distanceNote": "약 296.06m · 뮤지엄역 인근",
+      "metaTags": [
+        "📝 리뷰 5,004건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 5,004건 기반.",
+      "reviews": [
+        {
+          "text": "The room is so clean and spacious with great view.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The room are spacious and with a stunning view of Sydney.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "We really relished stay and definitely coming back here!",
+          "score": "10",
+          "country": "호주",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Overall a very satisfying stay and everything was great.",
+          "score": "9.6",
+          "country": "뉴질랜드",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Room was perfect, on the 69th floor incredible views.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "포시즌스 호텔 시드니 (Four Seasons Hotel Sydney)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/four-seasons-hotel-sydney/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 9.1,
+      "reviewCount": 8648,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 58만원",
+      "valueIndex": 5.3,
+      "img": "//pix8.agoda.net/property/70339968/0/21d9dd353563a5ad99d3cb4fb6c5f186.jpeg?va=1&ce=2",
+      "distanceNote": "약 180.36m · Sydney Light Rail 인근",
+      "metaTags": [
+        "💰 약 58만원",
+        "📝 리뷰 8,648건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 8,648건 기반.",
+      "reviews": [
+        {
+          "text": "The view of the Opera House from our room was breathtaking.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Our room was exceptional with a view of the Opera House.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "This is my second time to stay at Four Seasons Hotel Sydney.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Great check in and out times and staff accommodating staff.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The location, comfort, customer service are exceptional.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "메리톤 스위트 마스코트 센트럴 (Meriton Suites Mascot Central)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/meriton-suites-mascot-central/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 3,
+      "score": 9.1,
+      "reviewCount": 8797,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 36만원",
+      "valueIndex": 5.3,
+      "img": "//pix8.agoda.net/hotelImages/8707176/-1/33da253d3486982b7dfc8015bc84d56e.jpg?va=1&ca=27&ce=0",
+      "distanceNote": "약 269.04m · Mascot Train Station 인근",
+      "metaTags": [
+        "💰 약 36만원",
+        "📝 리뷰 8,797건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 8,797건 기반.",
+      "reviews": [
+        {
+          "text": "The room is clean and customer service is excellent",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "I loved my room! Very spacious and has everything I needed.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The room is very good, big, spacious, clean and hygienic.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "People are friendly and helpful when we stay there.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Amazing facility that was sparkling clean and comfortable.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "메리톤 스위트 서섹스 스트리트 (Meriton Suites Sussex Street)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/meriton-suites-sussex-street_2/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 4,
+      "score": 9,
+      "reviewCount": 8042,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 70만원",
+      "valueIndex": 5.2,
+      "img": "//pix8.agoda.net/hotelImages/8673927/-1/c30d98f8f23a782279d2e6238252807d.jpg?va=1&ca=24&ce=0",
+      "distanceNote": "약 309.06m · 타운 홀역 인근",
+      "metaTags": [
+        "💰 약 70만원",
+        "📝 리뷰 8,042건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 8,042건 기반.",
+      "reviews": [
+        {
+          "text": "We have a comfortable stay at Meriton Suites Sussex Suite.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Great experience, 5 star accommodation, excellent team.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Our Studio was lovely & clean & has everything you required.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "They made our time at the Meriton one to remember.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Walking distance to Darling Harbour restaurants.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Shangri-La Sydney",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/shangri-la-sydney_15/hotel/all/sydney-au.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.9,
+      "reviewCount": 12305,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 50만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/328134332.jpg?k=7a56b09459962508c3658ff40974828853cd3d0cb812e5aa452facffe86fd14a&o=",
+      "distanceNote": "약 308.42m · Sydney Light Rail 인근",
+      "metaTags": [
+        "💰 약 50만원",
+        "📝 리뷰 12,305건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 12,305건 기반.",
+      "reviews": [
+        {
+          "text": "I have no complaints—it’s worth every single dollar spent.",
+          "score": "10",
+          "country": "Italia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "One of the best places to stay in with a wonderful view.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Perfect location, luxurious amenities and superb staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Beautiful breakfast and cool bar and view on level 36",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Would definitely stay next time we need a Sydney Staycation!",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "57 호텔 (57 Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/57-hotel/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 4,
+      "score": 8.8,
+      "reviewCount": 5533,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 32만원",
+      "valueIndex": 5.1,
+      "img": "//pix8.agoda.net/hotelImages/730283/0/876ea26d8d34cc459c70e1c99d445b13.jpg?va=1&ca=7&ce=1",
+      "distanceNote": "약 335.59m · 센트럴역 인근",
+      "metaTags": [
+        "💰 약 32만원",
+        "📝 리뷰 5,533건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 5,533건 기반.",
+      "reviews": [
+        {
+          "text": "Excellent location for getting around town, friendly staff.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Supermarket and dining options are walking distance too",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "Suffice to say, given the choice I would stay here.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Surry Hills is great, lots of restaurants, pubs, food, etc.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Room was spacious and had everything that we needed.",
+          "score": "10",
+          "country": "Poland",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-sydney",
+    "count": 7,
+    "builtAt": "2026-09-04T21:44:31.133Z"
+  }
+}

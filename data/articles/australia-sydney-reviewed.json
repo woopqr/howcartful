@@ -1,0 +1,442 @@
+{
+  "slug": "australia-sydney-reviewed",
+  "angle": "reviewed",
+  "angleAdj": "후기 많은",
+  "lang": "ko-kr",
+  "citySlug": "sydney-au",
+  "cityName": "시드니",
+  "cityId": 14370,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "시드니",
+  "heroImg": "https://pix8.agoda.net/hotelImages/443103/0/f70164ccd4674c0defca6ba6b4228176.jpg?va=1&ca=7&ce=1",
+  "heroAlt": "시드니",
+  "heroSub": "실제 아고다 리뷰로 시드니의 리뷰 많은 숙소를 추렸습니다",
+  "verdictHtml": "리뷰 많은 기준 1순위는 <b>리지스 시드니 공항</b>입니다 (평점 8.6·리뷰 18,210건·1박 약 34만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/443103/0/f70164ccd4674c0defca6ba6b4228176.jpg?va=1&ca=7&ce=1",
+  "outroTitle": "🌙 시드니, 리뷰 많은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 시드니 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "리지스 시드니 공항 (Rydges Sydney Airport Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rydges-sydney-airport-hotel/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.6,
+      "reviewCount": 18210,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 34만원",
+      "valueIndex": 5,
+      "img": "//pix8.agoda.net/hotelImages/443103/0/f70164ccd4674c0defca6ba6b4228176.jpg?va=1&ca=7&ce=1",
+      "distanceNote": "약 164.05m · International Airport 인근",
+      "metaTags": [
+        "💰 약 34만원",
+        "📝 리뷰 18,210건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 18,210건 기반.",
+      "reviews": [
+        {
+          "text": "It's a two-minute walk from Sydney International Airport.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "I will book this property before every international flight.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The hotel is a great option for stay close to the airport.",
+          "score": "8.4",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The staff were friendly and provided excellent service.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The perfect place to stay when having an early flight.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "그레이트 서던 호텔 시드니 (Great Southern Hotel Sydney)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/great-southern-hotel-sydney/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.5,
+      "reviewCount": 18025,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 33만원",
+      "valueIndex": 4.9,
+      "img": "//pix8.agoda.net/hotelImages/431/43104/43104_14102812570023001010.jpg?va=1&ca=3&ce=1",
+      "distanceNote": "약 152.92m · Capitol Square 인근",
+      "metaTags": [
+        "💰 약 33만원",
+        "📝 리뷰 18,025건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 18,025건 기반.",
+      "reviews": [
+        {
+          "text": "Lovely room with a great view (as requested) of Chinatown.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Rooms had all I needed and were comfortable if not modern.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The location was perfectly convenient for our purpose.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The rooms were clean and tidy and the breakfast was great.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Staff are amazing, rooms are comfortable, food is good too!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "트레블로지 호텔 시드니 에어포트 (Travelodge Hotel Sydney Airport)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/travelodge-hotel-sydney-airport/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 8.5,
+      "reviewCount": 15983,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/2198516/0/7f632d52c72d5727b3afebe30cb76335.jpg?va=1&ce=3",
+      "distanceNote": "약 528m · Mascot Train Station 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 15,983건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 15,983건 기반.",
+      "reviews": [
+        {
+          "text": "This is my fave hotel whenever I travel overseas.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Stay here often for our stopover before international.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Rooms are very clean, comfy and suited to purpose.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "We were here three nights and would definitely stay again.",
+          "score": "8.4",
+          "country": "Canada",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "The room we stayed in was very clean and had a nice view.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "YHA 시드니 센트럴 (YHA Sydney Central)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sydney-central-yha/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.6,
+      "reviewCount": 13563,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/178359/-1/0d5ac2d62d5aada596b40c1c6dd1adb4.jpg?va=1&ce=0",
+      "distanceNote": "약 143.68m · 시드니 코치 터미널 인근",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 13,563건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 13,563건 기반.",
+      "reviews": [
+        {
+          "text": "A very calm hostel with great facilities & good common area",
+          "score": "10",
+          "country": "British Virgin Islands",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "So clean, comfy bed, and the staff were so friendly.",
+          "score": "10",
+          "country": "British Virgin Islands",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The staffs are very friendly and the room is clean.",
+          "score": "9.2",
+          "country": "オーストラリア",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Prime location as it’s right next to the central station.",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The service was superb and the facilities were complete.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "메트로 호텔 말로우 시드니 센트럴 (Metro Hotel Marlow Sydney Central)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/metro-hotel-marlow-sydney-central/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 7.8,
+      "reviewCount": 12811,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 31만원",
+      "valueIndex": 4.5,
+      "img": "//pix8.agoda.net/hotelImages/7989/0/63f86209b3de577718f2ef4ac4ddbd81.jpeg?va=1&ce=0",
+      "distanceNote": "약 132.53m · Capitol Square 인근",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 12,811건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 12,811건 기반.",
+      "reviews": [
+        {
+          "text": "Not like some other hotel that no staff around at night time",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The cleanliness is top-notch, and the staff were fantastic.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Perfect location to all shopping, transport and amenities.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Was clean and very comfortable our room had great views.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "And lovely comfortable staff are very friendly and help",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "이비스 스타일 시드니 센트럴 (ibis Styles Sydney Central)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/travelodge-hotel-sydney/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.1,
+      "reviewCount": 12500,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 45만원",
+      "valueIndex": 4.7,
+      "img": "//pix8.agoda.net/hotelImages/32590608/0/bdde7c28b39beb6df3042ce65dacad4a.jpeg?va=1&ce=2",
+      "distanceNote": "약 211.62m · 뮤지엄역 인근",
+      "metaTags": [
+        "💰 약 45만원",
+        "📝 리뷰 12,500건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 12,500건 기반.",
+      "reviews": [
+        {
+          "text": "I got a fantastic experience with Ibis style Sydney central.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "And very easy to get around on foot or by train.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Would definitely recommend for couples or solo travellers.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "My wife and I could not in anyway fault our 3 night stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "It was a well-located and well-equipped comfortable room.",
+          "score": "10",
+          "country": "호주",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "하얏트 리젠시 시드니 (Hyatt Regency Sydney)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hyatt-regency-sydney/hotel/sydney-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8.5,
+      "reviewCount": 12408,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 67만원",
+      "valueIndex": 4.9,
+      "img": "//pix8.agoda.net/hotelImages/446625/0/08fbf533d63334005307857478ac3b26.jpg?va=1&ce=3",
+      "distanceNote": "약 506.39m · 타운 홀역 인근",
+      "metaTags": [
+        "💰 약 67만원",
+        "📝 리뷰 12,408건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 12,408건 기반.",
+      "reviews": [
+        {
+          "text": "Great location to walk to Darling Harbour and all food area",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Wonderful location, staff, facilities, views and breakfast.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The facilities are great, a good gym, love the roof top bar.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Overall perfect for a first time top class stay in Sydney.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Room size was good and had all the amenities we needed.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "reviewed",
+    "base": "australia-sydney",
+    "count": 7,
+    "builtAt": "2026-09-04T21:44:31.133Z"
+  }
+}
