@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-05T09:22:57.951Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 3,
+  "lastPostedAt": "2026-09-05T12:52:04.454Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 4,
   "postedDate": "2026-09-05",
   "queue": [
-    "australia-sydney-station",
     "australia-sydney-budget",
     "australia-sydney-premium",
     "australia-sydney-star4",
@@ -675,6 +674,7 @@
     "australia-slade-point-star4",
     "australia-slade-point-reviewed",
     "australia-sydney",
-    "australia-sydney-rating"
+    "australia-sydney-rating",
+    "australia-sydney-station"
   ]
 }
