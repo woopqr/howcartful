@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-05T17:38:42.935Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 6,
+  "lastPostedAt": "2026-09-05T19:28:29.402Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 7,
   "postedDate": "2026-09-05",
   "queue": [
-    "australia-sydney-star4",
     "australia-sydney-reviewed",
     "australia-seymour",
     "australia-seymour-rating",
@@ -679,6 +678,7 @@
     "australia-sydney-rating",
     "australia-sydney-station",
     "australia-sydney-budget",
-    "australia-sydney-premium"
+    "australia-sydney-premium",
+    "australia-sydney-star4"
   ]
 }
