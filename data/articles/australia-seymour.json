@@ -1,0 +1,325 @@
+{
+  "slug": "australia-seymour",
+  "title": "시모어 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 시모어 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "seymour-au",
+  "cityName": "시모어",
+  "cityId": 23687,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "시모어",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/170256166.jpg?k=e9e5792f4f9e05cf3ee8c57476582056052fa0750f40cf47cbd1d5b378c2e98f&o=",
+  "heroAlt": "시모어",
+  "heroTitleHtml": "시모어 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>와틀 모텔</b>(평점 8.7·리뷰 585건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>와틀 모텔</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/170256166.jpg?k=e9e5792f4f9e05cf3ee8c57476582056052fa0750f40cf47cbd1d5b378c2e98f&o=",
+  "outroTitle": "🌙 시모어, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 시모어 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 시모어 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "와틀 모텔 (Wattle Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wattle-motel_2/hotel/seymour-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 585,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/170256166.jpg?k=e9e5792f4f9e05cf3ee8c57476582056052fa0750f40cf47cbd1d5b378c2e98f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 585건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 585건 기반.",
+      "reviews": [
+        {
+          "text": "The bed was firm and comfortable, pillows were wonderful.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Shower was very clean and comfortable.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The man at reception was friendly and polite.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The reverse cycle AC was quiet and modern.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Wouldn’t hesitate to book again for a stopover.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "BIG4 Tiny Away Stay - Seymour Riverside",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-seymour-holiday-park/hotel/all/seymour-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 135,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/888469209.jpg?k=423a914ad2f1c1616309e6b6e0bdb9b721c77d66cb6da3edeb467d43a3e9556a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 135건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 135건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "뉴 크로싱 플레이스 모텔 (New Crossing Place Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/new-crossing-place-motel/hotel/seymour-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 67,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/893770161.jpg?k=9f66ff2ab8bdcdeb0118089b7d775ab5f940a5501c22c8b86a827620bf0f03eb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 67건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 67건 기반.",
+      "reviews": [
+        {
+          "text": "We had a great overnight stay.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Most definitely would stay their again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Room was clean, bathroom was updated.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "Staff were friendly and helpful.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The room was clean.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "34 on Emily",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/34-on-emily/hotel/all/seymour-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 135,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/114885828.jpg?k=5f0035f344d177b4551f469d237fee471d7caa3116d2fad4652bab72a628a50a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 135건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 135건 기반.",
+      "reviews": [
+        {
+          "text": "And the spa and beds are huge",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Absolutely stunning place 😍",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Auto Lodge Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/auto-lodge-motor-inn/hotel/seymour-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 38,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/25095411/-1/ee6bd6d946ca9485bf0faa969a429ded.jpg?va=1&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 38건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 38건 기반.",
+      "reviews": [
+        {
+          "text": "Looks basic outside but rooms are upgraded and very clean.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Would very happily stay there again.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Owner very friendly and takes pride in his place.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "The place was neat and clean in a good location.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Perfect for our one night stay.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Comfort Inn Coach & Bushmans",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/comfort-inn-coach-bushmans/hotel/seymour-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 411,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.5,
+      "img": "//pix8.agoda.net/hotelImages/1147036/0/22651bac3367b81ddec1be36461ace6b.jpeg?va=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 411건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 411건 기반.",
+      "reviews": [
+        {
+          "text": "Rooms were clean, spacious and well appointed.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Great staff managing a great facility.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The room was quite roomy, clean and comfortable.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Loved the coffee pods and provisions thankyou",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Reception staff was very friendly.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-05T15:40:12.550Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}
