@@ -1,0 +1,397 @@
+{
+  "slug": "australia-agnes-water",
+  "title": "아그네스 워터 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 아그네스 워터 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "아그네스 워터",
+  "cityId": 19546,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "아그네스 워터",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/710575273.jpg?k=af7764b0f040a46dace009c8290ce4dc92ac92b5eb66a82daef46cdd5cc7031a&o=",
+  "heroAlt": "아그네스 워터",
+  "heroTitleHtml": "아그네스 워터 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Sunnys Piece Of Paradise</b>(평점 9.5·리뷰 471건·1박 약 8만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Sunnys Piece Of Paradise</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/710575273.jpg?k=af7764b0f040a46dace009c8290ce4dc92ac92b5eb66a82daef46cdd5cc7031a&o=",
+  "outroTitle": "🌙 아그네스 워터, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 아그네스 워터 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 아그네스 워터 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Sunnys Piece Of Paradise",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sonny-s-place-where-the-trees-are-green/hotel/all/agnes-water-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 471,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 9.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/710575273.jpg?k=af7764b0f040a46dace009c8290ce4dc92ac92b5eb66a82daef46cdd5cc7031a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 471건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 471건 기반.",
+      "reviews": [
+        {
+          "text": "Clean secluded tranquil spot, value for money.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "The host is very friendly especially his pet.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Amazing ambience, clean, good location",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Sonny and Chich are the best hosts,",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Alles was perfect.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "백패커스 @ 1770 (Backpackers @ 1770)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/backpackers-1770/hotel/agnes-water-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 53,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8.3,
+      "img": "//pix8.agoda.net/hotelImages/161/1619107/1619107_16120213530049355567.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 53건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 53건 기반.",
+      "reviews": [
+        {
+          "text": "Best place ticks all the boxes and much more.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Love this place. Will be back.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "We had a flat which was huuuuge! 3 rooms with 2 people each.",
+          "score": "10",
+          "country": "Österreich",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Lovely room with balcony in blue house next door to hostel.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Everything was very clean, felt like home",
+          "score": "10",
+          "country": "Österreich",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "1770 비치사이드 백패커 (1770 Beachside Backpacker)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/1770-beachside-yha/hotel/agnes-water-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 85,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8.2,
+      "img": "//pix8.agoda.net/hotelImages/2959721/0/db0228f4ad991c9b8df06c6f23040391.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 85건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 85건 기반.",
+      "reviews": [
+        {
+          "text": "Was only going to stay one night and ended up staying three.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Nice chill, lax vibes and my rooms bathroom was spotless",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Beds were very clean and facility/ kitchen was well kept.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Bathrooms are clean and kitchen is great.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended! Comfortable, relaxed, fun and clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "1770 라군스 센트럴 아파트먼트 리조트 (1770 Lagoons Central Apartment Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lagoons-1770-resort-and-spa/hotel/agnes-water-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 441,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.1,
+      "img": "//pix8.agoda.net/hotelImages/936553/0/f1ae8d783ddef172188e8ca3a7f9e191.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 441건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 441건 기반.",
+      "reviews": [
+        {
+          "text": "The swim up pool & the friendly staff are incredible.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The room was spacious, modern, clean & comfortable.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Room with everything, very comfortable and clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "We had a nice stay, and the spa bath is super relaxing.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "We really enjoyed our stay in this resort.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "아그네스 워터의 방갈로 (5m², 침실 1개, 프라이빗 욕실 0개) (Family Glamping - 1770 Eco Camp )",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/camping-with-breathtaking-views/hotel/agnes-water-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 164,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/62078081/0/de92d8b2610171cb63a62559302d528c.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 164건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 164건 기반.",
+      "reviews": [
+        {
+          "text": "Having young kids, the glamping made it much easier.",
+          "score": "8",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Amazing , beautiful views , best Glamping",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "CASTAWAY BEACH HOUSE- NO Parties - NO Pets",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/castaway-beach-house-no-parties-no-pets/hotel/all/agnes-water-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 184,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 8만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/171859028.jpg?k=37a5466986c3b793896f38646c4b32793f5bd29a34c604577bd104b44c48204d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 184건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 184건 기반.",
+      "reviews": [
+        {
+          "text": "Great accomodation and value for money",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Perfect for travelling couples or solo travellers.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2023.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "1770 게이트웨이 (1770 Getaway)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/1770-getaway/hotel/agnes-water-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 248,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/854/854534/854534_15042410040027070196.jpg?ca=4&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 248건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 248건 기반.",
+      "reviews": [
+        {
+          "text": "But restaurant, poolside, entertainment were all lovely.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Enchanting honeymoon suite in secluded, peaceful hidaway",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The villa was clean and the onsite pool was excellent.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The villas are really large and nicely furnished.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The facilities within the villa were also top 10.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-06T22:15:59.574Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-06T20:30:39.140Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 7,
+  "lastPostedAt": "2026-09-06T22:15:45.120Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 8,
   "postedDate": "2026-09-06",
   "queue": [
-    "australia-seaford-budget",
     "australia-seaford-premium",
     "australia-seaford-star4",
-    "australia-seaford-reviewed"
+    "australia-seaford-reviewed",
+    "australia-agnes-water"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 358,
+    "cityIndex": 359,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -687,6 +687,7 @@
     "australia-seal-rocks",
     "australia-seaford",
     "australia-seaford-rating",
-    "australia-seaford-station"
+    "australia-seaford-station",
+    "australia-seaford-budget"
   ]
 }
