@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-06T13:08:32.913Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 4,
+  "lastPostedAt": "2026-09-06T16:13:40.460Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 5,
   "postedDate": "2026-09-06",
   "queue": [
-    "australia-seaford",
     "australia-seaford-rating",
     "australia-seaford-station",
     "australia-seaford-budget",
@@ -687,6 +686,7 @@
     "australia-seymour-rating",
     "australia-seymour-station",
     "australia-seymour-reviewed",
-    "australia-seal-rocks"
+    "australia-seal-rocks",
+    "australia-seaford"
   ]
 }
