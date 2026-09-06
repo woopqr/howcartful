@@ -1,0 +1,442 @@
+{
+  "slug": "australia-seaford-budget",
+  "angle": "budget",
+  "angleAdj": "가격 착한",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "australia-seaford",
+  "cityId": 143285,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "australia-seaford",
+  "heroImg": "https://pix8.agoda.net/hotelImages/25141055/0/2eabdf7c3583a704df57531d23b249af.jpeg?va=1&ce=0",
+  "heroAlt": "australia-seaford",
+  "heroSub": "실제 아고다 리뷰로 australia-seaford의 저가 실속 숙소를 추렸습니다",
+  "verdictHtml": "저가 실속 기준 1순위는 <b>이비스 버젯 단데농</b>입니다 (평점 7.1·리뷰 497건·1박 약 9만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/25141055/0/2eabdf7c3583a704df57531d23b249af.jpeg?va=1&ce=0",
+  "outroTitle": "🌙 australia-seaford, 저가 실속으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 australia-seaford 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "이비스 버젯 단데농 (ibis budget Dandenong)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ibis-budget-dandenong-h25141055/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 12,
+      "score": 7.1,
+      "reviewCount": 497,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/25141055/0/2eabdf7c3583a704df57531d23b249af.jpeg?va=1&ce=0",
+      "distanceNote": "약 958.09m · 야라만역 인근",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 497건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.1</b> · 실제 투숙객 리뷰 497건 기반.",
+      "reviews": [
+        {
+          "text": "Great location and room was so nice and clean.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Clean linen, comfortable bed, easy location, easy stay..",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Excellent facilities, clean and helpful staff.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The sleep quality was great, ensuring a restful night.",
+          "score": "7.6",
+          "country": "Malaysia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Great comfortable stay with helpful & friendly staff.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "단데농 센트럴 아파트먼트 호텔 (Dandenong Central Apartment Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/punthill-dandenong_2/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 6.7,
+      "reviewCount": 261,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 5.7,
+      "img": "//pix8.agoda.net/property/25947870/752143201/54d0597404c999c63545c269bb7350c9.jpeg?va=1&ce=3",
+      "distanceNote": "약 362.7m · Dandenong Train Station 인근",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 261건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>6.7</b> · 실제 투숙객 리뷰 261건 기반.",
+      "reviews": [
+        {
+          "text": "My room was quite large, with a very comfortable king bed.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Can't recommend this Apartment Hotel enough.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Friendly staff, great location ,clean rooms",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Staff is very friendly and helpful and neat and clean .",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Room was clean and tidy and was comfortable.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "클레이튼 모나쉬 모터 인 앤 서비스 아파트먼트 (Clayton Monash Motor Inn & Serviced Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/clayton-monash-motor-inn-serviced-apartments/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 15,
+      "score": 8.3,
+      "reviewCount": 589,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/245809/0/0f42b764c87bf73609cf2f3ec075b4da.jpeg?va=1&ce=0",
+      "distanceNote": "약 1216m · 클레이턴역 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 589건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 589건 기반.",
+      "reviews": [
+        {
+          "text": "The bed was like sleeping on a cloud extremely clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "But our room was clean, we felt safe and we’d stay again.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The room had everything we needed for a comfortable stay.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Clean and tidy rooms and a decent shower.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "It's an exceptional place to recommend with all amenities.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "나이트캡 앳 왈칭 마틸다 호텔 (Nightcap at Waltzing Matilda Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nightcap-at-waltzing-matilda-hotel/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 18,
+      "score": 8.1,
+      "reviewCount": 710,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/522/522313/522313_17070407190054231608.jpg?va=1&ca=6&ce=1",
+      "distanceNote": "약 1428.26m · 샌다운 파크역 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 710건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 710건 기반.",
+      "reviews": [
+        {
+          "text": "The rooms were spotless and the bed was very comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "I was able to book late in the evening for the same night.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Great service staff and experienced I’ll defanatly bw back",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Reasonable quality room, clean, decent good in venue.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Staff very welcoming from check in to the bar staff.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "채드스톤 이그제큐티브 모텔 (Chadstone Executive Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/chadstone-executive-motel/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 9,
+      "score": 7.4,
+      "reviewCount": 43,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/55083377.jpg?k=0dbe4bf30c7af580af3147ea536138720b39046c50c9219070bd59e1870ee84c&o=",
+      "distanceNote": "약 730.76m · 휴즈데일역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 43건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.4</b> · 실제 투숙객 리뷰 43건 기반.",
+      "reviews": [
+        {
+          "text": "Room was clean and tidy, and huge.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Peaceful single night stay",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The rooms we had were clean and beds were comfortable.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "The bathroom was modern and spacious",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Great Motel & Great Management",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Frankston Bay Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/frankston-bay-motel/hotel/all/frankston-au.html?cid=1925461",
+      "walkMin": 8,
+      "score": 9.3,
+      "reviewCount": 146,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.6,
+      "img": "//pix8.agoda.net/property/87882952/0/9ab975ca4916726cf55103902c34a767.jpeg?va=1&ce=3",
+      "distanceNote": "약 611.81m · Frankston 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 146건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 146건 기반.",
+      "reviews": [
+        {
+          "text": "Will definitely stay again",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Close to everything",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Easy check in process",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Lovely accommodation",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "베스트웨스턴 플러스 버킹엄 인터내셔널 (Best Western Plus Buckingham International)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-plus-buckingham-international/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 8.2,
+      "reviewCount": 632,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/89464/-1/afcdb2ecab8361e1992f6c51deda42db.jpg?va=1&ca=9&ce=1",
+      "distanceNote": "약 528.29m · 하이엣역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 632건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 632건 기반.",
+      "reviews": [
+        {
+          "text": "Room was clean, comfortable and had everything needed.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Great location, beautiful building and friendly staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "The staff we’re lovely and extremely helpful and polite.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Location was very good and the facilities were great.",
+          "score": "8",
+          "country": "Sri Lanka",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "Front desk attendant was exceptionally helpful.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "budget",
+    "base": "australia-seaford",
+    "count": 7,
+    "builtAt": "2026-09-06T05:46:32.704Z"
+  }
+}

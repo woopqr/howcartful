@@ -1,14 +1,19 @@
 {
-  "lastPostedAt": "2026-09-06T01:00:47.203Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 1,
+  "lastPostedAt": "2026-09-06T05:46:32.725Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 2,
   "postedDate": "2026-09-06",
   "queue": [
-    "australia-seymour-station",
     "australia-seymour-reviewed",
     "australia-seal-rocks",
-    "australia-seaford"
+    "australia-seaford",
+    "australia-seaford-rating",
+    "australia-seaford-station",
+    "australia-seaford-budget",
+    "australia-seaford-premium",
+    "australia-seaford-star4",
+    "australia-seaford-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -681,6 +686,7 @@
     "australia-sydney-star4",
     "australia-sydney-reviewed",
     "australia-seymour",
-    "australia-seymour-rating"
+    "australia-seymour-rating",
+    "australia-seymour-station"
   ]
 }
