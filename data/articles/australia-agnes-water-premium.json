@@ -1,0 +1,289 @@
+{
+  "slug": "australia-agnes-water-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "아그네스 워터",
+  "cityId": 19546,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "아그네스 워터",
+  "heroImg": "https://pix8.agoda.net/hotelImages/2166976/-1/36b1f709fb5f30b6b93d81aaeeb33b29.jpg?ca=22&ce=0",
+  "heroAlt": "아그네스 워터",
+  "heroSub": "실제 아고다 리뷰로 아그네스 워터의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>아그네스 워터 스테이즈</b>입니다 (평점 9.6·리뷰 434건·1박 약 21만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/2166976/-1/36b1f709fb5f30b6b93d81aaeeb33b29.jpg?ca=22&ce=0",
+  "outroTitle": "🌙 아그네스 워터, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 아그네스 워터 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "아그네스 워터 스테이즈 (Agnes Water Stays)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-zen-den-bed-and-breakfast/hotel/agnes-water-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 434,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/hotelImages/2166976/-1/36b1f709fb5f30b6b93d81aaeeb33b29.jpg?ca=22&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 434건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 434건 기반.",
+      "reviews": [
+        {
+          "text": "We cannot recommend Agnes Water Stays highly enough.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Impeccably clean with great attention to detail.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The room was immaculate with comfy mattress and pillows.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "It was exceptional in every respect.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Excellent facilities, so well presented & like new :)",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Sunnys Piece Of Paradise",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sonny-s-place-where-the-trees-are-green/hotel/all/agnes-water-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 471,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 9.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/710575273.jpg?k=af7764b0f040a46dace009c8290ce4dc92ac92b5eb66a82daef46cdd5cc7031a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 471건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 471건 기반.",
+      "reviews": [
+        {
+          "text": "Clean secluded tranquil spot, value for money.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "The host is very friendly especially his pet.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Amazing ambience, clean, good location",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Sonny and Chich are the best hosts,",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Alles was perfect.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Coral Suite in Resort Complex",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/coral-suite-in-resort-complex/hotel/all/agnes-water-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 217,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/166027152.jpg?k=f0610de85f697f1eb23986f6f46a3555681fd6ddfeb2e390122cb253280c09bb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 217건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 217건 기반.",
+      "reviews": [
+        {
+          "text": "It was spotlessly clean with lovely outdoor area.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "We enjoyed our stay!",
+          "score": "8",
+          "country": "Canada",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Loved are condo !",
+          "score": "8",
+          "country": "Canada",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "McLeods • Pet-Friendly Central Beach House for 6",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mcleods/hotel/all/agnes-water-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 51,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 62만원",
+      "valueIndex": 4.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/811130080.jpg?k=696450f2e952ad508278d1c82acc2da752b53014ba8121f3bad88c0f132cd76b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 62만원",
+        "📝 리뷰 51건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 51건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Sunset Villa • Pet-Friendly • Water Views 1770",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sunset-villa/hotel/all/agnes-water-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 37,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 51만원",
+      "valueIndex": 4.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/787690309.jpg?k=c0928c3f3759a54046270329d3248fb892e7c626afa70cdd630b01ccf5526027&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 51만원",
+        "📝 리뷰 37건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 37건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "1770 Sovereign Lodge Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/1770-sovereign-lodge-resort/hotel/agnes-water-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 211,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 29만원",
+      "valueIndex": 5.2,
+      "img": "//pix8.agoda.net/hotelImages/264223/0/cae2dcc7aaab69351fb143adac04a521.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 29만원",
+        "📝 리뷰 211건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 211건 기반.",
+      "reviews": [
+        {
+          "text": "Unbelievably big and interconnected balconies.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Great location.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Stunning views.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Very spacious inside.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-agnes-water",
+    "count": 6,
+    "builtAt": "2026-09-06T23:58:50.865Z"
+  }
+}
