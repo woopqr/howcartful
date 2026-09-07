@@ -1,14 +1,16 @@
 {
-  "lastPostedAt": "2026-09-07T21:48:45.221Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 5,
+  "lastPostedAt": "2026-09-07T23:48:47.939Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 6,
   "postedDate": "2026-09-07",
   "queue": [
-    "australia-agnes-water-budget",
     "australia-agnes-water-premium",
     "australia-agnes-water-reviewed",
-    "australia-ararat"
+    "australia-ararat",
+    "australia-ararat-rating",
+    "australia-ararat-station",
+    "australia-ararat-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -694,6 +696,7 @@
     "australia-seaford-reviewed",
     "australia-agnes-water",
     "australia-agnes-water-rating",
-    "australia-agnes-water-station"
+    "australia-agnes-water-station",
+    "australia-agnes-water-budget"
   ]
 }
