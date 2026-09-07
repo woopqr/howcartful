@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-06T23:58:50.904Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 9,
-  "postedDate": "2026-09-06",
+  "lastPostedAt": "2026-09-07T03:55:50.385Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 1,
+  "postedDate": "2026-09-07",
   "queue": [
-    "australia-seaford-star4",
     "australia-seaford-reviewed",
     "australia-agnes-water",
     "australia-agnes-water-rating",
@@ -693,6 +692,7 @@
     "australia-seaford-rating",
     "australia-seaford-station",
     "australia-seaford-budget",
-    "australia-seaford-premium"
+    "australia-seaford-premium",
+    "australia-seaford-star4"
   ]
 }
