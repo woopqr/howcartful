@@ -1,0 +1,439 @@
+{
+  "slug": "australia-armidale",
+  "title": "아미데일 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 아미데일 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "armidale-au",
+  "cityName": "아미데일",
+  "cityId": 5128,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "아미데일",
+  "heroImg": "https://pix8.agoda.net/hotelImages/648/648728/648728_15081407550034257014.jpg?va=1&ca=5&ce=1",
+  "heroAlt": "아미데일",
+  "heroTitleHtml": "아미데일 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>화이트 랜턴 모텔</b>(평점 9.1·리뷰 499건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>화이트 랜턴 모텔</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/648/648728/648728_15081407550034257014.jpg?va=1&ca=5&ce=1",
+  "outroTitle": "🌙 아미데일, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 아미데일 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 아미데일 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "화이트 랜턴 모텔 (White Lanterns Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/white-lanterns-motel/hotel/armidale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 499,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.6,
+      "img": "//pix8.agoda.net/hotelImages/648/648728/648728_15081407550034257014.jpg?va=1&ca=5&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 499건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 499건 기반.",
+      "reviews": [
+        {
+          "text": "Quiet, close to everything, secure and rooms are restful.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The best motel in its star rating that I have stayed in.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "The facilities were awesome, I had everything I needed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Every thing a traveler needs without compromising quality.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "We absolutely loved our stay at the white lanterns hotel.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Armidale Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/armidale-inn/hotel/armidale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 1525,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/479403074.jpg?k=cf45d3364011f154b319528227fd4110a60b518c1a28bbc18eb852c646e9682c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 1,525건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,525건 기반.",
+      "reviews": [
+        {
+          "text": "The bed was very comfortable had a great night sleep.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "We have stayed here before and would stay again.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Excellent dog friendly hotel with free breakfast.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Had a great nights stay at Armidale Inn recently.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Nice comfortable room, not to far from shops.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "하이드어웨이 모터 인 (Hideaway Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hideaway-motor-inn/hotel/armidale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 140,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/23649341/0/e20fc55b2388a55972a201559b4825b7.jpg?va=1&ca=23&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 140건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 140건 기반.",
+      "reviews": [
+        {
+          "text": "Great motel nice and close to the city of armidale",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Fridge/freezer, microwave, cups,cutlery, soft clean towels.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Comfortable beds with unexpected high thread count linen.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Felt very welcomed and the place was sparkling clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Great motel very clean rooms and staff very helpful",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Cedar Lodge Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cedar-lodge-motel/hotel/all/armidale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 31,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/470271560.jpg?k=2c6f3c6e1aa3a293774b16b5e88c9b6d88eda11d1b6480c9cff8f4d2eb58cc91&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 31건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 31건 기반.",
+      "reviews": [
+        {
+          "text": "Reception was very friendly and checking in was smooth.",
+          "score": "9.2",
+          "country": "澳洲",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Great location with food shops just across the road.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "The room was very comfortable and very clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "All things very good helpful staff.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Great location to head out for food nearby.",
+          "score": "9.2",
+          "country": "澳洲",
+          "date": "2023.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "피터슨 아미데일 위너리 앤 게스트하우스 (Petersons Armidale Winery & Guesthouse)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/petersons-armidale-winery-guesthouse/hotel/armidale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 628,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/286875/-1/b1d1129d561e2f3624d43b361b2e964a.jpg?va=1&ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 628건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 628건 기반.",
+      "reviews": [
+        {
+          "text": "The staff were amazing and made our stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Very pleasant stay in lovely old farm mansion.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "The room was spacious in an old world setting.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Welcoming staff and old fashioned hospitality.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "The food is amazing and serve is off the charts.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "The Alluna Motel, an Ascend Collection Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/alluna-motel/hotel/armidale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 713,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/61428425/973301458/df59bbabf82eaaf3bc949e37136848bd.jpeg?va=1&ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 713건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 713건 기반.",
+      "reviews": [
+        {
+          "text": "Absolutely perfect for solo travel needs.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Perfect stay",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Good value for money.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Comfortable and close to shops",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Value for money",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "아미데일 파인스 모텔 (Armidale Pines Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/armidale-pines-motel/hotel/armidale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 377,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/555267/0/6242ed6f614db6f9b1a89e5350190913.jpeg?va=1&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 377건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 377건 기반.",
+      "reviews": [
+        {
+          "text": "Large spacious room with a very comfortable bed.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Very spacious , very clean, great bed etc.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Large room with all the facilities",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Quiet room and helpful staff",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Clean & spacious rooms with helpful management",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-08T23:33:30.607Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
