@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-08T18:46:41.912Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 5,
+  "lastPostedAt": "2026-09-08T21:27:50.727Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 6,
   "postedDate": "2026-09-08",
   "queue": [
-    "australia-ararat-reviewed",
     "australia-arawarra",
     "australia-arawarra-rating",
     "australia-arawarra-station",
@@ -701,6 +700,7 @@
     "australia-agnes-water-reviewed",
     "australia-ararat",
     "australia-ararat-rating",
-    "australia-ararat-station"
+    "australia-ararat-station",
+    "australia-ararat-reviewed"
   ]
 }
