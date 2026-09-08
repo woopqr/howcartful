@@ -1,0 +1,312 @@
+{
+  "slug": "australia-arawarra-rating",
+  "angle": "rating",
+  "angleAdj": "평점 높은",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "아라와라",
+  "cityId": 204073,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "아라와라",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/628605360.jpg?k=3d339316b1d5981832e7eaadbfeb3d6a5d41ea4661768cdc594f432068c04898&o=",
+  "heroAlt": "아라와라",
+  "heroSub": "실제 아고다 리뷰로 아라와라의 평점 높은 숙소를 추렸습니다",
+  "verdictHtml": "평점 높은 기준 1순위는 <b>Beach St Motel</b>입니다 (평점 9.3·리뷰 467건·1박 약 22만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/628605360.jpg?k=3d339316b1d5981832e7eaadbfeb3d6a5d41ea4661768cdc594f432068c04898&o=",
+  "outroTitle": "🌙 아라와라, 평점 높은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 아라와라 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Beach St Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beach-st-accommodation/hotel/all/woolgoolga-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 467,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/628605360.jpg?k=3d339316b1d5981832e7eaadbfeb3d6a5d41ea4661768cdc594f432068c04898&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 467건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 467건 기반.",
+      "reviews": [
+        {
+          "text": "Very smooth checking and great value for money",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Beautiful accommodation",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Stunning Apartment",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Fantastic apartment",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Everything was as per the brochure.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Safety Beach Bungalows",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/safety-beach-ocean-bungalows_2/hotel/all/woolgoolga-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 271,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/33639609.jpg?k=7299fe514e274e2c5238c25db3db758ccea2997daef7989ddb642b49cd1af1fe&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 271건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 271건 기반.",
+      "reviews": [
+        {
+          "text": "Nice and clean and has everything you need",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "We had a great stay in the bungalow",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Stay Seaside Market St 116",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/stay-seaside-market-st-116/hotel/all/woolgoolga-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 32,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 33만원",
+      "valueIndex": 4.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/613256575.jpg?k=b2fb07a7068ea4e2454982f024a74899ab5ba43d75918ce626909165d353d9cb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 33만원",
+        "📝 리뷰 32건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 32건 기반.",
+      "reviews": [
+        {
+          "text": "Love this place.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "The Seaview Tavern Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-seaview-tavern-motel_2/hotel/all/woolgoolga-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 832,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/330341048.jpg?k=30d319ab7b20d5fea2c703af5d8bd0e5503961b635983885b7ede511886268ad&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 832건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 832건 기반.",
+      "reviews": [
+        {
+          "text": "Clean, modern, nice",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "This motel is clean and staff are lovely.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Very convenient location and surprisingly quiet.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Nice place to stay overnight after a long day’s travel.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Solitary Islands Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/solitary-islands-lodge/hotel/all/woolgoolga-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 116,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/586368835.jpg?k=1caa4e599de32368e62abc0c5a83d90caa469459e3daf978c8f0c08ede123e73&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 116건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 116건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Studio 327",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/studio-327/hotel/all/woolgoolga-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 119,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/620527215.jpg?k=a9e3dbe11829366a2c3fad08afce6f3ea92a2dfc3d0667163c6061e47058ee9a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 119건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 119건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "로즈본 가든스 모텔 (Rosebourne Gardens Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rosebourne-gardens-motel/hotel/woolgoolga-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 161,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/408711/-1/8669e153a43fa2665b42d2b34dcb96ad.jpg?ca=10&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 161건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 161건 기반.",
+      "reviews": [
+        {
+          "text": "Staff friendly and the room was very spacious and clean.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "A wonderful motel where you can stay with you doggie.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Room was appointed with everything I needed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Clean linen, clean room, nice lady on reception, quiet room.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Well looked after motel and friendly/helpful staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "rating",
+    "base": "australia-arawarra",
+    "count": 7,
+    "builtAt": "2026-09-08T15:17:13.456Z"
+  }
+}
