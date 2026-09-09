@@ -1,0 +1,310 @@
+{
+  "slug": "australia-arthurs-lake",
+  "title": "아서스 레이크 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 아서스 레이크 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "아서스 레이크",
+  "cityId": 718487,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "아서스 레이크",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/275784233.jpg?k=fa1d4b4cafdc2d1e415103eec8765b1beeca150f24dd44a4cbc2f033066c467f&o=",
+  "heroAlt": "아서스 레이크",
+  "heroTitleHtml": "아서스 레이크 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Happy Nest</b>(평점 9·리뷰 91건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Happy Nest</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/275784233.jpg?k=fa1d4b4cafdc2d1e415103eec8765b1beeca150f24dd44a4cbc2f033066c467f&o=",
+  "outroTitle": "🌙 아서스 레이크, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 아서스 레이크 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 아서스 레이크 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Happy Nest",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/happy-nest/hotel/all/deloraine-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 91,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/275784233.jpg?k=fa1d4b4cafdc2d1e415103eec8765b1beeca150f24dd44a4cbc2f033066c467f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 91건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 91건 기반.",
+      "reviews": [
+        {
+          "text": "A comfy bed and a log stove if you need it.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The views on top of the accommodation was breathtaking.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "If you are thinking of staying here I highly recommend it.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "I would stay here in a heartbeat again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "A hidden Unique gem",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Great Lake Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/great-lake-hotel-h31701043/hotel/miena-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 107,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/property/26182946/0/09585f6a4a7c81142a59b3357c1c0838.jpg?ca=27&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 107건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 107건 기반.",
+      "reviews": [
+        {
+          "text": "I dined at the restaurant, good food, big serves.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Good beds , small but practical bathroom.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "I would stay again.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Room with a view",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The restaurant had some really great food.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Mountain Blue Guest house",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mountain-blue-guest-house/hotel/deloraine-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.8,
+      "reviewCount": 95,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/85722533/0/19fedaf9522ad049e46956188228b475.jpeg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 95건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 95건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Brickendon",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/brickendon/hotel/longford-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 308,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/72153332/0/a1aba017b9f4d4106bd9fe39448e1bfe.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 308건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 308건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Bothwell Hotel of the Highlands",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bothwell-hotel-of-the-highlands/hotel/all/bothwell-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.6,
+      "reviewCount": 106,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/426699888.jpg?k=334800dae049aa6f00d6aa5826a40d7a31aa47f498c9c5a5cd0039217ac51977&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 106건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 106건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "The Roundhouse",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-roundhouse/hotel/all/deloraine-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 74,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/81855128.jpg?k=5239805c569d0455e4941e3980d2fd6c86f8ef4077f05abddfe0cd0d998b9a18&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 74건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 74건 기반.",
+      "reviews": [
+        {
+          "text": "The Roundhouse is a really beautiful architecture.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Beautiful architecture",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "White’s Corner",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/whites-corner/hotel/bothwell-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 110,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 30만원",
+      "valueIndex": 5.2,
+      "img": "//pix8.agoda.net/hotelImages/1122456/0/493f0966a039d52a9672ebc5cfcc33af.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 30만원",
+        "📝 리뷰 110건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 110건 기반.",
+      "reviews": [
+        {
+          "text": "Very authentic charm, comfortable beds & nice hot shower!",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Comfortable beds, hot shower and ample cooking facilities.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Clean, roomy and comfortable with a very comfy bed.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Very enjoyable stay in an historic cottage.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Beautiful 1800's cottage .. cosy and warm !",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-09T21:13:15.724Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}

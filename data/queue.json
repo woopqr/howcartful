@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-09T18:42:37.656Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 5,
+  "lastPostedAt": "2026-09-09T21:13:05.105Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 6,
   "postedDate": "2026-09-09",
   "queue": [
-    "australia-armidale-station",
     "australia-armidale-star4",
     "australia-armidale-reviewed",
-    "australia-avoca-vic"
+    "australia-avoca-vic",
+    "australia-arthurs-lake"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 363,
+    "cityIndex": 364,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -707,6 +707,7 @@
     "australia-arawarra-station",
     "australia-arawarra-reviewed",
     "australia-armidale",
-    "australia-armidale-rating"
+    "australia-armidale-rating",
+    "australia-armidale-station"
   ]
 }
