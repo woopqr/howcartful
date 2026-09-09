@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-09T15:19:29.099Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 4,
+  "lastPostedAt": "2026-09-09T18:42:37.656Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 5,
   "postedDate": "2026-09-09",
   "queue": [
-    "australia-armidale-rating",
     "australia-armidale-station",
     "australia-armidale-star4",
-    "australia-armidale-reviewed"
+    "australia-armidale-reviewed",
+    "australia-avoca-vic"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 362,
+    "cityIndex": 363,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -706,6 +706,7 @@
     "australia-arawarra-rating",
     "australia-arawarra-station",
     "australia-arawarra-reviewed",
-    "australia-armidale"
+    "australia-armidale",
+    "australia-armidale-rating"
   ]
 }
