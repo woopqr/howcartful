@@ -1,14 +1,16 @@
 {
-  "lastPostedAt": "2026-09-09T21:13:05.105Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 6,
+  "lastPostedAt": "2026-09-09T23:16:03.325Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 7,
   "postedDate": "2026-09-09",
   "queue": [
-    "australia-armidale-star4",
     "australia-armidale-reviewed",
     "australia-avoca-vic",
-    "australia-arthurs-lake"
+    "australia-arthurs-lake",
+    "australia-arthurs-lake-rating",
+    "australia-arthurs-lake-station",
+    "australia-arthurs-lake-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -708,6 +710,7 @@
     "australia-arawarra-reviewed",
     "australia-armidale",
     "australia-armidale-rating",
-    "australia-armidale-station"
+    "australia-armidale-station",
+    "australia-armidale-star4"
   ]
 }
