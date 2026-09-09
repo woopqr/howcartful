@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-09T01:28:36.639Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 1,
+  "lastPostedAt": "2026-09-09T06:30:17.527Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 2,
   "postedDate": "2026-09-09",
   "queue": [
-    "australia-arawarra-station",
     "australia-arawarra-reviewed",
     "australia-armidale",
     "australia-armidale-rating",
@@ -706,6 +705,7 @@
     "australia-ararat-station",
     "australia-ararat-reviewed",
     "australia-arawarra",
-    "australia-arawarra-rating"
+    "australia-arawarra-rating",
+    "australia-arawarra-station"
   ]
 }
