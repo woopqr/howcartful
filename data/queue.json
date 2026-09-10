@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-10T20:06:38.813Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 6,
+  "lastPostedAt": "2026-09-10T22:31:35.337Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 7,
   "postedDate": "2026-09-10",
   "queue": [
-    "australia-atherton-tableland",
     "australia-atherton-tableland-rating",
     "australia-atherton-tableland-station",
     "australia-atherton-tableland-star4",
@@ -716,6 +715,7 @@
     "australia-arthurs-lake",
     "australia-arthurs-lake-rating",
     "australia-arthurs-lake-station",
-    "australia-arthurs-lake-reviewed"
+    "australia-arthurs-lake-reviewed",
+    "australia-atherton-tableland"
   ]
 }
