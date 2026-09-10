@@ -1,0 +1,440 @@
+{
+  "slug": "australia-atherton-tableland-station",
+  "angle": "station",
+  "angleAdj": "역세권",
+  "lang": "ko-kr",
+  "citySlug": "atherton-tablelands-au",
+  "cityName": "애서턴 테이블랜드",
+  "cityId": 19489,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "애서턴 테이블랜드",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/674022914.jpg?k=313d31b27c8cbc0042e7365f38b294f7276395b9d82263f87f694901f9e3e821&o=",
+  "heroAlt": "애서턴 테이블랜드",
+  "heroSub": "실제 아고다 리뷰로 애서턴 테이블랜드의 역세권 숙소를 추렸습니다",
+  "verdictHtml": "역세권 기준 1순위는 <b>On The Wallaby Lodge</b>입니다 (평점 9.2·리뷰 428건·1박 약 5만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/674022914.jpg?k=313d31b27c8cbc0042e7365f38b294f7276395b9d82263f87f694901f9e3e821&o=",
+  "outroTitle": "🌙 애서턴 테이블랜드, 역세권으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 애서턴 테이블랜드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "On The Wallaby Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/on-the-wallaby-lodge_2/hotel/atherton-tablelands-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 428,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 9.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/674022914.jpg?k=313d31b27c8cbc0042e7365f38b294f7276395b9d82263f87f694901f9e3e821&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 428건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 428건 기반.",
+      "reviews": [
+        {
+          "text": "Have stayed here twice, beautiful little gem in Yungaburra.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "The staff and vibe of the hostel were astounding!!!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "So clean and cozy, such a nice place to chill out.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The lodge offered fantastic facilities.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "We loved On The Wallaby so much, didn’t want to leave!",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Nightcap at Atherton Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/atherton-hotel/hotel/atherton-tablelands-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 38,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.3,
+      "img": "//pix8.agoda.net/hotelImages/517720/-1/479de4f57e91c5d249912203108e0183.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 38건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 38건 기반.",
+      "reviews": [
+        {
+          "text": "The room was clean and very comfortable",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Big room, great shower . good parking, good staff",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Best hotel bed I have ever slept in",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "AMAZING hotel and value for money!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "We will definitely be back and recommend! Thank you!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Atherton Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/atherton-tourist-park/hotel/all/atherton-tablelands-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 115,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/778965597.jpg?k=6697fd6491963bd4242f05f23330792c7d548b309a3569c05c67e8c4ddd91142&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 115건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 115건 기반.",
+      "reviews": [
+        {
+          "text": "The cabin was e meticulously clean and well stocked,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Staff were really helpful and truly pleasant,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "A warm welcome and chilled environment.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Very chilled spot in a great location",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Great staff",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Malanda Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/malanda-lodge/hotel/all/atherton-tablelands-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 61,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/519721706.jpg?k=4dc4cbda67c2fa3d53c7b2392c93a43a0538fefd6f8ef6e19aca408e9d07323e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 61건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 61건 기반.",
+      "reviews": [
+        {
+          "text": "Relativly quiet, clean, comfortable bed and friendly staff.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Very nice decirated room, very nice staff, good breakfast",
+          "score": "10",
+          "country": "Israel",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Such a nice location, awesome staff and delightful rooms.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Best value accommodation on our 2 week road trip",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Very w3lcoming and cozy for a weekend getaway",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "BIG4 NRMA Atherton Tablelands Holiday Park                                                  ",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-atherton-woodlands-tourist-park/hotel/atherton-tablelands-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 458,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/284/284140/284140_13091914240015667560.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 458건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 458건 기반.",
+      "reviews": [
+        {
+          "text": "Very clean rooms and friendly staff! Recommend!!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Swimming pool.bbq area,clean rooms,friendly staff",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Plenty of room to swing a large caravan.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Pleasantly presented park with heaps of trees and gardens.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Very clean rooms and friendly staff",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "애서튼 블루 검 (Atherton Blue Gum)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/atherton-blue-gum-b-b/hotel/atherton-tablelands-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 247,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/11676/0/17cfb9353f7fb9beff34e3451caca481.jpg?ce=2",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 247건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 247건 기반.",
+      "reviews": [
+        {
+          "text": "Very comfortable, well run, clean, large room.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "I would definitely recommend and stay again in Unit 1.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The new owner Matt is lovely and always happy to help.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "A convenient quiet base in Atherton with everything I need.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Such a nice property and enjoyed our visit with owner.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "더 서밋 레인포리스트 리트리트 (The Summit Rainforest Retreat )",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-summit-rainforest-retreat/hotel/atherton-tablelands-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.7,
+      "reviewCount": 316,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/545756/0/efb452e0712b4221a4ae3d23b2d70c88.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 316건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 316건 기반.",
+      "reviews": [
+        {
+          "text": "Perfect spot high above the town with views over the region.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Lovely accommodation - Relaxing & Tranquil Setting",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "This house was just amazing to come home to after that",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Stayed here before in the studio apartment and loved it.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "It was nice to come home to after a sad day",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "station",
+    "base": "australia-atherton-tableland",
+    "count": 7,
+    "builtAt": "2026-09-10T14:37:42.656Z"
+  }
+}

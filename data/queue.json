@@ -1,14 +1,17 @@
 {
-  "lastPostedAt": "2026-09-10T10:37:14.312Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 3,
+  "lastPostedAt": "2026-09-10T14:37:42.699Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 4,
   "postedDate": "2026-09-10",
   "queue": [
-    "australia-arthurs-lake-rating",
     "australia-arthurs-lake-station",
     "australia-arthurs-lake-reviewed",
-    "australia-atherton-tableland"
+    "australia-atherton-tableland",
+    "australia-atherton-tableland-rating",
+    "australia-atherton-tableland-station",
+    "australia-atherton-tableland-star4",
+    "australia-atherton-tableland-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -712,6 +715,7 @@
     "australia-armidale-star4",
     "australia-armidale-reviewed",
     "australia-avoca-vic",
-    "australia-arthurs-lake"
+    "australia-arthurs-lake",
+    "australia-arthurs-lake-rating"
   ]
 }
