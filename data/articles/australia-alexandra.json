@@ -1,0 +1,124 @@
+{
+  "slug": "australia-alexandra",
+  "title": "알렉산드라 가성비 호텔 2곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 알렉산드라 가성비 호텔 2곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "알렉산드라",
+  "cityId": 142848,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "알렉산드라",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/187904013.jpg?k=24778be8866cbf32a62dd7888b4e83c1ef08d601ce81422519c9f3261ba988a7&o=",
+  "heroAlt": "알렉산드라",
+  "heroTitleHtml": "알렉산드라 가성비 호텔 2곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>The Corner Hotel Alexandra</b>(평점 7.9·리뷰 390건·1박 약 10만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>The Corner Hotel Alexandra</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/187904013.jpg?k=24778be8866cbf32a62dd7888b4e83c1ef08d601ce81422519c9f3261ba988a7&o=",
+  "outroTitle": "🌙 알렉산드라, 어디에 묵어도 후회없이",
+  "outroText": "위 2곳은 모두 알렉산드라 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 알렉산드라 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Corner Hotel Alexandra",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-corner-hotel-alexandra/hotel/all/alexandra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 390,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/187904013.jpg?k=24778be8866cbf32a62dd7888b4e83c1ef08d601ce81422519c9f3261ba988a7&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 390건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 390건 기반.",
+      "reviews": [
+        {
+          "text": "My husband and I enjoyed our one night stay here.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended if you are in the area.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Fabulous Place to Stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Lovely quaint pub stay!",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Alexandra Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/alexandra-motor-inn-victoria-aus/hotel/all/alexandra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 502,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/525021189.jpg?k=9c04bc229b559ed1dba68492ed70a6cb7e72ccf9668970dc61fcf9cf8d35f331&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 502건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 502건 기반.",
+      "reviews": [
+        {
+          "text": "Great location and facilities.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Great Stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Walking distance to restaurants.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-11T00:28:46.455Z",
+    "source": "agoda citySearch",
+    "count": 2
+  }
+}
