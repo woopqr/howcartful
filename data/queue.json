@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-11T00:28:42.339Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 1,
+  "lastPostedAt": "2026-09-11T05:02:39.643Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 2,
   "postedDate": "2026-09-11",
   "queue": [
-    "australia-atherton-tableland-station",
     "australia-atherton-tableland-star4",
     "australia-atherton-tableland-reviewed",
-    "australia-alexandra"
+    "australia-alexandra",
+    "australia-albany"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 366,
+    "cityIndex": 367,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -717,6 +717,7 @@
     "australia-arthurs-lake-station",
     "australia-arthurs-lake-reviewed",
     "australia-atherton-tableland",
-    "australia-atherton-tableland-rating"
+    "australia-atherton-tableland-rating",
+    "australia-atherton-tableland-station"
   ]
 }

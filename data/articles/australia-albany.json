@@ -1,0 +1,401 @@
+{
+  "slug": "australia-albany",
+  "title": "올버니 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 올버니 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "albany-au",
+  "cityName": "올버니",
+  "cityId": 17208,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "올버니",
+  "heroImg": "https://pix8.agoda.net/hotelImages/335992/0/12203e7b62d4feb9f925b379fa89adee.jpeg?ce=0",
+  "heroAlt": "올버니",
+  "heroTitleHtml": "올버니 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>1849 백패커</b>(평점 8·리뷰 262건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Middleton Beach 도보 9분</b>의 <b>Saltair Luxury Accommodation - Adults Only</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/335992/0/12203e7b62d4feb9f925b379fa89adee.jpeg?ce=0",
+  "outroTitle": "🌙 올버니, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 올버니 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 올버니 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "1849 백패커 (1849 Backpackers)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/1849-backpackers/hotel/albany-au.html?cid=1925461",
+      "walkMin": 38,
+      "score": 8,
+      "reviewCount": 262,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 7.9,
+      "img": "//pix8.agoda.net/hotelImages/335992/0/12203e7b62d4feb9f925b379fa89adee.jpeg?ce=0",
+      "distanceNote": "약 3033.76m · Middleton Beach 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 262건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 262건 기반.",
+      "reviews": [
+        {
+          "text": "Big kitchen that accommodates packed house.",
+          "score": "9.2",
+          "country": "泰國",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Clean, good service, comfort",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Centrally located, clean and very well equipped.",
+          "score": "10",
+          "country": "Italy",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The rooms are also clean and bed is comfortable.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "The hotel itself are fine for short and value for money..",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "식스 디그리스 부티크 호텔 (Six Degrees Boutique Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/six-degrees-albany-cbd-boutique-hotel/hotel/albany-au.html?cid=1925461",
+      "walkMin": 35,
+      "score": 8.2,
+      "reviewCount": 400,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 8만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/968/968531/968531_16050214330041979782.jpg?ca=6&ce=1",
+      "distanceNote": "약 2771.76m · Middleton Beach 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 400건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 400건 기반.",
+      "reviews": [
+        {
+          "text": "6 degrees is clean and tidy and central to all attractions.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Accommodation is clean, safe and comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "I recommend 6 Degrees for your Albany stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The beds are comfortable and the staff were lovely.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Great location comfortable clean rooms with fridges and TV.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "슈어스테이 호텔 바이 베스트 웨스턴 더 클라렌스 온 멜빌 (SureStay Hotel by Best Western The Clarence on Melville)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-the-clarence-on-melville/hotel/albany-au.html?cid=1925461",
+      "walkMin": 50,
+      "score": 8.2,
+      "reviewCount": 2405,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/498/49828/49828_17100913550057489953.jpg?ca=6&ce=1",
+      "distanceNote": "약 3966.98m · Middleton Beach 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 2,405건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 2,405건 기반.",
+      "reviews": [
+        {
+          "text": "On top of that the room was exceptionally clean, quiet.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "SureStay is always our go to hotel when we visit Albany.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Would definitely come back for a longer stay when in Albany.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Large clear rooms, excellent location with good facilities.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "They also provide washing machine which is free to use!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Hanover Bay Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hanover-bay-apartments_2/hotel/all/albany-au.html?cid=1925461",
+      "walkMin": 43,
+      "score": 9.6,
+      "reviewCount": 195,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/202684397.jpg?k=74dbb412c894d3f82fcc7aedf6c723e112fcd3a477e25158ec226521c128a6ed&o=",
+      "distanceNote": "약 3419.57m · Middleton Beach 인근",
+      "metaTags": [
+        "📝 리뷰 195건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 195건 기반.",
+      "reviews": [
+        {
+          "text": "We didn’t need a lot but everything we needed was there.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Clean, comfortable and well equipped",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Very good value for money.",
+          "score": "10",
+          "country": "ישראל",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "We will stay again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "I couldn’t ask for more.",
+          "score": "10",
+          "country": "ישראל",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Albany Bayview Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/albany-bayview-lodge/hotel/all/albany-au.html?cid=1925461",
+      "walkMin": 33,
+      "score": 6.4,
+      "reviewCount": 99,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/826258034.jpg?k=2c871ef01436d8ee92c34909ebe1609a444fbc63a7d5d33d81093ee1d9729a72&o=",
+      "distanceNote": "약 2679.83m · Middleton Beach 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 99건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>6.4</b> · 실제 투숙객 리뷰 99건 기반.",
+      "reviews": [
+        {
+          "text": "Easy to reach, great location and great staff.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "To anything i jave a great stay! Thankyou!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Great place to stay in Albany.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The location is very accessible",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Very good experience!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Saltair Luxury Accommodation - Adults Only",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/saltair-luxury-accommodation-adults-only/hotel/all/albany-au.html?cid=1925461",
+      "walkMin": 9,
+      "score": 9.2,
+      "reviewCount": 588,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/51901872.jpg?k=f5690633973e05236f97af69675aa0683a25429441574e1f3eb1d353d5b19557&o=",
+      "distanceNote": "약 743.02m · Middleton Beach 인근",
+      "metaTags": [
+        "📝 리뷰 588건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 588건 기반.",
+      "reviews": [
+        {
+          "text": "Great location to cafes and bars we cant wait to return !",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Apartment was big and comfy with the necessary amenities.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Lovely room with a view",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Very nice apartment with everything",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Lovely Accommodation",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Serpentine Rose",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/serpentine-rose/hotel/all/albany-au.html?cid=1925461",
+      "walkMin": 40,
+      "score": 9.5,
+      "reviewCount": 87,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/170873304.jpg?k=d3c23ca7a64c1085ad41a480ab2cff5d5fc35d19d734b9d5176d4e64bbdfa077&o=",
+      "distanceNote": "약 3213.49m · Middleton Beach 인근",
+      "metaTags": [
+        "📝 리뷰 87건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 87건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-11T05:02:53.998Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
