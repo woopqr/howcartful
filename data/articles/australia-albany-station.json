@@ -1,0 +1,406 @@
+{
+  "slug": "australia-albany-station",
+  "angle": "station",
+  "angleAdj": "역세권",
+  "lang": "ko-kr",
+  "citySlug": "albany-au",
+  "cityName": "올버니",
+  "cityId": 17208,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "올버니",
+  "heroImg": "https://pix8.agoda.net/hotelImages/486/486829/486829_15061214140029387242.jpg?ca=4&ce=1",
+  "heroAlt": "올버니",
+  "heroSub": "실제 아고다 리뷰로 올버니의 역세권 숙소를 추렸습니다",
+  "verdictHtml": "역세권 기준 1순위는 <b>더 비치 하우스 앳 베이사이드</b>입니다 (평점 9.3·리뷰 41건·1박 약 28만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/486/486829/486829_15061214140029387242.jpg?ca=4&ce=1",
+  "outroTitle": "🌙 올버니, 역세권으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 올버니 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 비치 하우스 앳 베이사이드 (The Beach House at Bayside)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-beach-house-at-bayside/hotel/albany-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 9.3,
+      "reviewCount": 41,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 28만원",
+      "valueIndex": 5.5,
+      "img": "//pix8.agoda.net/hotelImages/486/486829/486829_15061214140029387242.jpg?ca=4&ce=1",
+      "distanceNote": "약 194.46m · Middleton Beach 인근",
+      "metaTags": [
+        "💰 약 28만원",
+        "📝 리뷰 41건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 41건 기반.",
+      "reviews": [
+        {
+          "text": "They provided free breakfast to a close friend of our kids 😊",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Perfect place and great breakfasts",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Beautiful venue and comfortable room.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Thank you for making our Easter memorable",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "So helpful kind and great to talk to",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "에무 비치 찰렛 (Emu Beach Chalets)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/emu-beach-chalets/hotel/albany-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.7,
+      "reviewCount": 329,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/302394/0/29d103d6611868e9b091e02c1d1896b7.jpeg?ce=0",
+      "distanceNote": "약 198.29m · Middleton Beach 인근",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 329건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 329건 기반.",
+      "reviews": [
+        {
+          "text": "Beautiful grounds and superb location right near the beach.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Will definitely be back and highly recommend! 😊",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Great for family with pet !!",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Comfortable stay !",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Lovely stay with our dog.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "하바나 빌라 (Havana Villas)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/havana-villas/hotel/albany-au.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.6,
+      "reviewCount": 991,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/302/302095/302095_17021112430050932730.jpg?ca=6&ce=1",
+      "distanceNote": "약 223.72m · Middleton Beach 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 991건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 991건 기반.",
+      "reviews": [
+        {
+          "text": "Spacious, can accommodate the total 7 adults with me.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Havana Villa a must stay in if you are in Albany",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Location was perfect, cabins spacious and great for families",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Its near town, clean and comfortable enough for 5 of us.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "I really love it all the facilities well equipped.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "돌핀 로지 (Dolphin Lodge)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dolphin-lodge/hotel/albany-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 9.1,
+      "reviewCount": 3367,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/250043/0/f3a958c29ffddcf06b3e0b4becf48f9a.jpeg?ce=0",
+      "distanceNote": "약 404.89m · Middleton Beach 인근",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 3,367건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 3,367건 기반.",
+      "reviews": [
+        {
+          "text": "Very clean and spacious with great amenities and location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "Comfy beds and everything you need for a relaxing holiday.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Location is great and the rooms were spacious, beds comfy.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "This is the best hotel I stayed in my Perth-Albany trip.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "We stayed in Unit 27, it was very comfortable and clean.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Pelicans Albany Middleton Beach",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pelicans-albany-middleton-beach/hotel/albany-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 9.1,
+      "reviewCount": 1625,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/property/21659432/0/125062bfd65e3801cb9954bef21a7259.jpeg?ce=3",
+      "distanceNote": "약 394.35m · Middleton Beach 인근",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 1,625건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 1,625건 기반.",
+      "reviews": [
+        {
+          "text": "Staff were fantastic and rooms very clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend this stay as its nice and don’t seems old.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "We stayed in the little villa, really nice modern room.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Great location, close to the beach.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Fantastic rooms to stay in",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Albany Holiday Units",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/albany-holiday-units/hotel/all/albany-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.7,
+      "reviewCount": 98,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/237059001.jpg?k=456fa4ea5f4dec5f0e77d688ecb4878882eac541630edfecf8ead6093d4ec596&o=",
+      "distanceNote": "약 383.99m · Middleton Beach 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 98건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 98건 기반.",
+      "reviews": [
+        {
+          "text": "Lovely place to stay, highly recommend",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The units here is very clean and have great facilities.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "From checkin to checkout over mutiple stays just easy",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Overall nice place to stay and cute accommodation.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Had a really lovely stay for a night:)",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Park Avenue Holiday Units",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/park-avenue-holiday-units_2/hotel/all/albany-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.8,
+      "reviewCount": 1043,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/237044556.jpg?k=e803d86fbd672f1a866008a751393dfa7eaa5a355442fabcf7e823026ece48c5&o=",
+      "distanceNote": "약 377.41m · Middleton Beach 인근",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 1,043건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,043건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "station",
+    "base": "australia-albany",
+    "count": 7,
+    "builtAt": "2026-09-11T09:32:56.548Z"
+  }
+}
