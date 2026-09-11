@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-11T17:19:17.823Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 5,
+  "lastPostedAt": "2026-09-11T19:50:16.558Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 6,
   "postedDate": "2026-09-11",
   "queue": [
-    "australia-albany",
     "australia-albany-rating",
     "australia-albany-station",
     "australia-albany-premium",
@@ -723,6 +722,7 @@
     "australia-atherton-tableland-station",
     "australia-atherton-tableland-star4",
     "australia-atherton-tableland-reviewed",
-    "australia-alexandra"
+    "australia-alexandra",
+    "australia-albany"
   ]
 }
