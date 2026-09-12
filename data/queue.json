@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-12T19:40:45.906Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 7,
+  "lastPostedAt": "2026-09-12T21:39:44.928Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 8,
   "postedDate": "2026-09-12",
   "queue": [
-    "australia-altona-north-budget",
     "australia-altona-north-premium",
     "australia-altona-north-star4",
-    "australia-altona-north-reviewed"
+    "australia-altona-north-reviewed",
+    "australia-adelaide"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 368,
+    "cityIndex": 369,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -730,6 +730,7 @@
     "australia-albany-reviewed",
     "australia-altona-north",
     "australia-altona-north-rating",
-    "australia-altona-north-station"
+    "australia-altona-north-station",
+    "australia-altona-north-budget"
   ]
 }

@@ -1,0 +1,441 @@
+{
+  "slug": "australia-adelaide",
+  "title": "애들레이드 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 애들레이드 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "adelaide-au",
+  "cityName": "애들레이드",
+  "cityId": 11981,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "애들레이드",
+  "heroImg": "https://pix8.agoda.net/hotelImages/446000/-1/94850cffe644b33bd0f71bad06b8ef67.jpg?ce=0",
+  "heroAlt": "애들레이드",
+  "heroTitleHtml": "애들레이드 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>YHA 애들레이드 센트럴</b>(평점 8.8·리뷰 911건·1박 약 5만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>마일 엔드역 도보 5분</b>의 <b>The Mile End Hotel</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/446000/-1/94850cffe644b33bd0f71bad06b8ef67.jpg?ce=0",
+  "outroTitle": "🌙 애들레이드, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 애들레이드 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 애들레이드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "YHA 애들레이드 센트럴 (YHA Adelaide Central )",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/adelaide-central-yha-hostel/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 8.8,
+      "reviewCount": 911,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/446000/-1/94850cffe644b33bd0f71bad06b8ef67.jpg?ce=0",
+      "distanceNote": "약 547.34m · 애들레이드 기차역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 911건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 911건 기반.",
+      "reviews": [
+        {
+          "text": "Near to the bus station, tram and places of attraction.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "The common areas are very spacious, and the kitchen is huge.",
+          "score": "10",
+          "country": "澳洲",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Everything is well maintained and clean, staff are helpful.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Good location, kitchen, colon area are excellent,",
+          "score": "10",
+          "country": "India",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "The kitchen where you can cook your own meals,",
+          "score": "9.6",
+          "country": "Vietnam",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "The Mile End Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-mile-end-hotel/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.6,
+      "reviewCount": 814,
+      "priceBand": 1,
+      "priceText": "₩ · 약 5만원",
+      "valueIndex": 8.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/100962155.jpg?k=426c12115a4835f64642d6191ae2a5d2405506bcdeece74bbfe0ce3f7f3bd8c9&o=",
+      "distanceNote": "약 427.8m · 마일 엔드역 인근",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 814건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 814건 기반.",
+      "reviews": [
+        {
+          "text": "Very happy stay, my room was clean and comfortable.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Friendly staff.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Great hotel",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Welcoming staff, clean and comfortable like a cloud bed.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "The location is excellent, with convenient transport links.",
+          "score": "10",
+          "country": "中国",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "테킬라 선라이즈 호스텔 애들레이드 (Tequila Sunrise Hostel Adelaide)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tequila-sunrise-hostel/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 8.5,
+      "reviewCount": 643,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.5,
+      "img": "//pix8.agoda.net/hotelImages/462509/0/e9e14900d55dd131dd121d45e9aeec98.jpg?ce=3",
+      "distanceNote": "약 544.08m · 애들레이드 기차역 인근",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 643건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 643건 기반.",
+      "reviews": [
+        {
+          "text": "This has been the best hostel I have been too in Australia!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "A Comfortable and Affordable Hostel with Great Perks",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Free breakfast and free dinner with a good price.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "It's in the central of city and wifi is really high speed",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Everything seems to be newly renovated and just so clean.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "베이스 캠프 호스텔 (Base Camp Hostel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/base-camp-hostel-h47867027/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 12,
+      "score": 8.3,
+      "reviewCount": 1389,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8.3,
+      "img": "//pix8.agoda.net/hotelImages/47867027/-1/873857590b2d76f77c6032b9907cd8ed.jpg?ce=0",
+      "distanceNote": "약 950.49m · 애들레이드역 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 1,389건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 1,389건 기반.",
+      "reviews": [
+        {
+          "text": "Great stay over for a short trip, easy to check in and out",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Dinner and breakfast are included, which is really awesome.",
+          "score": "9.2",
+          "country": "Deutschland",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Lovely place, people have been respecful during my stay.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Base Camp is a clean place and the staff are friendly.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Location is perfect as it’s in the heart of the city.",
+          "score": "7.2",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "호텔 메트로폴리탄 (Hotel Metropolitan)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-metropolitan/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 9,
+      "score": 7.6,
+      "reviewCount": 596,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 7.6,
+      "img": "//pix8.agoda.net/hotelImages/689793/0/acb7940e81242c7f129c6f18424ba728.jpeg?ce=0",
+      "distanceNote": "약 707.18m · 애들레이드 기차역 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 596건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 596건 기반.",
+      "reviews": [
+        {
+          "text": "I enjoyed my stay and would happily stay there again.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "I'll definitely stay again and will take my kids next time.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "100% recommend for anyone wanting a cheap, lovely stay!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "It was clean, comfortable, and the service was amazing!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Excellent central location and friendly atmosphere",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Toms Court Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/toms-court-hotel/hotel/all/adelaide-au.html?cid=1925461",
+      "walkMin": 15,
+      "score": 8.8,
+      "reviewCount": 4241,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/280984089.jpg?k=91dab01fdcaa3e90026d420d49526ed28148eb1e557b7c3a2ff8ac81b085efa1&o=",
+      "distanceNote": "약 1191.74m · 애들레이드 기차역 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 4,241건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 4,241건 기반.",
+      "reviews": [
+        {
+          "text": "Room very clean and comfortable with huge bed and balcony.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Tom's Court Hotel is possibly our favourite so far.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Despite this, I'm looking forward to staying again.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Friendly staff, clean rooms and great location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Very friendly and helpful staff and nice clean rooms.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "애들레이드 리비에라 호텔  (Adelaide Riviera Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/adelaide-riviera-hotel_3/hotel/all/adelaide-au.html?cid=1925461",
+      "walkMin": 8,
+      "score": 8.6,
+      "reviewCount": 7474,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/115150263.jpg?k=a3a2e30babe30016b4a23c81897207ca772814937e73ff493921336e95e400f0&o=",
+      "distanceNote": "약 662.06m · 애들레이드역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 7,474건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 7,474건 기반.",
+      "reviews": [
+        {
+          "text": "I would recommend staying at the Riviera at any time.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "I stayed in a spa suite, the spa is a massive corner spa.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "This is our go to place to stay in Adelaide.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Clean room, great bed, and would recommend to others!!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The staff were very helpful and always with a smile.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-12T21:40:02.925Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
