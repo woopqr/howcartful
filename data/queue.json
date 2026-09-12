@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-12T04:29:47.332Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 2,
+  "lastPostedAt": "2026-09-12T08:46:33.805Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 3,
   "postedDate": "2026-09-12",
   "queue": [
-    "australia-albany-star4",
     "australia-albany-reviewed",
     "australia-altona-north",
     "australia-altona-north-rating",
@@ -730,6 +729,7 @@
     "australia-albany",
     "australia-albany-rating",
     "australia-albany-station",
-    "australia-albany-premium"
+    "australia-albany-premium",
+    "australia-albany-star4"
   ]
 }
