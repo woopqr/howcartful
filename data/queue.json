@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-11T22:01:42.917Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 7,
-  "postedDate": "2026-09-11",
+  "lastPostedAt": "2026-09-12T00:08:41.928Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 1,
+  "postedDate": "2026-09-12",
   "queue": [
-    "australia-albany-station",
     "australia-albany-premium",
     "australia-albany-star4",
-    "australia-albany-reviewed"
+    "australia-albany-reviewed",
+    "australia-altona-north"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 367,
+    "cityIndex": 368,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -723,6 +723,7 @@
     "australia-atherton-tableland-reviewed",
     "australia-alexandra",
     "australia-albany",
-    "australia-albany-rating"
+    "australia-albany-rating",
+    "australia-albany-station"
   ]
 }

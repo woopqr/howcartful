@@ -1,0 +1,413 @@
+{
+  "slug": "australia-altona-north",
+  "title": "알토나 노스 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 알토나 노스 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "알토나 노스",
+  "cityId": 720456,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "알토나 노스",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/630435500.jpg?k=4610acd9e748526bc6d910619c97cd5c3dcde77c885ea0404e60707eb64d4214&o=",
+  "heroAlt": "알토나 노스",
+  "heroTitleHtml": "알토나 노스 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Room in Newport Modern townhouse - Walk to stunning ocean view</b>(평점 9.5·리뷰 21,979건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Public Transportation Victoria 도보 3분</b>의 <b>퀘스트 도클랜즈</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/630435500.jpg?k=4610acd9e748526bc6d910619c97cd5c3dcde77c885ea0404e60707eb64d4214&o=",
+  "outroTitle": "🌙 알토나 노스, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 알토나 노스 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 알토나 노스 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Room in Newport Modern townhouse - Walk to stunning ocean view",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/modern-townhouse-in-newport-walk-to-stunning-ocean-view/hotel/all/newport-au.html?cid=1925461",
+      "walkMin": 9,
+      "score": 9.5,
+      "reviewCount": 21979,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 9.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/630435500.jpg?k=4610acd9e748526bc6d910619c97cd5c3dcde77c885ea0404e60707eb64d4214&o=",
+      "distanceNote": "약 713.15m · Newport 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 21,979건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 21,979건 기반.",
+      "reviews": [
+        {
+          "text": "I had the upstairs bedroom which had a full big ensuite",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "스위트 홈 (Sweet Home)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sweet-home/hotel/laverton-au.html?cid=1925461",
+      "walkMin": 44,
+      "score": 8.6,
+      "reviewCount": 97,
+      "priceBand": 1,
+      "priceText": "₩ · 약 6만원",
+      "valueIndex": 8.3,
+      "img": "//pix8.agoda.net/hotelImages/76952382/0/71dd63024f7d53ce7bed25bad8817284.jpg?va=1&ce=2",
+      "distanceNote": "약 3515.94m · Williams Landing 인근",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 97건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 97건 기반.",
+      "reviews": [
+        {
+          "text": "Comfortable, clean and affordable",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "I felt comfortable here",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Thanks again I really enjoyed here.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Great place to stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Excellent accomodation",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "퀘스트 뉴키 (Quest NewQuay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quest-newquay/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 10,
+      "score": 8.9,
+      "reviewCount": 6606,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/5590126/0/3491b4442614b15f9106f30ceb76b564.jpeg?va=1&ce=0",
+      "distanceNote": "약 825.22m · 노스 멜번역 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 6,606건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 6,606건 기반.",
+      "reviews": [
+        {
+          "text": "The room was super clean and modern, nothing to fault it.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "100m to public transport, as well as be a quite place of MB.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Would highly recommend for others to stay here by all means.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Hotel is new and nice, modern design, staffs very friendly.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Very modern and clean with comfortable bedding and chairs.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "퀘스트 도클랜즈 (Quest Docklands)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quest-docklands-apartment-hotel/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.8,
+      "reviewCount": 1019,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.4,
+      "img": "//pix8.agoda.net/hotelImages/863/8637795/8637795_19071111540078030612.jpg?va=1&ca=13&ce=1",
+      "distanceNote": "약 224.4m · Public Transportation Victoria 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,019건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,019건 기반.",
+      "reviews": [
+        {
+          "text": "We love staying here every time we go to the footy at marvel",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Right on Marvels door step will be back time and time again",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "The 4th floor is accessed to the platform, very convenient.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Best customer service and appreciate how helpful they are.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Spacious, clean rooms, great location and wonderful staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "디스커버리 파크 - 멜번 (Discovery Parks - Melbourne)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/discovery-parks-melbourne/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 22,
+      "score": 8.7,
+      "reviewCount": 2573,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.4,
+      "img": "//pix8.agoda.net/hotelImages/916/91640/91640_16031807270040867092.jpg?va=1&ca=6&ce=1",
+      "distanceNote": "약 1769.52m · 토트넘역 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 2,573건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 2,573건 기반.",
+      "reviews": [
+        {
+          "text": "I was offered a free upgrade to Deluxe unit this round.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "The pool and facilities were excellent for a young family.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Cabin was spacious and very clean, comfy beds, happy kids!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "Location to all our planned visits are also convenient.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Overnight in a standard cabin exceeded my expectations.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "더 가이딩 스타 호텔 (The Guiding Star Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/guiding-star-motel_3/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 44,
+      "score": 8.7,
+      "reviewCount": 691,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/283789742.jpg?k=7089b8d5feb66631154c8129bf74014e13bacbc569a3ac1db6c921ad4a1f9849&o=",
+      "distanceNote": "약 3487.35m · 토트넘역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 691건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 691건 기반.",
+      "reviews": [
+        {
+          "text": "Easy check in and out thru the pin numbers given via SMS.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Plenty of parking, nice and very clean room.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Nearby has a restaurant serving good meals/drinks.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Very privacy and you enjoy the room!!!!!!!!!",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Great stay",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "플라우 호텔 (Plough Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/plough-hotel/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8.3,
+      "reviewCount": 567,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/6430215/-1/58dcae09a128862d82644c2d339f8dae.jpg?va=1&ca=8&ce=1",
+      "distanceNote": "약 386.64m · 미들 풋츠크레이역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 567건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 567건 기반.",
+      "reviews": [
+        {
+          "text": "Stayed here for 2 nights and everything was wonderful!",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "We had dinner downstairs and the food was incredible!",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Staff were helpful and the restaurant is great too.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The room was clean and comfortable.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Clean and well appointed",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-12T00:08:57.760Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
