@@ -1,0 +1,442 @@
+{
+  "slug": "australia-adelaide-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "adelaide-au",
+  "cityName": "애들레이드",
+  "cityId": 11981,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "애들레이드",
+  "heroImg": "https://pix8.agoda.net/hotelImages/12448839/-1/23d957529a4402ec1c18f6d315bd4c69.jpg?ca=15&ce=1",
+  "heroAlt": "애들레이드",
+  "heroSub": "실제 아고다 리뷰로 애들레이드의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>오벌 호텔 애들레이드</b>입니다 (평점 9.2·리뷰 1,891건·1박 약 28만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/12448839/-1/23d957529a4402ec1c18f6d315bd4c69.jpg?ca=15&ce=1",
+  "outroTitle": "🌙 애들레이드, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 애들레이드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "오벌 호텔 애들레이드 (Oval Hotel Adelaide)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-oval/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 8,
+      "score": 9.2,
+      "reviewCount": 1891,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 28만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/12448839/-1/23d957529a4402ec1c18f6d315bd4c69.jpg?ca=15&ce=1",
+      "distanceNote": "약 667.8m · 애들레이드역 인근",
+      "metaTags": [
+        "💰 약 28만원",
+        "📝 리뷰 1,891건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 1,891건 기반.",
+      "reviews": [
+        {
+          "text": "And the rooms were clean and comfortable- highly recommend",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "A really great experience staying at Adelaide Oval.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "I would highly recommend this place for business or leisure.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Beautiful hotel with friendly staff in a fantastic location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "I touch of luxury, and walking distance to the city centre.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "더 플레이포드 애들레이드- M 갤러리 (The Playford Adelaide - MGallery)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-playford-adelaide-mgallery-by-sofitel/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 1,
+      "score": 9.1,
+      "reviewCount": 2605,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/903854167.jpg?k=f0869003682322b79822dedbf4cd3a4f0372f527e895595978d2ddee7cc33044&o=",
+      "distanceNote": "약 87.84m · 애들레이드역 인근",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 2,605건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 2,605건 기반.",
+      "reviews": [
+        {
+          "text": "Great location across the road from the convention centre",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Friendly/helpful staff, great facilities in spa/pool/sauna!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Staff very friendly and helpful the room was very clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Hotel staff and environment was very helpful and friendly !",
+          "score": "8",
+          "country": "Taiwan",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The location is perfect (10 m walk to the Adelaide oval)",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "호텔 인디고 애들레이드 마켓 바이 IHG (Hotel Indigo Adelaide Markets By IHG)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-indigo-adelaide-markets/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 13,
+      "score": 9.1,
+      "reviewCount": 2117,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/14724110/-1/313b2d281a0a633175ba57d57d464ede.jpg?ce=0",
+      "distanceNote": "약 1042.03m · 애들레이드 기차역 인근",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 2,117건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 2,117건 기반.",
+      "reviews": [
+        {
+          "text": "And other staff were quite friendly throughout the stay.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "One of the best hotels I have stayed in Australia so far.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Room was very clean and spacious with a big comfortable bed.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "We just made this place our second home here in Adelaide.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Friendly staff, nice rooms with large, modern shower.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "아투라 애들레이드 에어포트 (Atura Adelaide Airport)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/atura-adelaide-airport/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 42,
+      "score": 9,
+      "reviewCount": 1067,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/5434862/0/984d505c8820f3c48277e53fc1ea76b0.jpg?ce=0",
+      "distanceNote": "약 3361.37m · Keswick Railway Station 인근",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 1,067건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,067건 기반.",
+      "reviews": [
+        {
+          "text": "The room was larger than you'd expect for an airport hotel.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Rooms are well equipped and the beds are super comfortable.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The room was cozy, charming and thoughtfully supplied.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Excellent location which is just next to the airport.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "The best thing is you just walk from hotel into the airport!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "마제스틱 루프 가든 호텔 (Majestic Roof Garden Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/majestic-roof-garden-hotel/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 12,
+      "score": 9,
+      "reviewCount": 971,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/60349/0/da26d080f0644f9f0efe1f7035ab8681.jpeg?ce=0",
+      "distanceNote": "약 943.69m · 애들레이드 기차역 인근",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 971건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 971건 기반.",
+      "reviews": [
+        {
+          "text": "Location is great, rooms are super comfortable and clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Staff went out of their way to make my stay comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The room is also clean and decent and spacious enough.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "A lovely hotel in a great location for a really great price,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Close to Rundle mall and a lot of restaurants and cafes.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "크라운 플라자 애들레이드 바이 IHG (Crowne Plaza Adelaide By IHG)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/crowne-plaza-adelaide-h11144451/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 11,
+      "score": 9,
+      "reviewCount": 1414,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 35만원",
+      "valueIndex": 5.2,
+      "img": "//pix8.agoda.net/hotelImages/10665069/158177524/38072a75e301668e65d824dc749b328e.jpeg?ce=0",
+      "distanceNote": "약 914.29m · 애들레이드 기차역 인근",
+      "metaTags": [
+        "💰 약 35만원",
+        "📝 리뷰 1,414건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,414건 기반.",
+      "reviews": [
+        {
+          "text": "Amazing hotel, one of the best I have stayed in a while.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Room was fairly spacious and most importantly very clean.",
+          "score": "8.8",
+          "country": "싱가포르",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "And we always enjoy having a drink by your rooftop pool!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The location is great, right next to everything you need.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "The room is spacious, very clean and super comfortable.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "바이브 호텔 애들레이드 (Vibe Hotel Adelaide)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/vibe-hotel-adelaide/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 15,
+      "score": 9,
+      "reviewCount": 3315,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/35505990/0/51828488d190db96b302445de0240bbe.jpg?ce=0",
+      "distanceNote": "약 1209.79m · 애들레이드 기차역 인근",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 3,315건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 3,315건 기반.",
+      "reviews": [
+        {
+          "text": "Lovely hotel - large room, lovely staff and great location.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Clean and comfortable - what more can you want!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "A lovely hotel with comfortable room, and spacious bathroom.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "The hotel being new was very clean and well maintained.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "The room was large enough and the bathroom was lovely.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-adelaide",
+    "count": 7,
+    "builtAt": "2026-09-12T23:21:49.244Z"
+  }
+}

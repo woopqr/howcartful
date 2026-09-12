@@ -1,0 +1,441 @@
+{
+  "slug": "australia-adelaide-reviewed",
+  "angle": "reviewed",
+  "angleAdj": "후기 많은",
+  "lang": "ko-kr",
+  "citySlug": "adelaide-au",
+  "cityName": "애들레이드",
+  "cityId": 11981,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "애들레이드",
+  "heroImg": "https://pix8.agoda.net/hotelImages/6252383/0/8d95be7eb1feaf007faa95de11cbdb91.jpg?ca=9&ce=1",
+  "heroAlt": "애들레이드",
+  "heroSub": "실제 아고다 리뷰로 애들레이드의 리뷰 많은 숙소를 추렸습니다",
+  "verdictHtml": "리뷰 많은 기준 1순위는 <b>스탬포드 플라자 애들레이드</b>입니다 (평점 8.4·리뷰 8,392건·1박 약 22만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/6252383/0/8d95be7eb1feaf007faa95de11cbdb91.jpg?ca=9&ce=1",
+  "outroTitle": "🌙 애들레이드, 리뷰 많은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 애들레이드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "스탬포드 플라자 애들레이드 (Stamford Plaza Adelaide)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/stamford-plaza-adelaide_5/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.4,
+      "reviewCount": 8392,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.5,
+      "img": "//pix8.agoda.net/hotelImages/6252383/0/8d95be7eb1feaf007faa95de11cbdb91.jpg?ca=9&ce=1",
+      "distanceNote": "약 87.88m · 애들레이드 기차역 인근",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 8,392건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 8,392건 기반.",
+      "reviews": [
+        {
+          "text": "A great location had a parkland view room what a great view.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Great location beautiful rooms and Argentinian restaurant",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "The service by their staff was exceptional throughout 👏",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "The staff were very friendly and went above and beyond.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Staff were so friendly and helped anyway they could.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "애들레이드 리비에라 호텔  (Adelaide Riviera Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/adelaide-riviera-hotel_3/hotel/all/adelaide-au.html?cid=1925461",
+      "walkMin": 8,
+      "score": 8.6,
+      "reviewCount": 7474,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/115150263.jpg?k=a3a2e30babe30016b4a23c81897207ca772814937e73ff493921336e95e400f0&o=",
+      "distanceNote": "약 662.06m · 애들레이드역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 7,474건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 7,474건 기반.",
+      "reviews": [
+        {
+          "text": "I would recommend staying at the Riviera at any time.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "I stayed in a spa suite, the spa is a massive corner spa.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "This is our go to place to stay in Adelaide.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Clean room, great bed, and would recommend to others!!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The staff were very helpful and always with a smile.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "호텔 그랜드 챈슬러 애들레이드 (Hotel Grand Chancellor Adelaide)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hotel-grand-chancellor-adelaide-on-hindley_10/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 8.9,
+      "reviewCount": 7305,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/60122576/0/af6c59278f5bc033ac53115b195535d5.jpg?ce=3",
+      "distanceNote": "약 180.36m · 애들레이드 기차역 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 7,305건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 7,305건 기반.",
+      "reviews": [
+        {
+          "text": "The staff are always helpful and the rooms are always clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Good sized rooms, parking and restaurant facilities.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Great staff, nice and comfortable room, awesome facilities.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Clean, updated, welcoming staff, they listen you carefully.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The hotel delivered above my expectations in everything.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "스탬포드 그랜드 애들레이드 (Stamford Grand Adelaide)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/stamford-grand-adelaide_4/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8.7,
+      "reviewCount": 6040,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 31만원",
+      "valueIndex": 5.1,
+      "img": "//pix8.agoda.net/hotelImages/36420073/0/b4e13cd9e68905d9ab9430d88225b60a.jpg?ce=0",
+      "distanceNote": "약 489.21m · Stop 16 21D Jetty Rd Station 인근",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 6,040건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 6,040건 기반.",
+      "reviews": [
+        {
+          "text": "Great hotel, sensational location and friendly helpful staff",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "I won't stay anywhere else this place was next level.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Great service, big clean room and accommodating.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Was great value and the staff were great and very helful.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "The room is clean, comfortable and has a great view.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Toms Court Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/toms-court-hotel/hotel/all/adelaide-au.html?cid=1925461",
+      "walkMin": 15,
+      "score": 8.8,
+      "reviewCount": 4241,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/280984089.jpg?k=91dab01fdcaa3e90026d420d49526ed28148eb1e557b7c3a2ff8ac81b085efa1&o=",
+      "distanceNote": "약 1191.74m · 애들레이드 기차역 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 4,241건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 4,241건 기반.",
+      "reviews": [
+        {
+          "text": "Room very clean and comfortable with huge bed and balcony.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Tom's Court Hotel is possibly our favourite so far.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Despite this, I'm looking forward to staying again.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Friendly staff, clean rooms and great location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Very friendly and helpful staff and nice clean rooms.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "인터컨티넨탈 애들레이드 바이 IHG (InterContinental Adelaide By IHG)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/intercontinental-adelaide/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.9,
+      "reviewCount": 3864,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/5076454/0/9d0d63e703b5bee4a8efcd54d2f18e91.jpeg?ce=0",
+      "distanceNote": "약 38.94m · 애들레이드역 인근",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 3,864건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 3,864건 기반.",
+      "reviews": [
+        {
+          "text": "Hotel is in 💜 of city transport facilities are very close.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The staff were great and the hotel it's self was fantastic.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Bedroom beautiful and spacious and breakfast is amazing.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "First class facilities, breakfast is the absolute best!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Our room was lovely and clean and the bed comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Mayfair Hotel Adelaide By IHG",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mayfair-hotel/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 3,
+      "score": 8.5,
+      "reviewCount": 3585,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/686546/1295775485/a3d2df2aeb9d2851483c6de2779d9ad1.jpg?ce=3",
+      "distanceNote": "약 212.18m · 애들레이드 기차역 인근",
+      "metaTags": [
+        "📝 리뷰 3,585건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 3,585건 기반.",
+      "reviews": [
+        {
+          "text": "Close to city centre, transport, entertainment and shopping.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The cleanliness and location made this hotel a winner.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The staff are very attentiveand can not do enough for you.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Lovely hotel, central, luxurious and fab staff",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The staff is simply wonderful, in each area of service.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "reviewed",
+    "base": "australia-adelaide",
+    "count": 7,
+    "builtAt": "2026-09-12T23:21:49.245Z"
+  }
+}
