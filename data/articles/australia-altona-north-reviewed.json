@@ -1,0 +1,413 @@
+{
+  "slug": "australia-altona-north-reviewed",
+  "angle": "reviewed",
+  "angleAdj": "후기 많은",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "알토나 노스",
+  "cityId": 720456,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "알토나 노스",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/630435500.jpg?k=4610acd9e748526bc6d910619c97cd5c3dcde77c885ea0404e60707eb64d4214&o=",
+  "heroAlt": "알토나 노스",
+  "heroSub": "실제 아고다 리뷰로 알토나 노스의 리뷰 많은 숙소를 추렸습니다",
+  "verdictHtml": "리뷰 많은 기준 1순위는 <b>Room in Newport Modern townhouse - Walk to stunning ocean view</b>입니다 (평점 9.5·리뷰 21,979건·1박 약 7만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/630435500.jpg?k=4610acd9e748526bc6d910619c97cd5c3dcde77c885ea0404e60707eb64d4214&o=",
+  "outroTitle": "🌙 알토나 노스, 리뷰 많은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 알토나 노스 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Room in Newport Modern townhouse - Walk to stunning ocean view",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/modern-townhouse-in-newport-walk-to-stunning-ocean-view/hotel/all/newport-au.html?cid=1925461",
+      "walkMin": 9,
+      "score": 9.5,
+      "reviewCount": 21979,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 9.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/630435500.jpg?k=4610acd9e748526bc6d910619c97cd5c3dcde77c885ea0404e60707eb64d4214&o=",
+      "distanceNote": "약 713.15m · Newport 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 21,979건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 21,979건 기반.",
+      "reviews": [
+        {
+          "text": "I had the upstairs bedroom which had a full big ensuite",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "오크우드 프리미어 멜버른 (Oakwood Premier Melbourne)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oakwood-premier-melbourne/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 11,
+      "score": 9,
+      "reviewCount": 8335,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/33568110/0/1c4bd9ca161e6b8f29321688bf7e16cb.jpg?va=1&ce=0",
+      "distanceNote": "약 899.93m · Public Transportation Victoria 인근",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 8,335건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 8,335건 기반.",
+      "reviews": [
+        {
+          "text": "The rooms are incredibly clean and have everything we need.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Luxury accomodation in a great location, fantastic value.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Very satisfied customers and will definitely return.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "Hotel was very nice , staff were friendly and professional.",
+          "score": "8.8",
+          "country": "Zimbabwe",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "We were very impressed with the hotel, staff and location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "퀘스트 뉴키 (Quest NewQuay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quest-newquay/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 10,
+      "score": 8.9,
+      "reviewCount": 6606,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/5590126/0/3491b4442614b15f9106f30ceb76b564.jpeg?va=1&ce=0",
+      "distanceNote": "약 825.22m · 노스 멜번역 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 6,606건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 6,606건 기반.",
+      "reviews": [
+        {
+          "text": "The room was super clean and modern, nothing to fault it.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "100m to public transport, as well as be a quite place of MB.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Would highly recommend for others to stay here by all means.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Hotel is new and nice, modern design, staffs very friendly.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Very modern and clean with comfortable bedding and chairs.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Liberty One",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/liberty-one/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 7.9,
+      "reviewCount": 6316,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/94518327/0/94234af5618d958808d1f08f5d8fd17b.jpg?va=1&ce=3",
+      "distanceNote": "약 432.75m · 풋츠크레이역 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 6,316건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 6,316건 기반.",
+      "reviews": [
+        {
+          "text": "The location was ideal—close to public transport and shops.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Staff are always very friendly & polite and happy to help.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Staff were friendly and responsive, making check-in smooth.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Overall my stay was very pleasant with my family with kids.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The unit was amazing, it has everything we could hope for.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "멜버른 라이프스타일 아파트먼츠 - 베스트뷰 온 콜린스 (Melbourne Lifestyle Apartments - Best Views on Collins)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-views-on-collins_2/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 8,
+      "score": 9.4,
+      "reviewCount": 3433,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/12005637/0/1156d113279a8d9abfa4e946b217ff7c.jpg?va=1&ce=3",
+      "distanceNote": "약 674.58m · Public Transportation Victoria 인근",
+      "metaTags": [
+        "📝 리뷰 3,433건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 3,433건 기반.",
+      "reviews": [
+        {
+          "text": "It was so clean and you can find everything you need.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The apartment was clean, fresh and completely furnished.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "The room its clean, comforting and has great service.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Overall a great place for anyone coming to Melbourne",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The exceptional service didn't stop after check-in.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "멜버른 프라이빗 아파트먼트 콜린스 와프 워터프런트 닥랜즈 (Melbourne Private Apartments Collins Wharf Waterfront Docklands)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/melbourne-private-apartments-collins-wharf-waterfront-docklands_2/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 10,
+      "score": 8.6,
+      "reviewCount": 3147,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 40만원",
+      "valueIndex": 5,
+      "img": "//pix8.agoda.net/hotelImages/6886750/82029805/cd27bfbf13c35c058f1e2d27725724c5.jpg?va=1&ce=0",
+      "distanceNote": "약 778.4m · Public Transportation Victoria 인근",
+      "metaTags": [
+        "💰 약 40만원",
+        "📝 리뷰 3,147건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 3,147건 기반.",
+      "reviews": [
+        {
+          "text": "Such a homely and warm accommodation with AMAZING views.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "All necessary kitchen, bathroom essentials were in place.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Apartment is nice, Location is nice, Everything is good",
+          "score": "10",
+          "country": "Brunei Darussalam",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Place is a new apartment with very nice sunset view.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "I would like to give 5 stars for property with Agoda ..",
+          "score": "9.6",
+          "country": "India",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "도크랜즈 프라이빗 컬렉션 – 뉴 키 앤 시티 하버 아파트먼츠 (Docklands Private Collection – New Quay and City Harbour Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/docklands-private-collection-new-quay/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 8.7,
+      "reviewCount": 2861,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.6,
+      "img": "//pix8.agoda.net/hotelImages/178194/-1/bb0822e2c2a1c8a6fb3892eae3fe6f8b.jpg?va=1&ca=0&ce=1",
+      "distanceNote": "약 527.42m · Southern Cross Station Coach Terminal Station 인근",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 2,861건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 2,861건 기반.",
+      "reviews": [
+        {
+          "text": "3 big bedrooms and 2 bathrooms were perfect for our visit.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Spacious with all the facilities you need in your apartment.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "The apartment was excellent and exceeded our expections.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "But other than that i would really recommend this place.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Check in and check out was very efficient and simple.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "reviewed",
+    "base": "australia-altona-north",
+    "count": 7,
+    "builtAt": "2026-09-12T04:29:47.296Z"
+  }
+}

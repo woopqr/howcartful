@@ -1,14 +1,19 @@
 {
-  "lastPostedAt": "2026-09-12T00:08:41.928Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 1,
+  "lastPostedAt": "2026-09-12T04:29:47.332Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 2,
   "postedDate": "2026-09-12",
   "queue": [
-    "australia-albany-premium",
     "australia-albany-star4",
     "australia-albany-reviewed",
-    "australia-altona-north"
+    "australia-altona-north",
+    "australia-altona-north-rating",
+    "australia-altona-north-station",
+    "australia-altona-north-budget",
+    "australia-altona-north-premium",
+    "australia-altona-north-star4",
+    "australia-altona-north-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -724,6 +729,7 @@
     "australia-alexandra",
     "australia-albany",
     "australia-albany-rating",
-    "australia-albany-station"
+    "australia-albany-station",
+    "australia-albany-premium"
   ]
 }
