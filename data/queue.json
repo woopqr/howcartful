@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-13T06:08:04.896Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 2,
+  "lastPostedAt": "2026-09-13T11:45:12.752Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 3,
   "postedDate": "2026-09-13",
   "queue": [
-    "australia-adelaide",
     "australia-adelaide-rating",
     "australia-adelaide-station",
     "australia-adelaide-budget",
@@ -737,6 +736,7 @@
     "australia-altona-north-budget",
     "australia-altona-north-premium",
     "australia-altona-north-star4",
-    "australia-altona-north-reviewed"
+    "australia-altona-north-reviewed",
+    "australia-adelaide"
   ]
 }
