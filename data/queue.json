@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-13T18:07:25.347Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 5,
+  "lastPostedAt": "2026-09-13T20:44:50.665Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 6,
   "postedDate": "2026-09-13",
   "queue": [
-    "australia-adelaide-budget",
     "australia-adelaide-premium",
     "australia-adelaide-star4",
-    "australia-adelaide-reviewed"
+    "australia-adelaide-reviewed",
+    "australia-aberdeen"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 369,
+    "cityIndex": 370,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -737,6 +737,7 @@
     "australia-altona-north-reviewed",
     "australia-adelaide",
     "australia-adelaide-rating",
-    "australia-adelaide-station"
+    "australia-adelaide-station",
+    "australia-adelaide-budget"
   ]
 }

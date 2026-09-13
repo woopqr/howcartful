@@ -1,0 +1,87 @@
+{
+  "slug": "australia-aberdeen",
+  "title": "애버딘 가성비 호텔 1곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 애버딘 가성비 호텔 1곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "scone-au",
+  "cityName": "애버딘",
+  "cityId": 102445,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "애버딘",
+  "heroImg": "https://pix8.agoda.net/hotelImages/608024/-1/14c58566c4728548bc00e28b052835f6.jpg?ca=0&ce=1",
+  "heroAlt": "애버딘",
+  "heroTitleHtml": "애버딘 가성비 호텔 1곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>스트라시안 파크 로지</b>(평점 9.5·리뷰 416건·1박 약 18만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>스콘역 도보 67분</b>의 <b>스트라시안 파크 로지</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/608024/-1/14c58566c4728548bc00e28b052835f6.jpg?ca=0&ce=1",
+  "outroTitle": "🌙 애버딘, 어디에 묵어도 후회없이",
+  "outroText": "위 1곳은 모두 애버딘 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 애버딘 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "스트라시안 파크 로지 (Strathearn Park Lodge)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/strathearn-park-lodge/hotel/scone-au.html?cid=1925461",
+      "walkMin": 67,
+      "score": 9.5,
+      "reviewCount": 416,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/608024/-1/14c58566c4728548bc00e28b052835f6.jpg?ca=0&ce=1",
+      "distanceNote": "약 5369.41m · 스콘역 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 416건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 416건 기반.",
+      "reviews": [
+        {
+          "text": "I had a comfortable stay and was made to feel very welcome.",
+          "score": "8.8",
+          "country": "South Africa",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "My room was beautiful and very clean.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Beautiful place and welcoming staff",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Lyn and Peter have thought of everything with this place.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "We absolutely loved our stay at Strathearn Park Lodge!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-13T20:44:53.584Z",
+    "source": "agoda citySearch",
+    "count": 1
+  }
+}
