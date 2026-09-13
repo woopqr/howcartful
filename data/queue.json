@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-13T20:44:50.665Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 6,
+  "lastPostedAt": "2026-09-13T22:39:27.131Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 7,
   "postedDate": "2026-09-13",
   "queue": [
-    "australia-adelaide-premium",
     "australia-adelaide-star4",
     "australia-adelaide-reviewed",
-    "australia-aberdeen"
+    "australia-aberdeen",
+    "australia-alice-springs"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 370,
+    "cityIndex": 372,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -27,7 +27,8 @@
       512953,
       718483,
       142681,
-      142418
+      142418,
+      102348
     ]
   },
   "publishedSlugs": [
@@ -738,6 +739,7 @@
     "australia-adelaide",
     "australia-adelaide-rating",
     "australia-adelaide-station",
-    "australia-adelaide-budget"
+    "australia-adelaide-budget",
+    "australia-adelaide-premium"
   ]
 }
