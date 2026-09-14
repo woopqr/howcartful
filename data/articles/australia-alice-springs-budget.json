@@ -1,0 +1,442 @@
+{
+  "slug": "australia-alice-springs-budget",
+  "angle": "budget",
+  "angleAdj": "가격 착한",
+  "lang": "ko-kr",
+  "citySlug": "alice-springs-au",
+  "cityName": "앨리스 스프링스",
+  "cityId": 5312,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "앨리스 스프링스",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/102140555.jpg?k=91b80ca55d0385a8803b92c3dc2c65b726352211e5d19f9ef225c0940a8ec63d&o=",
+  "heroAlt": "앨리스 스프링스",
+  "heroSub": "실제 아고다 리뷰로 앨리스 스프링스의 저가 실속 숙소를 추렸습니다",
+  "verdictHtml": "저가 실속 기준 1순위는 <b>Alice Lodge</b>입니다 (평점 7.7·리뷰 96건·1박 약 3만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/102140555.jpg?k=91b80ca55d0385a8803b92c3dc2c65b726352211e5d19f9ef225c0940a8ec63d&o=",
+  "outroTitle": "🌙 앨리스 스프링스, 저가 실속으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 앨리스 스프링스 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Alice Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/alice-lodge-backpackers/hotel/all/alice-springs-au.html?cid=1925461",
+      "walkMin": 19,
+      "score": 7.7,
+      "reviewCount": 96,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 7.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/102140555.jpg?k=91b80ca55d0385a8803b92c3dc2c65b726352211e5d19f9ef225c0940a8ec63d&o=",
+      "distanceNote": "약 1558.9m · 앨리스 스프링스역 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 96건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.7</b> · 실제 투숙객 리뷰 96건 기반.",
+      "reviews": [
+        {
+          "text": "One of the comfiest beds I've ever slept in. *private room)",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "The place is clean and thoughtfully laid out.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Recommend this place to anyone.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Friendly little spot, very clean and cosy.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Tidy, clean and peaceful",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "앨리시즈 시크릿 트래블러스 인 (Alice's Secret Travellers Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/alice-s-secret-travellers-inn/hotel/all/alice-springs-au.html?cid=1925461",
+      "walkMin": 19,
+      "score": 8.9,
+      "reviewCount": 119,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/121137721.jpg?k=a64a7e8c5b043f9e8bd7a9c23063bf88baf7bf1afc31c203132991f41e368455&o=",
+      "distanceNote": "약 1506.82m · 앨리스 스프링스역 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 119건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 119건 기반.",
+      "reviews": [
+        {
+          "text": "The best hostel I have experienced in many years.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "I will come back for sure if I visit the area again.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "The rooms and the showers are very clean.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "This place has everything you need.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Very friendly owner and great staff helping!",
+          "score": "10",
+          "country": "Switzerland",
+          "date": "2022.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Red Rock Hostel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/alice-springs-yha/hotel/alice-springs-au.html?cid=1925461",
+      "walkMin": 14,
+      "score": 8.6,
+      "reviewCount": 661,
+      "priceBand": 1,
+      "priceText": "₩ · 약 3만원",
+      "valueIndex": 8.6,
+      "img": "//pix8.agoda.net/hotelImages/854627/-1/2183042ec9b696cd3d8f93f29789582f.jpg?va=1&ca=7&ce=1",
+      "distanceNote": "약 1115.1m · 앨리스 스프링스역 인근",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 661건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 661건 기반.",
+      "reviews": [
+        {
+          "text": "Great atmosphere, friendly staff, and excellent facilities",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Location is convenient, staff and facilities are nice.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Location is perfect and just a nice outback hostel",
+          "score": "7.6",
+          "country": "Australie",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Great location, very close to the information center.",
+          "score": "8.8",
+          "country": "Switzerland",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "It’s a nice place to stay, short or long term.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "greet Hotel Alice Springs",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/greet-hotel-alice-springs-h42995/hotel/alice-springs-au.html?cid=1925461",
+      "walkMin": 11,
+      "score": 7.9,
+      "reviewCount": 729,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/42995/0/9542af0d629f144db44cfae561b309fb.jpg?va=1&ce=0",
+      "distanceNote": "약 868.44m · 앨리스 스프링스역 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 729건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 729건 기반.",
+      "reviews": [
+        {
+          "text": "Excellent location with Uncles right at your doorstep.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Best location and is accessible to everything in town",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "You can’t get any more central for a stay in Alice.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "We have stayed here numerous times and we always go back",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Top location, great hosts and good value for money",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Mantra Alice Springs",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mantra-alice-springs-h6015/hotel/alice-springs-au.html?cid=1925461",
+      "walkMin": 13,
+      "score": 8,
+      "reviewCount": 2274,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/900291606.jpg?k=97c829261a08e8360c8fb741504d38e31faf6434c04e61faaf8ced8ba7ebb0b7&o=",
+      "distanceNote": "약 1054.28m · 앨리스 스프링스역 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 2,274건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 2,274건 기반.",
+      "reviews": [
+        {
+          "text": "I enjoyed 3 nights stay as the room was very clean and cozy.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Best breakfast ever just down the road 29",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "The staff were so helpful and made our trip much easier.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "We had a great stay here and would recommend",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Our room was equipped with everything we needed!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "엘키라 모텔 (Elkira Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/elkira-motel/hotel/alice-springs-au.html?cid=1925461",
+      "walkMin": 9,
+      "score": 8.1,
+      "reviewCount": 510,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/73097/0/4c23ee0c898fe781cdf8eaaff8775d8a.jpg?va=1&ce=3",
+      "distanceNote": "약 730.77m · 앨리스 스프링스역 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 510건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 510건 기반.",
+      "reviews": [
+        {
+          "text": "Without question, a great hotel at which to stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "The room was very clean and in good condition.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Room was clean and comfortable would return anytime",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "We will stay there again next time we visit Alice Springs.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Comfortable and quiet and reasonable value.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Heritage Caravan Park - Pet Friendly",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/heritage-caravan-park/hotel/all/alice-springs-au.html?cid=1925461",
+      "walkMin": 55,
+      "score": 7.5,
+      "reviewCount": 694,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/149148523.jpg?k=d03655694d6e0156804f3f7c5d943d6564c33f5d178083203b202df9da8da066&o=",
+      "distanceNote": "약 4413.04m · 앨리스 스프링스역 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 694건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 694건 기반.",
+      "reviews": [
+        {
+          "text": "Sensational place to stay in Alice Springs.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "The cabin I stayed was very cozy and had aircon.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "I would stay there again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Friendly staff at a busy time",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "Convenient, clean and nice",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "budget",
+    "base": "australia-alice-springs",
+    "count": 7,
+    "builtAt": "2026-09-14T00:25:49.658Z"
+  }
+}

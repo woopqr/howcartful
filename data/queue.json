@@ -1,14 +1,17 @@
 {
-  "lastPostedAt": "2026-09-13T22:39:27.131Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 7,
-  "postedDate": "2026-09-13",
+  "lastPostedAt": "2026-09-14T00:25:49.695Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 1,
+  "postedDate": "2026-09-14",
   "queue": [
-    "australia-adelaide-star4",
     "australia-adelaide-reviewed",
     "australia-aberdeen",
-    "australia-alice-springs"
+    "australia-alice-springs",
+    "australia-alice-springs-rating",
+    "australia-alice-springs-station",
+    "australia-alice-springs-budget",
+    "australia-alice-springs-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -740,6 +743,7 @@
     "australia-adelaide-rating",
     "australia-adelaide-station",
     "australia-adelaide-budget",
-    "australia-adelaide-premium"
+    "australia-adelaide-premium",
+    "australia-adelaide-star4"
   ]
 }
