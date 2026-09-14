@@ -1,0 +1,440 @@
+{
+  "slug": "australia-albury",
+  "title": "앨버리 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 앨버리 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "albury-au",
+  "cityName": "앨버리",
+  "cityId": 5126,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "앨버리",
+  "heroImg": "https://pix8.agoda.net/hotelImages/62101310/-1/ff2c4a33cc1bdf009654a3d4fd2f70c4.jpg?ce=0",
+  "heroAlt": "앨버리",
+  "heroTitleHtml": "앨버리 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Albury City Motel</b>(평점 8.9·리뷰 2,538건·1박 약 10만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Albury 도보 8분</b>의 <b>Albury Allawa Motor Inn</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/62101310/-1/ff2c4a33cc1bdf009654a3d4fd2f70c4.jpg?ce=0",
+  "outroTitle": "🌙 앨버리, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 앨버리 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 앨버리 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Albury City Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/albury-city-motel_2/hotel/albury-au.html?cid=1925461",
+      "walkMin": 20,
+      "score": 8.9,
+      "reviewCount": 2538,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/62101310/-1/ff2c4a33cc1bdf009654a3d4fd2f70c4.jpg?ce=0",
+      "distanceNote": "약 1623.3m · Albury 인근",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 2,538건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 2,538건 기반.",
+      "reviews": [
+        {
+          "text": "Room was fabulous, spacious, comfortable bed, great heating.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "A very comfortable stay, perfect before my early flight.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "Staff is so nice and friendly and helpful so much.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "The team were kind and ensured to make our stay comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Very clean , spacious, great motel will stay there again",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Fountain Court Motor Inn Albury",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/fountain-court-motor-inn-albury/hotel/all/albury-au.html?cid=1925461",
+      "walkMin": 9,
+      "score": 8.9,
+      "reviewCount": 777,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/545316/0/98f926d592560ea40ae615c8a03c84ee.jpeg?ce=0",
+      "distanceNote": "약 753.29m · Albury 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 777건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 777건 기반.",
+      "reviews": [
+        {
+          "text": "The location was fantastic and the staff really helpful.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Love the hotel good people good stuff and easy in the city",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Definitely would stay again very beautiful place",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Friendly staff, good location, clean bathroom.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "A pleasing touch to the stay was the coffee machine.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "The Cottage Motor Inn Albury CBD",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-cottage-motor-inn-albury-cbd/hotel/all/albury-au.html?cid=1925461",
+      "walkMin": 10,
+      "score": 8.7,
+      "reviewCount": 1399,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/897970197.jpg?k=d2fcc305ba0c9ab483993d6ad97921c45725220a471857d438d2b76f4410ccfc&o=",
+      "distanceNote": "약 791.69m · Albury 인근",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 1,399건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,399건 기반.",
+      "reviews": [
+        {
+          "text": "Centrally located, nice simple room and good value",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Excellent accommodation",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Overall a perfect intro and outro to our stay!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Location is fantastic",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Good space and great AC.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "투르구나 컨트리 클럽 리조트 (Thurgoona Country Club Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/thurgoona-country-club-resort/hotel/albury-au.html?cid=1925461",
+      "walkMin": 99,
+      "score": 8.8,
+      "reviewCount": 851,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.4,
+      "img": "//pix8.agoda.net/hotelImages/781/781140/781140_16080612580045268195.jpg?ca=6&ce=1",
+      "distanceNote": "약 7937.3m · Albury 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 851건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 851건 기반.",
+      "reviews": [
+        {
+          "text": "Looks like a nice place to spend a bit more time next trip.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The rooms were well appointed, clean, airy and spacious.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Always a great stay here, have been coming for many years",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Have stayed many times always a pleasure highly recommend",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Very comfortable bed and fantastic bathroom and shower.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Albury Allawa Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/albury-allawa-motor-inn/hotel/albury-au.html?cid=1925461",
+      "walkMin": 8,
+      "score": 8.8,
+      "reviewCount": 1175,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.4,
+      "img": "//pix8.agoda.net/hotelImages/86093284/0/2a1986fd6174962b6aa1845d18165a8c.jpg?ce=3",
+      "distanceNote": "약 646.49m · Albury 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,175건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,175건 기반.",
+      "reviews": [
+        {
+          "text": "Overall it's a good base to explore Albury and surrounds.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Use pin to get in door instead of key",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Great location, very accessible to cbd and train station",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "The room is very comfortable, clean and well maintained.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Staff is helpful and pleasant.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "트윈 시티 모토 인 (Twin City Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/twin-city-motor-inn/hotel/wodonga-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 1059,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.4,
+      "img": "//pix8.agoda.net/hotelImages/1075945/0/4e4e8af203a76a0014946603a0f85065.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,059건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,059건 기반.",
+      "reviews": [
+        {
+          "text": "All round excellent experience at a fantastic rate.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Everything was easy and pleasant in every way.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "No issues, shower, bathrom, beds and TV were good.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "Affordable and clean and I will be back!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Staff are very helpful, and have good local knowledge.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "흄 컨트리 모터 인 (Hume Country Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hume-country-motor-inn_6/hotel/albury-au.html?cid=1925461",
+      "walkMin": 45,
+      "score": 8.6,
+      "reviewCount": 1225,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.3,
+      "img": "//pix8.agoda.net/hotelImages/296188/-1/2cb034de022d090b824fae50ca3c745a.jpg?ca=0&ce=1",
+      "distanceNote": "약 3585.94m · Albury 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,225건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,225건 기반.",
+      "reviews": [
+        {
+          "text": "The location is convenient and the rooms are comfortable.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Big comfy room with a balcony, in a quiet neighbourhood.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Budget friendly stay in a clean and comfortable room.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Always our preferred option for overnight stay 🌟👍",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Lovely clean and spacious rooms.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-14T20:31:59.462Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
