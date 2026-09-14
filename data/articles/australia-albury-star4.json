@@ -1,0 +1,442 @@
+{
+  "slug": "australia-albury-star4",
+  "angle": "star4",
+  "angleAdj": "4성급",
+  "lang": "ko-kr",
+  "citySlug": "albury-au",
+  "cityName": "앨버리",
+  "cityId": 5126,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "앨버리",
+  "heroImg": "https://pix8.agoda.net/hotelImages/545316/0/98f926d592560ea40ae615c8a03c84ee.jpeg?ce=0",
+  "heroAlt": "앨버리",
+  "heroSub": "실제 아고다 리뷰로 앨버리의 4성급 숙소를 추렸습니다",
+  "verdictHtml": "4성급 기준 1순위는 <b>Fountain Court Motor Inn Albury</b>입니다 (평점 8.9·리뷰 777건·1박 약 12만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/545316/0/98f926d592560ea40ae615c8a03c84ee.jpeg?ce=0",
+  "outroTitle": "🌙 앨버리, 4성급으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 앨버리 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Fountain Court Motor Inn Albury",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/fountain-court-motor-inn-albury/hotel/all/albury-au.html?cid=1925461",
+      "walkMin": 9,
+      "score": 8.9,
+      "reviewCount": 777,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.5,
+      "img": "//pix8.agoda.net/hotelImages/545316/0/98f926d592560ea40ae615c8a03c84ee.jpeg?ce=0",
+      "distanceNote": "약 753.29m · Albury 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 777건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 777건 기반.",
+      "reviews": [
+        {
+          "text": "The location was fantastic and the staff really helpful.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Love the hotel good people good stuff and easy in the city",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Definitely would stay again very beautiful place",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Friendly staff, good location, clean bathroom.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "A pleasing touch to the stay was the coffee machine.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "앨버리 패들스티머 모텔 (Albury Paddlesteamer Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/albury-paddlesteamer-motel/hotel/albury-au.html?cid=1925461",
+      "walkMin": 18,
+      "score": 8.5,
+      "reviewCount": 584,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/754757697.jpg?k=9f49fb57d4ad65f9af6f15d84a3dee8670cbb8f8246ce3dbc3e6347812b4e0b0&o=",
+      "distanceNote": "약 1463.48m · Albury 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 584건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 584건 기반.",
+      "reviews": [
+        {
+          "text": "Clean tidy comfortable rooms and accommodating staff.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Have stayed here multiply times and are never disappointed 😁",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "Very comfortable bed, lots of room inside the room.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Spacious clean and very comfortable room, great staff.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Beds are comfortable and amenities are plentiful.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Wodonga Caravan & Cabin Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wodonga-caravan-cabin-park/hotel/all/wodonga-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 701,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/75372316.jpg?k=35ab96e24ef71ac240054ef08bcd7b852c139d3dd20c0ccf72185ce8ccfced3c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 701건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 701건 기반.",
+      "reviews": [
+        {
+          "text": "The pricing was fabulous and we enjoyed the stay.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "I am so surprised, so many facilities and also good price.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The caravan and cabin park was lovely and neat.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "They have stove, utilities for cooking, Netflix to watch.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Nice pool, spacious cabin and friendly staff.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "커머셜 골프 리조트 (Commercial Golf Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/commercial-golf-resort/hotel/albury-au.html?cid=1925461",
+      "walkMin": 29,
+      "score": 9.4,
+      "reviewCount": 1288,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/410075/0/0a5393a562146a103e32e7bee4796f0b.jpeg",
+      "distanceNote": "약 2330.1m · Albury 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 1,288건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 1,288건 기반.",
+      "reviews": [
+        {
+          "text": "All in all I had a wonderful overnight stay.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "We absolutely loved our stay and the facilities were great 😊",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "We enjoyed our stay in a clean and comfortable room.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "John and his workers were exceptional and very friendly.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Well appointed room with verandah - lovely view .",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Wodonga Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/secura-lifestyle-big4-borderland-wodonga_2/hotel/wodonga-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.5,
+      "reviewCount": 470,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/64003981/0/9689a93706f614bb0955dbf8066335a6.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 470건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 470건 기반.",
+      "reviews": [
+        {
+          "text": "Dropped in for single overnight accommodation.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Great location and easy to get to everything needed.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Very clean and friendly staff",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "The Cabin was very spacious and comfy.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Comfortable Accommodation",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Motel 24",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/motel-24/hotel/all/wodonga-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 1624,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/100171616.jpg?k=efb2c3769cfa1b18600ba9ac098855736dd9130af718a5da4a5466a4f408bd3c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 1,624건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,624건 기반.",
+      "reviews": [
+        {
+          "text": "Would definitely stay again when travelling through Wodonga.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Was very clean and easy check in and check out process.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "The room is very convinient with a kitchenette and stove.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "It's a very preferred hotel for me and family.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "All the required facilities are available.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "아투라 앨버리 (Atura Albury)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/atura-albury/hotel/albury-au.html?cid=1925461",
+      "walkMin": 14,
+      "score": 8.5,
+      "reviewCount": 702,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/263077/0/dce1b8f0d3f5ec261b7a1ff56cc5d255.jpg?ca=7&ce=1",
+      "distanceNote": "약 1134.2m · Albury 인근",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 702건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 702건 기반.",
+      "reviews": [
+        {
+          "text": "The location is perfect — close to everything yet peaceful.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The restaurant and bar had great food and a relaxed vibe.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Great hotel in the heart of the city with funky decor.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "I would love to book again whenever i travel Victoria again",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "This is our second stay and we had a wonderful experience.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "star4",
+    "base": "australia-albury",
+    "count": 7,
+    "builtAt": "2026-09-14T23:22:39.638Z"
+  }
+}
