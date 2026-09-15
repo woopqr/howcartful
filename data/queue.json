@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-15T01:36:15.399Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 1,
+  "lastPostedAt": "2026-09-15T06:38:59.476Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 2,
   "postedDate": "2026-09-15",
   "queue": [
-    "australia-alice-springs-reviewed",
     "australia-albury",
     "australia-albury-rating",
     "australia-albury-station",
@@ -751,6 +750,7 @@
     "australia-alice-springs",
     "australia-alice-springs-rating",
     "australia-alice-springs-station",
-    "australia-alice-springs-budget"
+    "australia-alice-springs-budget",
+    "australia-alice-springs-reviewed"
   ]
 }
