@@ -1,0 +1,423 @@
+{
+  "slug": "australia-yarra-valley",
+  "title": "야라 밸리 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 야라 밸리 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "yarra-valley-au",
+  "cityName": "야라 밸리",
+  "cityId": 17930,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "야라 밸리",
+  "heroImg": "https://pix8.agoda.net/hotelImages/119/1192804/1192804_16040210170041262034.jpg?ca=6&ce=1",
+  "heroAlt": "야라 밸리",
+  "heroTitleHtml": "야라 밸리 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>버터컵 힐</b>(평점 9.7·리뷰 295건·1박 약 19만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>버터컵 힐</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/119/1192804/1192804_16040210170041262034.jpg?ca=6&ce=1",
+  "outroTitle": "🌙 야라 밸리, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 야라 밸리 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 야라 밸리 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "버터컵 힐 (Buttercup Hill)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/buttercup-hill_2/hotel/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 295,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/119/1192804/1192804_16040210170041262034.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 295건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 295건 기반.",
+      "reviews": [
+        {
+          "text": "You get your own private room and ensuite, which is perfect.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "By far the best b&b we have ever stayed at in Australia.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The cottage is very homely and absolutely gorgeous.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Breakfast was delicious and cooked to order by Kim herself!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Her B&B is a little corner of paradise, we hope to be back!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Yering Gorge Cottages",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/yering-gorge-cottages_2/hotel/all/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 564,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/426712004.jpg?k=ec08b2083d1898228424f10546f92be40f6692937b7e4d31e3edb879dd7b03a3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 564건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 564건 기반.",
+      "reviews": [
+        {
+          "text": "All the amenities were high quality and very thoughtful.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "The accomodation was perfect, so easy and relaxing.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Large room area with plenty of kangeroo outside the cottage.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Fully equipped cottage with kitchen and bbq pit.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Beautiful room and the location was gorgeous.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Healesville Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/healesville-motor-inn/hotel/all/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 922,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/289172/0/eeb3a324f1305e18c650f1e112cd26c9.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 922건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 922건 기반.",
+      "reviews": [
+        {
+          "text": "Will definitely stay again soon 100% on the next snow trip:)",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "Everything is clean and tidy, the maintenance is very good.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Clean, convenient, great location.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The room was very clean and looks new too.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "Rooms are immaculate, clean n sparkling.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2022.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Foothills",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/foothills/hotel/all/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 542,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/311630430.jpg?k=322c4b3ae617dfea1009bdec6c7ccc850fc81b183e406dbcd7fea5a4df7d7b5d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 542건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 542건 기반.",
+      "reviews": [
+        {
+          "text": "Excellent accommodation",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "The rooms were spacious and clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Absolutely loved our stay!",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend!",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Perfect for what we needed",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "BIG4 Yarra Valley Park Lane Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-yarra-valley-park-lane-holiday-park_7/hotel/all/badger-creek-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 886,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/689899127.jpg?k=c1d2c85685d7de3b4c2521a57517a89a93b48b17cce96ad2ec8074e9d7149d0f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 886건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 886건 기반.",
+      "reviews": [
+        {
+          "text": "It was a lovely place, relaxing and very peaceful",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "A little gem just out of Melbourne, well worth the drive",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Excellent place to stay with kids",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "It was superb - small but had everything you need.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Our kids loved this place",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "나이트캡 앳 요크 온 릴리데일 (Nightcap at York on Lilydale)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nightcap-at-york-on-lilydale/hotel/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 1355,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/518499/-1/aa1b845f1059af60ec4868cc45fe3f67.jpg?ca=13&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 1,355건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,355건 기반.",
+      "reviews": [
+        {
+          "text": "Value for money, clean and tidy rooms and fantastic service!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Room was clean and well equipped with everything needed.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Rooms are spotless and clean with ample amount of space.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The rooms are very clean and the service friendly.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Big room, big bed, clean and the environment is good n relax",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "셍추어리 파크 코티지 (Sanctuary Park Cottages)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sanctuary-park-cottages/hotel/badger-creek-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 78,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/264162/0/981642acccedc60670b9a726ce5ad258.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 78건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 78건 기반.",
+      "reviews": [
+        {
+          "text": "Superb place to unwind from the usual city madness.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Perfect getaway from city life",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Beautiful Cottage style home.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-16T00:45:57.927Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
