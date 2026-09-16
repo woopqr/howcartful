@@ -1,0 +1,367 @@
+{
+  "slug": "australia-yarra-valley-rating",
+  "angle": "rating",
+  "angleAdj": "평점 높은",
+  "lang": "ko-kr",
+  "citySlug": "yarra-valley-au",
+  "cityName": "야라 밸리",
+  "cityId": 17930,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "야라 밸리",
+  "heroImg": "https://pix8.agoda.net/hotelImages/119/1192804/1192804_16040210170041262034.jpg?ca=6&ce=1",
+  "heroAlt": "야라 밸리",
+  "heroSub": "실제 아고다 리뷰로 야라 밸리의 평점 높은 숙소를 추렸습니다",
+  "verdictHtml": "평점 높은 기준 1순위는 <b>버터컵 힐</b>입니다 (평점 9.7·리뷰 295건·1박 약 19만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/119/1192804/1192804_16040210170041262034.jpg?ca=6&ce=1",
+  "outroTitle": "🌙 야라 밸리, 평점 높은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 야라 밸리 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "버터컵 힐 (Buttercup Hill)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/buttercup-hill_2/hotel/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 295,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/119/1192804/1192804_16040210170041262034.jpg?ca=6&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 295건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 295건 기반.",
+      "reviews": [
+        {
+          "text": "You get your own private room and ensuite, which is perfect.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "By far the best b&b we have ever stayed at in Australia.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The cottage is very homely and absolutely gorgeous.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Breakfast was delicious and cooked to order by Kim herself!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Her B&B is a little corner of paradise, we hope to be back!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Temora House",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/temora-house/hotel/all/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 32,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 99만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/573477271.jpg?k=19d8c96b60c370f032ed2e9102506e6a989edf78124cb124d1817d4aa52e60de&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 99만원",
+        "📝 리뷰 32건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 32건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Yarra Gables",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/yarra-gables/hotel/all/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 966,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 6.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/462034217.jpg?k=77f545ab2eb3719aad1e52d24b837d8f6c937e4e81ffea21608b486807317c26&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 966건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 966건 기반.",
+      "reviews": [
+        {
+          "text": "Good location, good amenities, value for money",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "The house is sparkling clean with many amenities.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Would love to stay again if around Healesville/Yarra Glen",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Room was very spacious and had 2 double beds to sleep on.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "It is the best stay we had for our holiday to Melbourne.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Yarra Valley Lifestyle Complete Home in Healesville Accommodates 6 adults Close to wineries Beautifu",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/no-4-yarra-valley-events-accommodation-6-adults/hotel/all/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 75,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 59만원",
+      "valueIndex": 5.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/530186998.jpg?k=cf470806a67344239385900ca17592cb690593670e047a045435b5cc23946360&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 59만원",
+        "📝 리뷰 75건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 75건 기반.",
+      "reviews": [
+        {
+          "text": "Good job Paula, hope to come back for a longer stay.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Very nice house and comfy stay",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "This is a home away from home.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Enjoyed my stay at No. 4!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The most beautiful home",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Yering Gorge Cottages",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/yering-gorge-cottages_2/hotel/all/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 564,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/426712004.jpg?k=ec08b2083d1898228424f10546f92be40f6692937b7e4d31e3edb879dd7b03a3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 564건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 564건 기반.",
+      "reviews": [
+        {
+          "text": "All the amenities were high quality and very thoughtful.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "The accomodation was perfect, so easy and relaxing.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Large room area with plenty of kangeroo outside the cottage.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Fully equipped cottage with kitchen and bbq pit.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Beautiful room and the location was gorgeous.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Re’em Yarra Valley",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/re-em-yarra-valley_3/hotel/all/gruyere-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 145,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 50만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/516905017.jpg?k=3070c7290110e1f0497b601062d309ff8acd2728da313f4611acc5ef9312ab1c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 50만원",
+        "📝 리뷰 145건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 145건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Seville Estate",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/seville-estate/hotel/all/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 183,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/120771473.jpg?k=fa5a10ee85c9d08064ce40de225ff08972aec1e71c2dd766f5152376356ee27b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 183건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 183건 기반.",
+      "reviews": [
+        {
+          "text": "The whole atmosphere is just right for a relaxing retreat.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "Exceptional property with great view and vibe!",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "Balcony is facing a mini pond within the vineyard.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "Truly an amazing apartment.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "A great stay for large families",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "rating",
+    "base": "australia-yarra-valley",
+    "count": 7,
+    "builtAt": "2026-09-16T05:20:27.485Z"
+  }
+}
