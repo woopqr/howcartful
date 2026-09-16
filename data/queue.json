@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-16T21:37:40.497Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 6,
+  "lastPostedAt": "2026-09-16T23:49:23.563Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 7,
   "postedDate": "2026-09-16",
   "queue": [
-    "australia-yarra-valley-station",
     "australia-yarra-valley-premium",
     "australia-yarra-valley-star4",
-    "australia-yarra-valley-reviewed"
+    "australia-yarra-valley-reviewed",
+    "australia-yarragon"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 375,
+    "cityIndex": 376,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -758,6 +758,7 @@
     "australia-albury-reviewed",
     "australia-alstonville",
     "australia-yarra-valley",
-    "australia-yarra-valley-rating"
+    "australia-yarra-valley-rating",
+    "australia-yarra-valley-station"
   ]
 }
