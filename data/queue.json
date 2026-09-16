@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-16T18:31:08.062Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 5,
+  "lastPostedAt": "2026-09-16T21:37:40.497Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 6,
   "postedDate": "2026-09-16",
   "queue": [
-    "australia-yarra-valley-rating",
     "australia-yarra-valley-station",
     "australia-yarra-valley-premium",
     "australia-yarra-valley-star4",
@@ -758,6 +757,7 @@
     "australia-albury-star4",
     "australia-albury-reviewed",
     "australia-alstonville",
-    "australia-yarra-valley"
+    "australia-yarra-valley",
+    "australia-yarra-valley-rating"
   ]
 }
