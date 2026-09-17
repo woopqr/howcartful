@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-17T16:58:49.171Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 4,
+  "lastPostedAt": "2026-09-17T20:05:24.821Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 5,
   "postedDate": "2026-09-17",
   "queue": [
-    "australia-yarragon-rating",
     "australia-yarragon-station",
     "australia-yarragon-star4",
-    "australia-yarragon-reviewed"
+    "australia-yarragon-reviewed",
+    "australia-yarrahapinni"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 376,
+    "cityIndex": 377,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -763,6 +763,7 @@
     "australia-yarra-valley-premium",
     "australia-yarra-valley-star4",
     "australia-yarra-valley-reviewed",
-    "australia-yarragon"
+    "australia-yarragon",
+    "australia-yarragon-rating"
   ]
 }
