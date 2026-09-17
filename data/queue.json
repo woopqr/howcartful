@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-17T06:45:32.330Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 2,
+  "lastPostedAt": "2026-09-17T12:10:24.351Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 3,
   "postedDate": "2026-09-17",
   "queue": [
-    "australia-yarra-valley-reviewed",
     "australia-yarragon",
     "australia-yarragon-rating",
     "australia-yarragon-station",
@@ -763,6 +762,7 @@
     "australia-yarra-valley-rating",
     "australia-yarra-valley-station",
     "australia-yarra-valley-premium",
-    "australia-yarra-valley-star4"
+    "australia-yarra-valley-star4",
+    "australia-yarra-valley-reviewed"
   ]
 }
