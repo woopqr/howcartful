@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-18T05:18:18.737Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 2,
+  "lastPostedAt": "2026-09-18T09:52:49.672Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 3,
   "postedDate": "2026-09-18",
   "queue": [
-    "australia-yarrahapinni",
     "australia-yass",
     "australia-yass-rating",
     "australia-yass-station",
@@ -768,6 +767,7 @@
     "australia-yarragon-rating",
     "australia-yarragon-station",
     "australia-yarragon-star4",
-    "australia-yarragon-reviewed"
+    "australia-yarragon-reviewed",
+    "australia-yarrahapinni"
   ]
 }
