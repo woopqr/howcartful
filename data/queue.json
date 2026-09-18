@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-18T09:52:49.672Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 3,
+  "lastPostedAt": "2026-09-18T13:57:07.820Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 4,
   "postedDate": "2026-09-18",
   "queue": [
-    "australia-yass",
     "australia-yass-rating",
     "australia-yass-station",
-    "australia-yass-reviewed"
+    "australia-yass-reviewed",
+    "australia-yangan"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 378,
+    "cityIndex": 379,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -768,6 +768,7 @@
     "australia-yarragon-station",
     "australia-yarragon-star4",
     "australia-yarragon-reviewed",
-    "australia-yarrahapinni"
+    "australia-yarrahapinni",
+    "australia-yass"
   ]
 }
