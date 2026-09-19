@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-19T09:00:12.553Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 3,
+  "lastPostedAt": "2026-09-19T13:02:41.896Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 4,
   "postedDate": "2026-09-19",
   "queue": [
-    "australia-yangan-reviewed",
     "australia-yanchep",
     "australia-yamba",
     "australia-yamba-rating",
@@ -779,6 +778,7 @@
     "australia-yass-reviewed",
     "australia-yangan",
     "australia-yangan-rating",
-    "australia-yangan-station"
+    "australia-yangan-station",
+    "australia-yangan-reviewed"
   ]
 }
