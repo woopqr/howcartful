@@ -1,0 +1,51 @@
+{
+  "slug": "australia-yanchep",
+  "title": "얀쳅 가성비 호텔 1곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 얀쳅 가성비 호텔 1곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "얀쳅",
+  "cityId": 702175,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "얀쳅",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/755290043.jpg?k=db3735d79bd8063e347fccc5af7e5ee541941ec4e43df993dfe127cbde61a128&o=",
+  "heroAlt": "얀쳅",
+  "heroTitleHtml": "얀쳅 가성비 호텔 1곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Wilderstay Glamping - Yanchep National Park</b>(평점 8.1·리뷰 44건·1박 약 31만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Wilderstay Glamping - Yanchep National Park</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/755290043.jpg?k=db3735d79bd8063e347fccc5af7e5ee541941ec4e43df993dfe127cbde61a128&o=",
+  "outroTitle": "🌙 얀쳅, 어디에 묵어도 후회없이",
+  "outroText": "위 1곳은 모두 얀쳅 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 얀쳅 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Wilderstay Glamping - Yanchep National Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wilderstay-glamping-yanchep-national-park/hotel/all/yanchep-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 44,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 31만원",
+      "valueIndex": 4.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/755290043.jpg?k=db3735d79bd8063e347fccc5af7e5ee541941ec4e43df993dfe127cbde61a128&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 44건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 44건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-19T00:21:51.983Z",
+    "source": "agoda citySearch",
+    "count": 1
+  }
+}
