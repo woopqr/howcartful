@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-19T21:00:08.023Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 7,
+  "lastPostedAt": "2026-09-19T22:52:14.787Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 8,
   "postedDate": "2026-09-19",
   "queue": [
-    "australia-yamba-station",
     "australia-yamba-premium",
     "australia-yamba-star4",
-    "australia-yamba-reviewed"
+    "australia-yamba-reviewed",
+    "australia-advancetown"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 381,
+    "cityIndex": 382,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -779,6 +779,7 @@
     "australia-yangan-reviewed",
     "australia-yanchep",
     "australia-yamba",
-    "australia-yamba-rating"
+    "australia-yamba-rating",
+    "australia-yamba-station"
   ]
 }
