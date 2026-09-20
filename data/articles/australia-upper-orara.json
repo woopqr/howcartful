@@ -1,0 +1,168 @@
+{
+  "slug": "australia-upper-orara",
+  "title": "어퍼 오라라 가성비 호텔 3곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 어퍼 오라라 가성비 호텔 3곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "어퍼 오라라",
+  "cityId": 141980,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "어퍼 오라라",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/340470381.jpg?k=cf8e9e9c04069ceef8ee44766ef84abd1bd7091e636e7170d46dd75c00f1506f&o=",
+  "heroAlt": "어퍼 오라라",
+  "heroTitleHtml": "어퍼 오라라 가성비 호텔 3곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>The Coramba Hotel</b>(평점 7.9·리뷰 176건·1박 약 9만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Coffs Harbour Train Station 도보 48분</b>의 <b>Sanctuary Resort & TreeHouse Restaurant</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/340470381.jpg?k=cf8e9e9c04069ceef8ee44766ef84abd1bd7091e636e7170d46dd75c00f1506f&o=",
+  "outroTitle": "🌙 어퍼 오라라, 어디에 묵어도 후회없이",
+  "outroText": "위 3곳은 모두 어퍼 오라라 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 어퍼 오라라 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Coramba Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-coramba-hotel/hotel/all/nambucca-heads-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 176,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/340470381.jpg?k=cf8e9e9c04069ceef8ee44766ef84abd1bd7091e636e7170d46dd75c00f1506f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 176건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 176건 기반.",
+      "reviews": [
+        {
+          "text": "Great place to be and friendly assistance to check in.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Shared kitchen and bathrooms which were clean.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Good value for money and very quiet after dark.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Overall is good for a short stay.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Clean and Comfortable",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Sanctuary Resort & TreeHouse Restaurant",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sanctuary-resort_2/hotel/all/coffs-harbour-au.html?cid=1925461",
+      "walkMin": 48,
+      "score": 8.4,
+      "reviewCount": 76,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/200697470.jpg?k=e1808902eaeefb82ac81b593ddb500ac5e14826a91c7147738f51a1f8520aec5&o=",
+      "distanceNote": "약 3868.09m · Coffs Harbour Train Station 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 76건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 76건 기반.",
+      "reviews": [
+        {
+          "text": "Great price, nice and clean, lots of room, great amenities.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "The room was clean and well equipped for my needs.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Staff are the best , pool is bliss & the food even better!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Comfortable room, pleasant staff and a great restaurant.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "I would highly recommend staying at the hotel/resort.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "노스 봄비 밸리의 프라이빗 하우스 (200m², 침실 4개, 프라이빗 욕실 2개) (Residential FOUR BEDROOM HOUSE )",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/residential-4-bedroom-house-in-coffs-harbour/hotel/coffs-harbour-au.html?cid=1925461",
+      "walkMin": 71,
+      "score": 9.5,
+      "reviewCount": 330,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 61만원",
+      "valueIndex": 5.4,
+      "img": "//pix8.agoda.net/hotelImages/34187313/0/fc369f1f3fda60877701a4c1c14a8201.jpg?va=1&ce=0",
+      "distanceNote": "약 5681.91m · Coffs Harbour Train Station 인근",
+      "metaTags": [
+        "💰 약 61만원",
+        "📝 리뷰 330건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 330건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-20T17:01:03.525Z",
+    "source": "agoda citySearch",
+    "count": 3
+  }
+}
