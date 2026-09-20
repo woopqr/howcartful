@@ -1,0 +1,290 @@
+{
+  "slug": "australia-advancetown-rating",
+  "angle": "rating",
+  "angleAdj": "평점 높은",
+  "lang": "ko-kr",
+  "citySlug": "gold-coast-au",
+  "cityName": "australia-advancetown",
+  "cityId": 142088,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "australia-advancetown",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/702060676.jpg?k=eb9c89e14f18cf1c7f9b4338d6c4ea9a0a6158e14b29243e0293df724547e670&o=",
+  "heroAlt": "australia-advancetown",
+  "heroSub": "실제 아고다 리뷰로 australia-advancetown의 평점 높은 숙소를 추렸습니다",
+  "verdictHtml": "평점 높은 기준 1순위는 <b>Modern Self-Contained Private Cottage</b>입니다 (평점 9.9·리뷰 47건·1박 약 34만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/702060676.jpg?k=eb9c89e14f18cf1c7f9b4338d6c4ea9a0a6158e14b29243e0293df724547e670&o=",
+  "outroTitle": "🌙 australia-advancetown, 평점 높은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 australia-advancetown 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Modern Self-Contained Private Cottage",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/private-stylish-gold-coast-hinterland-guesthouse/hotel/all/mudgeeraba-au.html?cid=1925461",
+      "walkMin": 22,
+      "score": 9.9,
+      "reviewCount": 47,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 34만원",
+      "valueIndex": 5.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/702060676.jpg?k=eb9c89e14f18cf1c7f9b4338d6c4ea9a0a6158e14b29243e0293df724547e670&o=",
+      "distanceNote": "약 1792.54m · 로비나역 인근",
+      "metaTags": [
+        "💰 약 34만원",
+        "📝 리뷰 47건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.9</b> · 실제 투숙객 리뷰 47건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Wyndover Mountain Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wyndover-mountain-retreat/hotel/all/gold-coast-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.8,
+      "reviewCount": 71,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/470603624.jpg?k=5c29841939e5a4a2e5ea492ebe6db70730055e33aaa22b7513003f146bfd2ba6&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 71건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 71건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "비치몬트의 프라이빗 하우스 (m², 침실 3개, 프라이빗 욕실 1개) (Doomben Ridge Farm House)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/doomben-ridge-accommodation/hotel/gold-coast-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 118,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 51만원",
+      "valueIndex": 5.4,
+      "img": "//pix8.agoda.net/hotelImages/63185133/0/87ea62fc8ee1d94818aab17dae25733d.jpg?va=1&ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 51만원",
+        "📝 리뷰 118건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 118건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "The Village B&B",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-village-b-b_2/hotel/all/gold-coast-au.html?cid=1925461",
+      "walkMin": 20,
+      "score": 9.6,
+      "reviewCount": 338,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/261963018.jpg?k=f41fb276423721f9419004dcde13b0ce64c20161fe36f829874f0b1d3a03f3cb&o=",
+      "distanceNote": "약 1563.69m · 로비나역 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 338건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 338건 기반.",
+      "reviews": [
+        {
+          "text": "Beautiful b&b close to everything including shops and cafes.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Next time we’re going to enjoy a high tea at the b and b!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "I've stayed in 5-star hotels that were not as nice.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Very clean and surprisingly well appointed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "I’d love to come back one day.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Clouds Safari",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/clouds-safari/hotel/all/gold-coast-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 191,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 23만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/70364566.jpg?k=0f9dfa9f2e2eb21accc592aaaeead242393ae3908fd062c1e3d1f8c51877afb1&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 191건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 191건 기반.",
+      "reviews": [
+        {
+          "text": "Owners were responsive and left a home cooked meal for us!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "This was such an amazing “experience” getaway.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Glamping at it’s best.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Amazing spot",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "월라비 호텔 (Wallaby Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/wallaby-hotel/hotel/gold-coast-au.html?cid=1925461",
+      "walkMin": 17,
+      "score": 8.7,
+      "reviewCount": 50,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/66750480/1025033015/7557c07b68372d455343354ae7831986.jpg?va=1&ce=0",
+      "distanceNote": "약 1378.68m · 로비나역 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 50건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 50건 기반.",
+      "reviews": [
+        {
+          "text": "The manager was a great fella and went above and beyond.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Very clean and convenient",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Hotel was beyond expectation",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Clean * tidy room... comfortable warm.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "I would be very happy to stay again",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Austinville Hinterland Chalet",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/austinville-hinterland-chalet/hotel/all/gold-coast-au.html?cid=1925461",
+      "walkMin": 117,
+      "score": 8.6,
+      "reviewCount": 71,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/469764851.jpg?k=fae65dd2162259ff8a2cce13118aa4277f27ab9e9b9e191a04ec7b8c31d71db4&o=",
+      "distanceNote": "약 9381.32m · 로비나역 인근",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 71건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 71건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "rating",
+    "base": "australia-advancetown",
+    "count": 7,
+    "builtAt": "2026-09-20T00:27:54.086Z"
+  }
+}
