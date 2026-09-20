@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-20T09:50:12.578Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 3,
+  "lastPostedAt": "2026-09-20T13:45:03.337Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 4,
   "postedDate": "2026-09-20",
   "queue": [
-    "australia-advancetown",
     "australia-advancetown-rating",
     "australia-advancetown-station",
     "australia-advancetown-premium",
@@ -784,6 +783,7 @@
     "australia-yamba-station",
     "australia-yamba-premium",
     "australia-yamba-star4",
-    "australia-yamba-reviewed"
+    "australia-yamba-reviewed",
+    "australia-advancetown"
   ]
 }
