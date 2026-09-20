@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-20T17:00:58.035Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 5,
+  "lastPostedAt": "2026-09-20T19:20:33.440Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 6,
   "postedDate": "2026-09-20",
   "queue": [
-    "australia-advancetown-station",
     "australia-advancetown-premium",
     "australia-advancetown-reviewed",
-    "australia-upper-orara"
+    "australia-upper-orara",
+    "australia-eden"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 383,
+    "cityIndex": 384,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -785,6 +785,7 @@
     "australia-yamba-star4",
     "australia-yamba-reviewed",
     "australia-advancetown",
-    "australia-advancetown-rating"
+    "australia-advancetown-rating",
+    "australia-advancetown-station"
   ]
 }
