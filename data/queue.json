@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-21T06:59:36.988Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 2,
+  "lastPostedAt": "2026-09-21T13:52:03.741Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 3,
   "postedDate": "2026-09-21",
   "queue": [
-    "australia-eden-rating",
     "australia-eden-station",
     "australia-eden-budget",
     "australia-eden-premium",
@@ -792,6 +791,7 @@
     "australia-advancetown-premium",
     "australia-advancetown-reviewed",
     "australia-upper-orara",
-    "australia-eden"
+    "australia-eden",
+    "australia-eden-rating"
   ]
 }
