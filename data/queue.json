@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-22T19:05:26.054Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 5,
+  "lastPostedAt": "2026-09-22T22:01:48.379Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 6,
   "postedDate": "2026-09-22",
   "queue": [
-    "australia-emerald-station",
     "australia-emerald-budget",
     "australia-emerald-star4",
-    "australia-emerald-reviewed"
+    "australia-emerald-reviewed",
+    "australia-evans-head"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 385,
+    "cityIndex": 386,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -798,6 +798,7 @@
     "australia-eden-star4",
     "australia-eden-reviewed",
     "australia-emerald",
-    "australia-emerald-rating"
+    "australia-emerald-rating",
+    "australia-emerald-station"
   ]
 }
