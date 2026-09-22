@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-22T11:25:38.472Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 3,
+  "lastPostedAt": "2026-09-22T15:34:42.139Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 4,
   "postedDate": "2026-09-22",
   "queue": [
-    "australia-emerald",
     "australia-emerald-rating",
     "australia-emerald-station",
     "australia-emerald-budget",
@@ -798,6 +797,7 @@
     "australia-eden-budget",
     "australia-eden-premium",
     "australia-eden-star4",
-    "australia-eden-reviewed"
+    "australia-eden-reviewed",
+    "australia-emerald"
   ]
 }
