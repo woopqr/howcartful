@@ -1,0 +1,133 @@
+{
+  "slug": "australia-eyre-peninsula",
+  "title": "에어 반도 가성비 호텔 3곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 에어 반도 가성비 호텔 3곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "eyre-peninsula-au",
+  "cityName": "에어 반도",
+  "cityId": 292832,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "에어 반도",
+  "heroImg": "https://pix8.agoda.net/hotelImages/567777/0/0ebaffd89f5ab195863108d9d605ff5b.jpeg?ce=0",
+  "heroAlt": "에어 반도",
+  "heroTitleHtml": "에어 반도 가성비 호텔 3곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>모드라스 아파트먼트 텀비 베이</b>(평점 9.3·리뷰 38건·1박 약 10만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>모드라스 아파트먼트 텀비 베이</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/567777/0/0ebaffd89f5ab195863108d9d605ff5b.jpeg?ce=0",
+  "outroTitle": "🌙 에어 반도, 어디에 묵어도 후회없이",
+  "outroText": "위 3곳은 모두 에어 반도 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 에어 반도 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "모드라스 아파트먼트 텀비 베이 (Modras Apartments Tumby Bay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/modras-apartments-tumby-bay/hotel/eyre-peninsula-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 38,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/567777/0/0ebaffd89f5ab195863108d9d605ff5b.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 38건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 38건 기반.",
+      "reviews": [
+        {
+          "text": "Would highly recommend and will definitely stay here again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Everything about this spacious apartment was just perfect!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Everything you needed in units...beds lovely to sleep in.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Fantastic apartment, good location, great price",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Everything you could possibly need was in the apartment",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Tumby Bay Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tumby-bay-motel/hotel/eyre-peninsula-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.4,
+      "reviewCount": 169,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 5.5,
+      "img": "//pix8.agoda.net/hotelImages/44270172/0/4b0fb42f52eda169f06884a0e41f23ab.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 169건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.4</b> · 실제 투숙객 리뷰 169건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Tumby Bay Hotel Seafront Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tumby-bay-hotel-seafront-apartments-h78955763/hotel/all/eyre-peninsula-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 31,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/740561558.jpg?k=51874bed02b923e173e58d55f3a5e1f783eb4ea923e97ff94c4a8f6605e83a88&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 31건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 31건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-23T21:42:22.338Z",
+    "source": "agoda citySearch",
+    "count": 3
+  }
+}
