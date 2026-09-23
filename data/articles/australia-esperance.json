@@ -1,0 +1,402 @@
+{
+  "slug": "australia-esperance",
+  "title": "에스페란스 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 에스페란스 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "esperance-au",
+  "cityName": "에스페란스",
+  "cityId": 13632,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "에스페란스",
+  "heroImg": "https://pix8.agoda.net/hotelImages/505/5056586/5056586_18081511390067466361.jpg?ca=0&ce=1",
+  "heroAlt": "에스페란스",
+  "heroTitleHtml": "에스페란스 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>에스퍼랜스 아일랜드 뷰 아파트먼트</b>(평점 9.1·리뷰 129건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>에스퍼랜스 아일랜드 뷰 아파트먼트</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/505/5056586/5056586_18081511390067466361.jpg?ca=0&ce=1",
+  "outroTitle": "🌙 에스페란스, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 에스페란스 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 에스페란스 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "에스퍼랜스 아일랜드 뷰 아파트먼트 (Esperance Island View Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/esperance-island-view-apartments_4/hotel/esperance-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 129,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/505/5056586/5056586_18081511390067466361.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 129건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 129건 기반.",
+      "reviews": [
+        {
+          "text": "Couldn’t have asked for a better place to stay in Esperance.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Clean and spacious and feels just like home away from home.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "It has all you need for a great stay, we will be back.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Excellent appartments n convenient location",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "We really enjoyed the balcony and large kitchen area.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "베이뷰 모텔 (Bayview Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bayview-motel/hotel/esperance-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 1451,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/428/428354/428354_15070308050031610627.jpg?ca=4&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 1,451건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 1,451건 기반.",
+      "reviews": [
+        {
+          "text": "Very clean and all you need for a short stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "Great place to stay friendly staff comfortable accommodation",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Studio comes with refrigerator, oven and cattle and cutlery.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "The welcome and the cleanliness was fantastic.",
+          "score": "8.8",
+          "country": "Indonesia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "But when I arrived, it was much better than I thought.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "더 제티 리조트 (The Jetty Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-jetty-resort/hotel/all/esperance-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 162,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/62875541.jpg?k=79bc7fd0f172163cd9ef2cf06b9dc341ad4e09aa1fe13cb813dfa51ecaa3b1b2&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 162건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 162건 기반.",
+      "reviews": [
+        {
+          "text": "I stayed five nights total and loved the central location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Great location just on the sea side next to the Jetty.",
+          "score": "10",
+          "country": "China",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Location is great close to the jetty and staff was friendly.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "I had a wonderful experience booking with The Jetty Resort.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Very comfortable bed and room is very clean.",
+          "score": "10",
+          "country": "China",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "호스피탈리티 에스페란스, 슈어스테이 바이 베스트 웨스턴 (Hospitality Esperance, SureStay by Best Western)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-hospitality-inn-esperance-h9574939/hotel/esperance-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 2111,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/49906/0/197abc20274a8addde4edcede812f5e2.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 2,111건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 2,111건 기반.",
+      "reviews": [
+        {
+          "text": "Having a laundry and on-site restaurant is a real bonus.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Clean, spacious room with a comfortable bed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "The location is right across the road from the waterfront.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Free brekky, pleasant staff, clean room, tidy grounds.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Great location for stay at Espeance with ocean views.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "컴포트 인 베이 오브 이살레스 (Comfort Inn Bay Of Isles)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/comfort-inn-bay-of-isles/hotel/esperance-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 1339,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 20만원",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/267540/0/0dfa79072b90635698b3c8695e382594.jpg?ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 1,339건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 1,339건 기반.",
+      "reviews": [
+        {
+          "text": "All round great place to stay, will be back for sure",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Quiet, friendly children play facility sand pit and pool.",
+          "score": "9.6",
+          "country": "澳大利亚",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Hotel room is clean and the staff are friendly!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Great position opposite waterfront and helpful staff",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Lovely reception staff, perfect location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Esperance Bay Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/esperance-bay-holiday-park-h15644655/hotel/esperance-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 59,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/property/60847364/0/bced259399530f5afe552e7f9fc0075f.jpeg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 59건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 59건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "RAC Esperance Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rac-esperance-holiday-park/hotel/esperance-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 430,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/64633512/0/ab62fd1a9a83b01465f1520bcc752ed3.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 430건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 430건 기반.",
+      "reviews": [
+        {
+          "text": "Great aspect, comfy bed, clean and modern .",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Apartment fully equipped with everything you need.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "The pool was lovely and heated and a nice park for kids",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Pleased with all aspects of Esperance Holiday Park",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "It was clean with all amenities.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-23T00:19:57.617Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
