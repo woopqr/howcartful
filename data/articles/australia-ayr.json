@@ -1,0 +1,213 @@
+{
+  "slug": "australia-ayr",
+  "title": "에어 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 에어 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "에어",
+  "cityId": 19654,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "에어",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/88980079.jpg?k=0e1094d72fb1c7d415f7322b9755d0474f2b49815cf0b4269e045aeae61f5458&o=",
+  "heroAlt": "에어",
+  "heroTitleHtml": "에어 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Parkside Motel Ayr</b>(평점 8.4·리뷰 379건·1박 약 12만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Parkside Motel Ayr</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/88980079.jpg?k=0e1094d72fb1c7d415f7322b9755d0474f2b49815cf0b4269e045aeae61f5458&o=",
+  "outroTitle": "🌙 에어, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 에어 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 에어 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Parkside Motel Ayr",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/parkside-motel-licensed-restaurant_2/hotel/all/ayr-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 379,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/88980079.jpg?k=0e1094d72fb1c7d415f7322b9755d0474f2b49815cf0b4269e045aeae61f5458&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 379건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 379건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Ayrline Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ayrline-motel/hotel/all/ayr-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 153,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/42237500.jpg?k=9b439f6f0038997bf9675d9a2ea90b98a5832b5ac59b69ca0732221725da2750&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 153건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 153건 기반.",
+      "reviews": [
+        {
+          "text": "Highly recommended to book this hotel",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Room is very clean and spacious",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The hotel is excellent",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Ayr Traveller's Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ayr-travellers-motel_2/hotel/ayr-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 379,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/442426868.jpg?k=1126c7f9f5795999c70359128186a980f3f689de0b518a0293d25cf451777a0d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 379건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 379건 기반.",
+      "reviews": [
+        {
+          "text": "Extremely friendly and helpful staff.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Spacious areas, clean as a whistle and beat as a pin.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "An absolute gem of a hotel.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Best in Ayr",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "Very clean",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Tropical City Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tropical-city-motor-inn/hotel/all/ayr-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 288,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/252413000.jpg?k=3d5711f37bb4dc959d1e415961b810e882a424295b40b49aa573a1856a59cf2d&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 288건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 288건 기반.",
+      "reviews": [
+        {
+          "text": "Spent two comfortable nights with my son.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Comfortable accommodation.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Great Thai restaurant on site!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Nice clean room.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Excellent staff.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-23T18:30:20.195Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}

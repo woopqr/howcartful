@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-23T14:25:30.632Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 4,
+  "lastPostedAt": "2026-09-23T18:30:13.204Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 5,
   "postedDate": "2026-09-23",
   "queue": [
-    "australia-esperance",
     "australia-esperance-rating",
     "australia-esperance-station",
-    "australia-esperance-reviewed"
+    "australia-esperance-reviewed",
+    "australia-ayr"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 387,
+    "cityIndex": 388,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -803,6 +803,7 @@
     "australia-emerald-budget",
     "australia-emerald-star4",
     "australia-emerald-reviewed",
-    "australia-evans-head"
+    "australia-evans-head",
+    "australia-esperance"
   ]
 }
