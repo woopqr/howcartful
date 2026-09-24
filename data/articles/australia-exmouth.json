@@ -1,0 +1,347 @@
+{
+  "slug": "australia-exmouth",
+  "title": "킹가로이 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 킹가로이 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "킹가로이",
+  "cityId": 21434,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "킹가로이",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/661890941.jpg?k=657b28940ec2d0112e1e019d89cc0ed40163ebfb95577c8f1e1bbce6c4a4c172&o=",
+  "heroAlt": "킹가로이",
+  "heroTitleHtml": "킹가로이 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Edenvale Homestead</b>(평점 9.9·리뷰 36건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Edenvale Homestead</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/661890941.jpg?k=657b28940ec2d0112e1e019d89cc0ed40163ebfb95577c8f1e1bbce6c4a4c172&o=",
+  "outroTitle": "🌙 킹가로이, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 킹가로이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 킹가로이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Edenvale Homestead",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/edenvale-homestead/hotel/all/kingaroy-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.9,
+      "reviewCount": 36,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/661890941.jpg?k=657b28940ec2d0112e1e019d89cc0ed40163ebfb95577c8f1e1bbce6c4a4c172&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 36건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.9</b> · 실제 투숙객 리뷰 36건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Pioneer Lodge Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pioneer-lodge-motel/hotel/kingaroy-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 491,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/455024087.jpg?k=d56273c5627a2cdf90061a55d6363ffec154652aa57897c8857f0c7850a84bd3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 491건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 491건 기반.",
+      "reviews": [
+        {
+          "text": "Room was spotless, spacious and very comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Great place on Kingaroy to stay.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Room Motels Kingaroy",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/room-motels-kingaroy/hotel/all/kingaroy-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 67,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/90362976.jpg?k=3eb76ebb360d25f27fb262b1e7fc7702a61e9fee8ea910a8bad163e1aa118a01&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 67건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 67건 기반.",
+      "reviews": [
+        {
+          "text": "Plenty of supplies in the bathroom if you forget anything.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Great motel very clean ,well appointed and lovely staff",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Clean modern room, easy parking close to town centre.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "It was so tidy and had everything needed for a nights stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Clean, good condition rooms at a reasonable price",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Commercial Hotel Kingaroy",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/commercial-hotel-kingaroy/hotel/all/kingaroy-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.5,
+      "reviewCount": 87,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/311210062.jpg?k=4c6bf6c52c4e286cca0b5e345a277e4484aa53c51a68d33b5e5a16dbe56f8d96&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 87건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 87건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "버크 앤 윌즈 모터 인 (Burke and Wills Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/burke-and-wills-motor-inn/hotel/kingaroy-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 656,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/290184/0/2952a5181f806a66a310c8a6ff8ce100.jpeg?va=1&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 656건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 656건 기반.",
+      "reviews": [
+        {
+          "text": "Friendly staff, clean room and bathroom.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Comfortable and clean and close to everything.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Stocked bar fridge if needed at a decent price.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Lovely place for a night",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Fantastic and friendly staff.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Kingaroy Country Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kingaroy-country-motel/hotel/all/kingaroy-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 427,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/889844545.jpg?k=69897cf525919abe44806fcd4cdf4986bf239470ca20daaaa0c4f39a62906728&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 427건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 427건 기반.",
+      "reviews": [
+        {
+          "text": "The room was spotless, in top condition and a great size.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "I would like to stay there again.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "I thoroughly enjoyed my stay.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "I couldn't fault anything.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Beautiful rooms and exceptional clean rooms",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Hillview Cottages",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/hillview-cottages/hotel/all/kingaroy-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 253,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/180955554.jpg?k=f3647e0b7a150d275d89e426e953db11b057d2adabdab67c3ca69c03eb944bdf&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 253건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 253건 기반.",
+      "reviews": [
+        {
+          "text": "Cottage has the charm and coziness of yesteryear.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Excellent views and peaceful escape!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Was a great place to stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Great place",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Comfortable bed",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-24T21:40:00.935Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
