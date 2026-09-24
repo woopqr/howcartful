@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-24T14:12:44.239Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 3,
+  "lastPostedAt": "2026-09-24T18:25:43.452Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 4,
   "postedDate": "2026-09-24",
   "queue": [
-    "australia-ayers-rock-uluru",
     "australia-ayers-rock-uluru-rating",
     "australia-ayers-rock-uluru-station",
-    "australia-ayers-rock-uluru-reviewed"
+    "australia-ayers-rock-uluru-reviewed",
+    "australia-ailden"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 390,
+    "cityIndex": 391,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -809,6 +809,7 @@
     "australia-esperance-station",
     "australia-esperance-reviewed",
     "australia-ayr",
-    "australia-eyre-peninsula"
+    "australia-eyre-peninsula",
+    "australia-ayers-rock-uluru"
   ]
 }

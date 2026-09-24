@@ -1,0 +1,109 @@
+{
+  "slug": "australia-ailden",
+  "title": "에일든 가성비 호텔 2곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 에일든 가성비 호텔 2곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "에일든",
+  "cityId": 717733,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "에일든",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/765818232.jpg?k=b0bbd7e8e148bc89a058fd141f67a5ba807578f0a9ceb70102737b7e07d73167&o=",
+  "heroAlt": "에일든",
+  "heroTitleHtml": "에일든 가성비 호텔 2곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>BIG4 Breeze Holiday Parks - Eildon</b>(평점 7.8·리뷰 367건·1박 약 4만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>BIG4 Breeze Holiday Parks - Eildon</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/765818232.jpg?k=b0bbd7e8e148bc89a058fd141f67a5ba807578f0a9ceb70102737b7e07d73167&o=",
+  "outroTitle": "🌙 에일든, 어디에 묵어도 후회없이",
+  "outroText": "위 2곳은 모두 에일든 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 에일든 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "BIG4 Breeze Holiday Parks - Eildon",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/big4-breeze-holiday-parks-eildon/hotel/all/alexandra-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.8,
+      "reviewCount": 367,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 7.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/765818232.jpg?k=b0bbd7e8e148bc89a058fd141f67a5ba807578f0a9ceb70102737b7e07d73167&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 367건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 367건 기반.",
+      "reviews": [
+        {
+          "text": "Beautiful spot on the river, nice clean room and facilities.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The room was warm and the bed was comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Great Room for value for money",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Love this place",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Great place to stay",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Snobs Creek Motel Eildon",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/snobs-creek-motel-eildon/hotel/all/eildon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.5,
+      "reviewCount": 69,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/793029778.jpg?k=ba6ff141a84275f4a9415097e106b5de12fe04ca6f0a4a954bcb8d5ac6a523b2&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 69건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 69건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-24T18:25:46.435Z",
+    "source": "agoda citySearch",
+    "count": 2
+  }
+}
