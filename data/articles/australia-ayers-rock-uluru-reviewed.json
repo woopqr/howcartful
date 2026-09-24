@@ -1,0 +1,382 @@
+{
+  "slug": "australia-ayers-rock-uluru-reviewed",
+  "angle": "reviewed",
+  "angleAdj": "후기 많은",
+  "lang": "ko-kr",
+  "citySlug": "ayers-rock-uluru-au",
+  "cityName": "에어즈락 (울루루)",
+  "cityId": 4457,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "에어즈락 (울루루)",
+  "heroImg": "https://pix8.agoda.net/hotelImages/61601838/-1/fbbe46040b6ddf02772e49339a1dce39.jpg?va=1&ce=0",
+  "heroAlt": "에어즈락 (울루루)",
+  "heroSub": "실제 아고다 리뷰로 에어즈락 (울루루)의 리뷰 많은 숙소를 추렸습니다",
+  "verdictHtml": "리뷰 많은 기준 1순위는 <b>The Lost Camel</b>입니다 (평점 8.4·리뷰 1,908건·1박 가격 변동). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/61601838/-1/fbbe46040b6ddf02772e49339a1dce39.jpg?va=1&ce=0",
+  "outroTitle": "🌙 에어즈락 (울루루), 리뷰 많은으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 에어즈락 (울루루) 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Lost Camel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-lost-camel-hotel-by-voyages_2/hotel/default-city-km.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 1908,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/61601838/-1/fbbe46040b6ddf02772e49339a1dce39.jpg?va=1&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 1,908건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 1,908건 기반.",
+      "reviews": [
+        {
+          "text": "Room was great, everything needed and replenished daily.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Service is great and pool is needed pretty much everyday.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Our room was clean, the pool was perfect, peaceful and tidy.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Good rooms, friendly staff.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Our room was super comfortable and quiet.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "세일스 인 더 데저트 (Sails in the Desert)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sails-in-the-desert/hotel/ayers-rock-uluru-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 1598,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 83만원",
+      "valueIndex": 4.9,
+      "img": "//pix8.agoda.net/hotelImages/6416/0/9d71bce054a84daf69b14e69bf561196.jpg?va=1&ca=7&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 83만원",
+        "📝 리뷰 1,598건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 1,598건 기반.",
+      "reviews": [
+        {
+          "text": "Excellent experience 👏 great staff - would go back again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Very comfortable, beautifully decorated and luxurious.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "Sails is the best location if traveling to Ularu.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Anyway, all the facilities and decoration were very nice.",
+          "score": "8",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Very good quality hotel in central Australia.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Outback Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/voyages-outback-pioneer/hotel/ayers-rock-uluru-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.4,
+      "reviewCount": 1389,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.4,
+      "img": "//pix8.agoda.net/hotelImages/61601837/0/55936221890ec58733b8b0f288b25214.jpeg?va=1&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 1,389건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 1,389건 기반.",
+      "reviews": [
+        {
+          "text": "Helpful, friendly staff, very clean, comfortable beds.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "We liked the room, the staff and the pub",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "I would return to this resort.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Great stay at Yulara, friendly, helpful staff.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "The room is tidied daily.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Emu Walk Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/emu-walk-apartments-yulara/hotel/default-city-km.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 663,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 59만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/618209706.jpg?k=fbaacbf27d702d53b7f9149dbdf69a93119c57861012cbd175b8a2245a098f70&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 59만원",
+        "📝 리뷰 663건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 663건 기반.",
+      "reviews": [
+        {
+          "text": "Excellent apartments, clean and spacious.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "It was in a great position as you could walk to the shops.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Satff of hotel were so helpful and quick service.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "The resort is nice with loads of facilities.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Great place and in goo location, can’t fault it at all!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Outback Lodge",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/outback-pioneer-hotel_7/hotel/ayers-rock-uluru-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.2,
+      "reviewCount": 354,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.1,
+      "img": "//pix8.agoda.net/hotelImages/61800466/0/dc3dcf54cbbeeb5bad5b84cc785bb7b9.jpeg?va=1&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 354건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 354건 기반.",
+      "reviews": [
+        {
+          "text": "Room is comfortable and air-conditional system worked well.",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Excellent hotel and good for budget",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The rooms were clean and the aircon was working.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Bathrooms were clean and spacious.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "We love the amenities such as communal laundry and kitchen.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Desert Gardens Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/desert-gardens-hotel_2/hotel/ayers-rock-uluru-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 121,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 70만원",
+      "valueIndex": 4.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/490648798.jpg?k=dde5f9ea8f4ecbaf98505b783dd96f62768c8bf7b5600360b3bbda269dd8a2ee&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 70만원",
+        "📝 리뷰 121건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 121건 기반.",
+      "reviews": [
+        {
+          "text": "Great stay, they are generous with the tea bags and coffee.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "It’s had a refurbishment and the rooms are great.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "Fantastic stay",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "Reserved room that's assigned on arrival.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "My rooms were facing Uluru , which was an unexpected bonus.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2022.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "reviewed",
+    "base": "australia-ayers-rock-uluru",
+    "count": 6,
+    "builtAt": "2026-09-24T03:59:49.037Z"
+  }
+}

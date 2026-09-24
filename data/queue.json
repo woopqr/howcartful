@@ -1,14 +1,16 @@
 {
-  "lastPostedAt": "2026-09-23T23:58:31.502Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 7,
-  "postedDate": "2026-09-23",
+  "lastPostedAt": "2026-09-24T03:59:49.090Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 1,
+  "postedDate": "2026-09-24",
   "queue": [
-    "australia-esperance-reviewed",
     "australia-ayr",
     "australia-eyre-peninsula",
-    "australia-ayers-rock-uluru"
+    "australia-ayers-rock-uluru",
+    "australia-ayers-rock-uluru-rating",
+    "australia-ayers-rock-uluru-station",
+    "australia-ayers-rock-uluru-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -806,6 +808,7 @@
     "australia-evans-head",
     "australia-esperance",
     "australia-esperance-rating",
-    "australia-esperance-station"
+    "australia-esperance-station",
+    "australia-esperance-reviewed"
   ]
 }
