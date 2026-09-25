@@ -1,0 +1,442 @@
+{
+  "slug": "australia-entrance-lake-star4",
+  "angle": "star4",
+  "angleAdj": "4성급",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "레이크 엔터런스",
+  "cityId": 4408,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "레이크 엔터런스",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/372475165.jpg?k=a787b13433eff67be31450e9a3cafcbf3fd7d443c37ba4adf34d0bacc753e8ae&o=",
+  "heroAlt": "레이크 엔터런스",
+  "heroSub": "실제 아고다 리뷰로 레이크 엔터런스의 4성급 숙소를 추렸습니다",
+  "verdictHtml": "4성급 기준 1순위는 <b>Sandbar Motel</b>입니다 (평점 9.2·리뷰 85건·1박 약 11만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/372475165.jpg?k=a787b13433eff67be31450e9a3cafcbf3fd7d443c37ba4adf34d0bacc753e8ae&o=",
+  "outroTitle": "🌙 레이크 엔터런스, 4성급으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 레이크 엔터런스 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Sandbar Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sandbar-motel/hotel/all/lakes-entrance-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 9.2,
+      "reviewCount": 85,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/372475165.jpg?k=a787b13433eff67be31450e9a3cafcbf3fd7d443c37ba4adf34d0bacc753e8ae&o=",
+      "distanceNote": "약 446.04m · Lakes Entrance Beach 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 85건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 85건 기반.",
+      "reviews": [
+        {
+          "text": "Very clean and tidy rooms just right for a family like us.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Very nice staff, welcoming hotel, spotless, faultless",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Overall, a great stay from start to finish.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "A perfect combination of comfort, value, and convenience.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "It has all that is required for a comfortable stay.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Lakeside Motel Waterfront",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lakeside-motel-waterfront_2/hotel/lakes-entrance-au.html?cid=1925461",
+      "walkMin": 10,
+      "score": 8.9,
+      "reviewCount": 40,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/817928573.jpg?k=b6c2cb26b4b9524051c13234b9719614005049d72ee0dea09323a5dc68ce5865&o=",
+      "distanceNote": "약 787.14m · Lakes Entrance Beach 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 40건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 40건 기반.",
+      "reviews": [
+        {
+          "text": "Very clean rooms, exceptional friendly service.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Clean, comfortable room, quiet location and pleasant staff.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "The team was great in accommodating my late check in.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Clean, spacious, with everything we needed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The room is clean and highly comfortable.",
+          "score": "8.8",
+          "country": "中國香港",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "아벨 타스만 모터 로지 앤 아파트먼트 (Abel Tasman Motor Lodge & Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/abel-tasman-motor-lodge-apartments/hotel/lakes-entrance-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 8.4,
+      "reviewCount": 162,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/251/251439/251439_17071910060054540054.jpg?ca=6&ce=1",
+      "distanceNote": "약 447.33m · Lakes Entrance Beach 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 162건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 162건 기반.",
+      "reviews": [
+        {
+          "text": "The bed is super comfortable and the room is clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "I would definitely recommend this motel to anyone.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Room was well maintained and close to shops.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The property is generally clean and the rooms are spacious.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Manager was very helpful and all the ameneties were their",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Koonwarra Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/koonwarra-holiday-park_5/hotel/all/lakes-entrance-au.html?cid=1925461",
+      "walkMin": 5,
+      "score": 8,
+      "reviewCount": 1225,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/637229842.jpg?k=2e5a3cd4fd8c115560779b243059ff139fe55b3a8da03e3b6e43993894ba7546&o=",
+      "distanceNote": "약 384.45m · Lakes Entrance Beach 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,225건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 1,225건 기반.",
+      "reviews": [
+        {
+          "text": "The cabins are very comfortable and clean.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Perfect location for Lakes Entrance holiday",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "Good location.",
+          "score": "8",
+          "country": "Vietnam",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Kitchen fully equipped.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Clean and comfortable",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "The Goat and Goose Bed & Breakfast",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-goat-and-goose-bed-breakfast/hotel/all/lakes-entrance-au.html?cid=1925461",
+      "walkMin": 8,
+      "score": 9.4,
+      "reviewCount": 39,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/734563/0/03443e96eaf7eee5c0b8b66238073b7b.jpeg?ce=0",
+      "distanceNote": "약 671.65m · Lakes Entrance Beach 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 39건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 39건 기반.",
+      "reviews": [
+        {
+          "text": "Best bed in all the places we have stayed so far.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Spent 2 nights here, lovely room very clean, close to town.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Great vegan breakfast.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Friendly host, nice scenery and ambience.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Best vegan breakfast ever!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "칼림나 우드 코티지 (Kalimna Woods Cottages)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/kalimna-woods-cottages/hotel/lakes-entrance-au.html?cid=1925461",
+      "walkMin": 24,
+      "score": 8.7,
+      "reviewCount": 58,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/hotelImages/256127/-1/0543737be2d3c6b869e1bcf18e4967d1.jpg?ca=8&ce=1",
+      "distanceNote": "약 1914.7m · Lakes Entrance Beach 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 58건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 58건 기반.",
+      "reviews": [
+        {
+          "text": "The fireplace and the spa are the cherry on the cake.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Kalimna Woods was a lovely overnight stop on our road trip.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "We really had a great time at Kalimna Woods Cottages.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Lovely place to stay very friendly quiet location",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "This is a recommended place to stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Coastal Waters Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/coastal-waters-motor-inn_2/hotel/all/lakes-entrance-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 9.5,
+      "reviewCount": 1213,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/hotelImages/73472/0/8d57248613d489af82168497822f59e9.jpeg",
+      "distanceNote": "약 486.64m · Lakes Entrance Beach 인근",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 1,213건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 1,213건 기반.",
+      "reviews": [
+        {
+          "text": "Terrific hosts and lovely clean and spacious rooms.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Excellent service, great room—highly recommended!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Very clean, great location and friendly staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Our spa room was huge and lovely and clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Comfortable with everything you need and a full kitchen.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "star4",
+    "base": "australia-entrance-lake",
+    "count": 7,
+    "builtAt": "2026-09-25T21:58:18.897Z"
+  }
+}
