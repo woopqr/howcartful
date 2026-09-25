@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-25T09:48:37.805Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 3,
+  "lastPostedAt": "2026-09-25T14:46:04.803Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 4,
   "postedDate": "2026-09-25",
   "queue": [
-    "australia-exmouth",
     "australia-exmouth-rating",
     "australia-exmouth-station",
-    "australia-exmouth-reviewed"
+    "australia-exmouth-reviewed",
+    "australia-ensay"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 392,
+    "cityIndex": 393,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -814,6 +814,7 @@
     "australia-ayers-rock-uluru-rating",
     "australia-ayers-rock-uluru-station",
     "australia-ayers-rock-uluru-reviewed",
-    "australia-ailden"
+    "australia-ailden",
+    "australia-exmouth"
   ]
 }

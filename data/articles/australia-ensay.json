@@ -1,0 +1,223 @@
+{
+  "slug": "australia-ensay",
+  "title": "엔세이 가성비 호텔 5곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 엔세이 가성비 호텔 5곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "엔세이",
+  "cityId": 720457,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "엔세이",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/389571805.jpg?k=93bd209100742015f568ae7c1bdbae2f7e0052822181764eeea4a34924f259f7&o=",
+  "heroAlt": "엔세이",
+  "heroTitleHtml": "엔세이 가성비 호텔 5곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Lovely 1 Bedroom unit in Buchan.</b>(평점 9·리뷰 232건·1박 약 11만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Lovely 1 Bedroom unit in Buchan.</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/389571805.jpg?k=93bd209100742015f568ae7c1bdbae2f7e0052822181764eeea4a34924f259f7&o=",
+  "outroTitle": "🌙 엔세이, 어디에 묵어도 후회없이",
+  "outroText": "위 5곳은 모두 엔세이 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 엔세이 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Lovely 1 Bedroom unit in Buchan.",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lovely-1-bedroom-unit-in-buchan/hotel/all/buchan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 232,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/389571805.jpg?k=93bd209100742015f568ae7c1bdbae2f7e0052822181764eeea4a34924f259f7&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 232건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 232건 기반.",
+      "reviews": [
+        {
+          "text": "Everything was beautiful and clean;",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Omeo Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/omeo-holiday-park/hotel/all/omeo-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 82,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/504059201.jpg?k=122e4ed956ca09495cee17cf65a7e90b05147375316fc48a5cdfeeac4c6f1c14&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 82건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 82건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Buchan Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/buchan-motel/hotel/buchan-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 203,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/hotelImages/60466260/0/5e0280c50942ab924c6653b8565d392b.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 203건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 203건 기반.",
+      "reviews": [
+        {
+          "text": "Appreciated help from staff when I left an item in room.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "They have complimentary breakfast to start the day right.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The staff organised everything very efficiently.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Would definitely stay here again next time.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "My stay here was absolutely perfect!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "다운 투 어스 팜 리트리트 (Down to Earth Farm Retreat)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/down-to-earth-farm-retreat/hotel/gippsland-region-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 121,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 6,
+      "img": "//pix8.agoda.net/hotelImages/1999052/0/3d459cf40ac24e1b91f47dad444968da.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 121건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 121건 기반.",
+      "reviews": [
+        {
+          "text": "Room is very clean, modern and the views are amazing",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Definitely a great value for the price",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "(and most importantly, the bed was very comfortable).",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Beautiful apartment and stunning views.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Lovely stay with a stunning view.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Livingstone-Omeo Hideaway",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/livingstone-omeo-hideaway/hotel/all/omeo-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.6,
+      "reviewCount": 30,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 29만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/692556822.jpg?k=e8f756cf9d029f07f1be0fe5e7021f386b479d683111c77499e0fa6a8829614e&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 29만원",
+        "📝 리뷰 30건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 30건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-25T14:46:11.522Z",
+    "source": "agoda citySearch",
+    "count": 5
+  }
+}
