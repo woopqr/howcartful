@@ -1,0 +1,166 @@
+{
+  "slug": "australia-elizabeth-beach",
+  "title": "엘리자베스 비치 가성비 호텔 3곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 엘리자베스 비치 가성비 호텔 3곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "엘리자베스 비치",
+  "cityId": 718469,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "엘리자베스 비치",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/239387703.jpg?k=7e3548fb6e4528de93f33fb390a143e8dfa7bc0effe3e42b507708acf95d3884&o=",
+  "heroAlt": "엘리자베스 비치",
+  "heroTitleHtml": "엘리자베스 비치 가성비 호텔 3곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Sandpiper On Smiths Lake</b>(평점 9.2·리뷰 46건·1박 가격 변동)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Sandpiper On Smiths Lake</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/239387703.jpg?k=7e3548fb6e4528de93f33fb390a143e8dfa7bc0effe3e42b507708acf95d3884&o=",
+  "outroTitle": "🌙 엘리자베스 비치, 어디에 묵어도 후회없이",
+  "outroText": "위 3곳은 모두 엘리자베스 비치 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 엘리자베스 비치 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Sandpiper On Smiths Lake",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sandpiper-on-smiths-lake/hotel/all/smiths-lake-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 46,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/239387703.jpg?k=7e3548fb6e4528de93f33fb390a143e8dfa7bc0effe3e42b507708acf95d3884&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 46건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 46건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Tiona Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/tiona-holiday-park/hotel/all/taree-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 212,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/176295667.jpg?k=81342dc1287065a45d646b69a61c1332f8311ace271e03a26a1b1fbc4884202a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 212건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 212건 기반.",
+      "reviews": [
+        {
+          "text": "Thoroughly enjoy staying at Tiona.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Recommend a stay !",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Thoroughly recommend",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Love Tiona",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Incredible location",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "블루이스 리트리트 (Blueys Retreat)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/blueys-retreat/hotel/pacific-palms-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 320,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 43만원",
+      "valueIndex": 5.3,
+      "img": "//pix8.agoda.net/hotelImages/292680/-1/ddc3cbbdd702332990c86ed520d1c34e.jpg?va=1&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 43만원",
+        "📝 리뷰 320건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 320건 기반.",
+      "reviews": [
+        {
+          "text": "And staff were very friendly and lovely to deal with.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Having 2 bathrooms in a 3 bedroom townhouse is a big plus.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "We had such a relaxing and lovely stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "I highly recommend this place to stay.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "But still loved the place x",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-26T22:47:37.242Z",
+    "source": "agoda citySearch",
+    "count": 3
+  }
+}
