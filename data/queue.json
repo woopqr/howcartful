@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-25T21:58:18.924Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 6,
-  "postedDate": "2026-09-25",
+  "lastPostedAt": "2026-09-26T00:26:13.326Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-09-26",
   "queue": [
-    "australia-exmouth-reviewed",
     "australia-ensay",
     "australia-entrance-lake",
     "australia-entrance-lake-rating",
@@ -822,6 +821,7 @@
     "australia-ailden",
     "australia-exmouth",
     "australia-exmouth-rating",
-    "australia-exmouth-station"
+    "australia-exmouth-station",
+    "australia-exmouth-reviewed"
   ]
 }
