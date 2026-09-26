@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-26T17:44:11.303Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 5,
+  "lastPostedAt": "2026-09-26T20:09:48.116Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 6,
   "postedDate": "2026-09-26",
   "queue": [
-    "australia-entrance-lake-budget",
     "australia-entrance-lake-premium",
     "australia-entrance-lake-star4",
-    "australia-entrance-lake-reviewed"
+    "australia-entrance-lake-reviewed",
+    "australia-ellendale"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 394,
+    "cityIndex": 395,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -822,6 +822,7 @@
     "australia-ensay",
     "australia-entrance-lake",
     "australia-entrance-lake-rating",
-    "australia-entrance-lake-station"
+    "australia-entrance-lake-station",
+    "australia-entrance-lake-budget"
   ]
 }
