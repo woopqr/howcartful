@@ -1,0 +1,264 @@
+{
+  "slug": "australia-young",
+  "title": "영 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 영 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "young-au",
+  "cityName": "영",
+  "cityId": 15343,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "영",
+  "heroImg": "https://pix8.agoda.net/hotelImages/81319770/0/559ca9db83c1ab2943ad79f2a7bb5a4d.jpeg?ce=3",
+  "heroAlt": "영",
+  "heroTitleHtml": "영 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Cherry Blossom Motor Inn</b>(평점 8.5·리뷰 1,066건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Cherry Blossom Motor Inn</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/81319770/0/559ca9db83c1ab2943ad79f2a7bb5a4d.jpeg?ce=3",
+  "outroTitle": "🌙 영, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 영 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 영 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Cherry Blossom Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/cherry-blossom-motel/hotel/young-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 1066,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/81319770/0/559ca9db83c1ab2943ad79f2a7bb5a4d.jpeg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 1,066건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 1,066건 기반.",
+      "reviews": [
+        {
+          "text": "Rooms were very clean and they have a nice bathroom.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Nice clean comfortable rooms, great value for money",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Great location and although dated was very clean.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Nice comfy room with an arm chair ❤️ .",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Very clean and neat, close to shops, easy walking distance.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Young Federation Motor Inn and Services Club",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/young-federation-motor-inn-and-services-club/hotel/all/young-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 1248,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/727080547.jpg?k=fcdfc96f843d52c1215cdaa240e40ebdd484ad25cf05306adc02f6666bd07303&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 1,248건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 1,248건 기반.",
+      "reviews": [
+        {
+          "text": "It is always my motel of choice in Young",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Ordered room service breakfast and it was delicious.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Very nice place to stay and staff were so friendly.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Great location, clean and comfortable.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Great room with friendly staff",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Colonial Motel & Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/colonial-motel-apartments/hotel/all/young-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 760,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/402189296.jpg?k=59489e39cc2ad83d82af2c5389093d389cdb5b457736f5355bd4bf07a644352c&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 760건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 760건 기반.",
+      "reviews": [
+        {
+          "text": "Staff, location, the room.....awesome!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Everything was immaculate in room.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Thank goodness they kept a room for us.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "I definitely recommend this hotel.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The hotel was wonderful and all went well.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Young Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/young-caravan-park/hotel/young-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.9,
+      "reviewCount": 711,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/92998858/0/762a5a6c2000c543f77567f26a7b4ec0.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 711건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 711건 기반.",
+      "reviews": [
+        {
+          "text": "Great location with shop and restaurant.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Great location",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Lovely and down-to-earth staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Great stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Lovely staff",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-27T20:00:08.024Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}
