@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-27T06:20:30.701Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 2,
+  "lastPostedAt": "2026-09-27T12:13:29.384Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 3,
   "postedDate": "2026-09-27",
   "queue": [
-    "australia-ellendale",
     "australia-elizabeth-beach",
     "australia-elbow-valley",
     "australia-elbow-valley-rating",
@@ -828,6 +827,7 @@
     "australia-entrance-lake-budget",
     "australia-entrance-lake-premium",
     "australia-entrance-lake-star4",
-    "australia-entrance-lake-reviewed"
+    "australia-entrance-lake-reviewed",
+    "australia-ellendale"
   ]
 }
