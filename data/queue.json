@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-28T07:18:43.233Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 2,
+  "lastPostedAt": "2026-09-28T15:37:27.973Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 3,
   "postedDate": "2026-09-28",
   "queue": [
-    "australia-young",
     "australia-yea",
     "australia-yeppoon",
     "australia-yeppoon-rating",
@@ -837,6 +836,7 @@
     "australia-elbow-valley",
     "australia-elbow-valley-rating",
     "australia-elbow-valley-station",
-    "australia-elbow-valley-reviewed"
+    "australia-elbow-valley-reviewed",
+    "australia-young"
   ]
 }
