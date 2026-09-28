@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-09-27T22:57:17.515Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 6,
-  "postedDate": "2026-09-27",
+  "lastPostedAt": "2026-09-28T01:26:10.286Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 1,
+  "postedDate": "2026-09-28",
   "queue": [
-    "australia-elbow-valley-station",
     "australia-elbow-valley-reviewed",
     "australia-young",
-    "australia-yea"
+    "australia-yea",
+    "australia-yeppoon"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 399,
+    "cityIndex": 400,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -830,6 +830,7 @@
     "australia-ellendale",
     "australia-elizabeth-beach",
     "australia-elbow-valley",
-    "australia-elbow-valley-rating"
+    "australia-elbow-valley-rating",
+    "australia-elbow-valley-station"
   ]
 }
