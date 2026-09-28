@@ -1,0 +1,378 @@
+{
+  "slug": "australia-yeppoon-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "옙푼",
+  "cityId": 7588,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "옙푼",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/690467863.jpg?k=51fd1445d93d1c294bb3a33a64daeaae83951e561961cdb93324dafef15689af&o=",
+  "heroAlt": "옙푼",
+  "heroSub": "실제 아고다 리뷰로 옙푼의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>Ocean Retreat</b>입니다 (평점 9.7·리뷰 125건·1박 약 29만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/690467863.jpg?k=51fd1445d93d1c294bb3a33a64daeaae83951e561961cdb93324dafef15689af&o=",
+  "outroTitle": "🌙 옙푼, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 옙푼 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Ocean Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ocean-retreat/hotel/all/yeppoon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.7,
+      "reviewCount": 125,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 29만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/690467863.jpg?k=51fd1445d93d1c294bb3a33a64daeaae83951e561961cdb93324dafef15689af&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 29만원",
+        "📝 리뷰 125건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 125건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Ocean Park Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ocean-park-retreat/hotel/all/yeppoon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.3,
+      "reviewCount": 187,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 20만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/534747301.jpg?k=28f6912c8ac6262944345485251e83c1a27015c0b24838424a537a52e61b761f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 187건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 187건 기반.",
+      "reviews": [
+        {
+          "text": "The room was huge and gave us plenty of space to relax.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "We had a fantastic stay at Ocean Park Retreat.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Spacious room, wonderful host, great amenities",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Very large space and friendly owners",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Was very clean and relaxing.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "옙푼 서프사이드 모텔 (Yeppoon Surfside Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/yeppoon-surfside-motel/hotel/yeppoon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 548,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/271134/-1/880fd58d6e84089442db21aead8af23b.jpg?va=1&ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 548건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 548건 기반.",
+      "reviews": [
+        {
+          "text": "Across the road from the beach .",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Great room great facilities.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Great stay with excellent amenities",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "No fuss but very clean and convenient.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Great little place to stay.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2022.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Michaels by the Sea",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/michaels-by-the-sea/hotel/all/yeppoon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 430,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 26만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/907941086.jpg?k=7a482a5c23edb0af7ef46a01715cd386b4b7f352c4f2a8c6d53fe9ad6a2c9403&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 26만원",
+        "📝 리뷰 430건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 430건 기반.",
+      "reviews": [
+        {
+          "text": "Great unit for money",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Beautiful unit in stunning location.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Very clean great view",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Comfortable bed",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Owner/manager was very welcoming.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "비치 온 라머르무어 아파트먼트 (Beaches on Lammermoor Apartments)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/beaches-on-lammermoor-apartments/hotel/yeppoon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9,
+      "reviewCount": 1018,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 32만원",
+      "valueIndex": 5.2,
+      "img": "//pix8.agoda.net/hotelImages/181873/-1/8d1e8150df1316cec660f8837aeb9dcb.png?va=1&ca=14&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 32만원",
+        "📝 리뷰 1,018건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,018건 기반.",
+      "reviews": [
+        {
+          "text": "A really lovely pool with a games room and lots of parking.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "These apartments are perfect for families or larger groups.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Beautiful location just 5min drive from Yeppoon lagoon.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "It is clean, spacious and very good value.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Spotless Apartment & Perfect Location by the Beach",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Seaspray Yeppoon",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/seaspray-waterfront-holiday-units/hotel/all/yeppoon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 1425,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/542523646.jpg?k=794a6379157017f6ffa134129405b293f0e7ae67a477aeb3484dcb7232bf46ce&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 1,425건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 1,425건 기반.",
+      "reviews": [
+        {
+          "text": "It's very clean, actually, that's all you need",
+          "score": "10",
+          "country": "호주",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Discovery Parks - Coolwaters, Yeppoon",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/discovery-parks-coolwaters-yeppoon/hotel/yeppoon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 513,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/365406542.jpg?k=b0adde48212099b0d583db0054e175d9149b4a6503f2e72d7e1549fd7984b436&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 513건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 513건 기반.",
+      "reviews": [
+        {
+          "text": "The cabin was great, clean and spacious.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "We had an amazing stay at the cabins in Yeppoon!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Kids enjoyed the waterlines, the pool and the watermark.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Room are spacious and comfortable I highly recommend",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Water slide park and pool awesome.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-yeppoon",
+    "count": 7,
+    "builtAt": "2026-09-28T07:18:43.227Z"
+  }
+}

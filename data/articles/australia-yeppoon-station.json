@@ -1,0 +1,418 @@
+{
+  "slug": "australia-yeppoon-station",
+  "angle": "station",
+  "angleAdj": "역세권",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "옙푼",
+  "cityId": 7588,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "옙푼",
+  "heroImg": "https://pix8.agoda.net/hotelImages/675521/0/eaaa59367ab4af856b16d020ace4ebe1.jpeg?va=1&ce=3",
+  "heroAlt": "옙푼",
+  "heroSub": "실제 아고다 리뷰로 옙푼의 역세권 숙소를 추렸습니다",
+  "verdictHtml": "역세권 기준 1순위는 <b>세일 인 모텔</b>입니다 (평점 8.8·리뷰 87건·1박 약 13만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/675521/0/eaaa59367ab4af856b16d020ace4ebe1.jpeg?va=1&ce=3",
+  "outroTitle": "🌙 옙푼, 역세권으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 옙푼 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "세일 인 모텔 (Sail Inn Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sail-inn-motel/hotel/yeppoon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 87,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/675521/0/eaaa59367ab4af856b16d020ace4ebe1.jpeg?va=1&ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 87건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 87건 기반.",
+      "reviews": [
+        {
+          "text": "Best motel for it’s price and for it’s features.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Next time going up north we will definitive stay here again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Has all facilities in a great position, & reasonable prices",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The staff were friendly and our room was ready early",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Price was good and would definitely recommend it to people.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Yeppoon Beachhouse",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/yeppoon-beachhouse/hotel/all/yeppoon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 45,
+      "priceBand": 1,
+      "priceText": "₩ · 약 4만원",
+      "valueIndex": 8.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/201878117.jpg?k=0df6165d898fb96f647b3f6d5a4d21a21892e5ed07afa2f9e140e319a9be953f&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 45건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 45건 기반.",
+      "reviews": [
+        {
+          "text": "Comfortable bed, clean sheets, friendly and chill",
+          "score": "9.2",
+          "country": "澳大利亚",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Had a great time at this excellent location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Staff were very polite and helpful and very organised",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "We will definitely recommend and stay again",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Most comfortable bed i have slept in for a long time.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "베이뷰 타워 모텔 (Bayview Tower Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bayview-tower-motel/hotel/yeppoon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 2194,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/271177/0/b5057e0397b45a47d1a75399ceb2866a.jpeg?va=1&ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 2,194건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 2,194건 기반.",
+      "reviews": [
+        {
+          "text": "That’s why I stayed in Bayview hotel already 4 times now!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Beach front, ocean view room with excellent location.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Room was spacious and recently refurbished it seems.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "We were only overnight guests but found the room very clean.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Bed was superbly comfortable as were the pillows!",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Coral Inn Boutique Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/coral-inn-yeppoon/hotel/yeppoon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 156,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/hotelImages/426357/0/205bdf933624bc7a1c2e16e8845f86cf.jpeg?va=1&ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 156건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 156건 기반.",
+      "reviews": [
+        {
+          "text": "Myself and a friend had a lovely stay at Coral Inn.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Clean room, good breakfast and friendly atmosphere.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "Shelley was amazing, friendly and always available to help.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Great clean accommodation with a range of facilities.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "It is the cleanest yet affordable hotel.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Villa La Sini Yeppoon",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/villa-la-sini-yeppoon/hotel/all/yeppoon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 211,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/765800042.jpg?k=fb66eb75807eb0a269ac3b4ee48ee0a639d47a51809aef7bc5fc20934c230763&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 211건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 211건 기반.",
+      "reviews": [
+        {
+          "text": "Really clean super modern very friendly helpful staff",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Great location and facilities.",
+          "score": "10",
+          "country": "Ireland",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Great location, affordable and the nicest staff",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Fantastic stay",
+          "score": "10",
+          "country": "Ireland",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Location near everything",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "로스린 베이 리조트 (Rosslyn Bay Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rosslyn-bay-resort/hotel/yeppoon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.5,
+      "reviewCount": 161,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/hotelImages/294792/0/f68484b3b7c91443ffae225a8b7f0b31.jpeg?va=1&ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 161건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.5</b> · 실제 투숙객 리뷰 161건 기반.",
+      "reviews": [
+        {
+          "text": "The complex is really good, clearly laid out and very quiet.",
+          "score": "9.2",
+          "country": "Germany",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Staffs are pleasant, I would definitely stay there again",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "The room is spacious and a well kitted out kitchen.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Staff went out of their way to attend to our needs",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "We had a lovely stay, and would come back again.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Emu Park Beach Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/emu-park-beach-motel/hotel/all/yeppoon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.6,
+      "reviewCount": 261,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/663776150.jpg?k=84a5b31de073a570f6e292199166bbf50278174e1e36f305dfcc261e45df6bf9&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 261건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.6</b> · 실제 투숙객 리뷰 261건 기반.",
+      "reviews": [
+        {
+          "text": "Good size rooms with very comfortable beds",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Drove in v late -staff super helpful",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "station",
+    "base": "australia-yeppoon",
+    "count": 7,
+    "builtAt": "2026-09-28T07:18:43.227Z"
+  }
+}
