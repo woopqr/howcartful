@@ -1,0 +1,409 @@
+{
+  "slug": "australia-orange",
+  "title": "오렌지 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 오렌지 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "오렌지",
+  "cityId": 19399,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "오렌지",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/837233258.jpg?k=b09c321afa5daafdd0679f19061f7329259d69415a4f86a2f4bd16a7a3d67b2c&o=",
+  "heroAlt": "오렌지",
+  "heroTitleHtml": "오렌지 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Royal Hotel Orange</b>(평점 7.5·리뷰 979건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Orange 도보 1분</b>의 <b>The Great Western Hotel</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/837233258.jpg?k=b09c321afa5daafdd0679f19061f7329259d69415a4f86a2f4bd16a7a3d67b2c&o=",
+  "outroTitle": "🌙 오렌지, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 오렌지 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 오렌지 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Royal Hotel Orange",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/royal-hotel-orange/hotel/all/orange-au.html?cid=1925461",
+      "walkMin": 6,
+      "score": 7.5,
+      "reviewCount": 979,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 7.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/837233258.jpg?k=b09c321afa5daafdd0679f19061f7329259d69415a4f86a2f4bd16a7a3d67b2c&o=",
+      "distanceNote": "약 460.85m · Orange 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 979건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.5</b> · 실제 투숙객 리뷰 979건 기반.",
+      "reviews": [
+        {
+          "text": "The staff were mainly locals and down to earth, friendly.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Staff are friendly and the rooms are good.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Rooms are quiet given they're above a busy pub",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Reasonable Basic Accommodation with great food",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "I like the central location and free parking facility",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Parkview Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/parkview-hotel/hotel/all/orange-au.html?cid=1925461",
+      "walkMin": 4,
+      "score": 9,
+      "reviewCount": 90,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/647087543.jpg?k=41ee0e5c822c442a2ec94e9d122c4164fa135438b05b3f5da018783ea6e12439&o=",
+      "distanceNote": "약 359.63m · Orange 인근",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 90건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 90건 기반.",
+      "reviews": [
+        {
+          "text": "The rooms look like they have been renovated recently.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Bar staff is working hard with a smile on the face.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Great place to stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "The rooms were very quiet, comfortable and well appointed",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Great value for money, and terrific venue.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "The Great Western Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-great-western-hotel/hotel/all/orange-au.html?cid=1925461",
+      "walkMin": 1,
+      "score": 8.3,
+      "reviewCount": 599,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 9만원",
+      "valueIndex": 7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/508028543.jpg?k=827fe2e38a599692e2e6085637c8b8b934f58f8daa926a3bae132d723c719985&o=",
+      "distanceNote": "약 68.56m · Orange 인근",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 599건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 599건 기반.",
+      "reviews": [
+        {
+          "text": "It's so comfortable to stay and shower is the best",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Room was fresh, clean, lovely to stay in.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Great location and very reasonable price.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Great location, clean rooms",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Staff is super friendly.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Metropolitan Hotel Orange ",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/metropolitan-hotel/hotel/orange-au.html?cid=1925461",
+      "walkMin": 9,
+      "score": 7.9,
+      "reviewCount": 228,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 8만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/69104356/0/cbba98ca6b49a7eda1c35bc16fc5b6ee.jpg?va=1&ce=2",
+      "distanceNote": "약 731.97m · Orange 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 228건",
+        "⭐ 2성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 228건 기반.",
+      "reviews": [
+        {
+          "text": "Meal (scotch fillet special) was generous and good quality.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Ive stayed here twice now & I Highly Recommend It!💖😊",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "All you need for a simple overnight stay at a great price",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Comfortable bed & clean very Shiney bathrooms & clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Bar staff very friendly and helpful.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "The Oriana Orange - Retro Hotel & Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/sundowner-oriana-motel/hotel/orange-au.html?cid=1925461",
+      "walkMin": 21,
+      "score": 9,
+      "reviewCount": 1096,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//pix8.agoda.net/hotelImages/73307288/0/899e0a90ce0a4de0460457906c66e9e5.jpg?va=1&ce=2",
+      "distanceNote": "약 1703.03m · Orange 인근",
+      "metaTags": [
+        "📝 리뷰 1,096건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9</b> · 실제 투숙객 리뷰 1,096건 기반.",
+      "reviews": [
+        {
+          "text": "Been here several times and will definitely return!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Best set up for enjoying a whole day by the pool,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "It was quiet, cozy and had everything I needed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Very warm and friendly staff and the place is very clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Staff is friendly and excellent service.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Apartments On The Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/apartments-on-the-park-h45077035/hotel/orange-au.html?cid=1925461",
+      "walkMin": 15,
+      "score": 9.3,
+      "reviewCount": 82,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.5,
+      "img": "//pix8.agoda.net/property/89058427/0/2c6b096a8d01665ca895b73a5ad5df05.jpeg?va=1&ce=3",
+      "distanceNote": "약 1189.27m · Orange 인근",
+      "metaTags": [
+        "📝 리뷰 82건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 82건 기반.",
+      "reviews": [
+        {
+          "text": "Great place to stay Orange",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Town Square Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/town-square-motel_8/hotel/orange-au.html?cid=1925461",
+      "walkMin": 10,
+      "score": 8.8,
+      "reviewCount": 1158,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 18만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/31433107/-1/e31bfbe8bcb89de2093aed61830ccfc7.jpg?va=1&ce=0",
+      "distanceNote": "약 760.94m · Orange 인근",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 1,158건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,158건 기반.",
+      "reviews": [
+        {
+          "text": "Walk to everything like cafes, pubs, supermarkets etc.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Great location in a clean and comfortable room.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Very comfortable mattress on the bed, and comfy couch.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Within walking distance of Kmart, bakers delight and Coles.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Perfect place for a long weekend in orange.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-30T22:39:55.968Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
