@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-09-29T22:40:15.511Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 5,
-  "postedDate": "2026-09-29",
+  "lastPostedAt": "2026-09-30T01:34:36.805Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 1,
+  "postedDate": "2026-09-30",
   "queue": [
-    "australia-yeppoon-star4",
     "australia-yeppoon-reviewed",
     "australia-odonga",
     "australia-odonga-rating",
@@ -843,6 +842,7 @@
     "australia-yeppoon-rating",
     "australia-yeppoon-station",
     "australia-yeppoon-budget",
-    "australia-yeppoon-premium"
+    "australia-yeppoon-premium",
+    "australia-yeppoon-star4"
   ]
 }
