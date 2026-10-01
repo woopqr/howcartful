@@ -1,0 +1,313 @@
+{
+  "slug": "australia-orange-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "오렌지",
+  "cityId": 19399,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "오렌지",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/771591121.jpg?k=1a27daa2c2f1e337b879c30cfd5b4f8875634c95a458d673d25ec1744edc9948&o=",
+  "heroAlt": "오렌지",
+  "heroSub": "실제 아고다 리뷰로 오렌지의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>Yallungah Boutique Hotel</b>입니다 (평점 9.7·리뷰 409건·1박 약 44만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/771591121.jpg?k=1a27daa2c2f1e337b879c30cfd5b4f8875634c95a458d673d25ec1744edc9948&o=",
+  "outroTitle": "🌙 오렌지, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 오렌지 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Yallungah Boutique Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/yallungah-boutique-hotel/hotel/all/orange-au.html?cid=1925461",
+      "walkMin": 14,
+      "score": 9.7,
+      "reviewCount": 409,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 44만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/771591121.jpg?k=1a27daa2c2f1e337b879c30cfd5b4f8875634c95a458d673d25ec1744edc9948&o=",
+      "distanceNote": "약 1130.42m · Orange 인근",
+      "metaTags": [
+        "💰 약 44만원",
+        "📝 리뷰 409건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.7</b> · 실제 투숙객 리뷰 409건 기반.",
+      "reviews": [
+        {
+          "text": "Any trip to Orange NSW we will always stay at this hotel.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "We love it and look forward to coming back soon.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "99 Hill Street Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/99-hill-street-apartments/hotel/all/orange-au.html?cid=1925461",
+      "walkMin": 15,
+      "score": 9.6,
+      "reviewCount": 259,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 38만원",
+      "valueIndex": 5.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/123072213.jpg?k=8ca88b8d2900c62b29e74d2159b751e920c37af96811ec7337eb7fcd8ff708ce&o=",
+      "distanceNote": "약 1181.67m · Orange 인근",
+      "metaTags": [
+        "💰 약 38만원",
+        "📝 리뷰 259건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 259건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "글렌로이의 빌라 (125m², 침실 2개, 프라이빗 욕실 1개) (Paddington Villa-Freshly Renovated Close to town.)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/paddington-villa-freshly-renovated-close-to-town/hotel/orange-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 9.6,
+      "reviewCount": 122,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 37만원",
+      "valueIndex": 5.3,
+      "img": "//pix8.agoda.net/hotelImages/33907058/0/7ae6a3c29b6f4b8ae948fbfd16ab4899.jpg?va=1&ce=0",
+      "distanceNote": "약 568.93m · Orange 인근",
+      "metaTags": [
+        "💰 약 37만원",
+        "📝 리뷰 122건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.6</b> · 실제 투숙객 리뷰 122건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Rocky Rest",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/rocky-rest/hotel/all/orange-au.html?cid=1925461",
+      "walkMin": 28,
+      "score": 9.3,
+      "reviewCount": 221,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/899354397.jpg?k=525b7d6cfa5734e255058bdf117b021858dc3ab03541a9893880cfa34d4383aa&o=",
+      "distanceNote": "약 2254.02m · Orange 인근",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 221건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 221건 기반.",
+      "reviews": [
+        {
+          "text": "All the facilities you want and amazing customer service.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "We had a great time at Rocky Rest.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The studio room was spacious.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Was nice having space.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Lovely place to stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "The Compact Cube - 1 Bedroom Apartment on Summer Near CBD",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-compact-cube-one-bedroom-apartment-on-summer/hotel/all/orange-au.html?cid=1925461",
+      "walkMin": 20,
+      "score": 9.3,
+      "reviewCount": 45,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 29만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/647821037.jpg?k=b9cb84cb4ca36d66215bb6484f61c184419dc4b0525a962e23339bcb35e0a8c5&o=",
+      "distanceNote": "약 1609.39m · Orange 인근",
+      "metaTags": [
+        "💰 약 29만원",
+        "📝 리뷰 45건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.3</b> · 실제 투숙객 리뷰 45건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "퀘스트 오렌지 (Quest Orange)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quest-orange/hotel/orange-au.html?cid=1925461",
+      "walkMin": 2,
+      "score": 9.2,
+      "reviewCount": 1040,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 34만원",
+      "valueIndex": 5.3,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/226559729.jpg?k=befece1bb5c790197d85851d093a7968b61e229c84008e31b000e5f5ee072d94&o=",
+      "distanceNote": "약 161.7m · Orange 인근",
+      "metaTags": [
+        "💰 약 34만원",
+        "📝 리뷰 1,040건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 1,040건 기반.",
+      "reviews": [
+        {
+          "text": "Our room (112B) was beautifully appointed and super clean.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "My stay in the hotel room was genuinely delightful.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The kitchenette was really well designed and appointed too.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Great two bedroom appartment, really clean and fresh.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Nice clean comfortable hotel in the heart of town.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "The Remington Orange",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-remington-orange/hotel/all/orange-au.html?cid=1925461",
+      "walkMin": 24,
+      "score": 9.1,
+      "reviewCount": 2098,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/489373039.jpg?k=a8288fd520d5cde523fc84ef091f9ad23c2d749d8d6efe67af1b0bbdfffd70dd&o=",
+      "distanceNote": "약 1917.44m · Orange East Fork 인근",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 2,098건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 2,098건 기반.",
+      "reviews": [
+        {
+          "text": "Our family spent a great night at The Remington Orange.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Clean and spacious rooms with yummy breakfast buffet.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended if you are planning a trip.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Peaceful and comfortable stay would surely recommend it",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Excellent service and facilities for family.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-orange",
+    "count": 7,
+    "builtAt": "2026-10-01T01:34:06.877Z"
+  }
+}
