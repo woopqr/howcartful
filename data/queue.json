@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-10-01T01:34:06.898Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 1,
+  "lastPostedAt": "2026-10-01T07:43:58.205Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 2,
   "postedDate": "2026-10-01",
   "queue": [
-    "australia-odonga-star4",
     "australia-odonga-reviewed",
     "australia-orange",
     "australia-orange-rating",
@@ -849,6 +848,7 @@
     "australia-odonga",
     "australia-odonga-rating",
     "australia-odonga-station",
-    "australia-odonga-budget"
+    "australia-odonga-budget",
+    "australia-odonga-star4"
   ]
 }
