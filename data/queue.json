@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-10-02T15:16:03.103Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 3,
+  "lastPostedAt": "2026-10-02T19:58:22.980Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 4,
   "postedDate": "2026-10-02",
   "queue": [
-    "australia-orange-reviewed",
     "australia-oruru",
     "australia-orbost",
     "australia-orbost-rating",
@@ -854,6 +853,7 @@
     "australia-orange-rating",
     "australia-orange-station",
     "australia-orange-premium",
-    "australia-orange-star4"
+    "australia-orange-star4",
+    "australia-orange-reviewed"
   ]
 }
