@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-10-01T23:33:21.966Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 5,
-  "postedDate": "2026-10-01",
+  "lastPostedAt": "2026-10-02T02:32:14.083Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-10-02",
   "queue": [
-    "australia-orange-station",
     "australia-orange-premium",
     "australia-orange-star4",
-    "australia-orange-reviewed"
+    "australia-orange-reviewed",
+    "australia-oruru"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 402,
+    "cityIndex": 403,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -849,6 +849,7 @@
     "australia-odonga-star4",
     "australia-odonga-reviewed",
     "australia-orange",
-    "australia-orange-rating"
+    "australia-orange-rating",
+    "australia-orange-station"
   ]
 }
