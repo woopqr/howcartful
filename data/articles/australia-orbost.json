@@ -1,0 +1,289 @@
+{
+  "slug": "australia-orbost",
+  "title": "오르보스트 가성비 호텔 6곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 오르보스트 가성비 호텔 6곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "orbost-au",
+  "cityName": "오르보스트",
+  "cityId": 10212,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "오르보스트",
+  "heroImg": "https://pix8.agoda.net/hotelImages/781547/0/0cf8267f991264861baba362cd837829.jpeg",
+  "heroAlt": "오르보스트",
+  "heroTitleHtml": "오르보스트 가성비 호텔 6곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>오보스트 컨트리 로드 모토 인</b>(평점 8.3·리뷰 80건·1박 약 13만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>오보스트 컨트리 로드 모토 인</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/781547/0/0cf8267f991264861baba362cd837829.jpeg",
+  "outroTitle": "🌙 오르보스트, 어디에 묵어도 후회없이",
+  "outroText": "위 6곳은 모두 오르보스트 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 오르보스트 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "오보스트 컨트리 로드 모토 인 (Orbost Country Road Motor Inn)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/orbost-country-road-motor-inn/hotel/orbost-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 80,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/781547/0/0cf8267f991264861baba362cd837829.jpeg",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 80건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 80건 기반.",
+      "reviews": [
+        {
+          "text": "Quiet location a short distance from the main street.",
+          "score": "8.5",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Friendly owners and comfortable rooms.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "It was a great stay, even though it was only for one day.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "We have a nice and clean room to recharge.",
+          "score": "8",
+          "country": "中國香港",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Rooms comfortable and clean.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Orbost Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/orbost-motel_2/hotel/all/orbost-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 727,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/64743582.jpg?k=86b1f2d22de0b2a242127586a28b133ecd4c8e0995fddf590a402807c02e22d4&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 727건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 727건 기반.",
+      "reviews": [
+        {
+          "text": "Genuinely one of the best motels that I've stayed in.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Great hotel, location and staff, good value, loved the stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "A great, 4 star accommodation with clean and modern decor.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Fantastic place to stay when passing through Orbost.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "If ever in Orbost again, I would be staying here.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Snowy River Lodge Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/snowy-river-lodge-motel/hotel/all/orbost-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 262,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/51235003.jpg?k=86876895f3bb6a62892b32318bc8c61ecfaabf7e8c63610c2c8c7923d926dca6&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 262건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 262건 기반.",
+      "reviews": [
+        {
+          "text": "The bathroom was clean and roomy enough.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Would stay there again.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Snowy river homestead",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/snowy-river-homestead/hotel/all/lakes-entrance-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 133,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/291726064.jpg?k=803c04b7c81a8e99aa0050800b2ae8e21401922d05f295ede1c05b53248562a3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 133건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 133건 기반.",
+      "reviews": [
+        {
+          "text": "Place to unwind and relax",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Quiet location",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Orbost Country Man Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/orbost-country-man-motor-inn_2/hotel/all/orbost-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 7.8,
+      "reviewCount": 234,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/446478026.jpg?k=59166285d5c2eef16cf30cf5fa1b71a67e8de5ff6e6db5ccd489fb0a840f901b&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 234건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 234건 기반.",
+      "reviews": [
+        {
+          "text": "Place was super clean and owners very friendly to bikers.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "We had a good stay at this motel in a quiet little town.",
+          "score": "8",
+          "country": "Germany",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Clean an quiet",
+          "score": "8",
+          "country": "Germany",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Longhorn Ranch Apartments",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/longhorn-ranch-apartments/hotel/all/orbost-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 86,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 21만원",
+      "valueIndex": 5.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/391911450.jpg?k=74a4dccba8357907cfc39bfa1e1200249411a7c7fb3206385726579fd5e24b18&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 86건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 86건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-10-02T08:55:05.757Z",
+    "source": "agoda citySearch",
+    "count": 6
+  }
+}
