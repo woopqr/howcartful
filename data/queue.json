@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-10-02T23:37:46.602Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 5,
-  "postedDate": "2026-10-02",
+  "lastPostedAt": "2026-10-03T02:18:37.329Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 1,
+  "postedDate": "2026-10-03",
   "queue": [
-    "australia-orbost",
     "australia-orbost-rating",
     "australia-orbost-station",
-    "australia-orbost-reviewed"
+    "australia-orbost-reviewed",
+    "australia-oberon"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 404,
+    "cityIndex": 405,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -854,6 +854,7 @@
     "australia-orange-premium",
     "australia-orange-star4",
     "australia-orange-reviewed",
-    "australia-oruru"
+    "australia-oruru",
+    "australia-orbost"
   ]
 }

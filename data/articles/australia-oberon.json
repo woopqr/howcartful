@@ -1,0 +1,235 @@
+{
+  "slug": "australia-oberon",
+  "title": "오베론 가성비 호텔 4곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 오베론 가성비 호텔 4곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "오베론",
+  "cityId": 671577,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "오베론",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/657564016.jpg?k=b34ed6c8fd31ea7b45c4f763343c01398f8be378faf6f32c22f2ffd2ec7e05cf&o=",
+  "heroAlt": "오베론",
+  "heroTitleHtml": "오베론 가성비 호텔 4곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Royal Hotel Oberon</b>(평점 8.1·리뷰 35건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>Royal Hotel Oberon</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/657564016.jpg?k=b34ed6c8fd31ea7b45c4f763343c01398f8be378faf6f32c22f2ffd2ec7e05cf&o=",
+  "outroTitle": "🌙 오베론, 어디에 묵어도 후회없이",
+  "outroText": "위 4곳은 모두 오베론 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 오베론 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Royal Hotel Oberon",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/royal-hotel-oberon/hotel/all/oberon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 35,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 7.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/657564016.jpg?k=b34ed6c8fd31ea7b45c4f763343c01398f8be378faf6f32c22f2ffd2ec7e05cf&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 35건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 35건 기반.",
+      "reviews": [
+        {
+          "text": "Would stay again, esp if I can get room 10!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Room 10 has an ensuite - what a bonus.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "I will stay again for next trip to Oberon",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "We request heater due to cold weather.",
+          "score": "7.6",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Great location and beautiful food.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "타이태니아 모텔 (Titania Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/titania-motel/hotel/oberon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 516,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 10만원",
+      "valueIndex": 7.2,
+      "img": "//pix8.agoda.net/hotelImages/407452/0/e1d7473e34ae011a578c84866720ef50.jpeg?va=1&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 516건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 516건 기반.",
+      "reviews": [
+        {
+          "text": "Stylishly refurbished room with very comfortable bed.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "This is our 2nd stay and always had fabulous service.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Beds comfy and nice bathroom extras and lovely soft towels.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Thank u very much for all Excellent place and services 🙏",
+          "score": "10",
+          "country": "ออสเตรเลีย",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "The motel itself is very clean and nicely refurbished.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Jenolan Holiday Park - Oberon",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/jenolan-holiday-park-oberon/hotel/oberon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.1,
+      "reviewCount": 1353,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 6.9,
+      "img": "//pix8.agoda.net/hotelImages/93001316/0/d81ed3ddffa91f31626ce802b1604c89.jpg?va=1&ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,353건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 1,353건 기반.",
+      "reviews": [
+        {
+          "text": "Good value",
+          "score": "8",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Highlands Motor Inn",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/highlands-motor-inn_2/hotel/all/oberon-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.1,
+      "reviewCount": 520,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/621946995.jpg?k=6db3fed84fca131d04173bf6eeeeb326a28a77a3aa9e4bc58ae174d7adfecb21&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 520건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 520건 기반.",
+      "reviews": [
+        {
+          "text": "The bed was so comfy.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "The room is very clean and the bed is so comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "Clean and warm A/C and electric blanket.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Was good water pressure and hot water.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Best short stay - clean and comfort",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-10-03T02:18:45.642Z",
+    "source": "agoda citySearch",
+    "count": 4
+  }
+}
