@@ -1,0 +1,244 @@
+{
+  "slug": "australia-ocean-grove-premium",
+  "angle": "premium",
+  "angleAdj": "고급",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "오션 그로브",
+  "cityId": 143230,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "오션 그로브",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/236111916.jpg?k=21cb709dc9b4c511e46432bf0dee66a49949719aa73dc85ed482fda5be9dda16&o=",
+  "heroAlt": "오션 그로브",
+  "heroSub": "실제 아고다 리뷰로 오션 그로브의 프리미엄 숙소를 추렸습니다",
+  "verdictHtml": "프리미엄 기준 1순위는 <b>Lon Retreat</b>입니다 (평점 9.5·리뷰 43건·1박 약 61만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/236111916.jpg?k=21cb709dc9b4c511e46432bf0dee66a49949719aa73dc85ed482fda5be9dda16&o=",
+  "outroTitle": "🌙 오션 그로브, 프리미엄으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 오션 그로브 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Lon Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lon-retreat/hotel/all/point-lonsdale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 43,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 61만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/236111916.jpg?k=21cb709dc9b4c511e46432bf0dee66a49949719aa73dc85ed482fda5be9dda16&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 61만원",
+        "📝 리뷰 43건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 43건 기반.",
+      "reviews": [
+        {
+          "text": "Our room was larger and more beautiful than we had expected.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The massage and facial were superb and the staff a delight.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Lon was everything I expected and more.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "We loved Lon Retreat.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Fairy Wren Cottage Country to Coast Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/fairy-wren-cottage-country-to-coast-retreat/hotel/all/wallington-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 86,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/141781967.jpg?k=bc71bb93f6a3f4799ddbeb0ba412e3acd46a9a04161382d2c670c2e33d03a2c8&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 86건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 86건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Accommodation @ Curlewis",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/accommodation-curlewis/hotel/wallington-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 1121,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/88083911/0/b1468e8ce2b21eb12cfcecb42ca28bc1.jpg?va=1&ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 1,121건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 1,121건 기반.",
+      "reviews": [
+        {
+          "text": "The rooms themself are very clean, tidy and modern.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "We will definitely be back again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Staffs are friendly and good in house restaurant",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "What a great location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Most comfortable",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Oakdene Vineyards Guesthouse",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/oakdene-vineyards-guesthouse/hotel/all/wallington-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.8,
+      "reviewCount": 459,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/111097439.jpg?k=29a50efcaa315d1bb0c9a1979c308d9424d945187a4308dafc4330ef5e829a80&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 459건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 459건 기반.",
+      "reviews": [
+        {
+          "text": "Every thing inside the room is perfectly cleaned.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Worth to try, stay and drink too.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "The staff were very friendly and accommodating.",
+          "score": "10",
+          "country": "India",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Our stay at the property was amazing!",
+          "score": "10",
+          "country": "India",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Having a continental breakfast provided was lovely.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "마커스 힐의 프라이빗 하우스 (0m², 침실 4개, 프라이빗 욕실 3개) (Modern Villa near the beach -12 Sleep)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mordern-villa-near-the-beach/hotel/marcus-hill-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 37,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 76만원",
+      "valueIndex": 4.7,
+      "img": "//pix8.agoda.net/hotelImages/64336882/0/370a58aa1cb8939c7d68a97c73a6a447.jpg?va=1&ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 76만원",
+        "📝 리뷰 37건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 37건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "premium",
+    "base": "australia-ocean-grove",
+    "count": 5,
+    "builtAt": "2026-10-03T13:28:57.060Z"
+  }
+}

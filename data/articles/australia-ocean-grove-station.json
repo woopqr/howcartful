@@ -1,0 +1,396 @@
+{
+  "slug": "australia-ocean-grove-station",
+  "angle": "station",
+  "angleAdj": "역세권",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "오션 그로브",
+  "cityId": 143230,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "오션 그로브",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/387177372.jpg?k=2e7853b96fbfd0a36dd4a9f0972a4bc87a0bd592eb2d898f47f0dbf0b3d580c3&o=",
+  "heroAlt": "오션 그로브",
+  "heroSub": "실제 아고다 리뷰로 오션 그로브의 역세권 숙소를 추렸습니다",
+  "verdictHtml": "역세권 기준 1순위는 <b>Barwon Heads Hotel</b>입니다 (평점 8.3·리뷰 37건·1박 약 15만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/387177372.jpg?k=2e7853b96fbfd0a36dd4a9f0972a4bc87a0bd592eb2d898f47f0dbf0b3d580c3&o=",
+  "outroTitle": "🌙 오션 그로브, 역세권으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 오션 그로브 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Barwon Heads Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/barwon-heads-hotel/hotel/all/barwon-heads-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 37,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 15만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/387177372.jpg?k=2e7853b96fbfd0a36dd4a9f0972a4bc87a0bd592eb2d898f47f0dbf0b3d580c3&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 37건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 37건 기반.",
+      "reviews": [
+        {
+          "text": "I stayed overnight and I was really comfortable.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "All the charms of a country Pub/Hotel stay.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Beach across the road and the hotel is a great venue",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Very comfortable room and bed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Going to the beach is simply by crossing the road.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "포인트 론스데일 게스트하우스 (Point Lonsdale Guest House)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/point-lonsdale-guest-house/hotel/point-lonsdale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.6,
+      "reviewCount": 719,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/336500/0/7f9f79343fa8a8d7eab832e24956ae5e.jpeg?va=1&ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 719건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 719건 기반.",
+      "reviews": [
+        {
+          "text": "A beautiful old guesthouse in a lovely part of the world.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "Great location with 5 min walk to lighthouse.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Comfortable soft bed with ensuite facilities.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Communal Kitchen is spacious and very well equipped.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Fantastic Facilities and nice clean room.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "BIG4 Ingenia Holidays Queenscliff Beacon",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/ingenia-holidays-queenscliff-beacon/hotel/all/queenscliff-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.9,
+      "reviewCount": 878,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 20만원",
+      "valueIndex": 6.5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/890330352.jpg?k=39374b6757c38d11414183655f2180cb686b65afcdc909756d86f4df513a5f3a&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 878건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 878건 기반.",
+      "reviews": [
+        {
+          "text": "Alway clean and comfortable and great staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The room is clean and we did enjoyed our stay there.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "Cabin is clean and comfortable, comes with a kitchenette.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Excellent accommodation close to off road cycling paths.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Called ahead and the guys were more than accommodating.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "리버사이드 오션 그로브 모텔 스위트 앤 홀리데이 캐빈 (Riverside Ocean Grove Motel Suites and Holiday Cabins)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/riverside-ocean-grove-motel-suites-and-holiday-cabins/hotel/ocean-grove-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 338,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/857462/0/addbc4a20b9d7c3012ca85f00a5e87d1.jpeg?va=1&ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 338건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 338건 기반.",
+      "reviews": [
+        {
+          "text": "A nice, clean, well maintained place to stay in Ocean Grove.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "I was late but they were very accommodating and kind!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The staff are fabulous and happy to help if needed.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Rooms are freshly renovated with fresh amenities and sheets.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "A very well maintained and comfortable motel room.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Lon Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lon-retreat/hotel/all/point-lonsdale-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.5,
+      "reviewCount": 43,
+      "priceBand": 5,
+      "priceText": "₩₩₩ · 약 61만원",
+      "valueIndex": 5,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/236111916.jpg?k=21cb709dc9b4c511e46432bf0dee66a49949719aa73dc85ed482fda5be9dda16&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 61만원",
+        "📝 리뷰 43건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.5</b> · 실제 투숙객 리뷰 43건 기반.",
+      "reviews": [
+        {
+          "text": "Our room was larger and more beautiful than we had expected.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The massage and facial were superb and the staff a delight.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Lon was everything I expected and more.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "We loved Lon Retreat.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Fairy Wren Cottage Country to Coast Retreat",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/fairy-wren-cottage-country-to-coast-retreat/hotel/all/wallington-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 86,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.8,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/141781967.jpg?k=bc71bb93f6a3f4799ddbeb0ba412e3acd46a9a04161382d2c670c2e33d03a2c8&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 86건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 86건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "Accommodation @ Curlewis",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/accommodation-curlewis/hotel/wallington-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 1121,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 22만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/88083911/0/b1468e8ce2b21eb12cfcecb42ca28bc1.jpg?va=1&ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 1,121건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 1,121건 기반.",
+      "reviews": [
+        {
+          "text": "The rooms themself are very clean, tidy and modern.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "We will definitely be back again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Staffs are friendly and good in house restaurant",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "What a great location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Most comfortable",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "station",
+    "base": "australia-ocean-grove",
+    "count": 7,
+    "builtAt": "2026-10-03T13:28:57.060Z"
+  }
+}
