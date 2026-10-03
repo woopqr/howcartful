@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-10-03T20:08:43.948Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 5,
+  "lastPostedAt": "2026-10-03T22:54:24.573Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 6,
   "postedDate": "2026-10-03",
   "queue": [
-    "australia-ocean-grove",
     "australia-ocean-grove-rating",
     "australia-ocean-grove-station",
     "australia-ocean-grove-premium",
@@ -860,6 +859,7 @@
     "australia-orbost-rating",
     "australia-orbost-station",
     "australia-orbost-reviewed",
-    "australia-oberon"
+    "australia-oberon",
+    "australia-ocean-grove"
   ]
 }
