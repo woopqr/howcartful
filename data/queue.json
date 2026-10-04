@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-10-04T14:19:47.256Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 3,
+  "lastPostedAt": "2026-10-04T18:13:00.899Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 4,
   "postedDate": "2026-10-04",
   "queue": [
-    "australia-ocean-grove-reviewed",
     "australia-ocean-shore",
     "australia-ocean-shore-rating",
     "australia-ocean-shore-station",
@@ -865,6 +864,7 @@
     "australia-ocean-grove",
     "australia-ocean-grove-rating",
     "australia-ocean-grove-station",
-    "australia-ocean-grove-premium"
+    "australia-ocean-grove-premium",
+    "australia-ocean-grove-reviewed"
   ]
 }
