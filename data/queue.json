@@ -1,14 +1,17 @@
 {
-  "lastPostedAt": "2026-10-04T02:18:06.194Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 1,
+  "lastPostedAt": "2026-10-04T08:32:39.838Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 2,
   "postedDate": "2026-10-04",
   "queue": [
-    "australia-ocean-grove-station",
     "australia-ocean-grove-premium",
     "australia-ocean-grove-reviewed",
-    "australia-ocean-shore"
+    "australia-ocean-shore",
+    "australia-ocean-shore-rating",
+    "australia-ocean-shore-station",
+    "australia-ocean-shore-premium",
+    "australia-ocean-shore-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -861,6 +864,7 @@
     "australia-orbost-reviewed",
     "australia-oberon",
     "australia-ocean-grove",
-    "australia-ocean-grove-rating"
+    "australia-ocean-grove-rating",
+    "australia-ocean-grove-station"
   ]
 }
