@@ -1,0 +1,295 @@
+{
+  "slug": "australia-australind-star4",
+  "angle": "star4",
+  "angleAdj": "4성급",
+  "lang": "ko-kr",
+  "citySlug": "bunbury-au",
+  "cityName": "오스트랄린드",
+  "cityId": 143410,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "오스트랄린드",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/830122917.jpg?k=e2a7aadc9919fd5b2c950cbc59edd89d8723ee0bf4e10d44dce13accd085090e&o=",
+  "heroAlt": "오스트랄린드",
+  "heroSub": "실제 아고다 리뷰로 오스트랄린드의 4성급 숙소를 추렸습니다",
+  "verdictHtml": "4성급 기준 1순위는 <b>이스트 번버리의 프라이빗 하우스</b>입니다 (평점 9.4·리뷰 110건·1박 가격 변동). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/830122917.jpg?k=e2a7aadc9919fd5b2c950cbc59edd89d8723ee0bf4e10d44dce13accd085090e&o=",
+  "outroTitle": "🌙 오스트랄린드, 4성급으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 오스트랄린드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "이스트 번버리의 프라이빗 하우스 (m², 침실 4개, 프라이빗 욕실 1개) (Albert Road Cottage, Bunbury)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/albert-road-cottage-late-art-deco-3-bedroom-house-and-caravan/hotel/bunbury-au.html?cid=1925461",
+      "walkMin": 24,
+      "score": 9.4,
+      "reviewCount": 110,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/830122917.jpg?k=e2a7aadc9919fd5b2c950cbc59edd89d8723ee0bf4e10d44dce13accd085090e&o=",
+      "distanceNote": "약 1934.03m · Bunbury 인근",
+      "metaTags": [
+        "📝 리뷰 110건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 110건 기반.",
+      "reviews": [
+        {
+          "text": "Amazing stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "번버리 호텔 쿰바나 베이 (Bunbury Hotel Koombana Bay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bunbury-hotel-koombana-bay_2/hotel/bunbury-au.html?cid=1925461",
+      "walkMin": 40,
+      "score": 8.6,
+      "reviewCount": 3611,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/161930/0/850d3c44fd34f5a7f545fa236e68a45e.jpeg?ce=3",
+      "distanceNote": "약 3207.39m · Bunbury 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 3,611건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 3,611건 기반.",
+      "reviews": [
+        {
+          "text": "I was travelling for work and this was the perfect hotel.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "They have amazing facilities eg the pool and restaurant.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Bed was really comfortable and the facilities are excellent.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Room was spacious and I had a spa Bath which was so good.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "We have been to this hotel many times and always go back.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "머큐어 번버리 생츄어리 골프 리조트 (Mercure Bunbury Sanctuary Golf Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/mercure-bunbury-sanctuary-golf-resort/hotel/bunbury-au.html?cid=1925461",
+      "walkMin": 34,
+      "score": 8.4,
+      "reviewCount": 129,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 6.1,
+      "img": "//pix8.agoda.net/hotelImages/73052/0/ca8597b5403ad39f01cbe1f9af5a2880.jpeg",
+      "distanceNote": "약 2753.36m · Picton Junction 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 129건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.4</b> · 실제 투숙객 리뷰 129건 기반.",
+      "reviews": [
+        {
+          "text": "Great rooms for amazing prices highly recommended",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Nice swimming pool, and nice golf course, quite location.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Nice comfy rooms, great value for the price",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Lovely and warm room with a bath.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Will definitely stay here again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "베스트웨스턴 호텔 로드 포레스트 (Best Western Plus Hotel Lord Forrest)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/best-western-plus-hotel-lord-forrest/hotel/bunbury-au.html?cid=1925461",
+      "walkMin": 39,
+      "score": 7.9,
+      "reviewCount": 684,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 17만원",
+      "valueIndex": 5.8,
+      "img": "//pix8.agoda.net/hotelImages/178332/0/f653de97b6cca26a7bc2acfe0bf31562.jpeg?ce=3",
+      "distanceNote": "약 3120.46m · Bunbury 인근",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 684건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.9</b> · 실제 투숙객 리뷰 684건 기반.",
+      "reviews": [
+        {
+          "text": "Enjoyed my stay, great location, would stay again",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Room is also cozy and clean with the very reasonable price",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Great hotel and facilities staff very friendly and helpful",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "The room is great with an amazing view of the ocean.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "I highly recommend this place to anyone wanting to visit.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "Quest Bunbury",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/quest-bunbury-h18995413/hotel/bunbury-au.html?cid=1925461",
+      "walkMin": 35,
+      "score": 8.9,
+      "reviewCount": 563,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 24만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/209978977.jpg?k=fb8285285e5b4111c94a0f529806fa8b82766f19cdb6a4af9a1f0dddd208edbf&o=",
+      "distanceNote": "약 2793.41m · Bunbury 인근",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 563건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 563건 기반.",
+      "reviews": [
+        {
+          "text": "Beautiful apartment clean and quiet",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Surprised to see how clean and tidy our room was.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "We had a good size living, dining and kitchen area.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "The room was very clean and in a great location",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Very Good Location at the centre of Bunbury",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "star4",
+    "base": "australia-australind",
+    "count": 5,
+    "builtAt": "2026-10-05T05:26:56.485Z"
+  }
+}
