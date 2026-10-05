@@ -1,0 +1,411 @@
+{
+  "slug": "australia-australind",
+  "title": "오스트랄린드 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 오스트랄린드 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "bunbury-au",
+  "cityName": "오스트랄린드",
+  "cityId": 143410,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "오스트랄린드",
+  "heroImg": "https://pix8.agoda.net/hotelImages/78959731/0/e131ec7bbc2b5603b112fbd7533f5526.jpeg?ce=3",
+  "heroAlt": "오스트랄린드",
+  "heroTitleHtml": "오스트랄린드 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>The Burlington Hotel</b>(평점 9.1·리뷰 116건·1박 약 7만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Bunbury 도보 23분</b>의 <b>The Parade Hotel</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/78959731/0/e131ec7bbc2b5603b112fbd7533f5526.jpeg?ce=3",
+  "outroTitle": "🌙 오스트랄린드, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 오스트랄린드 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 오스트랄린드 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Burlington Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-burlington-hotel/hotel/bunbury-au.html?cid=1925461",
+      "walkMin": 39,
+      "score": 9.1,
+      "reviewCount": 116,
+      "priceBand": 1,
+      "priceText": "₩ · 약 7만원",
+      "valueIndex": 8.8,
+      "img": "//pix8.agoda.net/hotelImages/78959731/0/e131ec7bbc2b5603b112fbd7533f5526.jpeg?ce=3",
+      "distanceNote": "약 3141.39m · Bunbury 인근",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 116건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 116건 기반.",
+      "reviews": [
+        {
+          "text": "Recent renovations have made this a pleasant place to stay.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Location is pristine and would recommend to everyone.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Central location, great facilities and friendly staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Amazing amazing shower and bathroom facilities",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "No faults what so ever and would dedinately stay again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Australind Holiday Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/australind-tourist-park/hotel/australind-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.3,
+      "reviewCount": 2248,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 8만원",
+      "valueIndex": 7,
+      "img": "//pix8.agoda.net/hotelImages/87998706/0/62db36e51be63dfd15c8eece5cfaf76a.jpg?ce=3",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 2,248건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.3</b> · 실제 투숙객 리뷰 2,248건 기반.",
+      "reviews": [
+        {
+          "text": "This time in one of the new chalets & very happy.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The facilities are great and the chalets are gorgeous!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Staff were very informative and helpful.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Unit was clean and tidy.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Loved the cabin and the Kookaburra that came for a visit.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "The Parade Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-parade-hotel/hotel/all/bunbury-au.html?cid=1925461",
+      "walkMin": 23,
+      "score": 8.2,
+      "reviewCount": 941,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/218457561.jpg?k=bd198df527ab73e564b7595c361ed41ceb13177dd9afe585c50fded8cb497bd5&o=",
+      "distanceNote": "약 1816.54m · Bunbury 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 941건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.2</b> · 실제 투숙객 리뷰 941건 기반.",
+      "reviews": [
+        {
+          "text": "Excellent all round hotel , location beautiful views",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "I was extremely pleased with my stay at The Parade Hotel.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "We booked a room last minute for a great price!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "The on-site restaurant offers delicious meals,",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "And the view was stunning—perfect for a relaxing stay!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "이스트 번버리의 프라이빗 하우스 (m², 침실 4개, 프라이빗 욕실 1개) (Albert Road Cottage, Bunbury)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/albert-road-cottage-late-art-deco-3-bedroom-house-and-caravan/hotel/bunbury-au.html?cid=1925461",
+      "walkMin": 24,
+      "score": 9.4,
+      "reviewCount": 110,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/830122917.jpg?k=e2a7aadc9919fd5b2c950cbc59edd89d8723ee0bf4e10d44dce13accd085090e&o=",
+      "distanceNote": "약 1934.03m · Bunbury 인근",
+      "metaTags": [
+        "📝 리뷰 110건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 110건 기반.",
+      "reviews": [
+        {
+          "text": "Amazing stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "디스커버리 파크 - 번버리 포어쇼어 (Discovery Parks - Bunbury Foreshore)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/discovery-parks-bunbury-foreshore_3/hotel/bunbury-au.html?cid=1925461",
+      "walkMin": 28,
+      "score": 8.7,
+      "reviewCount": 1520,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.4,
+      "img": "//pix8.agoda.net/hotelImages/773997/0/4b359ae81f6168dcbc9eb3038876e855.jpeg",
+      "distanceNote": "약 2222.11m · Bunbury 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 1,520건",
+        "⭐ 5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,520건 기반.",
+      "reviews": [
+        {
+          "text": "Highly recommend this Park for families with young children.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "We enjoy our stay here and will come back again for sure.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Close to everywhere that you have to visit in Bunbury.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Stayed in a 3 bed cabin and had everything we needed.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "It has a very comfortable bed and the rooms are very clean",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "번버리 호텔 쿰바나 베이 (Bunbury Hotel Koombana Bay)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/bunbury-hotel-koombana-bay_2/hotel/bunbury-au.html?cid=1925461",
+      "walkMin": 40,
+      "score": 8.6,
+      "reviewCount": 3611,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.3,
+      "img": "//pix8.agoda.net/hotelImages/161930/0/850d3c44fd34f5a7f545fa236e68a45e.jpeg?ce=3",
+      "distanceNote": "약 3207.39m · Bunbury 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 3,611건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.6</b> · 실제 투숙객 리뷰 3,611건 기반.",
+      "reviews": [
+        {
+          "text": "I was travelling for work and this was the perfect hotel.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "They have amazing facilities eg the pool and restaurant.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Bed was really comfortable and the facilities are excellent.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Room was spacious and I had a spa Bath which was so good.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "We have been to this hotel many times and always go back.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "The Rose Hotel & Motel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/the-rose-hotel-motel/hotel/all/bunbury-au.html?cid=1925461",
+      "walkMin": 36,
+      "score": 8.7,
+      "reviewCount": 137,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 6.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/690328869.jpg?k=6e9a4b6f6923f09de12192e3f32fc768d618e76d6fb1db5318c2eaaf581df5f7&o=",
+      "distanceNote": "약 2897.25m · Bunbury 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 137건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 137건 기반.",
+      "reviews": [
+        {
+          "text": "Good location close to bars/restaurants and skate park",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The best part of this motel is the location.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Would definitely recommend and will stay there again",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Clean and big room, wine glasses provided.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Very friendly and accommodating staff.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-10-05T00:04:22.784Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
