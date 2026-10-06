@@ -1,14 +1,16 @@
 {
-  "lastPostedAt": "2026-10-06T07:56:50.709Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 2,
+  "lastPostedAt": "2026-10-06T14:46:11.323Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 3,
   "postedDate": "2026-10-06",
   "queue": [
-    "australia-australind-station",
     "australia-australind-star4",
     "australia-australind-reviewed",
-    "australia-oyster-cove"
+    "australia-oyster-cove",
+    "australia-oyster-cove-rating",
+    "australia-oyster-cove-station",
+    "australia-oyster-cove-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -871,6 +873,7 @@
     "australia-ocean-shore-premium",
     "australia-ocean-shore-reviewed",
     "australia-australind",
-    "australia-australind-rating"
+    "australia-australind-rating",
+    "australia-australind-station"
   ]
 }
