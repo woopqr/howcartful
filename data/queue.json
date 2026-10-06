@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-10-06T19:51:50.320Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 4,
+  "lastPostedAt": "2026-10-06T23:21:59.617Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 5,
   "postedDate": "2026-10-06",
   "queue": [
-    "australia-australind-reviewed",
     "australia-oyster-cove",
     "australia-oyster-cove-rating",
     "australia-oyster-cove-station",
@@ -874,6 +873,7 @@
     "australia-australind",
     "australia-australind-rating",
     "australia-australind-station",
-    "australia-australind-star4"
+    "australia-australind-star4",
+    "australia-australind-reviewed"
   ]
 }
