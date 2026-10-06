@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-10-05T20:46:00.948Z",
-  "nextIntervalMin": 62,
-  "intervalCursor": 2,
-  "postedToday": 4,
-  "postedDate": "2026-10-05",
+  "lastPostedAt": "2026-10-06T01:27:57.463Z",
+  "nextIntervalMin": 59,
+  "intervalCursor": 3,
+  "postedToday": 1,
+  "postedDate": "2026-10-06",
   "queue": [
-    "australia-australind",
     "australia-australind-rating",
     "australia-australind-station",
     "australia-australind-star4",
@@ -870,6 +869,7 @@
     "australia-ocean-shore-rating",
     "australia-ocean-shore-station",
     "australia-ocean-shore-premium",
-    "australia-ocean-shore-reviewed"
+    "australia-ocean-shore-reviewed",
+    "australia-australind"
   ]
 }
