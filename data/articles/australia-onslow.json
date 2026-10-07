@@ -1,0 +1,87 @@
+{
+  "slug": "australia-onslow",
+  "title": "온슬로 가성비 호텔 1곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 온슬로 가성비 호텔 1곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "onslow-au",
+  "cityName": "온슬로",
+  "cityId": 717353,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "온슬로",
+  "heroImg": "https://pix8.agoda.net/hotelImages/1265408/-1/783c63197fcd08480bfe839a338f8151.jpg?va=1&ca=0&ce=1",
+  "heroAlt": "온슬로",
+  "heroTitleHtml": "온슬로 가성비 호텔 1곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>온슬로우 비치 리조트</b>(평점 8.7·리뷰 108건·1박 약 27만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>주요 역 도보 null분</b>의 <b>온슬로우 비치 리조트</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/1265408/-1/783c63197fcd08480bfe839a338f8151.jpg?va=1&ca=0&ce=1",
+  "outroTitle": "🌙 온슬로, 어디에 묵어도 후회없이",
+  "outroText": "위 1곳은 모두 온슬로 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 온슬로 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "온슬로우 비치 리조트 (Onslow Beach Resort)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/onslow-beach-resort/hotel/onslow-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 108,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 27만원",
+      "valueIndex": 5.5,
+      "img": "//pix8.agoda.net/hotelImages/1265408/-1/783c63197fcd08480bfe839a338f8151.jpg?va=1&ca=0&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 108건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 108건 기반.",
+      "reviews": [
+        {
+          "text": "A great bar/cafe on the beach with nice views and good food.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "긴 하루의 여행을 마치고 머물 수 있는 멋진 숙소",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치에 있는 훌륭한 독립형 아파트",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "방은 우리가 필요한 모든 것을 갖춘 적당한 크기입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "완비된 주방과 세탁기, 건조기가 마련되어 있습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-10-07T21:26:43.049Z",
+    "source": "agoda citySearch",
+    "count": 1
+  }
+}
