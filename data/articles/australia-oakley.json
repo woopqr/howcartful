@@ -1,0 +1,168 @@
+{
+  "slug": "australia-oakley",
+  "title": "오클리 가성비 호텔 3곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 오클리 가성비 호텔 3곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "오클리",
+  "cityId": 719588,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "오클리",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/923051412.jpg?k=57ae47d8995ae17d1d81112f1de1af077a2642fdab6a6ab7adb9f4f108f173ec&o=",
+  "heroAlt": "오클리",
+  "heroTitleHtml": "오클리 가성비 호텔 3곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>Pinjarra Caravan Park and Cabins</b>(평점 7.8·리뷰 1,252건·1박 약 11만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Pinjarra 도보 17분</b>의 <b>Pinjarra Resort</b>를 추천합니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/923051412.jpg?k=57ae47d8995ae17d1d81112f1de1af077a2642fdab6a6ab7adb9f4f108f173ec&o=",
+  "outroTitle": "🌙 오클리, 어디에 묵어도 후회없이",
+  "outroText": "위 3곳은 모두 오클리 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 오클리 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Pinjarra Caravan Park and Cabins",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pinjarra-caravan-park-and-cabins/hotel/all/mandurah-au.html?cid=1925461",
+      "walkMin": 31,
+      "score": 7.8,
+      "reviewCount": 1252,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.6,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/923051412.jpg?k=57ae47d8995ae17d1d81112f1de1af077a2642fdab6a6ab7adb9f4f108f173ec&o=",
+      "distanceNote": "약 2453.2m · Pinjarra 인근",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 1,252건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.8</b> · 실제 투숙객 리뷰 1,252건 기반.",
+      "reviews": [
+        {
+          "text": "The staff was nice to us, and the house was great.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "I love staying at Pinjarra Caravan Park.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Clean cabins though the room was a little stuffy.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Aside from that, good location to go exploring the region.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Myself & Miss 17 enjoyed our 3 night stay here.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Lazy River Boutique Bed & Breakfast",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lazy-river-boutique-bed-breakfast_2/hotel/all/mandurah-au.html?cid=1925461",
+      "walkMin": 18,
+      "score": 9.8,
+      "reviewCount": 77,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 30만원",
+      "valueIndex": 5.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/2954386.jpg?k=22a1f3892762dc066b54158bde247ab345cb42fd9c9d56f94cde497cf719512d&o=",
+      "distanceNote": "약 1435.06m · Pinjarra 인근",
+      "metaTags": [
+        "💰 약 30만원",
+        "📝 리뷰 77건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.8</b> · 실제 투숙객 리뷰 77건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "Pinjarra Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/pinjarra-resort_2/hotel/mandurah-au.html?cid=1925461",
+      "walkMin": 17,
+      "score": 7.4,
+      "reviewCount": 968,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 14만원",
+      "valueIndex": 5.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/750039834.jpg?k=9e048f1f090a3c09130ec5602f6c4e0d2f7d27d5a45570e36ba9ec69d5bf299c&o=",
+      "distanceNote": "약 1340.77m · Pinjarra 인근",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 968건",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>7.4</b> · 실제 투숙객 리뷰 968건 기반.",
+      "reviews": [
+        {
+          "text": "Quiet, clean and restaurant has great food!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Great accommodation wirh comfy bed.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Great place for a one night stay",
+          "score": "8.8",
+          "country": "New Zealand",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Had a microwave and tea/ coffee making and small fridge.",
+          "score": "7.2",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Nice place with great food option.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-10-07T02:29:56.679Z",
+    "source": "agoda citySearch",
+    "count": 3
+  }
+}

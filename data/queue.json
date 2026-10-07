@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-10-06T23:21:59.617Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 5,
-  "postedDate": "2026-10-06",
+  "lastPostedAt": "2026-10-07T02:29:50.999Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 1,
+  "postedDate": "2026-10-07",
   "queue": [
-    "australia-oyster-cove",
     "australia-oyster-cove-rating",
     "australia-oyster-cove-station",
-    "australia-oyster-cove-reviewed"
+    "australia-oyster-cove-reviewed",
+    "australia-oakley"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 409,
+    "cityIndex": 410,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -874,6 +874,7 @@
     "australia-australind-rating",
     "australia-australind-station",
     "australia-australind-star4",
-    "australia-australind-reviewed"
+    "australia-australind-reviewed",
+    "australia-oyster-cove"
   ]
 }
