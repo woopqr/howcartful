@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-10-07T09:09:24.832Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 2,
+  "lastPostedAt": "2026-10-07T16:25:33.758Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 3,
   "postedDate": "2026-10-07",
   "queue": [
-    "australia-oyster-cove-station",
     "australia-oyster-cove-reviewed",
     "australia-oakley",
-    "australia-oki"
+    "australia-oki",
+    "australia-otranto"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 411,
+    "cityIndex": 412,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -876,6 +876,7 @@
     "australia-australind-star4",
     "australia-australind-reviewed",
     "australia-oyster-cove",
-    "australia-oyster-cove-rating"
+    "australia-oyster-cove-rating",
+    "australia-oyster-cove-station"
   ]
 }
