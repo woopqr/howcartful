@@ -83,6 +83,12 @@ function renderPage(shell, o) {
   return shell
     .replace(/<title>[\s\S]*?<\/title>/, `<title>${esc(o.title)}</title>`)
     .replace(/<link rel="canonical" href="[^"]*">/, `<link rel="canonical" href="${o.canon}">`)
+    .replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${esc(o.ogDesc)}">`)
+    .replace(/<meta property="og:title" content="[^"]*">/, `<meta property="og:title" content="${esc(o.title)}">`)
+    .replace(/<meta property="og:url" content="[^"]*">/, `<meta property="og:url" content="${o.canon}">`)
+    .replace(/<meta property="og:description" content="[^"]*">/, `<meta property="og:description" content="${esc(o.ogDesc)}">`)
+    .replace(/<meta name="twitter:title" content="[^"]*">/, `<meta name="twitter:title" content="${esc(o.title)}">`)
+    .replace(/<meta name="twitter:description" content="[^"]*">/, `<meta name="twitter:description" content="${esc(o.ogDesc)}">`)
     .replace(/<!--CATHEAD_START-->[\s\S]*?<!--CATHEAD_END-->/, `<!--CATHEAD_START-->${o.cathead}<!--CATHEAD_END-->`)
     .replace(/<!--CHIPS_START-->[\s\S]*?<!--CHIPS_END-->/, `<!--CHIPS_START-->${o.chips}<!--CHIPS_END-->`)
     .replace(/<!--ARTICLES_START-->[\s\S]*?<!--ARTICLES_END-->/, `<!--ARTICLES_START-->\n      ${o.cards}\n      <!--ARTICLES_END-->`)
@@ -104,6 +110,7 @@ function renderPageSet(shell, metas, counts, opt) {
     const cathead = `<h1>${esc(opt.h1)}</h1><p>${esc(opt.desc)}</p>`;
     const html = renderPage(shell, {
       title: p === 1 ? opt.title : `${opt.title} · ${p}페이지`,
+      ogDesc: opt.desc,
       canon, cathead, chips, cards, pager: pagerHtml(p, total, urlFn),
     });
     const file = opt.fileBase(p);
@@ -150,8 +157,8 @@ function rebuildAll() {
   // 4) 홈(전체) 페이지셋
   const homePages = renderPageSet(shell, metas, counts, {
     urlBase: '/', fileBase: p => p === 1 ? path.join(ROOT, 'index.html') : path.join(ROOT, 'page', `${p}.html`),
-    title: 'howcartful — AI 리뷰분석 가성비 호텔 추천·비교',
-    h1: 'howcartful', desc: 'AI가 실제 리뷰 데이터를 분석해 가성비 호텔을 근거기반으로 비교·추천합니다.',
+    title: 'howcartful — 실제 숙박 후기로 고른 가성비 숙소',
+    h1: 'howcartful', desc: '실제 숙박 후기를 모아 평점 · 1박 요금 · 위치를 한눈에 비교합니다. 근거로 고르는 가성비 숙소 모음.',
     activeType: 'all', activeKey: '',
   });
   urls.push({ loc: SITE + '/', pri: '1.0' });

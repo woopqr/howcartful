@@ -89,6 +89,10 @@ function buildContext(data) {
     heroTitleHtml: titles.makeHeroHtml(data),
     metaDescription: titles.makeMeta(data),
     bloggerIntroHtml: voice.intro(data),
+    // OG/트위터 카드: 대표 호텔 사진이 있으면 그걸 쓰고, 없으면 사이트 기본 카드
+    canonicalUrl: `https://howcartful.com/articles/${data.slug}`,
+    ogImage: /^https:\/\//.test(String(data.heroImg || '')) ? data.heroImg : 'https://howcartful.com/og.jpg?v=1',
+    ogImageAlt: data.heroAlt || titles.makeTitle(data),
   };
 }
 
