@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-10-08T14:50:53.429Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 2,
+  "lastPostedAt": "2026-10-08T20:37:49.697Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 3,
   "postedDate": "2026-10-08",
   "queue": [
-    "australia-otranto",
     "australia-onslow",
     "australia-old-reynella",
     "australia-old-reynella-rating",
@@ -882,6 +881,7 @@
     "australia-oyster-cove-station",
     "australia-oyster-cove-reviewed",
     "australia-oakley",
-    "australia-oki"
+    "australia-oki",
+    "australia-otranto"
   ]
 }
