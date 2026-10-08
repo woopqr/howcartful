@@ -1,14 +1,16 @@
 {
-  "lastPostedAt": "2026-10-08T07:12:52.013Z",
-  "nextIntervalMin": 60,
-  "intervalCursor": 0,
-  "postedToday": 1,
+  "lastPostedAt": "2026-10-08T14:50:53.429Z",
+  "nextIntervalMin": 58,
+  "intervalCursor": 1,
+  "postedToday": 2,
   "postedDate": "2026-10-08",
   "queue": [
-    "australia-oki",
     "australia-otranto",
     "australia-onslow",
-    "australia-old-reynella"
+    "australia-old-reynella",
+    "australia-old-reynella-rating",
+    "australia-old-reynella-station",
+    "australia-old-reynella-reviewed"
   ],
   "fetchState": {
     "regionIndex": 10,
@@ -879,6 +881,7 @@
     "australia-oyster-cove-rating",
     "australia-oyster-cove-station",
     "australia-oyster-cove-reviewed",
-    "australia-oakley"
+    "australia-oakley",
+    "australia-oki"
   ]
 }

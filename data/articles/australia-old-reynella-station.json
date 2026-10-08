@@ -1,0 +1,320 @@
+{
+  "slug": "australia-old-reynella-station",
+  "angle": "station",
+  "angleAdj": "역세권",
+  "lang": "ko-kr",
+  "citySlug": "",
+  "cityName": "올드 레이넬라",
+  "cityId": 701597,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "올드 레이넬라",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/914649403.jpg?k=507cf3323838cd6754c13a6b87c6800cd3c4821596307f7df9d153cecea0a5a7&o=",
+  "heroAlt": "올드 레이넬라",
+  "heroSub": "실제 아고다 리뷰로 올드 레이넬라의 역세권 숙소를 추렸습니다",
+  "verdictHtml": "역세권 기준 1순위는 <b>Mantra Tonsley Adelaide</b>입니다 (평점 8.8·리뷰 1,691건·1박 약 25만원). 같은 도시라도 관점을 바꾸면 최적의 숙소가 달라집니다.",
+  "outroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/914649403.jpg?k=507cf3323838cd6754c13a6b87c6800cd3c4821596307f7df9d153cecea0a5a7&o=",
+  "outroTitle": "🌙 올드 레이넬라, 역세권으로 골라봤어요",
+  "outroText": "날짜가 정해졌다면 아고다에서 올드 레이넬라 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Mantra Tonsley Adelaide",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/la-loft-hotel-tonsley/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 7,
+      "score": 8.8,
+      "reviewCount": 1691,
+      "priceBand": 4,
+      "priceText": "₩₩₩ · 약 25만원",
+      "valueIndex": 5.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/914649403.jpg?k=507cf3323838cd6754c13a6b87c6800cd3c4821596307f7df9d153cecea0a5a7&o=",
+      "distanceNote": "약 599.14m · 클로벨리 파크역 인근",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 1,691건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,691건 기반.",
+      "reviews": [
+        {
+          "text": "This hotel is great, wonderful clean rooms and great staff.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "Centrally located anything you want is a stroll away",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "It was exactly what I needed for a short stay in Adelaide.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "We highly recommend this hotel to anyone going to Adelaide.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "The rooms were lovely, modern, very spacious and clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "Modern Share house, private bedroom with double size bed, 7min to beach",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/brand-new-house-1double-size-private-bedroom-7min-to-beach/hotel/all/adelaide-au.html?cid=1925461",
+      "walkMin": 8,
+      "score": 8.7,
+      "reviewCount": 44,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 8.2,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/490185864.jpg?k=52aed7048f2434a4396fc78de367363df881cb377c460a7eebec05900e7899ed&o=",
+      "distanceNote": "약 608.87m · 오크랜즈역 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 44건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 44건 기반.",
+      "reviews": [
+        {
+          "text": "Had a very enjoyable stay",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Host was really nice and helpful.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.07",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "에스플란드 호텔 (Esplanade Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/esplanade-hotel/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 8,
+      "score": 8.1,
+      "reviewCount": 144,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 5.9,
+      "img": "//pix8.agoda.net/hotelImages/517813/-1/0c290ac048c05989c9359019c0039118.jpg?ca=0&ce=1",
+      "distanceNote": "약 601.67m · 브라이튼역 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 144건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.1</b> · 실제 투숙객 리뷰 144건 기반.",
+      "reviews": [
+        {
+          "text": "Right next to Brighton beach and Brighton jetty",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Very clean and great value in an incredible location...",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The hotel is in great location and the price is very cheap.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "If you like staying on the beach I fully recommend it",
+          "score": "8.8",
+          "country": "New Zealand",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Esplanade Hotel is superb value for money.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Marion Hotel",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/marion-hotel_2/hotel/all/adelaide-au.html?cid=1925461",
+      "walkMin": 9,
+      "score": 9.1,
+      "reviewCount": 2853,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/505897546.jpg?k=0a8e35609ed4f65c43e354b6084f59d990bdab2a4142d823f26a685c46a102b6&o=",
+      "distanceNote": "약 728.96m · 마리온역 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 2,853건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 2,853건 기반.",
+      "reviews": [
+        {
+          "text": "I enjoyed my stay at the Marion hotel and would recommend it",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Friendly staff, great room service and restaurant.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Food was amazing and the staff were so helpful and friendly.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "The room was by far one of the best rooms I've stayed in!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Love the clean, big rooms, great food and free parking",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "south Brighon 4 mins to beach near cafe shops",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/south-brighon-4-mins-to-beach-near-cafe-shops/hotel/all/adelaide-au.html?cid=1925461",
+      "walkMin": 14,
+      "score": 6.5,
+      "reviewCount": 43,
+      "priceBand": 1,
+      "priceText": "₩ · 약 8만원",
+      "valueIndex": 6.9,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/922575771.jpg?k=58bc2667b620f6d5856ba6d55750e6db666d8374306ce5b1fd48109a3e7de160&o=",
+      "distanceNote": "약 1135.12m · 씨클리프역 인근",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 43건",
+        "⭐ 2.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>6.5</b> · 실제 투숙객 리뷰 43건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "Christies Beach Tourist Park",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/christies-beach-tourist-park/hotel/all/adelaide-au.html?cid=1925461",
+      "walkMin": 25,
+      "score": 8.9,
+      "reviewCount": 291,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.4,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/872604933.jpg?k=69c88a7d3e1381feca27d9d5fd7a9350e0ee126f8049b9e880443f95b613fd2e&o=",
+      "distanceNote": "약 1999.58m · Noarlunga train station 인근",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 291건",
+        "⭐ 3성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.9</b> · 실제 투숙객 리뷰 291건 기반.",
+      "reviews": [
+        {
+          "text": "Thanks for the stay",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "포트 놀룽가 모텔 (Port Noarlunga Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/port-noarlunga-motel/hotel/adelaide-au.html?cid=1925461",
+      "walkMin": 26,
+      "score": 9.1,
+      "reviewCount": 49,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.2,
+      "img": "//pix8.agoda.net/hotelImages/810252/0/7f6ef8ceb963425faac31bd6d1513ece.jpeg?ce=0",
+      "distanceNote": "약 2117.19m · Noarlunga train station 인근",
+      "metaTags": [
+        "📝 리뷰 49건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.1</b> · 실제 투숙객 리뷰 49건 기반.",
+      "reviews": [],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "source": "angle-derived",
+    "angle": "station",
+    "base": "australia-old-reynella",
+    "count": 7,
+    "builtAt": "2026-10-08T14:50:53.398Z"
+  }
+}
