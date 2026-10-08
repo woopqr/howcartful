@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "include": [
+    "/data", "/data/*",
+    "/lib", "/lib/*",
+    "/scripts", "/scripts/*",
+    "/templates", "/templates/*",
+    "/functions", "/functions/*",
+    "/.github/*", "/.git/*", "/_backup/*", "/node_modules/*",
+    "/.gitignore", "/.env", "/.env.*", "/.DS_Store",
+    "/_routes.json", "/package.json",
+    "/publish.js", "/build.js", "/build-all.js", "/auto-fetch.js", "/fetch-hotels.js", "/gen-angles.js",
+    "/STATUS.md", "/README.md", "/DEVELOP-PLAN.md", "/MIGRATION-PLAN.md"
+  ],
+  "exclude": []
+}
