@@ -1,0 +1,419 @@
+{
+  "slug": "australia-olinda",
+  "title": "올린다 가성비 호텔 7곳 비교 — 실제 리뷰·역세권 기준",
+  "metaDescription": "AI가 실제 아고다 리뷰 데이터를 분석해 올린다 가성비 호텔 7곳을 거리·평점·가격·가성비지수로 비교했습니다.",
+  "lang": "ko-kr",
+  "citySlug": "yarra-valley-au",
+  "cityName": "올린다",
+  "cityId": 143232,
+  "refName": "각 호텔 최단 역",
+  "refShort": "최단 역",
+  "areaName": "올린다",
+  "heroImg": "https://pix8.agoda.net/hotelImages/518499/-1/aa1b845f1059af60ec4868cc45fe3f67.jpg?ca=13&ce=1",
+  "heroAlt": "올린다",
+  "heroTitleHtml": "올린다 가성비 호텔 7곳<br>실제 리뷰·역세권 비교",
+  "heroSub": "실제 아고다 리뷰 데이터를 분석해 거리·평점·가격·가성비를 한눈에",
+  "verdictHtml": "가성비 1위는 <b>나이트캡 앳 요크 온 릴리데일</b>(평점 8.7·리뷰 1,351건·1박 약 11만원)로 가격 대비 만족도가 가장 높습니다. 역 접근성을 우선한다면 <b>Ferntree Gully 도보 10분</b>의 <b>라이프스타일 아파트먼트 앳 펀트리</b>를 추천합니다.",
+  "outroImg": "https://pix8.agoda.net/hotelImages/518499/-1/aa1b845f1059af60ec4868cc45fe3f67.jpg?ca=13&ce=1",
+  "outroTitle": "🌙 올린다, 어디에 묵어도 후회없이",
+  "outroText": "위 7곳은 모두 올린다 역세권의 검증된 가성비 숙소입니다. 날짜가 정해졌다면 아고다에서 올린다 전체 숙소를 한 번에 비교해보세요.",
+  "seasons": [],
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "나이트캡 앳 요크 온 릴리데일 (Nightcap at York on Lilydale)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nightcap-at-york-on-lilydale/hotel/yarra-valley-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8.7,
+      "reviewCount": 1351,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 7.4,
+      "img": "//pix8.agoda.net/hotelImages/518499/-1/aa1b845f1059af60ec4868cc45fe3f67.jpg?ca=13&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 1,351건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 1,351건 기반.",
+      "reviews": [
+        {
+          "text": "Value for money, clean and tidy rooms and fantastic service!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Rooms are spotless and clean with ample amount of space.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Room was clean and well equipped with everything needed.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Big room, big bed, clean and the environment is good n relax",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The rooms are very clean and the service friendly.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 2,
+      "name": "나이트캡 앳 펀트리 걸리 호텔 모텔 (Nightcap at Ferntree Gully Hotel Motel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/nightcap-at-ferntree-gully-hotel-motel/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 11,
+      "score": 8.8,
+      "reviewCount": 1548,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 12만원",
+      "valueIndex": 7.4,
+      "img": "//pix8.agoda.net/hotelImages/519540/0/16dc38b6566a88780408dd47366c70a0.jpeg?ce=3",
+      "distanceNote": "약 873.13m · Ferntree Gully 인근",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,548건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.8</b> · 실제 투숙객 리뷰 1,548건 기반.",
+      "reviews": [
+        {
+          "text": "The manager was very helpful and friendly too.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Super comfy bed & pillows, would definitely stay again",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Very clean and comfortable with a lovely big walk-in shower.",
+          "score": "8",
+          "country": "United Kingdom",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The place is clean, comfortable and has a modern bathroom.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Gorgeous new bathrooms with nice water pressure.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 3,
+      "name": "도싯 가든스 호텔 (Dorset Gardens Hotel)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/dorset-gardens-hotel_2/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 14,
+      "score": 8.7,
+      "reviewCount": 80,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 13만원",
+      "valueIndex": 7.1,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/286877208.jpg?k=99b668109547594edd140b06ea99c57cb032f8c6da5e71432038eb8471948d89&o=",
+      "distanceNote": "약 1158.17m · Croydon 인근",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 80건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8.7</b> · 실제 투숙객 리뷰 80건 기반.",
+      "reviews": [
+        {
+          "text": "Despite showing it age, the room was very clean and fresh.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Room was clean, great quality linen and fresh bathroom.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The room was clean and rhe service was excellent",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The room was tidy and the shower was so hot it was great.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Clean and neat room with coffee facilities and toaster.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 4,
+      "name": "Panorama Retreat Resort",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/country-place-retreat/hotel/mount-dandenong-ranges-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 8,
+      "reviewCount": 909,
+      "priceBand": 2,
+      "priceText": "₩₩ · 약 11만원",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/570007/-1/88deb5123ee2ca6bdda3e71c6773f3e2.jpg?ce=0",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 909건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>8</b> · 실제 투숙객 리뷰 909건 기반.",
+      "reviews": [
+        {
+          "text": "The staff were very professional and friendly.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Comfortable stay, super clean, great location, lovely staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Excellent stay surrounded by beautiful bush land.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Such a beautiful place with friendly and helpful staff",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "The bed was very comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 5,
+      "name": "클라렌돈 코티지 (Clarendon Cottages)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/clarendon-cottages/hotel/mount-dandenong-ranges-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.4,
+      "reviewCount": 233,
+      "priceBand": 3,
+      "priceText": "₩₩ · 가격 변동",
+      "valueIndex": 6.8,
+      "img": "//pix8.agoda.net/hotelImages/281559/-1/926da306274347b369fb60fe3d9f3352.jpg?ca=9&ce=1",
+      "distanceNote": "",
+      "metaTags": [
+        "📝 리뷰 233건",
+        "⭐ 4.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.4</b> · 실제 투숙객 리뷰 233건 기반.",
+      "reviews": [
+        {
+          "text": "Good Location, nice breakfast basket.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Cute little cottage",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 6,
+      "name": "A Loft In The Mill Boutique Accommodation",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/a-loft-in-the-mill-boutique-accommodation/hotel/all/mount-dandenong-ranges-au.html?cid=1925461",
+      "walkMin": null,
+      "score": 9.2,
+      "reviewCount": 464,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 19만원",
+      "valueIndex": 6.7,
+      "img": "//q-xx.bstatic.com/xdata/images/hotel/max500/495463356.jpg?k=41f68259ccce160819cfb4412ff2c744c377c0a9b9aba29d3bc63430cf26d2bb&o=",
+      "distanceNote": "",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 464건",
+        "⭐ 4성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 464건 기반.",
+      "reviews": [
+        {
+          "text": "We love this place and are already planning our next stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "I can’t wait to stay here again next time I’m in Melbourne!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "We would stay here again and recommend it to our friends.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Great location allowing you to walk everywhere",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The Victorian Suite suited our family of 3 very nicely.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    },
+    {
+      "rank": 7,
+      "name": "라이프스타일 아파트먼트 앳 펀트리 (Lifestyle Apartments at Ferntree)",
+      "hotelSlug": "",
+      "agodaUrl": "https://www.agoda.com/lifestyle-apartments-at-ferntree/hotel/melbourne-au.html?cid=1925461",
+      "walkMin": 10,
+      "score": 9.2,
+      "reviewCount": 735,
+      "priceBand": 3,
+      "priceText": "₩₩ · 약 16만원",
+      "valueIndex": 6.7,
+      "img": "//pix8.agoda.net/hotelImages/392760/0/065f1f3131a9c698cfd56c1fc8326ea7.jpg?ce=2",
+      "distanceNote": "약 790.13m · Ferntree Gully 인근",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 735건",
+        "⭐ 3.5성급",
+        "📶 무료 Wi-Fi"
+      ],
+      "reviewKeywordsHtml": "평점 <b>9.2</b> · 실제 투숙객 리뷰 735건 기반.",
+      "reviews": [
+        {
+          "text": "Overall a very comfortable stay and value for money!",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "The room was very clean and beds were comfortable",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Room is superbly clean comfortable and cozy.",
+          "score": "8.4",
+          "country": "Indonesia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "We love the place and will definitely come back.",
+          "score": "8.8",
+          "country": "Indonesia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Location is good, restaurants and supermarket are nearby.",
+          "score": "8",
+          "country": "台灣",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "ctaText": "🏨 최저가·예약창 가격 확인"
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-10-09T15:12:49.886Z",
+    "source": "agoda citySearch",
+    "count": 7
+  }
+}
