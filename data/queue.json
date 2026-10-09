@@ -1,18 +1,18 @@
 {
-  "lastPostedAt": "2026-10-09T01:07:41.630Z",
-  "nextIntervalMin": 59,
-  "intervalCursor": 3,
-  "postedToday": 1,
+  "lastPostedAt": "2026-10-09T07:55:47.736Z",
+  "nextIntervalMin": 60,
+  "intervalCursor": 0,
+  "postedToday": 2,
   "postedDate": "2026-10-09",
   "queue": [
-    "australia-old-reynella",
     "australia-old-reynella-rating",
     "australia-old-reynella-station",
-    "australia-old-reynella-reviewed"
+    "australia-old-reynella-reviewed",
+    "australia-old-bar"
   ],
   "fetchState": {
     "regionIndex": 10,
-    "cityIndex": 414,
+    "cityIndex": 415,
     "regionFails": 0,
     "skippedIds": [
       513016,
@@ -882,6 +882,7 @@
     "australia-oakley",
     "australia-oki",
     "australia-otranto",
-    "australia-onslow"
+    "australia-onslow",
+    "australia-old-reynella"
   ]
 }
