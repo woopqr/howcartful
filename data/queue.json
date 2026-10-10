@@ -1,11 +1,10 @@
 {
-  "lastPostedAt": "2026-10-10T12:57:42.199Z",
-  "nextIntervalMin": 58,
-  "intervalCursor": 1,
-  "postedToday": 3,
+  "lastPostedAt": "2026-10-10T17:46:54.153Z",
+  "nextIntervalMin": 62,
+  "intervalCursor": 2,
+  "postedToday": 4,
   "postedDate": "2026-10-10",
   "queue": [
-    "australia-olinda-rating",
     "australia-olinda-station",
     "australia-olinda-premium",
     "australia-olinda-star4",
@@ -889,6 +888,7 @@
     "australia-old-reynella-station",
     "australia-old-reynella-reviewed",
     "australia-old-bar",
-    "australia-olinda"
+    "australia-olinda",
+    "australia-olinda-rating"
   ]
 }
